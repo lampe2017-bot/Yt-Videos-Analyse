@@ -1,0 +1,655 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>YouTube Cockpit · Lokal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  :root {
+    --bg: #0a0a0c;
+    --bg-2: #131318;
+    --bg-3: #1c1c24;
+    --border: #2a2a36;
+    --text: #f1f1f4;
+    --muted: #9b9bab;
+    --hook: #ffd166;
+  }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+  body { min-height: 100vh; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 32px 24px 80px; }
+  header.cockpit { display: flex; flex-direction: column; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid var(--border); margin-bottom: 32px; }
+  header.cockpit h1 { margin: 0; font-size: 28px; font-weight: 800; letter-spacing: -0.02em; }
+  header.cockpit h1 .accent { background: linear-gradient(90deg, #ff5b5b, #a855f7, #0ea5e9, #f59e0b, #10b981); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .stat-row { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; color: var(--muted); }
+  .chip { display: inline-flex; gap: 6px; align-items: center; padding: 5px 10px; background: var(--bg-2); border: 1px solid var(--border); border-radius: 999px; font-size: 12px; color: var(--text); }
+  .chip b { color: var(--accent, var(--text)); font-weight: 700; }
+  .chip span:first-child { color: var(--accent); }
+  .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+  @media (max-width: 880px) { .grid { grid-template-columns: 1fr; } }
+  .tile { background: var(--bg-2); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease; display: flex; flex-direction: column; }
+  .tile:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 12px 36px -16px var(--accent); }
+  .cover-wrap { all: unset; cursor: pointer; display: block; aspect-ratio: 16/9; background: #000; position: relative; }
+  .cover-svg { width: 100%; height: 100%; display: block; }
+  .cover-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
+  .tile-body { padding: 18px 20px 22px; display: flex; flex-direction: column; gap: 10px; }
+  .tile-title { margin: 0; font-size: 18px; font-weight: 700; line-height: 1.32; letter-spacing: -0.01em; }
+  .tile-meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; color: var(--muted); }
+  .meta-sep { opacity: 0.5; }
+  .meta-channel { font-weight: 600; }
+  .meta-link { margin-left: auto; color: var(--muted); text-decoration: none; }
+  .meta-link:hover { color: var(--accent); }
+  .tile-hook { margin: 4px 0 2px; padding: 10px 12px; background: rgba(255, 209, 102, 0.08); border-left: 3px solid var(--hook); border-radius: 4px; font-size: 14px; font-weight: 500; color: var(--hook); line-height: 1.4; }
+  .tile-bullets { margin: 4px 0 0; padding: 0 0 0 20px; color: var(--muted); font-size: 13.5px; line-height: 1.5; display: flex; flex-direction: column; gap: 4px; }
+  .tile-bullets li::marker { color: var(--accent); }
+  details.history { margin-top: 48px; padding: 16px 20px; background: var(--bg-2); border: 1px solid var(--border); border-radius: 12px; }
+  details.history summary { cursor: pointer; font-weight: 600; font-size: 14px; color: var(--text); }
+  details.history ul { margin: 12px 0 0; padding: 0 0 0 20px; color: var(--muted); font-size: 13px; line-height: 1.6; }
+  details.history time { color: var(--text); font-variant-numeric: tabular-nums; margin-right: 6px; }
+  footer { margin-top: 48px; font-size: 12px; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="cockpit">
+    <h1><span class="accent">YouTube Cockpit</span> · 5 Kanäle</h1>
+    <div class="stat-row">
+      <span class="chip" style="--accent:#dc2626">●&nbsp;Everlast AI <b>3</b></span><span class="chip" style="--accent:#a855f7">●&nbsp;Leonard Schmedding <b>3</b></span><span class="chip" style="--accent:#0ea5e9">●&nbsp;Dan Martell <b>3</b></span><span class="chip" style="--accent:#f59e0b">●&nbsp;Sebiforce <b>3</b></span><span class="chip" style="--accent:#10b981">●&nbsp;Niklas Steenfatt <b>3</b></span>
+      <span style="margin-left:auto">15 Videos · letzter Refresh: <b style="color:var(--text)">2026-04-30 18:34</b></span>
+    </div>
+  </header>
+  <main class="grid">
+    
+<article class="tile" data-channel="danmartell" style="--accent:#0ea5e9">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: AI tool tier list (2026)">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g294478" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g294478)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">AI tool tier list (2026)</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#0ea5e9" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Dan Martell</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">0:51</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">AI tool tier list (2026)</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#0ea5e9">●&nbsp;Dan Martell</span>
+      <span class="meta-sep">·</span>
+      <span>vor 3 Std</span>
+      <span class="meta-sep">·</span><span>0:51</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=llJyopBwC00" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">AI tool tier list (2026)</p>
+    <ul class="tile-bullets"><li>Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/llJyopBwC00?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="everlastai" style="--accent:#dc2626">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI &amp; Zukunft">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g727648" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g727648)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#dc2626" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Everlast AI</text></g>
+<g transform="translate(548 318)"><rect rx="4" ry="4" width="72" height="22" fill="rgba(0,0,0,0.7)"/><text x="36" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">2:26:11</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI &amp; Zukunft</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#dc2626">●&nbsp;Everlast AI</span>
+      <span class="meta-sep">·</span>
+      <span>vor 3 Std</span>
+      <span class="meta-sep">·</span><span>2:26:11</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=6G0eOcx8gBI" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Experten diskutieren Zukunft ohne Arbeit durch AGI.</p>
+    <ul class="tile-bullets"><li>80% der Jobs könnten durch KI ersetzt werden.</li><li>Hyperdeflation und Grundeinkommen sind zukünftige Herausforderungen.</li><li>Zukunftsstrategien für eine post-laboräre Wirtschaft erarbeitet.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/6G0eOcx8gBI?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="danmartell" style="--accent:#0ea5e9">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: ADHD should be the reason you win">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g406336" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g406336)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">ADHD should be the reason you win</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#0ea5e9" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Dan Martell</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">0:42</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">ADHD should be the reason you win</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#0ea5e9">●&nbsp;Dan Martell</span>
+      <span class="meta-sep">·</span>
+      <span>vor 3 Std</span>
+      <span class="meta-sep">·</span><span>0:42</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=z_arCuk8wHY" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">ADHD should be the reason you win</p>
+    <ul class="tile-bullets"><li>Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/z_arCuk8wHY?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="danmartell" style="--accent:#0ea5e9">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: If you&#x27;re in your 20s, watch this...">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g40376" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g40376)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">If you&#x27;re in your 20s, watch this...</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#0ea5e9" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Dan Martell</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">0:31</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">If you&#x27;re in your 20s, watch this...</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#0ea5e9">●&nbsp;Dan Martell</span>
+      <span class="meta-sep">·</span>
+      <span>vor 3 Std</span>
+      <span class="meta-sep">·</span><span>0:31</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=70nPFR1ZDLE" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Kein Auto-Transkript verfügbar.</p>
+    <ul class="tile-bullets"><li>—</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/70nPFR1ZDLE?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="sebiforce" style="--accent:#f59e0b">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: So funktioniert das wirklich">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g832055" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g832055)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">So funktioniert das wirklich</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="79" height="22" fill="rgba(0,0,0,0.55)" stroke="#f59e0b" stroke-width="1"/><text x="39" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Sebiforce</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">17:26</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">So funktioniert das wirklich</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#f59e0b">●&nbsp;Sebiforce</span>
+      <span class="meta-sep">·</span>
+      <span>vor 1 Tag</span>
+      <span class="meta-sep">·</span><span>17:26</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=fqN7364FAGQ" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Entdecke die Wirklichkeit hinter Online-Geldverdienst.</p>
+    <ul class="tile-bullets"><li>Online-Geldverdienst erfordert echte Arbeit und Fähigkeiten.</li><li>Verstehe die Realität von Angeboten wie ChatGPT-EBooks.</li><li>Bau ein solides Fundament für deinen Online-Business.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/fqN7364FAGQ?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="everlastai" style="--accent:#dc2626">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Dr. Anne Greul: Claude, KI im Unternehmen, Compliance, Halluzinationen &amp; die Zukunft von Software">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g499280" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g499280)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Dr. Anne Greul: Claude, KI im Unternehmen, Compliance, Halluzination…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#dc2626" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Everlast AI</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">38:56</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Dr. Anne Greul: Claude, KI im Unternehmen, Compliance, Halluzinationen &amp; die Zukunft von Software</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#dc2626">●&nbsp;Everlast AI</span>
+      <span class="meta-sep">·</span>
+      <span>vor 1 Tag</span>
+      <span class="meta-sep">·</span><span>38:56</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=1r4xoezskZ4" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Dr. Anne Greul erklärt KI-Compliance und Zukunft von Software.</p>
+    <ul class="tile-bullets"><li>KI im Unternehmen bringt Wettbewerbsvorteile durch Umsatzsteigerung</li><li>Claude Plugins beeinflussen StartUps in negativer Weise</li><li>Zukünftige Software wird durch KI erheblich geprägt</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/1r4xoezskZ4?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="everlastai" style="--accent:#dc2626">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (Alle Beispiele &amp; Use Cases)">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g206894" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g206894)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="93" height="22" fill="rgba(0,0,0,0.55)" stroke="#dc2626" stroke-width="1"/><text x="46" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Everlast AI</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">33:48</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (Alle Beispiele &amp; Use Cases)</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#dc2626">●&nbsp;Everlast AI</span>
+      <span class="meta-sep">·</span>
+      <span>vor 2 Tagen</span>
+      <span class="meta-sep">·</span><span>33:48</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=9XY2xaA6syI" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">GPT-5.5 und Codex: Funktionen und Use Cases geprüft.</p>
+    <ul class="tile-bullets"><li>Codex und GPT-5.5 bieten erweiterte Programmierfunktionen</li><li>Vergleich mit Claude Code für bessere Einschätzung</li><li>Workshop zur agilen KI-Integration anbieten</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/9XY2xaA6syI?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="niklassteenfatt" style="--accent:#10b981">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: OpenClaw für Dummies">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g128186" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g128186)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">OpenClaw für Dummies</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="128" height="22" fill="rgba(0,0,0,0.55)" stroke="#10b981" stroke-width="1"/><text x="64" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Niklas Steenfatt</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">18:09</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">OpenClaw für Dummies</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#10b981">●&nbsp;Niklas Steenfatt</span>
+      <span class="meta-sep">·</span>
+      <span>vor 4 Tagen</span>
+      <span class="meta-sep">·</span><span>18:09</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=3FreGdxznSs" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Einfache Anleitung für die OpenClaw-Installation.</p>
+    <ul class="tile-bullets"><li>OpenClaw mit Klick installieren und 10% Rabatt nutzen.</li><li>API-Schlüssel von Anthropic einrichten, um OpenClaw zu aktivieren.</li><li>Weitere Produktivitätstools und Quiz zur Lebensbalance im Video.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/3FreGdxznSs?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="sebiforce" style="--accent:#f59e0b">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Ganz normale Menschen werden gerade reich mit KI. Nutze diese einmalige Chance.">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g721024" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g721024)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Ganz normale Menschen werden gerade reich mit KI. Nutze diese einmal…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="79" height="22" fill="rgba(0,0,0,0.55)" stroke="#f59e0b" stroke-width="1"/><text x="39" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Sebiforce</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">14:24</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Ganz normale Menschen werden gerade reich mit KI. Nutze diese einmalige Chance.</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#f59e0b">●&nbsp;Sebiforce</span>
+      <span class="meta-sep">·</span>
+      <span>vor 4 Tagen</span>
+      <span class="meta-sep">·</span><span>14:24</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=w_6Je6H8pDg" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">KI bietet Chancen, um mit geringem Aufwand viel Geld zu verdienen.</p>
+    <ul class="tile-bullets"><li>Verdienstmodelle mit KI sind das neue Gold</li><li>Erhöhe dein Einkommen durch digitale Produkte und KI</li><li>Arbeite effizient mit nur 12-15 Stunden pro Woche</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/w_6Je6H8pDg?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="LeonardSchmedding" style="--accent:#a855f7">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Karriere bei Everlast Consulting: So sieht ein Team-Event im Vertrieb aus (VLOG)">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g183352" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g183352)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Karriere bei Everlast Consulting: So sieht ein Team-Event im Vertrie…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="142" height="22" fill="rgba(0,0,0,0.55)" stroke="#a855f7" stroke-width="1"/><text x="71" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Leonard Schmedding</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">29:38</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Karriere bei Everlast Consulting: So sieht ein Team-Event im Vertrieb aus (VLOG)</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#a855f7">●&nbsp;Leonard Schmedding</span>
+      <span class="meta-sep">·</span>
+      <span>vor 5 Tagen</span>
+      <span class="meta-sep">·</span><span>29:38</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=sRgwwAzdseA" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Einblicke in das Vertriebsteam-Event bei Everlast Consulting.</p>
+    <ul class="tile-bullets"><li>Everlast Consulting bietet Einblicke in ihre KI-Beratungsarbeit.</li><li>Das Video zeigt ein realistisches Team-Event im Vertrieb.</li><li>Mehr Informationen zu offenen Stellen auf everlastkarriere.de.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/sRgwwAzdseA?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="sebiforce" style="--accent:#f59e0b">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Dumme Content-Strategie die mir Millionen eingebracht hat">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g993215" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g993215)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Dumme Content-Strategie die mir Millionen eingebracht hat</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="79" height="22" fill="rgba(0,0,0,0.55)" stroke="#f59e0b" stroke-width="1"/><text x="39" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Sebiforce</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">13:47</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Dumme Content-Strategie die mir Millionen eingebracht hat</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#f59e0b">●&nbsp;Sebiforce</span>
+      <span class="meta-sep">·</span>
+      <span>vor 1 Woche</span>
+      <span class="meta-sep">·</span><span>13:47</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=8qE8USZHg1o" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Millionen mit einfacher Instagram-Strategie verdienen</p>
+    <ul class="tile-bullets"><li>Dumme Content-Ideen können viel Geld bringen</li><li>Konsistenz und Kreativität sind Schlüssel zum Erfolg</li><li>Instagram als Plattform für Unternehmer-Innovation</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/8qE8USZHg1o?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="niklassteenfatt" style="--accent:#10b981">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: EINE NEUE ÄRA">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g455454" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g455454)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">EINE NEUE ÄRA</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="128" height="22" fill="rgba(0,0,0,0.55)" stroke="#10b981" stroke-width="1"/><text x="64" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Niklas Steenfatt</text></g>
+<g transform="translate(564 318)"><rect rx="4" ry="4" width="56" height="22" fill="rgba(0,0,0,0.7)"/><text x="28" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">13:19</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">EINE NEUE ÄRA</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#10b981">●&nbsp;Niklas Steenfatt</span>
+      <span class="meta-sep">·</span>
+      <span>vor 1 Woche</span>
+      <span class="meta-sep">·</span><span>13:19</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=Ps9PtVpIAx8" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Niklas präsentiert seine neue Produktivitäts-Software Hermes.</p>
+    <ul class="tile-bullets"><li>Hermes ist eine neue, selbstlernende Produktivitätshilfe für Niklas&#x27; Workflow.</li><li>Die Installation erfolgt einfach und schnell mit einem Klick.</li><li>Hermes integriert Excalidraw für visuelle Planungsprojekte.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/Ps9PtVpIAx8?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="LeonardSchmedding" style="--accent:#a855f7">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Ich war in San Francisco: Warum du nur noch 3 Jahre hast, um reich zu werden">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g786537" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g786537)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Ich war in San Francisco: Warum du nur noch 3 Jahre hast, um reich z…</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="142" height="22" fill="rgba(0,0,0,0.55)" stroke="#a855f7" stroke-width="1"/><text x="71" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Leonard Schmedding</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">8:26</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Ich war in San Francisco: Warum du nur noch 3 Jahre hast, um reich zu werden</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#a855f7">●&nbsp;Leonard Schmedding</span>
+      <span class="meta-sep">·</span>
+      <span>vor 1 Woche</span>
+      <span class="meta-sep">·</span><span>8:26</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=Vl0nGp9mnas" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">KI-Revolution: Dein Einsteigertipp für den Wohlstand in drei Jahren.</p>
+    <ul class="tile-bullets"><li>99% der Menschen übersehen die KI-Chancen, gehörst du zu den 1%?</li><li>Nutze kostenlose Workshops und Communitys zur KI-Entwicklung.</li><li>Baue deine eigene KI-Agentur auf für den Wohlstand.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/Vl0nGp9mnas?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="niklassteenfatt" style="--accent:#10b981">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Paperclip ist NEXT LEVEL!!">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g814559" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g814559)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Paperclip ist NEXT LEVEL!!</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="128" height="22" fill="rgba(0,0,0,0.55)" stroke="#10b981" stroke-width="1"/><text x="64" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Niklas Steenfatt</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">9:50</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Paperclip ist NEXT LEVEL!!</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#10b981">●&nbsp;Niklas Steenfatt</span>
+      <span class="meta-sep">·</span>
+      <span>vor 2 Wochen</span>
+      <span class="meta-sep">·</span><span>9:50</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=Vzaccv7-qNw" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Paperclip revolutioniert die Produktivität.</p>
+    <ul class="tile-bullets"><li>Einfache Installation und sofortige Nutzung von Paperclip.</li><li>Erste Schritte erklärt, wie man effektiver arbeitet.</li><li>OpenClaw für zusätzliche Unterstützung einsetzen.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/Vzaccv7-qNw?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+<article class="tile" data-channel="LeonardSchmedding" style="--accent:#a855f7">
+  <button class="cover-wrap" type="button" aria-label="Video abspielen: Geld verdienen mit KI: So wirst du zu Ein-Mann-Armee!">
+    <svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="cover-svg">
+  <defs>
+    <linearGradient id="g823870" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.92"/>
+      <stop offset="65%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g823870)"/>
+  <foreignObject x="32" y="92" width="576" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,system-ui,-apple-system,sans-serif;font-size:30px;font-weight:700;color:white;line-height:1.2;text-shadow:0 2px 14px rgba(0,0,0,0.7);">Geld verdienen mit KI: So wirst du zu Ein-Mann-Armee!</div>
+  </foreignObject>
+  <g transform="translate(320 230)">
+    <circle r="42" fill="rgba(0,0,0,0.55)" stroke="white" stroke-width="3"/>
+    <polygon points="-14,-19 -14,19 21,0" fill="white"/>
+  </g>
+  <g transform="translate(20 20)"><rect rx="4" ry="4" width="142" height="22" fill="rgba(0,0,0,0.55)" stroke="#a855f7" stroke-width="1"/><text x="71" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">Leonard Schmedding</text></g>
+<g transform="translate(572 318)"><rect rx="4" ry="4" width="48" height="22" fill="rgba(0,0,0,0.7)"/><text x="24" y="15" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="white">7:33</text></g>
+</svg>
+  </button>
+  <div class="tile-body">
+    <h2 class="tile-title">Geld verdienen mit KI: So wirst du zu Ein-Mann-Armee!</h2>
+    <div class="tile-meta">
+      <span class="meta-channel" style="color:#a855f7">●&nbsp;Leonard Schmedding</span>
+      <span class="meta-sep">·</span>
+      <span>vor 2 Wochen</span>
+      <span class="meta-sep">·</span><span>7:33</span>
+      <a class="meta-link" href="https://www.youtube.com/watch?v=Rbk5ep-Np9M" target="_blank" rel="noopener">YouTube ↗</a>
+    </div>
+    <p class="tile-hook">Erstelle ein profitables Ein-Mann-Unternehmen mit KI.</p>
+    <ul class="tile-bullets"><li>Nutze KI, um ohne Mitarbeiter zu verdienen.</li><li>Baue ein Unternehmen auf, das fünfstellige Monatsumsätze erzielt.</li><li>Greife die Chance der KI-Revolution sofort an.</li></ul>
+  </div>
+  <template class="embed-template">
+    <iframe src="https://www.youtube-nocookie.com/embed/Rbk5ep-Np9M?rel=0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </template>
+</article>
+  </main>
+  <details class="history">
+    <summary>Versionshistorie · letzte Läufe</summary>
+    <ul><li><time>2026-04-30 18:02</time> <span>15 neue Videos</span> — Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI &amp; Zukunft, Dr. Anne Greul: Claude, KI im Unternehmen, Compliance, Halluzinationen &amp; die Zukunft von Software, Krass: Das kann GPT-5.5 mit Codex! OpenAIs neue Super-App GETESTET (Alle Beispiele &amp; Use Cases)…</li></ul>
+  </details>
+  <footer>Lokal generiert via cockpit.py · Ollama-Modell: qwen2.5:14b</footer>
+</div>
+<script>
+  document.querySelectorAll('.cover-wrap').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tile = btn.closest('.tile');
+      const tpl = tile.querySelector('.embed-template');
+      if (!tpl) return;
+      const iframe = tpl.content.firstElementChild.cloneNode(true);
+      btn.replaceWith(iframe);
+    });
+  });
+</script>
+</body>
+</html>
