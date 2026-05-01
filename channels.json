@@ -1,0 +1,34 @@
+{
+  "channels": [
+    {
+      "handle": "everlastai",
+      "name": "Everlast AI",
+      "color": "#dc2626",
+      "color_label": "rot"
+    },
+    {
+      "handle": "LeonardSchmedding",
+      "name": "Leonard Schmedding",
+      "color": "#a855f7",
+      "color_label": "lila"
+    },
+    {
+      "handle": "danmartell",
+      "name": "Dan Martell",
+      "color": "#0ea5e9",
+      "color_label": "cyan"
+    },
+    {
+      "handle": "sebiforce",
+      "name": "Sebiforce",
+      "color": "#f59e0b",
+      "color_label": "amber"
+    },
+    {
+      "handle": "niklassteenfatt",
+      "name": "Niklas Steenfatt",
+      "color": "#10b981",
+      "color_label": "grün"
+    }
+  ]
+}

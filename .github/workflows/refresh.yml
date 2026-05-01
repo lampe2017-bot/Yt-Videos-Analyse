@@ -1,0 +1,52 @@
+name: Refresh cockpit
+
+on:
+  schedule:
+    # Alle 30 Minuten — frühestens 5-15 Min nach Slot, GitHub-Cron ist nicht punktgenau.
+    # Relative Zeiten in der HTML werden clientseitig per JS aktualisiert, daher unkritisch.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - cockpit.py
+      - channels.json
+      - .github/workflows/refresh.yml
+
+concurrency:
+  group: refresh-cockpit
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh RSS + render HTML
+        run: python cockpit.py --no-summary
+
+      - name: Copy to index.html (für GitHub Pages)
+        run: cp output/cockpit.html index.html
+
+      - name: Commit & push wenn Änderungen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html cache/ output/cockpit.html
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen — nichts zu commiten."
+          else
+            git commit -m "auto: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
