@@ -1,22 +1,22 @@
 {
   "6G0eOcx8gBI": {
     "video_id": "6G0eOcx8gBI",
-    "title": "Post-Labor-Debatte: Das Ende der Arbeit, Jobverluste, Hyperdeflation, Grundeinkommen, AGI & Zukunft",
+    "title": "Das Ende der Arbeit: Wieso 80% ihren Job verlieren werden & was danach kommt (Post-Labor-Debatte)",
     "published": "2026-04-30T15:15:00+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/6G0eOcx8gBI/hqdefault.jpg",
     "description": "Post-Labor-Economy: In diesem VORSPRUNG Gespräch klären wir die Frage, was passiert wenn KI und Roboter 80% aller Jobs ersetzen, wie die Welt nach der Arbeit aussieht und welche Zukunftsstrategien jetzt jeder kennen muss.\n\nProf. Dr. Andreas Moring – Spezialist für Digitale Wirtschaft & Mensch-KI-Kooperation\nhttps://www.linkedin.com/in/prof-dr-andreas-moring-a557b2189/  \nProf. Dr. Pero Micic - International führender Experte für Zukunftsstrategien & Managementberater\nhttps://www.linkedin.com/in/peromicic/ \nKim Isenberg – KI-Insider & Betreiber des größten X-Channels über KI-News\nhttps://www.lin",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "2:26:11",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Experten diskutieren Zukunft ohne Arbeit durch AGI.",
+      "hook": "Die Zukunft der Arbeit steht auf der Kippe: 80% der Jobs könnten durch KI verloren gehen.",
       "bullets": [
-        "80% der Jobs könnten durch KI ersetzt werden.",
-        "Hyperdeflation und Grundeinkommen sind zukünftige Herausforderungen.",
-        "Zukunftsstrategien für eine post-laboräre Wirtschaft erarbeitet."
+        "Die Post-Labor-Economy wird die Arbeitswelt grundlegend verändern und neue Herausforderungen mit sich bringen.",
+        "Experten diskutieren Strategien, um sich auf die bevorstehenden Veränderungen in der Arbeitswelt vorzubereiten.",
+        "Die Kooperation zwischen Mensch und KI wird entscheidend für den Erfolg in der neuen Wirtschaft sein."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:46:59.398640+00:00",
     "is_new": false
@@ -29,16 +29,18 @@
     "description": "KI-Compliance: Dr. Anne Greul vereinfacht mit Leegle Regulatorik für Hersteller. In diesem Interview sprechen wir über KI im Unternehmen, wie Claude Plugins StartUps bedrängen und die Zukunft von Software.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibun",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "38:56",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Dr. Anne Greul erklärt KI-Compliance und Zukunft von Software.",
+      "hook": "Dr. Anne Greul erklärt die Bedeutung von KI-Compliance und deren Einfluss auf Unternehmen.",
       "bullets": [
-        "KI im Unternehmen bringt Wettbewerbsvorteile durch Umsatzsteigerung",
-        "Claude Plugins beeinflussen StartUps in negativer Weise",
-        "Zukünftige Software wird durch KI erheblich geprägt"
+        "Leegle vereinfacht die Regulatorik für Hersteller im Bereich KI.",
+        "Claude Plugins stellen eine Herausforderung für StartUps dar.",
+        "Die Integration von KI kann Unternehmen Wettbewerbsvorteile verschaffen.",
+        "KI-Lösungen können Umsatz steigern und Stellen einsparen.",
+        "Ein persönliches Analysegespräch zur KI-Integration wird angeboten."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:48:11.424221+00:00",
     "is_new": false
@@ -51,16 +53,17 @@
     "description": "GPT-5.5 und Codex im Praxistest: Die wichtigsten Funktionen, Beispiele und Vergleich mit Claude Code. Was OpenAIs Super-App wirklich kann.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nMein Transkriptionstool - Voicely Live Beta (kostenfrei testen): https://www.voicely.de/ \nLerne Agentic Coding Tools wie Claude Code von A-Z zu meistern: https://claudecodekurs.de \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen i",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "33:48",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "GPT-5.5 und Codex: Funktionen und Use Cases geprüft.",
+      "hook": "GPT-5.5 und Codex bieten beeindruckende neue Funktionen für Entwickler und Unternehmen.",
       "bullets": [
-        "Codex und GPT-5.5 bieten erweiterte Programmierfunktionen",
-        "Vergleich mit Claude Code für bessere Einschätzung",
-        "Workshop zur agilen KI-Integration anbieten"
+        "Das Video zeigt die wichtigsten Funktionen von GPT-5.5 und Codex im Praxistest.",
+        "Vergleich zwischen OpenAIs Super-App und Claude Code wird detailliert dargestellt.",
+        "Nutzer können sich für einen kostenfreien Live Workshop zum Agentic Coding anmelden.",
+        "Die Integration von KI in Unternehmen wird als Wettbewerbsvorteil hervorgehoben."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:49:23.865081+00:00",
     "is_new": false
@@ -73,16 +76,18 @@
     "description": "Als die schnellst wachsende KI-Beratungs und Implementierungsagentur Deutschlands stellen wir bei Everlast Consulting laufend die besten Mitarbeiter in den Bereichen Vertrieb und AI Software Development ein. In diesem Video teilen wir einen realen Einblick in eines unserer Vertriebsteams-Events. \n\nAlle offenen Stellen findest du hier: https://everlastkarriere.de \n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://k",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "29:38",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Einblicke in das Vertriebsteam-Event bei Everlast Consulting.",
+      "hook": "Einblicke in ein Team-Event bei Everlast Consulting im Vertrieb.",
       "bullets": [
-        "Everlast Consulting bietet Einblicke in ihre KI-Beratungsarbeit.",
-        "Das Video zeigt ein realistisches Team-Event im Vertrieb.",
-        "Mehr Informationen zu offenen Stellen auf everlastkarriere.de."
+        "Everlast Consulting ist die schnellst wachsende KI-Beratungsagentur in Deutschland.",
+        "Das Video zeigt ein reales Event eines Vertriebsteams.",
+        "Offene Stellen im Vertrieb und AI Software Development sind verfügbar.",
+        "Interessierte können ein kostenfreies Erstgespräch buchen.",
+        "Es gibt eine kostenfreie Community für KI-Interessierte."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:50:36.953666+00:00",
     "is_new": false
@@ -95,16 +100,18 @@
     "description": "Wieso bin ich eigentlich so überzeugt von KI? In diesem Video teile ich dir meine Gedanken, was 99% der Menschen immer noch übersehen und wieso du zu den 1% gehörst, wenn du diese Chance jetzt nutzt.\n\nEntwickle deine eigenen Apps mit KI - Kostenfreier Live Workshop am 28.04.26: https://kilernen.de/agentic-coding-workshop\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: ",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "8:26",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "KI-Revolution: Dein Einsteigertipp für den Wohlstand in drei Jahren.",
+      "hook": "Nutze die KI-Revolution jetzt, um in den nächsten drei Jahren reich zu werden.",
       "bullets": [
-        "99% der Menschen übersehen die KI-Chancen, gehörst du zu den 1%?",
-        "Nutze kostenlose Workshops und Communitys zur KI-Entwicklung.",
-        "Baue deine eigene KI-Agentur auf für den Wohlstand."
+        "99% der Menschen erkennen nicht die Chancen, die KI bietet.",
+        "Entwickle eigene Apps mit KI und profitiere von der Technologie.",
+        "Nutze kostenfreie Ressourcen und Workshops, um deine Fähigkeiten zu erweitern.",
+        "Sei Teil einer Community, die sich auf die KI-Zukunft vorbereitet.",
+        "Handle jetzt, um zu den Gewinnern der KI-Revolution zu gehören."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:51:51.195097+00:00",
     "is_new": false
@@ -117,16 +124,17 @@
     "description": "Wie baust du ein Ein-Mann-Unternehmen auf, das fünfstellige Monatsumsätze macht, ohne einen einzigen Mitarbeiter? Hier in Stanford hat u.A. Sam Altman studiert und nach 2 Jahren abgebrochen, um sein erstes Unternehmen zu gründen. Nun ist es das erste Mal in der Geschichte des Kapitalismus möglich, ein profitables Unternehmen als Einzelperson aufzubauen und die meisten nehmen diese Chance nicht ernst genug. In diesem Video teile ich dir meine Gedanken dazu, wieso es jetzt Sinn macht diese Chance zu ergreifen.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Baue jetzt dein KI-Unternehmen auf: http",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "7:33",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Erstelle ein profitables Ein-Mann-Unternehmen mit KI.",
+      "hook": "Lerne, wie du als Einzelperson ein profitables KI-Unternehmen aufbauen kannst.",
       "bullets": [
-        "Nutze KI, um ohne Mitarbeiter zu verdienen.",
-        "Baue ein Unternehmen auf, das fünfstellige Monatsumsätze erzielt.",
-        "Greife die Chance der KI-Revolution sofort an."
+        "Es ist möglich, ein erfolgreiches Unternehmen ohne Mitarbeiter zu führen.",
+        "Die KI-Revolution bietet einmalige Chancen für Einzelunternehmer.",
+        "Viele Menschen erkennen die Möglichkeiten der KI nicht ausreichend.",
+        "Nutze die aktuellen Technologien, um dein eigenes KI-Geschäft zu starten."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:53:01.513610+00:00",
     "is_new": false
@@ -139,7 +147,7 @@
     "description": "Ranking the biggest AI tools right now",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "0:51",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "AI tool tier list (2026)",
@@ -159,7 +167,7 @@
     "description": "ADHD should be the reason you win",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "0:42",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "ADHD should be the reason you win",
@@ -179,7 +187,7 @@
     "description": "",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "0:31",
+    "duration": "",
     "transcript_lang": null,
     "summary": {
       "hook": "Kein Auto-Transkript verfügbar.",
@@ -193,22 +201,23 @@
   },
   "fqN7364FAGQ": {
     "video_id": "fqN7364FAGQ",
-    "title": "So funktioniert das wirklich",
+    "title": "So habe ich 100.000€ in einem Monat mit einem Onlinekurs verdient",
     "published": "2026-04-29T16:01:13+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/fqN7364FAGQ/hqdefault.jpg",
     "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichhoch.de/newsletter\n📌 Apps & Tools die ich nutze: https://www.blogdichhoch.de/empfehlungen\n📌 ChatGPT E-Book: https://www.blogdichhoch.de/chatgpt\n📌 Firmenkreditkarte: https://www.blogdichhoch.de/amex/\n_____________________________________________\n\n#onlinegeldverdienen #onlinegeldverdienen2026 #onlinebusinessstarten",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "17:26",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Entdecke die Wirklichkeit hinter Online-Geldverdienst.",
+      "hook": "Sebiforce erklärt, wie er in einem Monat 100.000€ mit einem Onlinekurs verdient hat.",
       "bullets": [
-        "Online-Geldverdienst erfordert echte Arbeit und Fähigkeiten.",
-        "Verstehe die Realität von Angeboten wie ChatGPT-EBooks.",
-        "Bau ein solides Fundament für deinen Online-Business."
+        "Er zeigt sein bewährtes System zur Monetarisierung von Onlinekursen.",
+        "Kostenlose Ressourcen und Workshops werden angeboten, um anderen zu helfen.",
+        "Er empfiehlt nützliche Apps und Tools für den Online-Geschäftserfolg.",
+        "Das Video bietet Einblicke in effektive Strategien für passives Einkommen."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:57:03.380006+00:00",
     "is_new": false
@@ -221,16 +230,17 @@
     "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nHast du das KI-Fenster verpasst? Hier sind drei Wege, wie du jetzt mit KI Geld verdienen kannst! 💰\n\n\nVor über 10 Jahren hat YouTube die Welt verändert und viele belächelt, die zu Beginn dabei waren. Jetzt ist es wieder so weit! \nKI ist das neue YouTube - die Möglichkeit, die wir nutzen können, um unser Einkommen zu steigern.\nIch selbst habe mit digitalen Produkten über 2 Millionen Euro verdient, und das ohne Team und fast ohne Werbung. Mein System läuft fast ohne mich, und ich arbeite nur 12-15 Stunden pro Woche.\n\n\nDas Beste? Du ",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "14:24",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "KI bietet Chancen, um mit geringem Aufwand viel Geld zu verdienen.",
+      "hook": "Nutze die Chancen der KI, um finanziell unabhängig zu werden.",
       "bullets": [
-        "Verdienstmodelle mit KI sind das neue Gold",
-        "Erhöhe dein Einkommen durch digitale Produkte und KI",
-        "Arbeite effizient mit nur 12-15 Stunden pro Woche"
+        "KI bietet neue Möglichkeiten, um Einkommen zu generieren und finanziell erfolgreich zu sein.",
+        "Digitale Produkte können eine lukrative Einkommensquelle sein, ohne großes Team oder Werbung.",
+        "Mit einem effektiven System sind nur 12-15 Arbeitsstunden pro Woche nötig.",
+        "Frühzeitiges Engagement in KI kann zu erheblichem finanziellem Erfolg führen."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:58:13.771314+00:00",
     "is_new": false
@@ -243,16 +253,18 @@
     "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nIn dieser Folge erkläre ich dir meine Content-Strategie, mit der ich Millionen über Instagram verdient habe :) Viel Spaß!\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichhoch.de/newsletter\n📌 Apps & Tools die ich nutze: https://www.blogdichhoch.de/empfehlungen\n📌 ChatGPT E-Book: https://www.blogdichhoch.de/chatgpt\n📌 Firmenkreditkarte: https://www.blogdichhoch.de/amex/\n_____________________________________",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "13:47",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Millionen mit einfacher Instagram-Strategie verdienen",
+      "hook": "Entdecke die Content-Strategie, die Millionen auf Instagram generiert hat.",
       "bullets": [
-        "Dumme Content-Ideen können viel Geld bringen",
-        "Konsistenz und Kreativität sind Schlüssel zum Erfolg",
-        "Instagram als Plattform für Unternehmer-Innovation"
+        "Die Strategie basiert auf einfachen, aber effektiven Inhalten, die hohe Reichweite erzielen.",
+        "Regelmäßige Interaktion mit der Community fördert Engagement und Bindung.",
+        "Nutzung von Trends und viralen Themen steigert die Sichtbarkeit und Reichweite.",
+        "Konsistenz in der Veröffentlichung ist entscheidend für den langfristigen Erfolg.",
+        "Die richtige Auswahl von Plattformen maximiert die Monetarisierungsmöglichkeiten."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T17:59:22.355505+00:00",
     "is_new": false
@@ -265,16 +277,18 @@
     "description": "OpenClaw mit einem Klick installieren: https://www.hostg.xyz/SHJ1i (10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\nOpenClaw Playlist: https://www.youtube.com/playlist?list=PL5SxqZAwIX287AN28hg2bcxWNdp24KGxN\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:21 Was ist OpenClaw?\n0:46 Installation\n2:01 Anthropic API-Key einrichten\n2:49 ",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "18:09",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Einfache Anleitung für die OpenClaw-Installation.",
+      "hook": "In diesem Video erfährst du, wie du OpenClaw einfach installierst und einrichtest.",
       "bullets": [
-        "OpenClaw mit Klick installieren und 10% Rabatt nutzen.",
-        "API-Schlüssel von Anthropic einrichten, um OpenClaw zu aktivieren.",
-        "Weitere Produktivitätstools und Quiz zur Lebensbalance im Video."
+        "OpenClaw ist ein Tool zur Verbesserung der Produktivität und Lebensbalance.",
+        "Die Installation erfolgt mit einem einfachen Klick über den angegebenen Link.",
+        "Ein Anthropic API-Key ist notwendig, um OpenClaw vollständig nutzen zu können.",
+        "Das Video bietet eine Schritt-für-Schritt-Anleitung zur Einrichtung von OpenClaw.",
+        "Zusätzliche Ressourcen und Tools zur Produktivitätssteigerung werden bereitgestellt."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T18:00:35.511911+00:00",
     "is_new": false
@@ -287,16 +301,18 @@
     "description": "Hermes mit einem Klick installieren: https://www.hostg.xyz/SHJHz (10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:57 Was ist Hermes?\n2:22 Installation\n3:47 Self-Learning Loop\n5:47 Excalidraw-Magie\n8:50 Hermes vs OpenClaw\n10:22 Migration von OpenClaw\n11:29 Fazit\n\nJetzt deine Lebensbalanc",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "13:19",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Niklas präsentiert seine neue Produktivitäts-Software Hermes.",
+      "hook": "Niklas Steenfatt stellt die neue Software Hermes und ihre Funktionen vor.",
       "bullets": [
-        "Hermes ist eine neue, selbstlernende Produktivitätshilfe für Niklas' Workflow.",
-        "Die Installation erfolgt einfach und schnell mit einem Klick.",
-        "Hermes integriert Excalidraw für visuelle Planungsprojekte."
+        "Hermes ist eine innovative Software zur Steigerung der Produktivität.",
+        "Die Installation von Hermes erfolgt einfach mit einem Klick.",
+        "Ein Self-Learning Loop optimiert die Nutzung von Hermes kontinuierlich.",
+        "Hermes bietet Vorteile gegenüber der vorherigen Software OpenClaw.",
+        "Die Migration von OpenClaw zu Hermes wird detailliert erklärt."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T18:01:48.157415+00:00",
     "is_new": false
@@ -309,16 +325,18 @@
     "description": "Paperclip mit einem Klick installieren: https://www.hostg.xyz/SHJBk (10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:25 Was ist PaperClip? \n⁠2:02 Installation\n⁠4:17 Erste Schritte\n⁠6:13 OpenClaw anheuern\n⁠7:18 Meine Einschätzung\n\nJetzt deine Lebensbalance testen: http://rebalance.so/",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "9:50",
+    "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Paperclip revolutioniert die Produktivität.",
+      "hook": "Paperclip revolutioniert deine Produktivität mit einfacher Installation und effektiven Funktionen.",
       "bullets": [
-        "Einfache Installation und sofortige Nutzung von Paperclip.",
-        "Erste Schritte erklärt, wie man effektiver arbeitet.",
-        "OpenClaw für zusätzliche Unterstützung einsetzen."
+        "Paperclip ist ein innovatives Tool zur Steigerung der Produktivität.",
+        "Die Installation erfolgt mit nur einem Klick über einen speziellen Link.",
+        "Erste Schritte mit Paperclip sind einfach und benutzerfreundlich.",
+        "OpenClaw kann als hilfreiche Erweiterung hinzugefügt werden.",
+        "Niklas teilt seine persönliche Einschätzung und Erfahrungen mit Paperclip."
       ],
-      "model": "qwen2.5:14b"
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-04-30T18:02:56.509185+00:00",
     "is_new": false
@@ -334,14 +352,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "GPT-5.5 übertrifft Claude Opus 4.7 in wichtigen Aspekten und bringt neue KI-Entwicklungen.",
       "bullets": [
-        "GPT-5.5 ist da: Lohnt der Wechsel von Claude Opus 4.7? Ich habe beide Modelle in der Praxis verglichen. Zudem: Das Claude Design “Problem”, Claude Live Artefakte, das neue ImageGen-2, DeepSeek v4 und viele weitere KI-News der Woche.\n \nSiche…"
+        "Der Vergleich zwischen GPT-5.5 und Claude Opus 4.7 zeigt klare Vorteile für GPT-5.5.",
+        "Das neue Claude Design hat Probleme mit Artefakten, die behoben werden müssen.",
+        "ImageGen-2 bietet verbesserte Funktionen für die Bildgenerierung und kreative Anwendungen.",
+        "DeepSeek v4 bringt neue Möglichkeiten zur Datenanalyse und -verarbeitung.",
+        "Der kostenfreie Live Workshop bietet Einblicke in Agentic Coding Tools und deren Anwendung."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:32:49.705858+00:00",
-    "is_new": true
+    "is_new": false
   },
   "AqFWq3VyuC8": {
     "video_id": "AqFWq3VyuC8",
@@ -354,14 +376,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Niels Birbaumer warnt vor den Gefahren von Neuralink und erklärt die BCI-Technologie.",
       "bullets": [
-        "Brain-Computer-Interface: Hirnforscher und BCI-Pionier Prof. Dr. Niels Birbaumer erklärt den brutalen Durchbruch, warnt vor Neuralink und zeigt, warum China beim BCI vorne liegt.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic C…"
+        "Prof. Dr. Niels Birbaumer ist ein führender Hirnforscher und BCI-Pionier.",
+        "Neuralink wird als potenziell gefährlich für die Gesellschaft eingestuft.",
+        "China hat im Bereich Brain-Computer-Interfaces einen technologischen Vorsprung.",
+        "Birbaumer fordert eine kritische Auseinandersetzung mit den ethischen Implikationen von BCI.",
+        "Die Integration von KI in Unternehmen kann entscheidende Wettbewerbsvorteile bieten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:32:52.207607+00:00",
-    "is_new": true
+    "is_new": false
   },
   "w62ah6G_7CE": {
     "video_id": "w62ah6G_7CE",
@@ -374,14 +400,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Lerne alles über Agentic Workflows und Agentic Coding in diesem umfassenden Kurs.",
       "bullets": [
-        "Der ultimative Agentic AI Komplettkurs 2026: Alles was du über Agentic Coding und Agentic Workflows wissen musst, komplett kostenfrei und von Anfänger zum Profi. Wir bauen live moderne Websites, eine komplette Webapp und echte Agentic Workf…"
+        "Der Kurs ist kostenlos und richtet sich an Anfänger sowie Fortgeschrittene.",
+        "Es werden moderne Websites und Webapps live erstellt, ohne Programmierkenntnisse.",
+        "Am Ende des Kurses weißt du, wie du mit Agentic Coding Geld verdienen kannst.",
+        "Sichere dir deinen Platz im Live Agentic Coding Workshop über die Webseite.",
+        "Zugang zu weiteren kostenfreien Ressourcen in der Community wird angeboten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:32:54.708709+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Yob3R9Kb4vg": {
     "video_id": "Yob3R9Kb4vg",
@@ -394,14 +424,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Claude Opus 4.7 bringt neue Herausforderungen und Entwicklungen in der KI-Welt.",
       "bullets": [
-        "Claude Opus 4.7 ist da: neue Benchmarks, versteckte Kosten, Probleme mit 4.6. Warum OpenAI gerade aufholt mit Codex und GPT-Rosalind und wieso Agentic Coding jetzt gerade der Fokus aller KI-Unternehmen ist.\n\nSichere dir deinen Platz für den…"
+        "Claude Opus 4.7 zeigt neue Benchmarks und versteckte Kosten auf.",
+        "OpenAI holt mit Codex und GPT-Rosalind auf, was die Konkurrenz unter Druck setzt.",
+        "Agentic Coding wird zum zentralen Fokus vieler KI-Unternehmen.",
+        "Der kostenfreie Live Workshop bietet praktische Einblicke in Agentic Coding.",
+        "Ressourcen und Prompts sind in der Community kostenlos verfügbar."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:32:57.209829+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LzW02B55Y5c": {
     "video_id": "LzW02B55Y5c",
@@ -414,14 +448,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Humanoide Roboter und KI formen die Zukunft der Technologie und Arbeitswelt.",
       "bullets": [
-        "Humanoide Roboter brauchen laut Prof. Alois Knoll (TU München) einen Körper. Physical AI ist damit der nächste Schritt nach großen Sprachmodellen. Wir sprechen über den aktuellen Stand der Robotik in Deutschland im Vergleich zu China, Weltm…"
+        "Physical AI ist der nächste Schritt nach großen Sprachmodellen für humanoide Roboter.",
+        "Der aktuelle Stand der Robotik in Deutschland wird mit China verglichen.",
+        "Weltmodelle und AGI sind zentrale Themen in der Diskussion über zukünftige Technologien.",
+        "Jobverluste durch Automatisierung sind eine ernsthafte Herausforderung für die Gesellschaft.",
+        "Unternehmen sollten KI-Lösungen implementieren, um wettbewerbsfähig zu bleiben."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:32:59.711025+00:00",
-    "is_new": true
+    "is_new": false
   },
   "hLFVfscRWQc": {
     "video_id": "hLFVfscRWQc",
@@ -434,14 +472,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Lars Hinrichs warnt vor Europas Rückstand in der KI-Entwicklung und dem Ende klassischer SaaS-Modelle.",
       "bullets": [
-        "Xing-Gründer Lars Hinrichs im Interview mit Leonard Schmedding: Warum klassische SaaS-Modelle kippen, Europa den KI-Anschluss verliert und was Unternehmer jetzt tun müssen.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding …"
+        "Klassische SaaS-Modelle stehen vor Herausforderungen und verlieren an Relevanz.",
+        "Europa hat Schwierigkeiten, im Bereich Künstliche Intelligenz wettbewerbsfähig zu bleiben.",
+        "Unternehmer sollten jetzt KI-Integration in ihre Geschäftsmodelle priorisieren.",
+        "Die Zukunft erfordert innovative Ansätze und Anpassungen an neue Technologien.",
+        "Hinrichs betont die Notwendigkeit, den Anschluss an globale Entwicklungen nicht zu verlieren."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:02.212309+00:00",
-    "is_new": true
+    "is_new": false
   },
   "SMNhtBT-NGQ": {
     "video_id": "SMNhtBT-NGQ",
@@ -454,14 +496,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Claude Managed Agents revolutionieren KI-Anwendungen mit neuen Funktionen und Kostensenkungen.",
       "bullets": [
-        "Claude Managed Agents laufen jetzt in Anthropics Cloud, Advisor Mode senkt Kosten sechsfach, Ultraplan lagert Pläne aus. Alle Claude Code Updates im Praxistest.\n\nAlle Ressourcen und Templates aus dem Video findest du kostenfrei in unserer C…"
+        "Claude Managed Agents laufen in der Cloud von Anthropic und bieten innovative Lösungen.",
+        "Der Advisor Mode senkt die Kosten für Unternehmen um das Sechsfache.",
+        "Ultraplan ermöglicht das Auslagern von Planungsprozessen für mehr Effizienz.",
+        "Alle Ressourcen und Templates sind kostenlos in der Community verfügbar.",
+        "Ein kostenfreier Live Workshop zum Agentic Coding wird angeboten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:04.713420+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZLSX-R2FTyI": {
     "video_id": "ZLSX-R2FTyI",
@@ -474,14 +520,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Claude Mythos revolutioniert die KI-Welt mit bahnbrechenden Entwicklungen und Neuigkeiten.",
       "bullets": [
-        "Claude Mythos sprengt jede Benchmark und bricht aus seiner eigenen Sandbox aus. Doch die wahren Gründe, warum Anthropic das Modell zurückhält, sind nicht die, die sie dir erzählen. Dazu: Meta Muse Spark im Praxis-Test, HeyGen 5 Avatare, der…"
+        "Claude Mythos übertrifft alle bisherigen Benchmarks und bricht aus seiner Sandbox aus.",
+        "Anthropic hält Claude aus strategischen Gründen zurück, die nicht öffentlich kommuniziert werden.",
+        "Meta Muse Spark wird im Praxis-Test vorgestellt und zeigt vielversprechende Ergebnisse.",
+        "HeyGen 5 bietet beeindruckende Avatare, die neue Maßstäbe setzen.",
+        "Markus Müller von Flinn AI spricht über 21 Millionen Dollar Investitionen in KI für die Medizintechnik."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:07.214894+00:00",
-    "is_new": true
+    "is_new": false
   },
   "3yHzSGc4HcA": {
     "video_id": "3yHzSGc4HcA",
@@ -494,14 +544,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Frank Steinfurt spart durch KI-Systeme als Versicherungsmakler einen sechsstelligen Betrag.",
       "bullets": [
-        "Mit der Hilfe von Everlast AI konnte Frank Steinfurt, seit 20 Jahren in der Versicherungsbranche tätig und Gründer eines neuen Projekts zum Aufbau eines Heilpraktiker-Empfehlungsnetzwerks, seinen Vertriebsprozess durch maßgeschneiderte KI-L…"
+        "Everlast AI ermöglicht eine Skalierung des Vertriebsprozesses durch maßgeschneiderte KI-Lösungen.",
+        "AI Voice Agents telefonieren eigenständig mit potenziellen Partnern und integrieren sich ins CRM-System.",
+        "Die tägliche Kontaktkapazität wurde von 30 auf 300 Gespräche verzehnfacht.",
+        "Frank Steinfurt spart erheblich in die eigene Infrastruktur durch den Einsatz von KI-Technologie."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:09.716407+00:00",
-    "is_new": true
+    "is_new": false
   },
   "9wMty1uTQaA": {
     "video_id": "9wMty1uTQaA",
@@ -514,14 +567,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Ex-NASA-Forschungschef erklärt die Zukunft von Rechenzentren und KI im Weltraum.",
       "bullets": [
-        "Dr. Thomas Zurbuchen im Interview mit Leonard Schmedding: Der Ex-NASA-Wissenschaftsdirektor über KI auf dem Mars, Rechenzentren im Orbit, das neue Mondrennen und Europas Raumfahrt-Chance. \n\nSichere dir die Claude Code Masterclass: https://c…"
+        "Dr. Thomas Zurbuchen spricht über KI-Anwendungen auf dem Mars und deren Potenzial.",
+        "Rechenzentren im Orbit könnten die nächste Stufe der Datenverarbeitung darstellen.",
+        "Das neue Mondrennen eröffnet Chancen für Europas Raumfahrtindustrie.",
+        "KI-Integration in Unternehmen kann Wettbewerbsvorteile und Kosteneinsparungen bringen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:12.217865+00:00",
-    "is_new": true
+    "is_new": false
   },
   "XEJ74o4fROY": {
     "video_id": "XEJ74o4fROY",
@@ -534,14 +590,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Die Zukunft der KI steht bevor, während eine Heliumkrise und Jobverluste drohen.",
       "bullets": [
-        "GPT-5.5 steht vor der Tür, KI-Superagenten wie Claude Code und Codex liefern sich ein Rennen - und Anthropic rechnet intern mit AGI in sechs Monaten. Gleichzeitig bedroht eine Heliumkrise die globale Chip-Produktion und Zehntausende verlier…"
+        "GPT-5.5 und KI-Superagenten wie Claude Code sind kurz vor der Markteinführung.",
+        "Anthropic erwartet, dass AGI in nur sechs Monaten Realität wird.",
+        "Die Heliumkrise gefährdet die globale Chip-Produktion erheblich.",
+        "Zehntausende von Arbeitsplätzen sind durch technologische Entwicklungen in Gefahr.",
+        "Der Mainstream übersieht wichtige Entwicklungen in der KI und deren Auswirkungen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:14.719328+00:00",
-    "is_new": true
+    "is_new": false
   },
   "26vS1Os8vek": {
     "video_id": "26vS1Os8vek",
@@ -554,14 +614,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Entdecke die neuesten KI-Entwicklungen und wie du Claude Code kostenlos nutzen kannst.",
       "bullets": [
-        "Claude Code Leak enthüllt 44 versteckte Features: Kairos Agent, AutoDream, Ultraplan und ein internes Lügenverbot, doch die eigentliche Story übersehen die meisten. Gleichzeitig veröffentlicht Google Gemma-4, das führende OpenSource Modell …"
+        "Claude Code Leak enthüllt 44 versteckte Features, darunter den neuen Kairos Agent.",
+        "Google veröffentlicht Gemma-4, ein führendes OpenSource KI-Modell, das kostenlos genutzt werden kann.",
+        "Interview mit Telli über den aktuellen Stand von AI Voice Agents und deren Zukunft.",
+        "Die Community bietet kostenfreie Ressourcen und Unterstützung für KI-Interessierte."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:17.220698+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0DKbhRJIf-E": {
     "video_id": "0DKbhRJIf-E",
@@ -574,14 +637,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Mitarbeiter oder KI-Agentur: Welche Option ist besser für dein KI-Projekt?",
       "bullets": [
-        "Mitarbeiter für KI einstellen oder KI-Agentur beauftragen: Was macht mehr Sinn und was machst du bei der Einstellung von KI-Entwicklern beachten? In diesem Video teile ich dir die wichtigsten Gedanken und Learnings dazu.\n\n• Kostenfreies Ers…"
+        "Überlege, ob du langfristige Mitarbeiter oder kurzfristige Unterstützung durch eine Agentur benötigst.",
+        "Berücksichtige die Kosten und den Zeitaufwand für die Einstellung von KI-Entwicklern.",
+        "Eine Agentur kann schnellere Ergebnisse liefern, während Mitarbeiter tiefere Kenntnisse über dein Projekt entwickeln.",
+        "Denke an die Skalierbarkeit deines Projekts und die Flexibilität der gewählten Lösung.",
+        "Nutze Erstgespräche, um die beste Entscheidung für dein KI-Projekt zu treffen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:17.417714+00:00",
-    "is_new": true
+    "is_new": false
   },
   "VuV8YQlDegE": {
     "video_id": "VuV8YQlDegE",
@@ -594,14 +661,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Corporate LLMs bieten 2026 enorme Chancen für Unternehmen und KI-Agenturen.",
       "bullets": [
-        "CorporateLLMs sind die größte und gleichzeitig unterschätzteste Chance, um KI 2026 sinnvoll im Unternehmen einzusetzen oder als KI-Agentur an Unternehmen zu verkaufen. In diesem Videos erfährst du, was CorporateLLMs sind und wie du sie sinn…"
+        "Corporate LLMs sind entscheidend für den erfolgreichen Einsatz von KI in Unternehmen.",
+        "Das Video erklärt, wie man Corporate LLMs sinnvoll implementiert.",
+        "Nutze die Gelegenheit, an einem kostenfreien Workshop teilzunehmen.",
+        "Sei Teil der KI-Revolution und profitiere von den neuen Möglichkeiten.",
+        "Erfahre, was bei Corporate LLMs funktioniert und was nicht."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:19.918867+00:00",
-    "is_new": true
+    "is_new": false
   },
   "GC7y4aoSC68": {
     "video_id": "GC7y4aoSC68",
@@ -614,14 +685,16 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Denke groß, um erfolgreich eine KI-Agentur aufzubauen und die Zukunft zu gestalten.",
       "bullets": [
-        "KI-Agentur aufbauen in 2026: In diesem Video teile ich dir meine Gedanken vom Apple Park im Silicon Valley. Wenn du jetzt eine KI-Agentur aufbaust, dann traue dich von Anfang an größer zu denken und lass dich nicht vom Deutschen-Mindset kle…"
+        "Beginne mit einer Vision, die über das Gewöhnliche hinausgeht und den Markt revolutioniert.",
+        "Verstehe die neuen Technologien umfassend, anstatt nur aktuellen Trends zu folgen.",
+        "Nutze die Chancen der KI-Revolution, um zu den Gewinnern in der Branche zu gehören."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:22.420555+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ciaYobJapUU": {
     "video_id": "ciaYobJapUU",
@@ -634,14 +707,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Jedes Unternehmen benötigt ein CorporateLLM für zukünftigen Erfolg in der KI-Revolution.",
       "bullets": [
-        "Wieso jedes Unternehmen ein CorporateLLM braucht! Nachdem wir die letzten Jahre alle relevanten KI Use Cases für Unternehmen und KI-Agenturen, wie AI Voice Agents eingeführt und etabliert haben, folgt hiermit offiziell einer der wichtigsten…"
+        "CorporateLLM ist einer der wichtigsten KI Use Cases für 2026 und darüber hinaus.",
+        "Der Workshop richtet sich an Agenturen, Selbstständige und Unternehmen.",
+        "Nutze die Chance, um von den Vorteilen der KI-Technologie zu profitieren.",
+        "Sichere dir deinen Platz im kostenfreien Live CorporateLLM Workshop."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:24.922116+00:00",
-    "is_new": true
+    "is_new": false
   },
   "9bY2cdu0vkE": {
     "video_id": "9bY2cdu0vkE",
@@ -654,14 +730,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "KI wird Social Media revolutionieren – entdecke die Mega-Trends und profitiere davon!",
       "bullets": [
-        "Alle reden von “AI Slop”, doch wie wird KI Social Media wirklich verändern und wie kannst du davon profitieren? In diesem Video teile ich dir die vier wichtigsten Meta-Trends und wie du sich für deine KI-Agentur oder Unternehmen nutzt.\n\nMel…"
+        "Es gibt vier zentrale Meta-Trends, die die Zukunft von Social Media prägen werden.",
+        "Nutze KI, um deine Agentur oder dein Unternehmen erfolgreich zu positionieren.",
+        "Melde dich für kostenfreie Workshops an, um mehr über KI zu lernen.",
+        "Tritt einer Community bei, um von Gleichgesinnten zu profitieren und Erfahrungen auszutauschen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:27.423438+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZbpKitLhzUo": {
     "video_id": "ZbpKitLhzUo",
@@ -674,14 +753,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Leo erklärt den größten Fehler bei der Auswahl von KI-Mitarbeitern.",
       "bullets": [
-        "Viele Unternehmen wollen jetzt KI-Mitarbeiter einstellen. In diesem Video teilt Leo dir den größten Fehler, den Unternehmen & Agenturen bei der Auswahl von KI-Entwicklern machen.\n\nWir stellen exzellente Entwickler ein: https://career.kibera…"
+        "Viele Unternehmen machen grundlegende Fehler bei der Einstellung von KI-Entwicklern.",
+        "Die Auswahlkriterien sollten spezifisch auf die Fähigkeiten der KI-Entwickler abgestimmt sein.",
+        "Eine klare Kommunikation der Erwartungen ist entscheidend für den Erfolg des Einstellungsprozesses.",
+        "Unternehmen sollten sich auf praktische Erfahrungen und Projekte der Bewerber konzentrieren.",
+        "Die richtige Schulung und Community-Unterstützung sind wichtig für die Entwicklung von KI-Fähigkeiten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:29.925218+00:00",
-    "is_new": true
+    "is_new": false
   },
   "wu7rXKXUr7c": {
     "video_id": "wu7rXKXUr7c",
@@ -694,14 +777,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Leonard Schmedding beleuchtet die Wahrheit über Jobverluste durch Künstliche Intelligenz.",
       "bullets": [
-        "In diesem Re-Upload eines Podcast-Interviews von Ende 2025 teilt Leonard Schmedding seine Gedanken über den aktuellen Stand der Künstlichen Intelligenz, Trends für 2026, die Wahrheit über Jobverluste, Everlast AI und vieles mehr.\n\nMelde dic…"
+        "Künstliche Intelligenz verändert die Arbeitswelt und führt zu neuen Herausforderungen für Angestellte.",
+        "Die Diskussion über Jobverluste wird oft von Unternehmen verzerrt dargestellt.",
+        "Schmedding bietet Einblicke in Trends und Entwicklungen für das Jahr 2026.",
+        "Er empfiehlt, sich aktiv mit KI auseinanderzusetzen, um Chancen zu nutzen.",
+        "Teilnehmer können sich für kostenlose Workshops und Beratungen anmelden, um vorbereitet zu sein."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:32.426499+00:00",
-    "is_new": true
+    "is_new": false
   },
   "b5TU3-5V6Gs": {
     "video_id": "b5TU3-5V6Gs",
@@ -714,14 +801,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Positionierung ist entscheidend für den Erfolg deiner KI-Agentur im Jahr 2026.",
       "bullets": [
-        "KI-Agentur aufbauen: Warum Positionierung wichtiger ist als Technik und welche Nischen 2026 die höchste Nachfrage haben. Jetzt Strategie entdecken.\n\nBaue deine KI-Agentur auf mit Everlast AI: https://aiagentur.de/?utm_source=aiagentur.de&ut…"
+        "Fokussiere dich auf Nischen mit hoher Nachfrage für deine KI-Agentur.",
+        "Technische Fähigkeiten sind wichtig, aber Positionierung hat Priorität.",
+        "Nutze Ressourcen wie Everlast AI für den Aufbau deiner Agentur.",
+        "Ein kostenfreies Erstgespräch kann dir wertvolle Einblicke geben.",
+        "Bildung und Community sind entscheidend für deinen langfristigen Erfolg."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:34.927995+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BthVwj7kQUI": {
     "video_id": "BthVwj7kQUI",
@@ -734,14 +825,16 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Die deutsche KI-Szene hat ein fundamentales Problem, das viele Weiterbildungsangebote betrifft.",
       "bullets": [
-        "Wir müssen reden: Wer mit KI Geld verdienen will, der wird schnell fündig auf Social Media und im Internet. Es gibt zahlreiche Weiterbildungsangebote im KI-Bereich, doch viele davon haben ein fundamentales Problem. In diesem Video lernst du…"
+        "Viele KI-Weiterbildungsangebote sind unzureichend und bieten nicht die nötige Praxisnähe.",
+        "Es ist wichtig, auf qualitativ hochwertige Inhalte und echte Anwendungsfälle zu achten.",
+        "Die richtige Ausbildung kann entscheidend sein, um in der KI-Revolution erfolgreich zu sein."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:37.430130+00:00",
-    "is_new": true
+    "is_new": false
   },
   "re2VpHVi_sM": {
     "video_id": "re2VpHVi_sM",
@@ -754,14 +847,16 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Voice AI wird als das vielversprechendste Geschäftsmodell für 2026 angesehen.",
       "bullets": [
-        "In diesem Gespräch spricht Leonard Schmedding mit Kevin Wu von Leaping AI darüber, wieso die USA und Silicon Valley weiter sind bei KI als Deutschland, wieso Voice Agents das lukrativste Geschäftsmodell für 2026 sind und die Zukunft der KI-…"
+        "Die USA und Silicon Valley sind in der KI-Entwicklung Deutschland weit voraus.",
+        "Voice Agents bieten enorme monetäre Potenziale für Unternehmen in den kommenden Jahren.",
+        "Die Zukunft der KI-Agenten wird durch innovative Technologien und Anwendungen geprägt sein."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:39.931716+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oKO4B7UGLcw": {
     "video_id": "oKO4B7UGLcw",
@@ -774,14 +869,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Künstliche Intelligenz verändert Geschäftsmodelle grundlegend und fordert neues Denken in Unternehmen.",
       "bullets": [
-        "Wie konkret verändert Künstliche Intelligenz Geschäftsmodelle? In diesem Video teile ich 5 wesentliche Veränderungen, wie Unternehmen und Agenturen jetzt umdenken müssen.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgesprä…"
+        "Unternehmen müssen ihre Strategien anpassen, um von KI-Technologien zu profitieren.",
+        "Die Implementierung von KI kann Kosten senken und Effizienz steigern.",
+        "Agenturen sollten KI-gestützte Dienstleistungen entwickeln, um wettbewerbsfähig zu bleiben.",
+        "Die Nutzung von AI Voice Agents eröffnet neue Kommunikationsmöglichkeiten.",
+        "Eine proaktive Herangehensweise ist entscheidend, um in der KI-Revolution erfolgreich zu sein."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:42.433295+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ozJJiCFpTdk": {
     "video_id": "ozJJiCFpTdk",
@@ -794,14 +893,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Leonard Schmedding teilt seine Prognosen zu KI-Videos im Jahr 2026.",
       "bullets": [
-        "Meine Gedanken zu den wichtigsten KI-Video-Trends in 2026 vom OpenAI DevDay in San Francisco (2025), von denen du profitieren kannst.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_so…"
+        "Die KI-Revolution bietet zahlreiche Chancen für kreative Inhalte und Videoerstellung.",
+        "OpenAI DevDay 2025 zeigt innovative Trends, die die Videoindustrie verändern werden.",
+        "Nutze kostenfreie Ressourcen und Communities, um von diesen Entwicklungen zu profitieren.",
+        "Der Aufbau einer KI-Agentur wird als zukunftsträchtige Möglichkeit empfohlen.",
+        "AI Voice Agents könnten eine Schlüsseltechnologie für die Videoerstellung sein."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:33:44.935194+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1gBJ82KIzKY": {
     "video_id": "1gBJ82KIzKY",
@@ -812,16 +915,16 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": null,
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Kein Auto-Transkript verfügbar.",
       "bullets": [
-        "Beschreibung vom Kanal noch nicht verfügbar."
+        "—"
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:45.123128+00:00",
-    "is_new": true
+    "is_new": false
   },
   "mJHLVcRJF0s": {
     "video_id": "mJHLVcRJF0s",
@@ -834,14 +937,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "These words are killing your business",
       "bullets": [
-        "These words are killing your business"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:47.624784+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Ze4iQXI0Neo": {
     "video_id": "Ze4iQXI0Neo",
@@ -854,14 +957,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "How to master Claude",
       "bullets": [
-        "You can master Claude in these 4 simple steps"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:50.127220+00:00",
-    "is_new": true
+    "is_new": false
   },
   "2uLm6kfQFMM": {
     "video_id": "2uLm6kfQFMM",
@@ -874,14 +977,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "The best AI stack for $50.",
       "bullets": [
-        "DM me \"STACK\" on Instagram for my full 2026 AI stack."
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:52.628822+00:00",
-    "is_new": true
+    "is_new": false
   },
   "X1mK93z1dxo": {
     "video_id": "X1mK93z1dxo",
@@ -894,14 +997,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Stop automating tasks yourself",
       "bullets": [
-        "AI automation's dead"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:55.130577+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nHEnkaoeZLA": {
     "video_id": "nHEnkaoeZLA",
@@ -914,14 +1017,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "AI TOOL TIER LIST (2026)",
       "bullets": [
-        "AI TOOL TIER LIST (2026)"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:33:57.632277+00:00",
-    "is_new": true
+    "is_new": false
   },
   "utyXWPVk5cc": {
     "video_id": "utyXWPVk5cc",
@@ -932,16 +1035,16 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": null,
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Kein Auto-Transkript verfügbar.",
       "bullets": [
-        "Beschreibung vom Kanal noch nicht verfügbar."
+        "—"
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:34:00.134324+00:00",
-    "is_new": true
+    "is_new": false
   },
   "EScdQ-hrWUo": {
     "video_id": "EScdQ-hrWUo",
@@ -954,14 +1057,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Advice to my younger self",
       "bullets": [
-        "Advice to my younger self"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:34:02.636329+00:00",
-    "is_new": true
+    "is_new": false
   },
   "HlgJmXFPxmo": {
     "video_id": "HlgJmXFPxmo",
@@ -972,16 +1075,16 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": null,
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Kein Auto-Transkript verfügbar.",
       "bullets": [
-        "Beschreibung vom Kanal noch nicht verfügbar."
+        "—"
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:34:05.138009+00:00",
-    "is_new": true
+    "is_new": false
   },
   "K8Ros5RhJW4": {
     "video_id": "K8Ros5RhJW4",
@@ -994,14 +1097,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Erfahren Sie, wie Sie 2026 mit KI Geld verdienen können.",
       "bullets": [
-        "✅ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4tF1sJE\n\nEveryone is asking the same question: how do you actually make mon…"
+        "Es gibt 20 bewährte Möglichkeiten, um mit KI profitabel zu sein.",
+        "Nicht alle KI-Modelle sind nachhaltig; einige scheitern beim Skalieren.",
+        "Einige KI-Geschäftsmodelle generieren bereits erhebliche Einnahmen für Gründer.",
+        "Der Markt für KI-Unternehmen entwickelt sich schnell und bietet viele Chancen.",
+        "Wichtige Faktoren sind die Auswahl des richtigen Modells und die Vermeidung von Hype."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:07.640033+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LXSxrLIxoaA": {
     "video_id": "LXSxrLIxoaA",
@@ -1014,14 +1121,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "AI TOOLS TIER LIST (2026)",
       "bullets": [
-        "AI TOOLS TIER LIST (2026)"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:34:10.142732+00:00",
-    "is_new": true
+    "is_new": false
   },
   "HkSj9rLKC_I": {
     "video_id": "HkSj9rLKC_I",
@@ -1034,14 +1141,14 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Before AI vs with AI for every task",
       "bullets": [
-        "Before AI vs with AI for every task"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
     "first_seen": "2026-05-01T15:34:12.644784+00:00",
-    "is_new": true
+    "is_new": false
   },
   "dqHdal6Lnrs": {
     "video_id": "dqHdal6Lnrs",
@@ -1054,14 +1161,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Motivation fehlt? Hier sind effektive Strategien, um trotzdem aktiv zu werden.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdi…"
+        "Setze dir kleine, erreichbare Ziele, um Fortschritte zu sehen.",
+        "Nutze Routinen, um Disziplin aufzubauen und Motivation zu fördern.",
+        "Umgebe dich mit positiven Einflüssen, die dich antreiben.",
+        "Belohne dich für erreichte Meilensteine, um die Motivation zu steigern.",
+        "Visualisiere deine Ziele, um den Antrieb zu erhöhen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:12.798533+00:00",
-    "is_new": true
+    "is_new": false
   },
   "_qcNtM7oiHM": {
     "video_id": "_qcNtM7oiHM",
@@ -1074,14 +1185,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Erfahre, wie du in deinen 20ern erfolgreich Geld online verdienen kannst.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdi…"
+        "Nutze kostenlose Ressourcen, um dein Online-Business zu starten und zu skalieren.",
+        "Lerne von meinen Erfahrungen und vermeide häufige Fehler junger Unternehmer.",
+        "Entwickle ein effektives System, um deine Ziele schnell zu erreichen.",
+        "Nutze Tools und Apps, die dir helfen, effizienter zu arbeiten.",
+        "Melde dich für kostenlose Workshops und Coaching an, um dein Wissen zu erweitern."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:15.300509+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ch3YhU8G0o8": {
     "video_id": "ch3YhU8G0o8",
@@ -1094,14 +1209,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Die entscheidende Variable für finanziellen Erfolg wird oft verschwiegen.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \nSKOOL: https://www.skool.com/signup?ref=ac1ec0246fa544cd850cc6cdfe6958db\n\nDie wichtigste Variable beim Vermögensaufbau – die dir niemand verrät\nDie meisten Finanzkanäle erzähle…"
+        "Die meisten Finanzkanäle empfehlen Sparen und langfristige Investitionen, ignorieren jedoch wichtige Faktoren.",
+        "Eine kleine Sparrate kann dich langfristig arm halten und finanzielle Freiheit verhindern.",
+        "Der Fokus auf die Einkommensseite ist entscheidend für den Vermögensaufbau.",
+        "Verstehe, wie du deine Einkommensströme optimieren kannst, um schneller reich zu werden.",
+        "Wende die drei Wendepunkte an, um deine finanzielle Situation nachhaltig zu verbessern."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:17.802385+00:00",
-    "is_new": true
+    "is_new": false
   },
   "dq4OiHWJFck": {
     "video_id": "dq4OiHWJFck",
@@ -1114,14 +1233,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Entwickle eine einzigartige Personal Brand, die wirklich verkauft und sich von anderen abhebt.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nDie meisten Personal Brands verkaufen nicht – hier sind die 5 Gründe dafür.\nIn dieser Episode zeige ich dir die fünf Hebel, die eine durchschnittliche Personal Brand wirklich …"
+        "Die meisten Personal Brands scheitern, weil sie nicht klar positioniert sind.",
+        "Ein nachhaltiges Content-System ist entscheidend für den Erfolg deiner Marke.",
+        "Spezifität in Angeboten führt zu höheren Verkaufszahlen als breite Ansätze.",
+        "E-Mails konvertieren deutlich besser als Social Media-Posts.",
+        "Ein durchdachter Angebotsstack ist unerlässlich für eine erfolgreiche Personal Brand."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:20.304217+00:00",
-    "is_new": true
+    "is_new": false
   },
   "m_my4y5ofew": {
     "video_id": "m_my4y5ofew",
@@ -1134,14 +1257,16 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Entdecke, wie du mit weniger als 50.000 € effektiv umgehen kannst.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \nTrade: https://refnocode.trade.re/twc49mdm\n\nWas dich erwartet:\n📍 Etappe 1 – Unter 10.000 €: Warum du nicht sofort sparen sollst – und was du stattdessen tun musst\n📍 Etappe 2 – …"
+        "Unter 10.000 € solltest du nicht sofort sparen, sondern strategisch investieren.",
+        "Zwischen 10.000 und 50.000 € ist der richtige Hebel entscheidend für deinen Erfolg.",
+        "Ab 50.000 € verändert sich dein Mindset und eröffnet neue Möglichkeiten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:22.806848+00:00",
-    "is_new": true
+    "is_new": false
   },
   "3mw_EBQF_Dk": {
     "video_id": "3mw_EBQF_Dk",
@@ -1154,14 +1279,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Papierdenken ist der Schlüssel zu besseren Entscheidungen und erfolgreichem Unternehmertum.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nDie Top 1% der Unternehmer haben eines gemeinsam: Sie denken auf Papier. Nicht am Bildschirm. Nicht in Apps. Auf Papier.\nIn diesem Video zeige ich dir warum Papier dein mächti…"
+        "Die Top 1% der Unternehmer nutzen Papier, um ihre Gedanken zu strukturieren.",
+        "Papier hilft, klarere Ideen zu entwickeln und effektive Frameworks zu erstellen.",
+        "Das Schreiben auf Papier fördert die Kreativität und Entscheidungsfindung.",
+        "Digitale Tools können oft ablenken; Papier bietet Fokus und Klarheit."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:25.308710+00:00",
-    "is_new": true
+    "is_new": false
   },
   "72i5NACrqpY": {
     "video_id": "72i5NACrqpY",
@@ -1174,14 +1302,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Entdecke die fünf Level eines Businesses und finde heraus, wo du stehst.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nIch habe die letzten 12 Jahre damit verbracht, die fünf Level des Online-Business zu meistern. Heute arbeite ich, wo ich will, wann ich will – und mein Business hat mittlerwei…"
+        "Die fünf Level des Online-Business bestimmen den Erfolg und die Entwicklung deines Unternehmens.",
+        "Viele scheitern, weil sie nicht mit dem richtigen Level-Verhalten agieren.",
+        "Erfolgreiche Unternehmer arbeiten effizient und nutzen ihre Zeit optimal.",
+        "Die richtige Anpassung an das jeweilige Level ist entscheidend für das Wachstum.",
+        "Lerne aus den Erfahrungen von über 12 Jahren im digitalen Geschäft."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:27.811221+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oMIy_47ujls": {
     "video_id": "oMIy_47ujls",
@@ -1194,14 +1326,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Erfahre, wie du effektiv deine Reichweite auf Instagram steigern kannst.",
       "bullets": [
-        "_____________________________________________\n\nFolg mir gerne auch hier:\n📸 Instagram:   / https://www.instagram.com/sebiforce \n🤝 LinkedIn:   / https://www.linkedin.com/in/sebiforce/\n📲 Threads:   / https://www.threads.net/@sebiforce  \n🕺 TikT…"
+        "Nutze relevante Hashtags, um deine Sichtbarkeit zu erhöhen und neue Follower zu gewinnen.",
+        "Interagiere regelmäßig mit deiner Community, um Engagement und Loyalität zu fördern.",
+        "Veröffentliche qualitativ hochwertige Inhalte, die deine Zielgruppe ansprechen und fesseln.",
+        "Analysiere deine Statistiken, um herauszufinden, welche Inhalte am besten funktionieren.",
+        "Nutze Instagram Stories und Reels, um dynamische Inhalte zu teilen und mehr Reichweite zu erzielen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:30.313780+00:00",
-    "is_new": true
+    "is_new": false
   },
   "UW5EI5-_NOA": {
     "video_id": "UW5EI5-_NOA",
@@ -1214,14 +1350,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Sebiforce erklärt, wie man online mit minimalem Aufwand über 300€ pro Tag verdienen kann.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nIn diesem Gespräch teilt Sebiforce seine Erfahrungen und Erkenntnisse aus über zehn Jahren im Online-Business. Er beschreibt, wie er von einem angestellten Ingenieur zu einem …"
+        "Erfahrungen aus über zehn Jahren im Online-Business werden geteilt.",
+        "Sebiforce arbeitet nur 15 Stunden pro Woche und verdient mehr als zuvor.",
+        "Sechs häufige Fehler von Online-Unternehmern werden identifiziert und erläutert.",
+        "Die Bedeutung von E-Mail-Listen und der Wahl der richtigen Nische wird hervorgehoben.",
+        "Evergreen-Content ist entscheidend für langfristigen Erfolg im Online-Business."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:32.815791+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vnz-8WwTzkM": {
     "video_id": "vnz-8WwTzkM",
@@ -1234,14 +1374,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Erfahre, ob es möglich ist, 10.000€ in nur 10 Tagen zu verdienen.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nSchau das hier für einen Deepdive: \nhttps://youtu.be/UW5EI5-_NOA\n\nHör gerne mal rein: https://www.blogdichhoch.de/podcast\n_____________________________________________\n\nEigenw…"
+        "Das Video untersucht verschiedene Methoden, um schnell Geld zu verdienen.",
+        "Es werden Strategien und Systeme vorgestellt, die potenziell hohe Einnahmen ermöglichen.",
+        "Die Wichtigkeit von Planung und Disziplin wird betont, um finanzielle Ziele zu erreichen.",
+        "Der Autor bietet kostenlose Ressourcen und Workshops zur Unterstützung an.",
+        "Risiken und Herausforderungen beim schnellen Geldverdienen werden ebenfalls angesprochen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:35.318086+00:00",
-    "is_new": true
+    "is_new": false
   },
   "IUZvb0WFi2M": {
     "video_id": "IUZvb0WFi2M",
@@ -1254,14 +1398,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Kurzvideos schaden unserer Konzentration und emotionalen Gesundheit, wie Sebiforce erklärt.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n\nIn dieser Diskussion reflektiert Sebiforce über seine eigene Bildschirmzeit und die Auswirkungen von Kurzvideos auf das Gehirn. Er beschreibt, wie soziale Medien unsere Emoti…"
+        "Sebiforce reflektiert über die negative Wirkung von Kurzvideos auf das Gehirn.",
+        "Soziale Medien beeinflussen unsere Emotionen, Impulsivität und Motivation erheblich.",
+        "Die Algorithmen der Plattformen sind darauf ausgelegt, unsere Aufmerksamkeit zu fesseln.",
+        "Strategien zur Kontrolle der Bildschirmzeit helfen, gesunde Gewohnheiten zu entwickeln.",
+        "Das Video bietet wertvolle Einblicke in den Umgang mit digitalen Medien."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:37.820501+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LQRyr2I1Xfk": {
     "video_id": "LQRyr2I1Xfk",
@@ -1274,14 +1422,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Sebastian gibt einen ehrlichen Leitfaden für den Online-Business-Aufbau im Jahr 2026.",
       "bullets": [
-        "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nIn diesem Video spricht Sebastian, auch bekannt als Sebiforce, über die Herausforderungen und Strategien für den Aufbau eines erfolgreichen Online-Business im Jahr 2026. Er te…"
+        "Vermeide häufige Fehler beim Start deines Online-Business.",
+        "Verstehe die Bedeutung von Plattformen und Content-Strategien.",
+        "Nutze E-Mail-Listen und Nischenpositionierung für deinen Erfolg.",
+        "Abomodelle und Evergreen-Content sichern langfristigen Erfolg.",
+        "Lerne von Sebastians persönlichen Erfahrungen im Online-Business."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:40.322976+00:00",
-    "is_new": true
+    "is_new": false
   },
   "pE1zWdPS9E8": {
     "video_id": "pE1zWdPS9E8",
@@ -1294,14 +1446,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Niklas Steenfatt diskutiert die Zukunft der Softwareentwicklung und deren Herausforderungen.",
       "bullets": [
-        "Hostinger VPS: https://www.hostg.xyz/SHHuT (darauf laufen OpenClaw und Codex!)\nHostinger Web Deployment: https://www.hostg.xyz/SHJBl (darauf läuft die fertige Website)\n10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!\n\nFür nächstes Video-Th…"
+        "Softwareentwicklung steht vor grundlegenden Veränderungen durch neue Technologien und Ansätze.",
+        "Die Bedeutung von Automatisierung und KI in der Softwareentwicklung nimmt zu.",
+        "Traditionelle Methoden könnten durch agile und flexible Ansätze ersetzt werden.",
+        "Entwickler müssen sich kontinuierlich anpassen, um relevant zu bleiben.",
+        "Die Community spielt eine entscheidende Rolle bei der Gestaltung der Zukunft der Softwareentwicklung."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:40.481747+00:00",
-    "is_new": true
+    "is_new": false
   },
   "yfFARCwwKtQ": {
     "video_id": "yfFARCwwKtQ",
@@ -1314,14 +1470,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "In diesem Video wird OpenClaw in nur 19 Minuten vorgestellt und erklärt.",
       "bullets": [
-        "OpenClaw mit einem Klick installieren: https://www.hostg.xyz/SHJ1i (10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklasste…"
+        "OpenClaw ist ein vielseitiges Tool zur Produktivitätssteigerung und Automatisierung.",
+        "Die Installation erfolgt einfach über einen Klick und bietet Rabattaktionen.",
+        "Das Video behandelt verschiedene Funktionen wie Reverse Prompting und Markdown-Gedächtnis.",
+        "Zusätzlich werden Crons und Heartbeats als wichtige Features vorgestellt.",
+        "Nutzer können ihre Lebensbalance mit einem kostenlosen Quiz testen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:42.984263+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tsTUO9U0oh8": {
     "video_id": "tsTUO9U0oh8",
@@ -1334,14 +1494,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Das Video erklärt die Funktionsweise von OpenClaw auf einem VPS.",
       "bullets": [
-        "Mein OpenClaw läuft auf einem Hostinger VPS: https://www.hostg.xyz/SHJ7j (10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.nik…"
+        "OpenClaw läuft auf einem Hostinger VPS, ideal für Produktivität.",
+        "Das Terminal Setup und die Nutzung von Tiling Windows werden demonstriert.",
+        "Wichtige Funktionen sind Memory Feed und Session Log für effizientes Arbeiten.",
+        "Das Video bietet Einblicke in Command Executions und deren Nutzen.",
+        "Fazit betont die Vorteile von OpenClaw für persönliche Produktivität."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:45.486486+00:00",
-    "is_new": true
+    "is_new": false
   },
   "I2BWbK5bkAM": {
     "video_id": "I2BWbK5bkAM",
@@ -1354,14 +1518,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Niklas Steenfatt erklärt, wie er seinen n8n Server durch einen Fehler exponiert hat.",
       "bullets": [
-        "Mir ist ein peinlicher Fehler unterlaufen! Das gebe ich offen zu und nutze die Gelegenheit für ein Firewall & Cloudflare Tutorial!\n\nFür n8n empfehle ich Hostinger: https://www.hostg.xyz/SHHwD (Code: NIKLAS für 10% Rabatt auf alle Jahresplän…"
+        "Ein peinlicher Fehler führte zur Exposition seines n8n Servers.",
+        "Das Video dient als Tutorial für Firewall- und Cloudflare-Schutz.",
+        "Niklas empfiehlt Hostinger für n8n-Hosting mit Rabattcode.",
+        "Er bietet ein kostenloses Lebensbalance-Quiz an.",
+        "Zusätzliche Ressourcen wie Newsletter und Produktivitätssystem werden vorgestellt."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:47.988706+00:00",
-    "is_new": true
+    "is_new": false
   },
   "_XA_JNpw4LI": {
     "video_id": "_XA_JNpw4LI",
@@ -1374,14 +1542,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Horizons bietet beeindruckende neue Funktionen für Produktivität und Lebensbalance.",
       "bullets": [
-        "Okay Leute, Horizons ist ja wirklich krass geworden!\nHier kannst du es testen: https://www.hostg.xyz/SHIzs \n(keine Kreditkarte nötig  - später dann Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com…"
+        "Die App Horizons hat sich stark verbessert und bietet viele neue Möglichkeiten.",
+        "Nutzer können ihre Lebensbalance kostenlos testen und analysieren.",
+        "Niklas stellt sein komplettes Produktivitätssystem vor, um effizienter zu arbeiten.",
+        "Es gibt eine Live-Demo zur Erstellung und Nutzung von Apps in Horizons.",
+        "Mit dem Rabattcode NIKLAS erhalten Nutzer 10% auf zukünftige Käufe."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:50.490694+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0wz6lYgL-Do": {
     "video_id": "0wz6lYgL-Do",
@@ -1394,14 +1566,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "OpenClaw hat mein Leben durch Automatisierung und Produktivität erheblich verbessert.",
       "bullets": [
-        "OpenClaw Hosting: https://www.hostg.xyz/SHJ7h\nManaged WordPress Hosting: https://www.hostg.xyz/SHIyc\n(Code: NIKLAS für 10% Rabatt auf beides!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett k…"
+        "OpenClaw ermöglicht eine effektive Automatisierung von Arbeitsabläufen.",
+        "Die Plattform verbessert die persönliche Produktivität durch gezielte Tools.",
+        "Fünf konkrete Anwendungsbeispiele zeigen die Vielseitigkeit von OpenClaw.",
+        "Die Nutzung von OpenClaw kann zu einer besseren Lebensbalance führen.",
+        "Ein kostenloser Test zur Lebensbalance wird im Video angeboten."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:52.993650+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Le4oP-3mFes": {
     "video_id": "Le4oP-3mFes",
@@ -1414,14 +1590,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Erfahre, wie du KI-Assistenten kostenlos mit OpenClaw und Ollama einrichtest.",
       "bullets": [
-        "Der beste Weg, OpenClaw zu betreiben: https://www.hostg.xyz/SHJ7h (Code: NIKLAS für 10% Rabatt)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?…"
+        "OpenClaw ermöglicht die Nutzung von KI-Assistenten ohne zusätzliche Kosten.",
+        "Mit Nvidia und Ollama kannst du leistungsstarke KI-Modelle integrieren.",
+        "Der Video-Link bietet eine Schritt-für-Schritt-Anleitung zur Einrichtung.",
+        "Nutze den Rabattcode NIKLAS für 10% auf den empfohlenen Hosting-Service.",
+        "Teste deine Lebensbalance mit einem kostenlosen Online-Quiz."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:55.496081+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vF6jmGnsVs8": {
     "video_id": "vF6jmGnsVs8",
@@ -1434,14 +1614,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Ein Einblick in den Alltag eines digitalen Nomaden mit Fokus auf Produktivität.",
       "bullets": [
-        "Nie mehr Stress mit Buchhaltung: https://www.papierkram.de/ (Code: PNSTEENFATT für 40% Rabatt auf das Jahresabo!)\n\n💠 Mein Produktivitätssystem: https://fokus.so?el=tagimleben (Es ist sehr gut!)\n\n🌟 Teste deine Lebensbalance: https://quiz.nik…"
+        "Der Tag beginnt mit einer strukturierten Morgenroutine für optimale Produktivität.",
+        "Kaffee und Frühstück sind essentielle Bestandteile des Morgens.",
+        "Stressfreie Buchhaltung wird durch spezielle Tools und Rabatte erleichtert.",
+        "Ein Produktivitätssystem unterstützt die tägliche Planung und Lebensbalance.",
+        "Kostenlose Tests helfen, die persönliche Lebensbalance zu überprüfen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:34:57.998154+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Nf-P9tNbueo": {
     "video_id": "Nf-P9tNbueo",
@@ -1454,14 +1638,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Seid vorsichtig mit Online-Diensten und den Risiken, die sie mit sich bringen.",
       "bullets": [
-        "Hole dir jetzt deinen eigenen VPS: https://www.hostg.xyz/SHJ7j\nDu kannst dort mit einem Klick Tools wie n8n oder OpenClaw installieren!\n(Code: NIKLAS für 10% Rabatt)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife…"
+        "Hacker können durch unsichere Dienste leicht Zugriff auf persönliche Daten erhalten.",
+        "Es ist wichtig, das Risiko gegen das Potenzial von Online-Tools abzuwägen.",
+        "Ein VPS kann mit Docker-Katalogen sicherer gemacht werden.",
+        "Die Sichtbarkeit der Angriffsfläche sollte stets minimiert werden.",
+        "Nutze sichere Passwörter und regelmäßige Updates, um deine Daten zu schützen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:35:00.501529+00:00",
-    "is_new": true
+    "is_new": false
   },
   "RB0yCsaKJJU": {
     "video_id": "RB0yCsaKJJU",
@@ -1474,14 +1662,16 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Niklas Steenfatt teilt seine Einnahmen und Ausgaben als Informatiker im Alter von 31 Jahren.",
       "bullets": [
-        "Jetzt Kraken ausprobieren und 30€ (!!) in BTC geschenkt bekommen: https://kraken.pxf.io/c/5009311/3762442/10583\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.…"
+        "Er präsentiert sein Cashflow-Dashboard zur Übersicht seiner Finanzen.",
+        "Bitcoin wird als effektiver Wertespeicher hervorgehoben.",
+        "Der Unterschied zwischen Investitionen und Ausgaben wird erläutert."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:35:03.003849+00:00",
-    "is_new": true
+    "is_new": false
   },
   "xwSxx4f1vos": {
     "video_id": "xwSxx4f1vos",
@@ -1494,14 +1684,18 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "Google's Antigravity bietet beeindruckende Möglichkeiten zur Automatisierung von Arbeitsabläufen.",
       "bullets": [
-        "Server mit vorinstalliertem n8n: https://www.hostg.xyz/SHHwD\nAutomatisches Node.JS Deployment: https://www.hostinger.com/de/webanwendungs-hosting\n(Für beide: Code NIKLAS gibt 10% Rabatt auf Jahrespläne!)\n\n🌟 Teste deine Lebensbalance: https:…"
+        "n8n ermöglicht einfache Automatisierung von Prozessen ohne Programmierkenntnisse.",
+        "Google Antigravity revolutioniert die Art und Weise, wie wir mit Technologie interagieren.",
+        "Effiziente Arbeitsteilung steigert die Produktivität in Teams erheblich.",
+        "Das Video bietet nützliche Links zu Tools und Ressourcen für bessere Lebensbalance.",
+        "Niklas Steenfatt teilt persönliche Tipps zur Optimierung des eigenen Produktivitätssystems."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:35:05.506211+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QvLClSoSlkc": {
     "video_id": "QvLClSoSlkc",
@@ -1514,13 +1708,17 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt beim nächsten lokalen Lauf.",
+      "hook": "In diesem Video geht es um wichtige Themen der Lebensbalance und Produktivität.",
       "bullets": [
-        "Clawdbot selbst mit einem Klick testen und installieren: https://www.hostg.xyz/SHJ7h (Code: NIKLAS für 10% Rabatt aufs Hosting)\n\nAchtung: Bitte ganzes Video anschauen und mit Vorsicht behandeln! Artikel zu Clawdbot Security:\nhttps://www.hos…"
+        "Clawdbot kann einfach getestet und installiert werden, mit Rabattcode für Hosting.",
+        "Das Video betont die Notwendigkeit, Sicherheitsaspekte bei Clawdbot zu berücksichtigen.",
+        "Ein kostenloser Test zur Lebensbalance wird angeboten, um persönliche Prioritäten zu reflektieren.",
+        "Niklas teilt sein Produktivitätssystem, um effizienter zu arbeiten und Ziele zu erreichen.",
+        "Der Newsletter und Social-Media-Links bieten weitere Ressourcen und Informationen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-01T15:35:08.010795+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
