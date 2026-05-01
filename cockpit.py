@@ -16,10 +16,12 @@ inkrementell: bereits zusammengefasste Videos werden nicht neu verarbeitet.
 import argparse
 import html as html_mod
 import json
+import os
 import re
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -49,6 +51,12 @@ LAST_RUN_PATH = CACHE_DIR / "last_run.txt"
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "qwen2.5:14b"
+
+# GitHub Models (Inferenz-Service in Actions). Wenn GH_MODELS_TOKEN gesetzt ist,
+# verwendet summarize() diesen Pfad statt Ollama — dadurch laufen volle Summaries
+# auch im CI-Runner ohne lokales Ollama. Token = ${{ secrets.GITHUB_TOKEN }}.
+GH_MODELS_URL = "https://models.inference.ai.azure.com/chat/completions"
+GH_MODELS_MODEL = os.environ.get("GH_MODELS_NAME", "gpt-4o-mini")
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -228,6 +236,103 @@ def get_duration(video_id: str) -> str:
     return ""
 
 
+_SUMMARY_SYSTEM = (
+    "Du bist ein präziser deutscher Video-Zusammenfasser. "
+    "Antworte ausschließlich mit gültigem JSON nach Schema "
+    '{"hook": "...", "bullets": ["...", "...", "..."]}. '
+    "hook ist ein einzelner deutscher Satz (max. 18 Wörter), der den Kern des Videos trifft. "
+    "bullets sind 3-5 prägnante deutsche Aussagen (je max. 22 Wörter) zu den wichtigsten Erkenntnissen oder Schritten."
+)
+
+
+def _normalize_summary_json(raw: str, model_name: str) -> dict:
+    try:
+        result = json.loads(raw)
+    except Exception:
+        # Manche Modelle wrappen JSON in Markdown-Codeblock — versuche zu strippen
+        cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw.strip(), flags=re.MULTILINE)
+        result = json.loads(cleaned)
+    bullets = result.get("bullets") or []
+    if isinstance(bullets, str):
+        bullets = [bullets]
+    bullets = [str(b).strip() for b in bullets if str(b).strip()][:5]
+    hook = str(result.get("hook", "")).strip()
+    if not hook and bullets:
+        hook = bullets[0]
+    if not bullets:
+        bullets = ["Zusammenfassung konnte nicht extrahiert werden."]
+    return {"hook": hook or "—", "bullets": bullets, "model": model_name}
+
+
+def _summarize_github_models(transcript: str, title: str, channel_name: str, token: str) -> dict:
+    user_prompt = (
+        f"Kanal: {channel_name}\nVideotitel: {title}\n\nTranskript:\n{transcript}\n"
+    )
+    payload = json.dumps({
+        "model": GH_MODELS_MODEL,
+        "messages": [
+            {"role": "system", "content": _SUMMARY_SYSTEM},
+            {"role": "user", "content": user_prompt},
+        ],
+        "temperature": 0.25,
+        "response_format": {"type": "json_object"},
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        GH_MODELS_URL, data=payload,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        },
+    )
+    last_err = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            content = data["choices"][0]["message"]["content"]
+            return _normalize_summary_json(content, GH_MODELS_MODEL)
+        except urllib.error.HTTPError as e:
+            last_err = e
+            body = ""
+            try:
+                body = e.read().decode("utf-8", errors="replace")[:200]
+            except Exception:
+                pass
+            if e.code in (429, 500, 502, 503, 504):
+                wait = 5 * (attempt + 1)
+                log(f"     gh-models HTTP {e.code} ({body[:80]}), warte {wait}s und retry…")
+                time.sleep(wait)
+                continue
+            log(f"     gh-models HTTP {e.code}: {body[:160]}")
+            break
+        except Exception as e:
+            last_err = e
+            log(f"     gh-models Fehler: {type(e).__name__} {e}")
+            break
+    raise RuntimeError(f"GitHub Models gescheitert: {last_err}")
+
+
+def _summarize_ollama(transcript: str, title: str, channel_name: str) -> dict:
+    prompt = (
+        f"{_SUMMARY_SYSTEM}\n\nKanal: {channel_name}\nVideotitel: {title}\n\nTranskript:\n{transcript}\n"
+    )
+    payload = json.dumps({
+        "model": OLLAMA_MODEL,
+        "prompt": prompt,
+        "stream": False,
+        "format": "json",
+        "options": {"temperature": 0.25, "num_ctx": 16384},
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        OLLAMA_URL, data=payload,
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=600) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    return _normalize_summary_json(data.get("response", "{}"), OLLAMA_MODEL)
+
+
 def summarize(transcript: str, title: str, channel_name: str) -> dict:
     if not transcript or len(transcript) < 80:
         return {
@@ -236,45 +341,20 @@ def summarize(transcript: str, title: str, channel_name: str) -> dict:
             "model": None,
         }
 
-    prompt = (
-        "Du bist ein präziser deutscher Video-Zusammenfasser.\n"
-        f"Kanal: {channel_name}\n"
-        f"Videotitel: {title}\n\n"
-        "Erzeuge aus dem folgenden Transkript:\n"
-        "- 'hook': ein einzelner deutscher Satz mit max. 18 Wörtern, der den Kern des Videos auf den Punkt bringt.\n"
-        "- 'bullets': 3 bis 5 prägnante deutsche Bullet-Aussagen (jede max. 22 Wörter), die die wichtigsten Erkenntnisse oder Schritte aus dem Video festhalten.\n\n"
-        "Antworte ausschließlich mit JSON in exakt diesem Schema:\n"
-        '{"hook": "...", "bullets": ["...", "...", "..."]}\n\n'
-        "Transkript:\n"
-        f"{transcript}\n"
-    )
+    gh_token = os.environ.get("GH_MODELS_TOKEN")
+    if gh_token:
+        try:
+            return _summarize_github_models(transcript, title, channel_name, gh_token)
+        except Exception as e:
+            log(f"  [warn] GitHub Models nicht nutzbar: {e}")
+            return {
+                "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+                "bullets": [(transcript[:240] + "…") if len(transcript) > 240 else transcript],
+                "model": None,
+            }
 
-    payload = json.dumps({
-        "model": OLLAMA_MODEL,
-        "prompt": prompt,
-        "stream": False,
-        "format": "json",
-        "options": {"temperature": 0.25, "num_ctx": 16384},
-    }).encode("utf-8")
-
-    req = urllib.request.Request(
-        OLLAMA_URL, data=payload,
-        headers={"Content-Type": "application/json"},
-    )
     try:
-        with urllib.request.urlopen(req, timeout=600) as r:
-            data = json.loads(r.read().decode("utf-8"))
-        result = json.loads(data.get("response", "{}"))
-        bullets = result.get("bullets") or []
-        if isinstance(bullets, str):
-            bullets = [bullets]
-        bullets = [str(b).strip() for b in bullets if str(b).strip()][:5]
-        hook = str(result.get("hook", "")).strip()
-        if not hook and bullets:
-            hook = bullets[0]
-        if not bullets:
-            bullets = ["Zusammenfassung konnte nicht extrahiert werden."]
-        return {"hook": hook or "—", "bullets": bullets, "model": OLLAMA_MODEL}
+        return _summarize_ollama(transcript, title, channel_name)
     except Exception as e:
         log(f"  [warn] Ollama-Zusammenfassung fehlgeschlagen: {e}")
         return {

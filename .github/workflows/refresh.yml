@@ -19,10 +19,12 @@ concurrency:
 
 permissions:
   contents: write
+  models: read
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -33,8 +35,10 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Refresh RSS + render HTML
-        run: python cockpit.py --no-summary
+      - name: Refresh RSS + render HTML (Summaries via GitHub Models)
+        env:
+          GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python cockpit.py
 
       - name: Copy to index.html (für GitHub Pages)
         run: cp output/cockpit.html index.html
