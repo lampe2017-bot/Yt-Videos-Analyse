@@ -233,6 +233,31 @@ def _format_seconds(secs: int) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
+def _watchpage_duration(video_id: str) -> str:
+    """Holt die Watch-Seite und liest lengthSeconds aus dem ytInitialPlayerResponse.
+    Funktioniert auch von GitHub-Actions-IPs, solange ein Browser-UA + Consent-Cookie
+    gesetzt sind (siehe http_get)."""
+    try:
+        html = http_get(f"https://www.youtube.com/watch?v={video_id}", timeout=15)
+    except Exception:
+        return ""
+    m = re.search(r'"lengthSeconds":"(\d+)"', html)
+    if m:
+        secs = int(m.group(1))
+        if secs > 0:
+            return _format_seconds(secs)
+    # JSON-LD Format: "duration":"PT11M37S"
+    m = re.search(r'"duration":"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?"', html)
+    if m:
+        h = int(m.group(1) or 0)
+        mn = int(m.group(2) or 0)
+        s = int(m.group(3) or 0)
+        secs = h * 3600 + mn * 60 + s
+        if secs > 0:
+            return _format_seconds(secs)
+    return ""
+
+
 def _piped_duration(video_id: str) -> str:
     for base in PIPED_INSTANCES:
         try:
@@ -240,7 +265,7 @@ def _piped_duration(video_id: str) -> str:
                 f"{base}/streams/{video_id}",
                 headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
             )
-            with urllib.request.urlopen(req, timeout=12) as r:
+            with urllib.request.urlopen(req, timeout=8) as r:
                 data = json.loads(r.read().decode("utf-8"))
             secs = int(data.get("duration") or 0)
             if secs > 0:
@@ -251,8 +276,8 @@ def _piped_duration(video_id: str) -> str:
 
 
 def get_duration(video_id: str) -> str:
-    """yt-dlp zuerst (lokal zuverlaessig); Piped-Fallback wenn yt-dlp leer/fail
-    (z.B. YouTube blockt GitHub-Actions-IPs)."""
+    """Mehrstufiger Fallback: yt-dlp (lokal) -> YouTube-Watch-Page-Scrape (CI-tauglich)
+    -> oeffentliche Piped-Instanzen (selten verfuegbar, als letzter Strohhalm)."""
     url = f"https://www.youtube.com/watch?v={video_id}"
     try:
         out = subprocess.run(
@@ -268,7 +293,9 @@ def get_duration(video_id: str) -> str:
                     return d
     except Exception as e:
         log(f"  [info] yt-dlp duration {video_id}: {e}")
-    # Fallback ueber oeffentliche Piped-Instanzen
+    d = _watchpage_duration(video_id)
+    if d:
+        return d
     return _piped_duration(video_id)
 
 
@@ -725,22 +752,36 @@ def main():
             vid = entry["video_id"]
             existing = videos_db.get(vid)
             if existing:
-                # Lokaler Lauf: nur skippen, wenn echte Ollama-Summary + echtes Transkript da sind.
-                # CI-Lauf (--no-summary): existierende Videos nie erneut anfassen, egal in welchem Zustand.
+                videos_db[vid]["is_new"] = False
+                if entry.get("published"):
+                    videos_db[vid]["published"] = entry["published"]
+
                 if args.no_summary:
-                    videos_db[vid]["is_new"] = False
-                    # Published-Datum aus RSS aktualisieren, falls YouTube es korrigiert hat
-                    if entry.get("published"):
-                        videos_db[vid]["published"] = entry["published"]
                     continue
-                already_full = (
-                    existing.get("summary", {}).get("bullets")
-                    and existing.get("summary", {}).get("model")
-                    and existing.get("transcript_lang") not in (None, "rss-desc")
+
+                summary_done = bool(
+                    existing.get("summary", {}).get("model")
+                    and existing.get("summary", {}).get("bullets")
                 )
-                if already_full:
-                    videos_db[vid]["is_new"] = False
+                transcript_lang = existing.get("transcript_lang")
+                # "Lokal voll": echte Transkript-basierte Ollama/GH-Summary existiert
+                full_local = summary_done and transcript_lang not in (None, "rss-desc", "title-only")
+                duration_done = bool(existing.get("duration"))
+                in_ci = bool(os.environ.get("GH_MODELS_TOKEN"))
+
+                if full_local and duration_done:
                     continue
+
+                # CI-Modus: Summary akzeptieren wie sie ist (auch rss-desc/title-only),
+                # nur fehlende Duration nachreichen — spart die LLM-Calls bei jedem Cron.
+                if in_ci and summary_done:
+                    if not duration_done:
+                        d = get_duration(vid)
+                        if d:
+                            videos_db[vid]["duration"] = d
+                            log(f"   • {vid} — duration nachgereicht: {d}")
+                    continue
+                # Sonst: faellt durch zur vollen Re-Verarbeitung weiter unten
             if new_in_channel > 0:
                 time.sleep(2.5)
             new_in_channel += 1
