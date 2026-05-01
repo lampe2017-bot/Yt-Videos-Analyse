@@ -1728,5 +1728,25 @@
     },
     "first_seen": "2026-05-01T15:35:08.010795+00:00",
     "is_new": false
+  },
+  "OfIXI4Hrf2A": {
+    "video_id": "OfIXI4Hrf2A",
+    "title": "The best AI tools...",
+    "published": "2026-05-01T20:05:28+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OfIXI4Hrf2A/hqdefault.jpg",
+    "description": "Don't use these bad AI tools, use the good ones instead",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The best AI tools...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-01T20:12:23.191808+00:00",
+    "is_new": true
   }
 }
