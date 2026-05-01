@@ -214,7 +214,45 @@ def fetch_transcript(video_id: str, max_chars: int = MAX_TRANSCRIPT_CHARS):
     return text[:max_chars], lang
 
 
+# Public Piped-Instances als Fallback fuer YouTube-Metadaten ohne API-Key.
+# Reihenfolge = Versuchsreihenfolge; Liste rotiert sich von selbst, sobald eine Instanz down geht.
+PIPED_INSTANCES = [
+    "https://pipedapi.kavin.rocks",
+    "https://api-piped.mha.fi",
+    "https://piped-api.privacy.com.de",
+    "https://piped.adminforge.de",
+    "https://pipedapi.r4fo.com",
+]
+
+
+def _format_seconds(secs: int) -> str:
+    if secs <= 0:
+        return ""
+    h, rem = divmod(secs, 3600)
+    m, s = divmod(rem, 60)
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
+
+
+def _piped_duration(video_id: str) -> str:
+    for base in PIPED_INSTANCES:
+        try:
+            req = urllib.request.Request(
+                f"{base}/streams/{video_id}",
+                headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
+            )
+            with urllib.request.urlopen(req, timeout=12) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            secs = int(data.get("duration") or 0)
+            if secs > 0:
+                return _format_seconds(secs)
+        except Exception:
+            continue
+    return ""
+
+
 def get_duration(video_id: str) -> str:
+    """yt-dlp zuerst (lokal zuverlaessig); Piped-Fallback wenn yt-dlp leer/fail
+    (z.B. YouTube blockt GitHub-Actions-IPs)."""
     url = f"https://www.youtube.com/watch?v={video_id}"
     try:
         out = subprocess.run(
@@ -225,15 +263,13 @@ def get_duration(video_id: str) -> str:
         for line in reversed(out.stdout.strip().splitlines()):
             line = line.strip()
             if line and line != "NA" and line.isdigit():
-                secs = int(line)
-                h, rem = divmod(secs, 3600)
-                m, s = divmod(rem, 60)
-                if h:
-                    return f"{h}:{m:02d}:{s:02d}"
-                return f"{m}:{s:02d}"
+                d = _format_seconds(int(line))
+                if d:
+                    return d
     except Exception as e:
-        log(f"  [warn] duration-Abfrage fehlgeschlagen {video_id}: {e}")
-    return ""
+        log(f"  [info] yt-dlp duration {video_id}: {e}")
+    # Fallback ueber oeffentliche Piped-Instanzen
+    return _piped_duration(video_id)
 
 
 _SUMMARY_SYSTEM = (
@@ -724,7 +760,9 @@ def main():
                     log("     fallback: nutze RSS-Beschreibung statt Transkript")
                     transcript = entry["description"]
                     lang = "rss-desc"
-                duration = get_duration(vid)
+                # Cache-aware: Duration nur fetchen wenn noch nicht bekannt
+                cached_duration = (existing or {}).get("duration", "") if existing else ""
+                duration = cached_duration if cached_duration else get_duration(vid)
 
             if args.no_summary:
                 desc = (entry.get("description") or "").strip()
@@ -735,11 +773,30 @@ def main():
                     "model": None,
                 }
             elif not transcript:
-                summary = {
-                    "hook": "Kein Auto-Transkript verfügbar.",
-                    "bullets": [entry["description"][:200] + "…"] if entry.get("description") else ["—"],
-                    "model": None,
-                }
+                # Letzte Rettung: nur Titel — das LLM kann meist trotzdem einen plausiblen Hook generieren
+                title_only = entry.get("title", "").strip()
+                if title_only and os.environ.get("GH_MODELS_TOKEN"):
+                    log("     keine Transkript-/Description-Quelle, summarisiere allein aus Titel")
+                    try:
+                        summary = _summarize_github_models(
+                            f"(Nur Videotitel verfügbar) {title_only}",
+                            title_only, ch["name"],
+                            os.environ["GH_MODELS_TOKEN"],
+                        )
+                        lang = "title-only"
+                    except Exception as e:
+                        log(f"     title-only fail: {e}")
+                        summary = {
+                            "hook": "Kein Auto-Transkript verfügbar.",
+                            "bullets": ["—"],
+                            "model": None,
+                        }
+                else:
+                    summary = {
+                        "hook": "Kein Auto-Transkript verfügbar.",
+                        "bullets": [entry["description"][:200] + "…"] if entry.get("description") else ["—"],
+                        "model": None,
+                    }
             else:
                 log(f"     summarisiere via {OLLAMA_MODEL} ({len(transcript)} Zeichen)…")
                 t0 = time.time()
