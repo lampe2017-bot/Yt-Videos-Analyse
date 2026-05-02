@@ -1767,7 +1767,7 @@
       "model": null
     },
     "first_seen": "2026-05-01T23:12:53.568929+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sEPxf14BwJ4": {
     "video_id": "sEPxf14BwJ4",
@@ -1787,7 +1787,7 @@
       "model": null
     },
     "first_seen": "2026-05-01T23:12:58.941461+00:00",
-    "is_new": true
+    "is_new": false
   },
   "o9uNoSUPDPE": {
     "video_id": "o9uNoSUPDPE",
@@ -1807,6 +1807,30 @@
       "model": null
     },
     "first_seen": "2026-05-01T23:13:04.596416+00:00",
+    "is_new": false
+  },
+  "NmCWQSS6CO4": {
+    "video_id": "NmCWQSS6CO4",
+    "title": "Der große KI-Irrtum: Wieso nicht alles KI-generiert sein muss! (Klartext)",
+    "published": "2026-05-02T08:15:02+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/NmCWQSS6CO4/hqdefault.jpg",
+    "description": "Warum macht OpenAI KEINE KI-generierten Werbespots und wieso nehme ich meine Videos nicht mit einem KI-Avatar auf, wenn KI doch so gut ist? Die Antwort ist simpel. In diesem Video teile ich dir meine Gedanken dazu.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Leona",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Nicht alles muss KI-generiert sein, um erfolgreich zu sein.",
+      "bullets": [
+        "OpenAI produziert keine KI-generierten Werbespots, um Authentizität zu wahren.",
+        "Leonard Schmedding nutzt keinen KI-Avatar in seinen Videos, um persönliche Verbindung zu schaffen.",
+        "Die menschliche Kreativität bleibt entscheidend, auch in der KI-Revolution.",
+        "Echte Interaktion und Emotionen sind schwer durch KI zu ersetzen.",
+        "Es gibt wertvolle Alternativen zur KI, die menschliche Expertise erfordern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-02T10:07:47.182523+00:00",
     "is_new": true
   }
 }
