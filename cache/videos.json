@@ -1915,5 +1915,89 @@
     },
     "first_seen": "2026-05-02T17:12:18.013744+00:00",
     "is_new": false
+  },
+  "vNRauHt1W3g": {
+    "video_id": "vNRauHt1W3g",
+    "title": "Don't say these words in business",
+    "published": "2026-05-02T21:01:16+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vNRauHt1W3g/hqdefault.jpg",
+    "description": "Don't say these words in business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't say these words in business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T22:07:26.306708+00:00",
+    "is_new": true
+  },
+  "s8rjsD4vYGs": {
+    "video_id": "s8rjsD4vYGs",
+    "title": "What AI Tips are ACTUALLY important in 2026?",
+    "published": "2026-05-02T21:01:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/s8rjsD4vYGs/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Im Jahr 2026 sind bestimmte KI-Tipps entscheidend für den Erfolg.",
+      "bullets": [
+        "Fokussierung auf ethische KI-Entwicklung wird immer wichtiger.",
+        "Datenmanagement und -sicherheit sind zentrale Themen für Unternehmen.",
+        "Interdisziplinäre Zusammenarbeit fördert innovative KI-Lösungen.",
+        "Anpassungsfähigkeit an neue Technologien ist entscheidend für Wettbewerbsfähigkeit.",
+        "Fortlaufende Weiterbildung im KI-Bereich ist unerlässlich für Fachkräfte."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-02T22:07:33.529383+00:00",
+    "is_new": true
+  },
+  "XlkNhqZkg8A": {
+    "video_id": "XlkNhqZkg8A",
+    "title": "AI Tips that ACTUALLY help",
+    "published": "2026-05-02T21:01:00+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XlkNhqZkg8A/hqdefault.jpg",
+    "description": "AI Tips that ACTUALLY help",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI Tips that ACTUALLY help",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T22:07:39.405302+00:00",
+    "is_new": true
+  },
+  "voFtZvr2Fh8": {
+    "video_id": "voFtZvr2Fh8",
+    "title": "What prison felt like",
+    "published": "2026-05-02T21:00:43+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/voFtZvr2Fh8/hqdefault.jpg",
+    "description": "What prison felt like",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What prison felt like",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T22:07:44.936745+00:00",
+    "is_new": true
   }
 }
