@@ -1832,5 +1832,88 @@
     },
     "first_seen": "2026-05-02T10:07:47.182523+00:00",
     "is_new": false
+  },
+  "YCdC8IdMfP4": {
+    "video_id": "YCdC8IdMfP4",
+    "title": "Improve your prompts",
+    "published": "2026-05-02T15:02:35+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YCdC8IdMfP4/hqdefault.jpg",
+    "description": "5 easy tips to prompt AI better",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Improve your prompts",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T17:11:56.506593+00:00",
+    "is_new": true
+  },
+  "Yb8hxHMEpZA": {
+    "video_id": "Yb8hxHMEpZA",
+    "title": "Stop automating tasks yourself",
+    "published": "2026-05-02T15:02:18+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Yb8hxHMEpZA/hqdefault.jpg",
+    "description": "AI automation is dead",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop automating tasks yourself",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T17:12:03.103867+00:00",
+    "is_new": true
+  },
+  "Jk4ZpJ-gqls": {
+    "video_id": "Jk4ZpJ-gqls",
+    "title": "ADHD should be the reason you win",
+    "published": "2026-05-02T15:02:03+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Jk4ZpJ-gqls/hqdefault.jpg",
+    "description": "ADHD should be the reason you win",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "ADHD should be the reason you win",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-02T17:12:09.512215+00:00",
+    "is_new": true
+  },
+  "n3a-8IHSQpQ": {
+    "video_id": "n3a-8IHSQpQ",
+    "title": "If you're in your 20s, watch this...",
+    "published": "2026-05-02T15:01:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/n3a-8IHSQpQ/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Dieses Video bietet wertvolle Ratschläge für Menschen in ihren 20ern.",
+      "bullets": [
+        "Nutze deine 20er, um Erfahrungen zu sammeln und zu lernen.",
+        "Investiere in persönliche Entwicklung und Bildung für langfristigen Erfolg.",
+        "Baue ein starkes Netzwerk auf, das dir in der Zukunft helfen kann.",
+        "Setze dir klare Ziele und arbeite konsequent an deren Erreichung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-02T17:12:18.013744+00:00",
+    "is_new": true
   }
 }
