@@ -1999,5 +1999,29 @@
     },
     "first_seen": "2026-05-02T22:07:44.936745+00:00",
     "is_new": false
+  },
+  "k_-AsnFqbqQ": {
+    "video_id": "k_-AsnFqbqQ",
+    "title": "KI-News: Codex „Goal\" arbeitet TAGELANG, Claude übernimmt ADS, Opus 4.7. gehackt & OpenAI „Goblins”",
+    "published": "2026-05-03T08:15:00+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/k_-AsnFqbqQ/hqdefault.jpg",
+    "description": "Meta Ads CLI steuert Werbeanzeigen direkt aus Codex und Claude Code. Plus: Codex Goals, Project Deal und der Opus 4.7 & Claude Cowork Hack von KI-Forscher Johann Rehberger. \n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nMeta Ads CLI kostenfrei einrichten: https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-cli/setup/get-started \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösunge",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die neuesten Entwicklungen in der KI-Welt: Codex, Claude und Sicherheitsprobleme.",
+      "bullets": [
+        "Meta Ads CLI ermöglicht die Steuerung von Werbeanzeigen direkt aus Codex und Claude.",
+        "Codex Goals und Project Deal bieten neue Möglichkeiten für KI-Anwendungen.",
+        "Opus 4.7 wurde gehackt, was Sicherheitsbedenken aufwirft.",
+        "Claude übernimmt Aufgaben im Bereich der automatisierten Werbung.",
+        "Kostenfreier Workshop zur Integration von KI in Unternehmen wird angeboten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-03T10:36:39.350684+00:00",
+    "is_new": true
   }
 }
