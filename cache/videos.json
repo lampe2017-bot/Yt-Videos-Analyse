@@ -2066,7 +2066,7 @@
       "model": null
     },
     "first_seen": "2026-05-03T17:14:20.092516+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Bj5G9HvqABE": {
     "video_id": "Bj5G9HvqABE",
@@ -2086,7 +2086,7 @@
       "model": null
     },
     "first_seen": "2026-05-03T17:14:25.975457+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8E5q1Yl95Lo": {
     "video_id": "8E5q1Yl95Lo",
@@ -2110,6 +2110,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-03T17:14:34.306214+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
