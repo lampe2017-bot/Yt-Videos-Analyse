@@ -2047,5 +2047,69 @@
     },
     "first_seen": "2026-05-03T14:18:42.624283+00:00",
     "is_new": true
+  },
+  "2J0Y0Gezw0M": {
+    "video_id": "2J0Y0Gezw0M",
+    "title": "How to make money as a teenager",
+    "published": "2026-05-03T15:03:30+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2J0Y0Gezw0M/hqdefault.jpg",
+    "description": "The best trade in 2026...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to make money as a teenager",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-03T17:14:20.092516+00:00",
+    "is_new": true
+  },
+  "Bj5G9HvqABE": {
+    "video_id": "Bj5G9HvqABE",
+    "title": "How to master Claude",
+    "published": "2026-05-03T15:01:26+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Bj5G9HvqABE/hqdefault.jpg",
+    "description": "You can master Claude in these 4 simple steps",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to master Claude",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-03T17:14:25.975457+00:00",
+    "is_new": true
+  },
+  "8E5q1Yl95Lo": {
+    "video_id": "8E5q1Yl95Lo",
+    "title": "How to get rich with AI...",
+    "published": "2026-05-03T15:00:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8E5q1Yl95Lo/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Das Video erklärt, wie man mit Künstlicher Intelligenz reich werden kann.",
+      "bullets": [
+        "Nutze KI-Tools, um Prozesse zu automatisieren und Zeit zu sparen.",
+        "Identifiziere lukrative Nischen, in denen KI einen Mehrwert bietet.",
+        "Investiere in KI-Startups oder entwickle eigene KI-Lösungen.",
+        "Bildung und Weiterbildung im Bereich KI sind entscheidend für den Erfolg.",
+        "Netzwerke mit anderen Unternehmern, um Ideen und Strategien auszutauschen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-03T17:14:34.306214+00:00",
+    "is_new": true
   }
 }
