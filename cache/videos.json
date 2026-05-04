@@ -2295,5 +2295,108 @@
     },
     "first_seen": "2026-05-04T15:35:09.915688+00:00",
     "is_new": false
+  },
+  "AiuuMsKoQnI": {
+    "video_id": "AiuuMsKoQnI",
+    "title": "The higher you go, the quieter it gets",
+    "published": "2026-05-04T21:01:22+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AiuuMsKoQnI/hqdefault.jpg",
+    "description": "The higher you go, the quieter it gets",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The higher you go, the quieter it gets",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T23:41:30.421039+00:00",
+    "is_new": true
+  },
+  "Wtl8MjjJ8Gg": {
+    "video_id": "Wtl8MjjJ8Gg",
+    "title": "These words are gonna kill your business in 2026",
+    "published": "2026-05-04T21:01:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Wtl8MjjJ8Gg/hqdefault.jpg",
+    "description": "These words are gonna kill your business in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These words are gonna kill your business in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T23:41:36.348943+00:00",
+    "is_new": true
+  },
+  "iFKsmu32LiE": {
+    "video_id": "iFKsmu32LiE",
+    "title": "Important vs NOT Important (AI TIPS FOR 2026)",
+    "published": "2026-05-04T21:01:04+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iFKsmu32LiE/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Das Video beleuchtet wichtige und unwichtige Aspekte der KI-Entwicklung bis 2026.",
+      "bullets": [
+        "Fokussierung auf relevante KI-Technologien ist entscheidend für den Erfolg.",
+        "Unwichtige Trends können Ressourcen und Zeit verschwenden.",
+        "Strategische Entscheidungen sollten auf langfristigen Zielen basieren.",
+        "Die richtige Priorisierung beeinflusst die Wettbewerbsfähigkeit erheblich."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-04T23:41:44.065904+00:00",
+    "is_new": true
+  },
+  "usOaJj_Rgiw": {
+    "video_id": "usOaJj_Rgiw",
+    "title": "AI tips that are ACTUALLY IMPORTANT",
+    "published": "2026-05-04T21:00:54+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/usOaJj_Rgiw/hqdefault.jpg",
+    "description": "AI tips that are ACTUALLY IMPORTANT",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tips that are ACTUALLY IMPORTANT",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T23:41:49.746603+00:00",
+    "is_new": true
+  },
+  "RNnS3n_bdYM": {
+    "video_id": "RNnS3n_bdYM",
+    "title": "Dan Martell's prison story",
+    "published": "2026-05-04T21:00:32+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RNnS3n_bdYM/hqdefault.jpg",
+    "description": "Dan Martell's prison story",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Dan Martell's prison story",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T23:41:55.172467+00:00",
+    "is_new": true
   }
 }
