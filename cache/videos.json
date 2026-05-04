@@ -2191,5 +2191,109 @@
     },
     "first_seen": "2026-05-03T22:27:52.954673+00:00",
     "is_new": false
+  },
+  "ZQ7zcLPacoQ": {
+    "video_id": "ZQ7zcLPacoQ",
+    "title": "AI prompting",
+    "published": "2026-05-04T15:03:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZQ7zcLPacoQ/hqdefault.jpg",
+    "description": "5 easy tips to prompt AI better",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI prompting",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T15:34:44.566150+00:00",
+    "is_new": true
+  },
+  "TMCNZml7aQg": {
+    "video_id": "TMCNZml7aQg",
+    "title": "Stop waiting on luck",
+    "published": "2026-05-04T15:02:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TMCNZml7aQg/hqdefault.jpg",
+    "description": "Luck doesn't exist...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop waiting on luck",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T15:34:50.323940+00:00",
+    "is_new": true
+  },
+  "MXORa2dUpHU": {
+    "video_id": "MXORa2dUpHU",
+    "title": "Stop automating tasks yourself",
+    "published": "2026-05-04T15:01:55+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/MXORa2dUpHU/hqdefault.jpg",
+    "description": "AI automation is dead",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop automating tasks yourself",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T15:34:56.020067+00:00",
+    "is_new": true
+  },
+  "88gWSjcgQSM": {
+    "video_id": "88gWSjcgQSM",
+    "title": "ADHD should be the reason you win",
+    "published": "2026-05-04T15:00:50+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/88gWSjcgQSM/hqdefault.jpg",
+    "description": "ADHD should be the reason you win",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "ADHD should be the reason you win",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-04T15:35:01.667156+00:00",
+    "is_new": true
+  },
+  "Aq6kt7qaylw": {
+    "video_id": "Aq6kt7qaylw",
+    "title": "How to be more consistent than 99% of people (just copy me)",
+    "published": "2026-05-04T13:00:19+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Aq6kt7qaylw/hqdefault.jpg",
+    "description": "✅ Get your FREE Perfect Week Template here: https://go.danmartell.com/4cNxWvx\n\nMost people think they have a discipline problem. They don't.\n\nWhat they actually have is an identity problem dressed up as a willpower problem, and no amount of grinding will fix it.\n\nIn this video, I'm giving you the formula I've used to stay consistent through three exits, scaling past $100M, and finishing three Ironmans, even on the days I didn't feel like showing up. Watch to the end if you're tired of starting over every Monday.\n\n▸▸ Subscribe to The Martell Method Newsletter: https://bit.ly/3XEBXez\n\n▸▸ Get My ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre, wie du konsequenter wirst als 99% der Menschen.",
+      "bullets": [
+        "Die meisten haben kein Disziplinproblem, sondern ein Identitätsproblem.",
+        "Willenskraft allein reicht nicht aus, um langfristig erfolgreich zu sein.",
+        "Die richtige Identität ist entscheidend für nachhaltige Konsistenz.",
+        "Nutze bewährte Strategien, um auch an schwierigen Tagen motiviert zu bleiben.",
+        "Vermeide es, jede Woche von Neuem zu beginnen, indem du deine Gewohnheiten veränderst."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-04T15:35:09.915688+00:00",
+    "is_new": true
   }
 }
