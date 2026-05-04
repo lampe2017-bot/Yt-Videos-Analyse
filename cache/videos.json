@@ -2130,7 +2130,7 @@
       "model": null
     },
     "first_seen": "2026-05-03T22:27:35.170798+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1g6Md5gFswM": {
     "video_id": "1g6Md5gFswM",
@@ -2150,7 +2150,7 @@
       "model": null
     },
     "first_seen": "2026-05-03T22:27:40.896001+00:00",
-    "is_new": true
+    "is_new": false
   },
   "017xwRRRKTA": {
     "video_id": "017xwRRRKTA",
@@ -2170,7 +2170,7 @@
       "model": null
     },
     "first_seen": "2026-05-03T22:27:46.912875+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Gt7ybBoyCaM": {
     "video_id": "Gt7ybBoyCaM",
@@ -2190,6 +2190,6 @@
       "model": null
     },
     "first_seen": "2026-05-03T22:27:52.954673+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
