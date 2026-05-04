@@ -2210,7 +2210,7 @@
       "model": null
     },
     "first_seen": "2026-05-04T15:34:44.566150+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TMCNZml7aQg": {
     "video_id": "TMCNZml7aQg",
@@ -2230,7 +2230,7 @@
       "model": null
     },
     "first_seen": "2026-05-04T15:34:50.323940+00:00",
-    "is_new": true
+    "is_new": false
   },
   "MXORa2dUpHU": {
     "video_id": "MXORa2dUpHU",
@@ -2250,7 +2250,7 @@
       "model": null
     },
     "first_seen": "2026-05-04T15:34:56.020067+00:00",
-    "is_new": true
+    "is_new": false
   },
   "88gWSjcgQSM": {
     "video_id": "88gWSjcgQSM",
@@ -2270,7 +2270,7 @@
       "model": null
     },
     "first_seen": "2026-05-04T15:35:01.667156+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Aq6kt7qaylw": {
     "video_id": "Aq6kt7qaylw",
@@ -2294,6 +2294,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-04T15:35:09.915688+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
