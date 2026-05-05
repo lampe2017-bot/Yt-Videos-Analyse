@@ -2398,5 +2398,89 @@
     },
     "first_seen": "2026-05-04T23:41:55.172467+00:00",
     "is_new": false
+  },
+  "FLZEcCHa5CQ": {
+    "video_id": "FLZEcCHa5CQ",
+    "title": "34 Codex Tipps für Anfänger in 2026! (Die neue ChatGPT Super-App)",
+    "published": "2026-05-05T15:15:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FLZEcCHa5CQ/hqdefault.jpg",
+    "description": "Codex ist die neue SuperApp von OpenAI, die ChatGPT ablöst. In diesem Video teile ich dir 34 Tipps zu für den Arbeitsalltag, wie Skills, Plugins, Subagenten, Browser Use und Automatisierungen ohne Code.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nLerne Tools wie Agentic Coding Tools wie Claude Code und Codex von A-Z: https://claudecodekurs.de \nMit diesem Tool mache ich meine Spracheingabe im Video: https://voicely.de \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke 34 nützliche Codex Tipps für Anfänger in der neuen ChatGPT Super-App.",
+      "bullets": [
+        "Codex ersetzt ChatGPT und bietet neue Funktionen für den Arbeitsalltag.",
+        "Erlerne Skills, Plugins und Automatisierungen ohne Programmierkenntnisse.",
+        "Nutze Subagenten und Browser-Integration für effizientere Arbeitsabläufe.",
+        "Melde dich für den kostenfreien Live Agentic Coding Workshop an.",
+        "Entwickle deine Fähigkeiten mit Tools wie Claude Code und Codex von A-Z."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-05T17:08:55.042305+00:00",
+    "is_new": true
+  },
+  "lSXroqjPOws": {
+    "video_id": "lSXroqjPOws",
+    "title": "A message to business owners",
+    "published": "2026-05-05T15:02:22+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lSXroqjPOws/hqdefault.jpg",
+    "description": "If you don't teach your team AI, they will be unprepared for the future",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "A message to business owners",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-05T17:11:03.382345+00:00",
+    "is_new": true
+  },
+  "2oPk0OD0G0Y": {
+    "video_id": "2oPk0OD0G0Y",
+    "title": "How to make money as a teenager",
+    "published": "2026-05-05T15:02:05+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2oPk0OD0G0Y/hqdefault.jpg",
+    "description": "The best trade in 2026...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to make money as a teenager",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-05T17:11:57.580874+00:00",
+    "is_new": true
+  },
+  "BIXPOWNu7sk": {
+    "video_id": "BIXPOWNu7sk",
+    "title": "How to master Claude",
+    "published": "2026-05-05T15:01:07+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BIXPOWNu7sk/hqdefault.jpg",
+    "description": "You can master Claude in these 4 simple steps",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to master Claude",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-05T17:12:51.995034+00:00",
+    "is_new": true
   }
 }
