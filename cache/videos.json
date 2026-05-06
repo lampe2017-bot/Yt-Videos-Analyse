@@ -2501,7 +2501,7 @@
       "model": null
     },
     "first_seen": "2026-05-05T23:37:03.101371+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZgO4TKmlj2Q": {
     "video_id": "ZgO4TKmlj2Q",
@@ -2521,7 +2521,7 @@
       "model": null
     },
     "first_seen": "2026-05-05T23:37:08.475737+00:00",
-    "is_new": true
+    "is_new": false
   },
   "pl2Wjj-QURg": {
     "video_id": "pl2Wjj-QURg",
@@ -2541,7 +2541,7 @@
       "model": null
     },
     "first_seen": "2026-05-05T23:37:14.390445+00:00",
-    "is_new": true
+    "is_new": false
   },
   "3tJtPCJ07fM": {
     "video_id": "3tJtPCJ07fM",
@@ -2561,6 +2561,110 @@
       "model": null
     },
     "first_seen": "2026-05-05T23:37:20.046784+00:00",
+    "is_new": false
+  },
+  "Utk1C8yYJuc": {
+    "video_id": "Utk1C8yYJuc",
+    "title": "Robotik-Experte: Humanoide im Haushalt werden SCHEITERN! Das passiert stattdessen (Hendrik Susemihl)",
+    "published": "2026-05-06T15:15:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Utk1C8yYJuc/hqdefault.jpg",
+    "description": "Dr. Hendrik Susemihl hat in Robotik promoviert, war CTO bei Neura Robotics und baut heute mit Goodbites vollautonome Roboterküchen. Wir sprechen darüber, warum unser Wohlstand schon vorbei ist, was Deutschland gerade verschläft und wie ein virales Video aus einem Hamburger Schlachthaus dafür gesorgt hat, dass plötzlich zwei US-Soldaten in seinem Demorestaurant standen.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen ei",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Humanoide Roboter im Haushalt werden scheitern, während autonome Lösungen an Bedeutung gewinnen.",
+      "bullets": [
+        "Dr. Hendrik Susemihl erklärt, warum humanoide Roboter nicht die Lösung für den Haushalt sind.",
+        "Deutschland verpasst wichtige Entwicklungen in der Robotik und KI-Integration.",
+        "Ein virales Video aus einem Schlachthaus führte zu unerwartetem Interesse an Susemihls Demorestaurant.",
+        "Vollautonome Roboterküchen könnten die Zukunft der Gastronomie revolutionieren.",
+        "Unternehmen sollten KI-Lösungen implementieren, um wettbewerbsfähig zu bleiben."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-06T15:54:50.903959+00:00",
+    "is_new": true
+  },
+  "R9KQCpJ5nr0": {
+    "video_id": "R9KQCpJ5nr0",
+    "title": "Underrated AI tools in 2026",
+    "published": "2026-05-06T15:03:10+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/R9KQCpJ5nr0/hqdefault.jpg",
+    "description": "AI tools that will save you hours every week",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Underrated AI tools in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-06T15:56:13.637758+00:00",
+    "is_new": true
+  },
+  "5jhTM5eqYeU": {
+    "video_id": "5jhTM5eqYeU",
+    "title": "Stop waiting on luck",
+    "published": "2026-05-06T15:03:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5jhTM5eqYeU/hqdefault.jpg",
+    "description": "Luck doesn't exist",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop waiting on luck",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-06T15:56:19.324476+00:00",
+    "is_new": true
+  },
+  "RjYkxKLn278": {
+    "video_id": "RjYkxKLn278",
+    "title": "Prompt AI better",
+    "published": "2026-05-06T15:02:49+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RjYkxKLn278/hqdefault.jpg",
+    "description": "5 easy tips to prompt AI better",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prompt AI better",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-06T15:56:24.940421+00:00",
+    "is_new": true
+  },
+  "f2Z0rhtF4SE": {
+    "video_id": "f2Z0rhtF4SE",
+    "title": "Stop automating tasks yourself",
+    "published": "2026-05-06T15:01:26+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f2Z0rhtF4SE/hqdefault.jpg",
+    "description": "AI automation is dead",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop automating tasks yourself",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-06T15:56:30.879991+00:00",
     "is_new": true
   }
 }
