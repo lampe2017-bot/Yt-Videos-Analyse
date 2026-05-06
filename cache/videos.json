@@ -2585,7 +2585,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-06T15:54:50.903959+00:00",
-    "is_new": true
+    "is_new": false
   },
   "R9KQCpJ5nr0": {
     "video_id": "R9KQCpJ5nr0",
@@ -2605,7 +2605,7 @@
       "model": null
     },
     "first_seen": "2026-05-06T15:56:13.637758+00:00",
-    "is_new": true
+    "is_new": false
   },
   "5jhTM5eqYeU": {
     "video_id": "5jhTM5eqYeU",
@@ -2625,7 +2625,7 @@
       "model": null
     },
     "first_seen": "2026-05-06T15:56:19.324476+00:00",
-    "is_new": true
+    "is_new": false
   },
   "RjYkxKLn278": {
     "video_id": "RjYkxKLn278",
@@ -2645,7 +2645,7 @@
       "model": null
     },
     "first_seen": "2026-05-06T15:56:24.940421+00:00",
-    "is_new": true
+    "is_new": false
   },
   "f2Z0rhtF4SE": {
     "video_id": "f2Z0rhtF4SE",
@@ -2665,6 +2665,30 @@
       "model": null
     },
     "first_seen": "2026-05-06T15:56:30.879991+00:00",
+    "is_new": false
+  },
+  "YyOxv2P7Wmc": {
+    "video_id": "YyOxv2P7Wmc",
+    "title": "Wenn dein Online Business noch nicht funktioniert: Schau DAS",
+    "published": "2026-05-06T16:01:04+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YyOxv2P7Wmc/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichhoch.de/newsletter\n📌 Apps & Tools die ich nutze: https://www.blogdichhoch.de/empfehlungen\n📌 ChatGPT E-Book: https://www.blogdichhoch.de/chatgpt\n📌 Firmenkreditkarte: https://www.blogdichhoch.de/amex/\n_____________________________________________\n\n#onlinegeldverdienen #onlinegeldverdienen2026 #onlinebusinessstarten\n📌 📌 Lerne mein System kostenlos:  https://",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke effektive Strategien, um dein Online-Business zum Laufen zu bringen.",
+      "bullets": [
+        "Nutze kostenlose Ressourcen, um dein Wissen über Online-Geschäfte zu erweitern.",
+        "Ein kostenloser Unternehmer-Workshop bietet wertvolle Einblicke und Strategien.",
+        "E-Mail-Coaching kann dir helfen, individuelle Herausforderungen zu meistern.",
+        "Verwende bewährte Apps und Tools, um deine Effizienz zu steigern.",
+        "Informiere dich über spezielle Angebote, wie das ChatGPT E-Book."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-06T20:57:29.266879+00:00",
     "is_new": true
   }
 }
