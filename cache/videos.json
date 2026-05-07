@@ -2709,7 +2709,7 @@
       "model": null
     },
     "first_seen": "2026-05-06T23:37:48.271184+00:00",
-    "is_new": true
+    "is_new": false
   },
   "JoHtVYLREKc": {
     "video_id": "JoHtVYLREKc",
@@ -2729,6 +2729,6 @@
       "model": null
     },
     "first_seen": "2026-05-06T23:37:53.679630+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
