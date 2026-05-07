@@ -2730,5 +2730,93 @@
     },
     "first_seen": "2026-05-06T23:37:53.679630+00:00",
     "is_new": false
+  },
+  "uL11z0Apnn4": {
+    "video_id": "uL11z0Apnn4",
+    "title": "“Ihr werdet euer blaues Wunder erleben” Robotik-Professor über China, Humanoide & die Zukunft",
+    "published": "2026-05-07T15:15:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uL11z0Apnn4/hqdefault.jpg",
+    "description": "Prof. Dr. Alexander König im Gespräch mit Leonard Schmedding über den aktuellen Stand Humanoider Roboter, China und die Zukunft der Robotik.\n\nZum letzten Gespräch mit Alexander König: https://youtu.be/aYUxYYLb_2o?si=TMXDUGO7gSjvbXWw\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTu",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Professor König diskutiert die Zukunft humanoider Roboter und Chinas Rolle in der Robotik.",
+      "bullets": [
+        "Humanoide Roboter entwickeln sich rasant und könnten bald alltäglich werden.",
+        "China investiert stark in Robotik und könnte führend in dieser Technologie werden.",
+        "Die Integration von KI in Unternehmen bietet erhebliche Wettbewerbsvorteile.",
+        "Zukünftige Entwicklungen in der Robotik könnten Arbeitsplätze verändern oder ersetzen.",
+        "Der Dialog über Ethik und Verantwortung in der Robotik ist unerlässlich."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-07T16:26:27.591935+00:00",
+    "is_new": true
+  },
+  "M4B3YwTztLc": {
+    "video_id": "M4B3YwTztLc",
+    "title": "Are managers always a good thing",
+    "published": "2026-05-07T15:02:58+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/M4B3YwTztLc/hqdefault.jpg",
+    "description": "Send your managers on vacation and see what happens",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are managers always a good thing",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-07T16:27:48.407643+00:00",
+    "is_new": true
+  },
+  "-u_HwKGDxSQ": {
+    "video_id": "-u_HwKGDxSQ",
+    "title": "The role of a CEO",
+    "published": "2026-05-07T15:00:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-u_HwKGDxSQ/hqdefault.jpg",
+    "description": "You should be teaching your team how to use AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The role of a CEO",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-07T16:27:54.183874+00:00",
+    "is_new": true
+  },
+  "np6CwvTYTAM": {
+    "video_id": "np6CwvTYTAM",
+    "title": "The Only AI Tools You’ll Ever Need to Get Rich in 2026",
+    "published": "2026-05-07T13:01:25+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/np6CwvTYTAM/hqdefault.jpg",
+    "description": "✅ Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/42EOFvf\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4utmPO7\n\nThere has never been a better time to start, scale, or rebuild a business, but only if you know which AI tools are worth your attention.\n\nI've spent years and a small fortune testing every promising tool across my own companies and the portfolio I run, and most of them are forgettable.\n\nIn this video, I'm giving you the short list of AI tools that can genuinel",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke die wichtigsten KI-Tools, um 2026 reich zu werden.",
+      "bullets": [
+        "Die Auswahl der richtigen KI-Tools ist entscheidend für den Geschäftserfolg.",
+        "Dan Martell teilt seine erprobten Tools, die echten Mehrwert bieten.",
+        "Viele KI-Tools sind ineffektiv; konzentriere dich auf die bewährten.",
+        "Jetzt ist der beste Zeitpunkt, um ein KI-Softwareunternehmen zu gründen.",
+        "Erhalte Zugang zu Martells vollständigem KI-Tech-Stack für mehr Erfolg."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-07T16:28:02.746470+00:00",
+    "is_new": true
   }
 }
