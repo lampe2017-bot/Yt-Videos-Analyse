@@ -2917,7 +2917,7 @@
       "model": null
     },
     "first_seen": "2026-05-08T16:03:52.230523+00:00",
-    "is_new": true
+    "is_new": false
   },
   "2sNN8rw9hfA": {
     "video_id": "2sNN8rw9hfA",
@@ -2937,7 +2937,7 @@
       "model": null
     },
     "first_seen": "2026-05-08T16:03:58.255952+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tnxqYwuETu8": {
     "video_id": "tnxqYwuETu8",
@@ -2957,6 +2957,26 @@
       "model": null
     },
     "first_seen": "2026-05-08T16:04:04.225098+00:00",
+    "is_new": false
+  },
+  "f7-zRySMkHY": {
+    "video_id": "f7-zRySMkHY",
+    "title": "AI tool tier list (2026)",
+    "published": "2026-05-08T16:03:28+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f7-zRySMkHY/hqdefault.jpg",
+    "description": "What are the best AI tools in 2026?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tool tier list (2026)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-08T20:17:51.461216+00:00",
     "is_new": true
   }
 }
