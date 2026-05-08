@@ -2898,5 +2898,65 @@
     },
     "first_seen": "2026-05-07T23:41:32.585504+00:00",
     "is_new": false
+  },
+  "EZ3lx-1dwd0": {
+    "video_id": "EZ3lx-1dwd0",
+    "title": "AI tools you should try",
+    "published": "2026-05-08T15:03:17+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/EZ3lx-1dwd0/hqdefault.jpg",
+    "description": "These AI tools will save you hours every week",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools you should try",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-08T16:03:52.230523+00:00",
+    "is_new": true
+  },
+  "2sNN8rw9hfA": {
+    "video_id": "2sNN8rw9hfA",
+    "title": "Stop waiting on luck",
+    "published": "2026-05-08T15:01:53+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2sNN8rw9hfA/hqdefault.jpg",
+    "description": "Luck doesn't exist",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop waiting on luck",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-08T16:03:58.255952+00:00",
+    "is_new": true
+  },
+  "tnxqYwuETu8": {
+    "video_id": "tnxqYwuETu8",
+    "title": "Prompt AI better",
+    "published": "2026-05-08T15:01:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tnxqYwuETu8/hqdefault.jpg",
+    "description": "5 easy tips to prompt AI better",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prompt AI better",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-08T16:04:04.225098+00:00",
+    "is_new": true
   }
 }
