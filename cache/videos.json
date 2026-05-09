@@ -3018,5 +3018,29 @@
     },
     "first_seen": "2026-05-08T23:42:11.058586+00:00",
     "is_new": false
+  },
+  "geoSjVBPS6s": {
+    "video_id": "geoSjVBPS6s",
+    "title": "Spar dir Prompt Engineering Kurse - Darauf kommt es wirklich an!",
+    "published": "2026-05-09T08:15:02+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/geoSjVBPS6s/hqdefault.jpg",
+    "description": "Prompt Engineering Kurs 2026 oder Prompt Engineer werden lohnt sich das überhaupt noch? NEIN. In diesem Video zeige ich dir warum klassische Prompt Engineering Kurse überflüssig geworden sind und wo Prompt Engineering tatsächlich noch zählt.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Bes",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prompt Engineering Kurse sind überflüssig – hier sind die wahren Erfolgsfaktoren.",
+      "bullets": [
+        "Klassische Prompt Engineering Kurse bieten keinen echten Mehrwert mehr.",
+        "Wichtiger ist, praktische Fähigkeiten in der KI-Anwendung zu entwickeln.",
+        "Nutze kostenfreie Ressourcen und Communities für deinen Einstieg.",
+        "Fokussiere dich auf den Aufbau einer eigenen KI-Agentur.",
+        "Sei Teil der KI-Revolution und profitiere von neuen Möglichkeiten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-09T10:37:39.115905+00:00",
+    "is_new": true
   }
 }
