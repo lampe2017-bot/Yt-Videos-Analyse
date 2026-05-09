@@ -2927,7 +2927,7 @@
     "description": "Luck doesn't exist",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:25",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Stop waiting on luck",
@@ -3101,6 +3101,66 @@
       "model": null
     },
     "first_seen": "2026-05-09T20:10:05.641525+00:00",
+    "is_new": false
+  },
+  "xaG2w39hhHw": {
+    "video_id": "xaG2w39hhHw",
+    "title": "The Power of a Supportive Partner",
+    "published": "2026-05-09T21:00:56+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xaG2w39hhHw/hqdefault.jpg",
+    "description": "The Power of a Supportive Partner",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Power of a Supportive Partner",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T22:30:34.389739+00:00",
+    "is_new": true
+  },
+  "xt1ASDjhPd0": {
+    "video_id": "xt1ASDjhPd0",
+    "title": "C Students make the BEST entrepreneurs",
+    "published": "2026-05-09T21:00:53+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xt1ASDjhPd0/hqdefault.jpg",
+    "description": "C Students make the BEST entrepreneurs",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "C Students make the BEST entrepreneurs",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T22:30:40.057135+00:00",
+    "is_new": true
+  },
+  "L0_F_0nZdpQ": {
+    "video_id": "L0_F_0nZdpQ",
+    "title": "$100M CEO Ranks AI Tools",
+    "published": "2026-05-09T21:00:21+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/L0_F_0nZdpQ/hqdefault.jpg",
+    "description": "Blindranking AI tools 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO Ranks AI Tools",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T22:30:45.652342+00:00",
     "is_new": true
   }
 }
