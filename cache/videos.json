@@ -3042,5 +3042,45 @@
     },
     "first_seen": "2026-05-09T10:37:39.115905+00:00",
     "is_new": false
+  },
+  "lJz0qmJ17AI": {
+    "video_id": "lJz0qmJ17AI",
+    "title": "Are managers a good thing?",
+    "published": "2026-05-09T15:01:00+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lJz0qmJ17AI/hqdefault.jpg",
+    "description": "Send the manager on vacation and see what happens",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are managers a good thing?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T17:39:58.375676+00:00",
+    "is_new": true
+  },
+  "1TV2gMS7eXY": {
+    "video_id": "1TV2gMS7eXY",
+    "title": "CEOs should prepare their teams for the future",
+    "published": "2026-05-09T15:00:19+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1TV2gMS7eXY/hqdefault.jpg",
+    "description": "You should be teaching your team how to use AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "CEOs should prepare their teams for the future",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T17:40:04.517818+00:00",
+    "is_new": true
   }
 }
