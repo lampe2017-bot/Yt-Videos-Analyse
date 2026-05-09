@@ -2997,7 +2997,7 @@
       "model": null
     },
     "first_seen": "2026-05-08T23:42:05.550037+00:00",
-    "is_new": true
+    "is_new": false
   },
   "2qpcRIJhAGc": {
     "video_id": "2qpcRIJhAGc",
@@ -3017,6 +3017,6 @@
       "model": null
     },
     "first_seen": "2026-05-08T23:42:11.058586+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
