@@ -3061,7 +3061,7 @@
       "model": null
     },
     "first_seen": "2026-05-09T17:39:58.375676+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1TV2gMS7eXY": {
     "video_id": "1TV2gMS7eXY",
@@ -3081,6 +3081,26 @@
       "model": null
     },
     "first_seen": "2026-05-09T17:40:04.517818+00:00",
+    "is_new": false
+  },
+  "RrtSP-XYrhs": {
+    "video_id": "RrtSP-XYrhs",
+    "title": "AI tools to use in 2026",
+    "published": "2026-05-09T19:13:27+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RrtSP-XYrhs/hqdefault.jpg",
+    "description": "Bad, good and great AI tools for your every day tasks",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools to use in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-09T20:10:05.641525+00:00",
     "is_new": true
   }
 }
