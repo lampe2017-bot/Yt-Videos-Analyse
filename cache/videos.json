@@ -3162,5 +3162,29 @@
     },
     "first_seen": "2026-05-09T22:30:45.652342+00:00",
     "is_new": false
+  },
+  "Rg7lvSakZpE": {
+    "video_id": "Rg7lvSakZpE",
+    "title": "KI-News: Musk RETTET Anthropic, Claude lernt jetzt IM SCHLAF, Codex Updates & das neue GPT-Realtime",
+    "published": "2026-05-10T08:15:10+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Rg7lvSakZpE/hqdefault.jpg",
+    "description": "Wieso lässt Elon Musk Claude jetzt auf Colossus laufen und was bringt es dir als Nutzer? Das 5-Stunden-Limit in Claude Code wurde verdoppelt, doch der eigentliche Durchbruch ist einer anderer. Auto-Dream läuft jetzt auch in Managed Agents und das Gedächtnis-Problem von Agenten könnte schon bald gelöst sein. Alles, was du jetzt wissen musst, wie immer kompakt in den KI-News der Woche.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nLerne Tools wie Agentic Coding Tools wie Claude Code und Codex von A-Z: https://cl",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Elon Musk bringt Claude auf Colossus und revolutioniert die KI-Nutzung.",
+      "bullets": [
+        "Das 5-Stunden-Limit in Claude Code wurde auf 10 Stunden verdoppelt.",
+        "Auto-Dream läuft jetzt auch in Managed Agents für verbesserte Leistung.",
+        "Das Gedächtnis-Problem von Agenten könnte bald gelöst sein.",
+        "Erfahre alles Wichtige über die neuesten Entwicklungen in der KI-Welt.",
+        "Melde dich für den kostenfreien Live Agentic Coding Workshop an."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-10T11:16:47.243407+00:00",
+    "is_new": true
   }
 }
