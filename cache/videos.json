@@ -3229,7 +3229,7 @@
       "model": null
     },
     "first_seen": "2026-05-10T17:41:31.803462+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8i66CDnqH-A": {
     "video_id": "8i66CDnqH-A",
@@ -3251,7 +3251,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-10T17:41:39.176316+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oHIqOavQdmc": {
     "video_id": "oHIqOavQdmc",
@@ -3271,6 +3271,6 @@
       "model": null
     },
     "first_seen": "2026-05-10T17:41:44.644622+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
