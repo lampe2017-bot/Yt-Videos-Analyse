@@ -3210,5 +3210,67 @@
     },
     "first_seen": "2026-05-10T14:43:23.279245+00:00",
     "is_new": true
+  },
+  "tUECsCm6jeI": {
+    "video_id": "tUECsCm6jeI",
+    "title": "Books to get rich",
+    "published": "2026-05-10T15:02:19+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tUECsCm6jeI/hqdefault.jpg",
+    "description": "These 4 books are the only ones you need to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books to get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-10T17:41:31.803462+00:00",
+    "is_new": true
+  },
+  "8i66CDnqH-A": {
+    "video_id": "8i66CDnqH-A",
+    "title": "AI Tier List",
+    "published": "2026-05-10T15:02:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8i66CDnqH-A/hqdefault.jpg",
+    "description": "The best AI tools in 2026 - if you want more details around Apex, head to my IG and DM me \"APEX\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke die besten KI-Tools des Jahres 2026 in dieser Tier-Liste.",
+      "bullets": [
+        "Die Tier-Liste bewertet verschiedene KI-Tools nach ihrer Leistungsfähigkeit.",
+        "Apex wird als herausragendes KI-Tool hervorgehoben.",
+        "Für detaillierte Informationen zu Apex kann man Dan Martell auf Instagram kontaktieren."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-10T17:41:39.176316+00:00",
+    "is_new": true
+  },
+  "oHIqOavQdmc": {
+    "video_id": "oHIqOavQdmc",
+    "title": "Stop waiting on luck",
+    "published": "2026-05-10T15:01:05+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oHIqOavQdmc/hqdefault.jpg",
+    "description": "Luck doesn't exist",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop waiting on luck",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-10T17:41:44.644622+00:00",
+    "is_new": true
   }
 }
