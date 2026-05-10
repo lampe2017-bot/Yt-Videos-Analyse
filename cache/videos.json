@@ -3272,5 +3272,65 @@
     },
     "first_seen": "2026-05-10T17:41:44.644622+00:00",
     "is_new": false
+  },
+  "9CYLpecHOcw": {
+    "video_id": "9CYLpecHOcw",
+    "title": "$100M CEO Ranks Businesses",
+    "published": "2026-05-10T21:01:02+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9CYLpecHOcw/hqdefault.jpg",
+    "description": "$100M CEO Ranks Businesses",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO Ranks Businesses",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-10T23:14:41.794765+00:00",
+    "is_new": true
+  },
+  "7ZPNqPkPff4": {
+    "video_id": "7ZPNqPkPff4",
+    "title": "Build a Successful Routine by Stacking Habits",
+    "published": "2026-05-10T21:00:41+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7ZPNqPkPff4/hqdefault.jpg",
+    "description": "Build a Successful Routine by Stacking Habits",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Build a Successful Routine by Stacking Habits",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-10T23:14:47.934880+00:00",
+    "is_new": true
+  },
+  "hsorvMy4E8c": {
+    "video_id": "hsorvMy4E8c",
+    "title": "If you're broke, you have nothing to lose",
+    "published": "2026-05-10T21:00:32+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hsorvMy4E8c/hqdefault.jpg",
+    "description": "If you're broke, you have nothing to lose",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're broke, you have nothing to lose",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-10T23:14:53.963620+00:00",
+    "is_new": true
   }
 }
