@@ -3351,7 +3351,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T18:04:34.262490+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WRmQnMj7opc": {
     "video_id": "WRmQnMj7opc",
@@ -3371,7 +3371,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T18:04:39.662464+00:00",
-    "is_new": true
+    "is_new": false
   },
   "KCp_sWpfa9Q": {
     "video_id": "KCp_sWpfa9Q",
@@ -3391,7 +3391,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T18:04:45.157233+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oUdNG82hnyA": {
     "video_id": "oUdNG82hnyA",
@@ -3414,6 +3414,86 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-11T18:04:53.132052+00:00",
+    "is_new": false
+  },
+  "dIKUdQzCI7c": {
+    "video_id": "dIKUdQzCI7c",
+    "title": "AI won't make you rich",
+    "published": "2026-05-11T21:01:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dIKUdQzCI7c/hqdefault.jpg",
+    "description": "AI won't make you rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI won't make you rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-11T22:19:56.942534+00:00",
+    "is_new": true
+  },
+  "KwlJxTo_u48": {
+    "video_id": "KwlJxTo_u48",
+    "title": "Most millionaires are C Students",
+    "published": "2026-05-11T21:01:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KwlJxTo_u48/hqdefault.jpg",
+    "description": "Most millionaires are C Students",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Most millionaires are C Students",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-11T22:20:02.516645+00:00",
+    "is_new": true
+  },
+  "L6eyaPtZ42w": {
+    "video_id": "L6eyaPtZ42w",
+    "title": "The Most Attractive Trait: A Partner's Support",
+    "published": "2026-05-11T21:00:59+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/L6eyaPtZ42w/hqdefault.jpg",
+    "description": "The Most Attractive Trait: A Partner's Support",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Most Attractive Trait: A Partner's Support",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-11T22:20:07.880130+00:00",
+    "is_new": true
+  },
+  "4KBLpr9z4MQ": {
+    "video_id": "4KBLpr9z4MQ",
+    "title": "$100M CEO Ranks AI Tools",
+    "published": "2026-05-11T21:00:30+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4KBLpr9z4MQ/hqdefault.jpg",
+    "description": "CEO ranks the BEST AI TOOLS OF 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO Ranks AI Tools",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-11T22:20:13.541158+00:00",
     "is_new": true
   }
 }
