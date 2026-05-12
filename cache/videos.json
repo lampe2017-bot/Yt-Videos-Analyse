@@ -3434,7 +3434,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T22:19:56.942534+00:00",
-    "is_new": true
+    "is_new": false
   },
   "KwlJxTo_u48": {
     "video_id": "KwlJxTo_u48",
@@ -3454,7 +3454,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T22:20:02.516645+00:00",
-    "is_new": true
+    "is_new": false
   },
   "L6eyaPtZ42w": {
     "video_id": "L6eyaPtZ42w",
@@ -3474,7 +3474,7 @@
       "model": null
     },
     "first_seen": "2026-05-11T22:20:07.880130+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4KBLpr9z4MQ": {
     "video_id": "4KBLpr9z4MQ",
@@ -3494,6 +3494,6 @@
       "model": null
     },
     "first_seen": "2026-05-11T22:20:13.541158+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
