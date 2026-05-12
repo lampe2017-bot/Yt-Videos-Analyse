@@ -3495,5 +3495,94 @@
     },
     "first_seen": "2026-05-11T22:20:13.541158+00:00",
     "is_new": false
+  },
+  "a7PS6urkqxE": {
+    "video_id": "a7PS6urkqxE",
+    "title": "KI-Experten reagieren: DAS übersehen alle! Musks Claude-Deal, Chinas Roboter-Druck & EU kippt AI-Act",
+    "published": "2026-05-12T15:15:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/a7PS6urkqxE/hqdefault.jpg",
+    "description": "Musk vermietet Colossus an Anthropic - Was bedeutet das wirklich für Nutzer? Mercedes streicht 40% der SAP Instanzen, Boston Dynamics und China lancieren immer menschlichere Humanoide Roboter und die EU kippt AI Act bei gleichzeitigem VPN Verboten. Wir sprechen über alles, was du jetzt wissen musst, um den entscheidenden Vorsprung zu haben.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nLerne Tools wie Agentic Coding Tools wie Claude Code und Codex von A-Z: https://claudecodekurs.de \n\nProf. Dr. Andreas Moring –",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die Entwicklungen in der KI erfordern schnelles Handeln und Anpassung von Unternehmen und Nutzern.",
+      "bullets": [
+        "Musk vermietet Colossus an Anthropic, was neue Möglichkeiten für Nutzer eröffnet.",
+        "Mercedes reduziert 40% der SAP Instanzen, um effizienter zu arbeiten.",
+        "China und Boston Dynamics entwickeln zunehmend menschenähnliche Roboter.",
+        "Die EU kippt den AI Act und führt gleichzeitig VPN Verbote ein.",
+        "Wichtige Informationen für den entscheidenden Vorsprung in der KI-Welt werden diskutiert."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-12T16:37:40.390927+00:00",
+    "is_new": true
+  },
+  "4G8iU7M-0tI": {
+    "video_id": "4G8iU7M-0tI",
+    "title": "Just celebrating your kids wins will end in tears",
+    "published": "2026-05-12T16:03:02+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4G8iU7M-0tI/hqdefault.jpg",
+    "description": "Stop preparing your kids for disappointment, celebrate the work they put into their wins",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Feiere die Anstrengungen deiner Kinder, nicht nur ihre Erfolge.",
+      "bullets": [
+        "Kinder sollten für ihre harte Arbeit anerkannt werden, nicht nur für ihre Erfolge.",
+        "Feiern von Anstrengungen fördert Selbstvertrauen und Resilienz.",
+        "Vorbereitung auf Enttäuschungen kann negative Auswirkungen auf die Entwicklung haben.",
+        "Eltern sollten den Fokus auf den Prozess, nicht nur auf das Ergebnis legen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-12T16:39:19.996465+00:00",
+    "is_new": true
+  },
+  "97P8LMpbeps": {
+    "video_id": "97P8LMpbeps",
+    "title": "Books to become a millionaire",
+    "published": "2026-05-12T15:02:42+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/97P8LMpbeps/hqdefault.jpg",
+    "description": "These 4 books will make you rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books to become a millionaire",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-12T16:39:26.302942+00:00",
+    "is_new": true
+  },
+  "z9swYi6-Yg0": {
+    "video_id": "z9swYi6-Yg0",
+    "title": "The best AI tools in 2026",
+    "published": "2026-05-12T15:02:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/z9swYi6-Yg0/hqdefault.jpg",
+    "description": "AI tool tier list - if you want more details around Apex, head to my IG and DM me \"APEX\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecken Sie die besten KI-Tools des Jahres 2026 in dieser Übersicht.",
+      "bullets": [
+        "Die Liste der KI-Tools bietet eine umfassende Bewertung nach Kategorien.",
+        "Apex wird als herausragendes KI-Tool hervorgehoben.",
+        "Für detaillierte Informationen zu Apex kann man Dan Martell auf Instagram kontaktieren."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-12T16:39:35.044644+00:00",
+    "is_new": true
   }
 }
