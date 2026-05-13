@@ -3683,7 +3683,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T16:42:16.035938+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8-3JOZ0YSCk": {
     "video_id": "8-3JOZ0YSCk",
@@ -3703,7 +3703,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T16:42:21.685406+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0fUKRjrLIUs": {
     "video_id": "0fUKRjrLIUs",
@@ -3723,7 +3723,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T16:42:27.051492+00:00",
-    "is_new": true
+    "is_new": false
   },
   "f-kEUyXBmjQ": {
     "video_id": "f-kEUyXBmjQ",
@@ -3746,6 +3746,86 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-13T16:43:32.752238+00:00",
+    "is_new": true
+  },
+  "4mgrkDJ4QEk": {
+    "video_id": "4mgrkDJ4QEk",
+    "title": "How to fix ADHD",
+    "published": "2026-05-13T21:01:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4mgrkDJ4QEk/hqdefault.jpg",
+    "description": "How to fix ADHD",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to fix ADHD",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-13T21:58:03.331720+00:00",
+    "is_new": true
+  },
+  "OyjpuryiQ-4": {
+    "video_id": "OyjpuryiQ-4",
+    "title": "AI is a tool, not a get-rich-quick scheme",
+    "published": "2026-05-13T21:01:23+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OyjpuryiQ-4/hqdefault.jpg",
+    "description": "How to ACTUALLY get rich with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI is a tool, not a get-rich-quick scheme",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-13T21:58:10.178138+00:00",
+    "is_new": true
+  },
+  "0XlWmdOcvtE": {
+    "video_id": "0XlWmdOcvtE",
+    "title": "The most attractive thing a partner can do is support you",
+    "published": "2026-05-13T21:00:52+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0XlWmdOcvtE/hqdefault.jpg",
+    "description": "The most attractive thing a partner can do is support you",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The most attractive thing a partner can do is support you",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-13T21:58:16.752228+00:00",
+    "is_new": true
+  },
+  "wFj804Voq6E": {
+    "video_id": "wFj804Voq6E",
+    "title": "If you're not good at school, don't worry, you'll get rich",
+    "published": "2026-05-13T21:00:40+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wFj804Voq6E/hqdefault.jpg",
+    "description": "If you're not good at school, don't worry, you'll get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're not good at school, don't worry, you'll get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-13T21:58:23.578777+00:00",
     "is_new": true
   }
 }
