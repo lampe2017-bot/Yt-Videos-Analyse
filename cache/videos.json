@@ -3766,7 +3766,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T21:58:03.331720+00:00",
-    "is_new": true
+    "is_new": false
   },
   "OyjpuryiQ-4": {
     "video_id": "OyjpuryiQ-4",
@@ -3786,7 +3786,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T21:58:10.178138+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0XlWmdOcvtE": {
     "video_id": "0XlWmdOcvtE",
@@ -3806,7 +3806,7 @@
       "model": null
     },
     "first_seen": "2026-05-13T21:58:16.752228+00:00",
-    "is_new": true
+    "is_new": false
   },
   "wFj804Voq6E": {
     "video_id": "wFj804Voq6E",
@@ -3826,6 +3826,6 @@
       "model": null
     },
     "first_seen": "2026-05-13T21:58:23.578777+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
