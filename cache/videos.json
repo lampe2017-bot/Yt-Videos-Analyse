@@ -3955,7 +3955,7 @@
       "model": null
     },
     "first_seen": "2026-05-15T00:14:44.303524+00:00",
-    "is_new": true
+    "is_new": false
   },
   "hAuaOD3gPeY": {
     "video_id": "hAuaOD3gPeY",
@@ -3975,7 +3975,7 @@
       "model": null
     },
     "first_seen": "2026-05-15T00:14:50.438881+00:00",
-    "is_new": true
+    "is_new": false
   },
   "apfGea8fpWg": {
     "video_id": "apfGea8fpWg",
@@ -3995,7 +3995,7 @@
       "model": null
     },
     "first_seen": "2026-05-15T00:14:56.759611+00:00",
-    "is_new": true
+    "is_new": false
   },
   "I-8Ish2QAqc": {
     "video_id": "I-8Ish2QAqc",
@@ -4015,6 +4015,6 @@
       "model": null
     },
     "first_seen": "2026-05-15T00:15:02.762304+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
