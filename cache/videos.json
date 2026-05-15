@@ -4016,5 +4016,45 @@
     },
     "first_seen": "2026-05-15T00:15:02.762304+00:00",
     "is_new": false
+  },
+  "n9AZZzVJGjw": {
+    "video_id": "n9AZZzVJGjw",
+    "title": "The Perfect AI Tool Stack",
+    "published": "2026-05-15T15:02:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/n9AZZzVJGjw/hqdefault.jpg",
+    "description": "6 AI tools to make your work 10x easier",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Perfect AI Tool Stack",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-15T16:31:30.655191+00:00",
+    "is_new": true
+  },
+  "m0lxPbTCQgA": {
+    "video_id": "m0lxPbTCQgA",
+    "title": "Your kids won't come to you when they mess up",
+    "published": "2026-05-15T15:01:01+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/m0lxPbTCQgA/hqdefault.jpg",
+    "description": "Introduce your kids to the right role models",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your kids won't come to you when they mess up",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-15T16:31:36.158318+00:00",
+    "is_new": true
   }
 }
