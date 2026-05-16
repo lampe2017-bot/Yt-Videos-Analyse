@@ -4158,6 +4158,70 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-16T11:33:08.558420+00:00",
+    "is_new": false
+  },
+  "VIBKDrha9kc": {
+    "video_id": "VIBKDrha9kc",
+    "title": "AI can still make you super rich",
+    "published": "2026-05-16T15:01:56+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VIBKDrha9kc/hqdefault.jpg",
+    "description": "How to become rich in 2026 with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI can still make you super rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-16T15:39:44.682494+00:00",
+    "is_new": true
+  },
+  "QylnV3rA3I4": {
+    "video_id": "QylnV3rA3I4",
+    "title": "How to sell to different people",
+    "published": "2026-05-16T15:01:14+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QylnV3rA3I4/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Erfahren Sie, wie man effektiv an verschiedene Käufergruppen verkauft.",
+      "bullets": [
+        "Identifizieren Sie die unterschiedlichen Käufertypen und deren Bedürfnisse.",
+        "Passen Sie Ihre Verkaufsstrategie an die jeweilige Zielgruppe an.",
+        "Nutzen Sie emotionale und rationale Argumente je nach Käufertyp.",
+        "Bauen Sie Vertrauen auf, um langfristige Kundenbeziehungen zu fördern.",
+        "Verstehen Sie die Psychologie des Verkaufs für bessere Ergebnisse."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-16T15:39:53.529496+00:00",
+    "is_new": true
+  },
+  "Kem1Y2kDNeo": {
+    "video_id": "Kem1Y2kDNeo",
+    "title": "Books to get rich in 2026",
+    "published": "2026-05-16T15:00:58+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Kem1Y2kDNeo/hqdefault.jpg",
+    "description": "These 4 books will turn you into a millionaire",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books to get rich in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-16T15:40:00.008554+00:00",
     "is_new": true
   }
 }
