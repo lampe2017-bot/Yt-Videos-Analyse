@@ -4178,7 +4178,7 @@
       "model": null
     },
     "first_seen": "2026-05-16T15:39:44.682494+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QylnV3rA3I4": {
     "video_id": "QylnV3rA3I4",
@@ -4202,7 +4202,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-16T15:39:53.529496+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Kem1Y2kDNeo": {
     "video_id": "Kem1Y2kDNeo",
@@ -4222,6 +4222,6 @@
       "model": null
     },
     "first_seen": "2026-05-16T15:40:00.008554+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
