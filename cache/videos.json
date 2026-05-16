@@ -4136,5 +4136,28 @@
     },
     "first_seen": "2026-05-16T00:07:51.199997+00:00",
     "is_new": false
+  },
+  "39-gX1UKXBw": {
+    "video_id": "39-gX1UKXBw",
+    "title": "APIs sind tot: DAS verändert jetzt ALLES! Wieso spricht niemand darüber?",
+    "published": "2026-05-16T08:15:01+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/39-gX1UKXBw/hqdefault.jpg",
+    "description": "Du brauchst keine öffentlichen APIs mehr für Prozessautomatisierungen - In diesem Video teile ich dir alle KI-Durchbrüche, über die niemand spricht!\n\nBewirb dich auf ein kostenfreies Erstgespräch und automatisiere Prozesse ohne öffentliche APIs: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nWir sind technischer und strategischer Partner hunderter KI-Agenturen: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n--------------------------------",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Öffentliche APIs sind überflüssig – KI revolutioniert die Prozessautomatisierung.",
+      "bullets": [
+        "KI-Durchbrüche ermöglichen Prozessautomatisierungen ohne öffentliche APIs.",
+        "Das Video beleuchtet, warum diese Entwicklung oft ignoriert wird.",
+        "Leonard Schmedding bietet kostenfreie Erstgespräche zur Automatisierung an.",
+        "Er ist Partner für zahlreiche KI-Agenturen und unterstützt deren Strategien."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-16T11:33:08.558420+00:00",
+    "is_new": true
   }
 }
