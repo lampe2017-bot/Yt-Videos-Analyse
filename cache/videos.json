@@ -4242,7 +4242,7 @@
       "model": null
     },
     "first_seen": "2026-05-16T22:31:50.092422+00:00",
-    "is_new": true
+    "is_new": false
   },
   "AWZtDlra7RA": {
     "video_id": "AWZtDlra7RA",
@@ -4262,7 +4262,7 @@
       "model": null
     },
     "first_seen": "2026-05-16T22:31:56.429885+00:00",
-    "is_new": true
+    "is_new": false
   },
   "KzA-3nu1gBI": {
     "video_id": "KzA-3nu1gBI",
@@ -4282,7 +4282,7 @@
       "model": null
     },
     "first_seen": "2026-05-16T22:32:02.678546+00:00",
-    "is_new": true
+    "is_new": false
   },
   "kJ_ElyFuvsY": {
     "video_id": "kJ_ElyFuvsY",
@@ -4302,7 +4302,7 @@
       "model": null
     },
     "first_seen": "2026-05-16T22:32:08.852635+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Ao-GYZCt9jE": {
     "video_id": "Ao-GYZCt9jE",
@@ -4322,6 +4322,6 @@
       "model": null
     },
     "first_seen": "2026-05-16T22:32:15.090344+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
