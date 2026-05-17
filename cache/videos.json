@@ -4126,13 +4126,17 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "The most attractive trait in a partner",
+      "hook": "Die Anerkennung von Leistungen ist die attraktivste Eigenschaft in einer Partnerschaft.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Partner, die Dankbarkeit zeigen, stärken die Beziehung und das Selbstwertgefühl.",
+        "Kritik kann die Motivation und den Erfolg des Partners erheblich beeinträchtigen.",
+        "Eine unterstützende Partnerin sieht das Potenzial ihres Mannes und fördert ihn.",
+        "Die richtige Partnerwahl ist entscheidend für den persönlichen und beruflichen Erfolg.",
+        "Echte Anziehung entsteht durch gegenseitige Wertschätzung und Unterstützung."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-16T00:07:51.199997+00:00",
     "is_new": false
@@ -4346,6 +4350,70 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-17T11:42:47.443109+00:00",
+    "is_new": false
+  },
+  "PwfARApU5Dg": {
+    "video_id": "PwfARApU5Dg",
+    "title": "AI tools in 2026",
+    "published": "2026-05-17T15:00:58+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PwfARApU5Dg/hqdefault.jpg",
+    "description": "The most popular AI tools right now in one line",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-17T15:43:33.635638+00:00",
+    "is_new": true
+  },
+  "SS_jaaxdIYo": {
+    "video_id": "SS_jaaxdIYo",
+    "title": "Your kids won't come to you when they mess up",
+    "published": "2026-05-17T15:00:43+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/SS_jaaxdIYo/hqdefault.jpg",
+    "description": "Introduce your kids to the right role models",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your kids won't come to you when they mess up",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-17T15:43:39.076936+00:00",
+    "is_new": true
+  },
+  "0KMSv7UMOeU": {
+    "video_id": "0KMSv7UMOeU",
+    "title": "Mein Blueprint für ein funktionierendes Online Business",
+    "published": "2026-05-17T12:00:01+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0KMSv7UMOeU/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nWenn ich 2026 nochmal bei null starten müsste, würde ich genau diese 4 Schritte gehen.\n\nIn dieser Folge zeige ich dir den klaren Aufbau eines funktionierenden Online-Business: Zielgruppe, Produkt, Community und wie daraus Umsatz entsteht. Plus: wo KI wirklich hilft – und wo sie dich nur aufhält.\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichhoch.de/newsletter\n📌 Apps & Tools die ich nutze: https://www",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre die vier Schritte für ein erfolgreiches Online-Business.",
+      "bullets": [
+        "Definiere deine Zielgruppe klar, um gezielt anzusprechen.",
+        "Entwickle ein passendes Produkt, das die Bedürfnisse deiner Zielgruppe erfüllt.",
+        "Baue eine Community auf, um Vertrauen und Loyalität zu schaffen.",
+        "Nutze KI gezielt, um Prozesse zu optimieren, aber vermeide Überabhängigkeit.",
+        "Fokussiere dich auf die Umsatzgenerierung durch effektive Strategien."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-17T15:44:56.955040+00:00",
     "is_new": true
   }
 }
