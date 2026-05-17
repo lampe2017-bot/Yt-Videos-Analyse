@@ -4323,5 +4323,29 @@
     },
     "first_seen": "2026-05-16T22:32:15.090344+00:00",
     "is_new": false
+  },
+  "bKK0GP8OXlo": {
+    "video_id": "bKK0GP8OXlo",
+    "title": "KI-News: DAS ändert alles! Neues Modell, Claude ist ZURÜCK, Codex in ChatGPT & BCI-Interview",
+    "published": "2026-05-17T08:15:32+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bKK0GP8OXlo/hqdefault.jpg",
+    "description": "Claude Code hebt die Limits an und startet “Agent View”. Anthropic überholt OpenAI erstmals im Unternehmensmarkt. Figure schickt humanoide Roboter in echte Schichten per Livestream und Prof. Dr. Thorsten O. Zander erklärt, wieso passive BCIs der nächste Durchbruch nach den LLMs sind. Die KI-News der Woche wie immer kompakt zusammengefasst.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://aicoding.de\n\nDas \"Monet-Experiment\": www.kiberatung.de/blog/ki-detektive-blamieren-sich-das-monet-experiment\n\nDu hast ein Unternehmen, willst den Anschluss nicht ve",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die neuesten Entwicklungen in der KI-Technologie verändern die Branche grundlegend.",
+      "bullets": [
+        "Claude Code hebt die Limits an und führt die Funktion 'Agent View' ein.",
+        "Anthropic überholt OpenAI im Unternehmensmarkt und zeigt beeindruckende Fortschritte.",
+        "Figure bringt humanoide Roboter in echte Schichten, die per Livestream arbeiten.",
+        "Prof. Dr. Thorsten O. Zander erklärt, warum passive BCIs der nächste große Durchbruch sind.",
+        "Die KI-News der Woche bieten einen kompakten Überblick über aktuelle Trends und Entwicklungen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-17T11:42:47.443109+00:00",
+    "is_new": true
   }
 }
