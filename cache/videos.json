@@ -4495,5 +4495,72 @@
     },
     "first_seen": "2026-05-17T22:40:47.876408+00:00",
     "is_new": false
+  },
+  "YrWwPUinNgs": {
+    "video_id": "YrWwPUinNgs",
+    "title": "How to grow your business",
+    "published": "2026-05-18T15:02:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YrWwPUinNgs/hqdefault.jpg",
+    "description": "6 steps to grow your business to $1M",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to grow your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T18:26:55.767518+00:00",
+    "is_new": true
+  },
+  "DH0Ksx12kRg": {
+    "video_id": "DH0Ksx12kRg",
+    "title": "How to sell to different people",
+    "published": "2026-05-18T15:02:03+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/DH0Ksx12kRg/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Verkaufstechniken variieren je nach Persönlichkeitstyp des Kunden.",
+      "bullets": [
+        "Identifiziere den Persönlichkeitstyp deines Kunden für effektive Verkaufsstrategien.",
+        "Nutze unterschiedliche Ansätze, um auf die Bedürfnisse verschiedener Käufer einzugehen.",
+        "Baue Vertrauen auf, indem du dich auf die Kommunikationsstile deiner Kunden einstellst.",
+        "Verstehe die Motivationen deiner Kunden, um den Verkaufsprozess zu optimieren."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-18T18:27:04.565742+00:00",
+    "is_new": true
+  },
+  "FXXhxepEsuA": {
+    "video_id": "FXXhxepEsuA",
+    "title": "If you don’t understand Leverage, you don’t understand money",
+    "published": "2026-05-18T13:00:33+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FXXhxepEsuA/hqdefault.jpg",
+    "description": "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/4wwfv6t                                                                                                                                                            \n\nMost people never build real wealth, not because they're lazy or uninformed, but because they've been following rules designed to keep them comfortable, not wealthy.                                                                             \n                                                                                                                   ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Verstehen Sie Hebelwirkung, um echten Wohlstand zu erreichen und finanzielle Freiheit zu erlangen.",
+      "bullets": [
+        "Viele Menschen scheitern an echtem Wohlstand, weil sie falsche Regeln befolgen.",
+        "Komfortable Entscheidungen hindern oft den Aufbau von Reichtum.",
+        "Hebelwirkung ist entscheidend für finanzielle Unabhängigkeit und Wachstum.",
+        "Wohlstand erfordert mutige Entscheidungen und das Verlassen der Komfortzone.",
+        "Bildung über Geld und Investitionen ist unerlässlich für langfristigen Erfolg."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-18T18:27:13.352755+00:00",
+    "is_new": true
   }
 }
