@@ -4434,7 +4434,7 @@
       "model": null
     },
     "first_seen": "2026-05-17T22:40:29.089332+00:00",
-    "is_new": true
+    "is_new": false
   },
   "KAkUMI3Gf6c": {
     "video_id": "KAkUMI3Gf6c",
@@ -4454,7 +4454,7 @@
       "model": null
     },
     "first_seen": "2026-05-17T22:40:36.347333+00:00",
-    "is_new": true
+    "is_new": false
   },
   "j2K9XpQBpDw": {
     "video_id": "j2K9XpQBpDw",
@@ -4474,7 +4474,7 @@
       "model": null
     },
     "first_seen": "2026-05-17T22:40:42.083346+00:00",
-    "is_new": true
+    "is_new": false
   },
   "mOr2vL8aw3I": {
     "video_id": "mOr2vL8aw3I",
@@ -4494,6 +4494,6 @@
       "model": null
     },
     "first_seen": "2026-05-17T22:40:47.876408+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
