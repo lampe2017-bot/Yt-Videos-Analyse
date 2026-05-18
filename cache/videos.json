@@ -4514,7 +4514,7 @@
       "model": null
     },
     "first_seen": "2026-05-18T18:26:55.767518+00:00",
-    "is_new": true
+    "is_new": false
   },
   "DH0Ksx12kRg": {
     "video_id": "DH0Ksx12kRg",
@@ -4537,7 +4537,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-18T18:27:04.565742+00:00",
-    "is_new": true
+    "is_new": false
   },
   "FXXhxepEsuA": {
     "video_id": "FXXhxepEsuA",
@@ -4561,6 +4561,106 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-18T18:27:13.352755+00:00",
+    "is_new": false
+  },
+  "x7COZCO9nms": {
+    "video_id": "x7COZCO9nms",
+    "title": "Want successful kids? Pick their hobbies for them.",
+    "published": "2026-05-18T21:01:54+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/x7COZCO9nms/hqdefault.jpg",
+    "description": "Want successful kids? Pick their hobbies for them.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Want successful kids? Pick their hobbies for them.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T22:13:33.006984+00:00",
+    "is_new": true
+  },
+  "6PjntYI8REw": {
+    "video_id": "6PjntYI8REw",
+    "title": "Best businesses to start in 2026 (RANKED)",
+    "published": "2026-05-18T21:01:41+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6PjntYI8REw/hqdefault.jpg",
+    "description": "Best businesses to start in 2026 (RANKED)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Best businesses to start in 2026 (RANKED)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T22:13:39.498713+00:00",
+    "is_new": true
+  },
+  "f5atS__1in8": {
+    "video_id": "f5atS__1in8",
+    "title": "How do you make more money in 2026?",
+    "published": "2026-05-18T21:01:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f5atS__1in8/hqdefault.jpg",
+    "description": "How do you make more money in 2026?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you make more money in 2026?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T22:13:45.871936+00:00",
+    "is_new": true
+  },
+  "nbTVnm7Ffh8": {
+    "video_id": "nbTVnm7Ffh8",
+    "title": "These books will make you successful",
+    "published": "2026-05-18T21:01:02+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nbTVnm7Ffh8/hqdefault.jpg",
+    "description": "These books will make you successful",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These books will make you successful",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T22:13:51.801279+00:00",
+    "is_new": true
+  },
+  "yUoAflGHiCc": {
+    "video_id": "yUoAflGHiCc",
+    "title": "Teaching Sons How to Treat Women",
+    "published": "2026-05-18T21:00:47+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yUoAflGHiCc/hqdefault.jpg",
+    "description": "How to raise successful kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Teaching Sons How to Treat Women",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-18T22:13:57.917407+00:00",
     "is_new": true
   }
 }
