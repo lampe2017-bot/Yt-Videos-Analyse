@@ -4681,6 +4681,70 @@
       "model": null
     },
     "first_seen": "2026-05-19T10:49:44.759704+00:00",
+    "is_new": false
+  },
+  "FvSRHiwQN0w": {
+    "video_id": "FvSRHiwQN0w",
+    "title": "KI-Forscher: Vergiss ChatGPT, DAS ist der nächste Durchbruch! Weltmodelle erklärt (Daniel Cremers)",
+    "published": "2026-05-19T15:15:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FvSRHiwQN0w/hqdefault.jpg",
+    "description": "Prof. Dr. Daniel Cremers, einer der weltweit einflussreichsten Computer-Vision-Forscher, erklärt im Interview, warum der eigentliche KI-Durchbruch nicht ChatGPT war. Wir sprechen über Weltmodelle, warum sein Team die AlphaFold-Idee Jahre vor DeepMind hatte, den Streit Tesla gegen Waymo beim autonomen Fahren und was Deutschland jetzt tun muss, um im KI-Wettlauf nicht den Anschluss zu verlieren.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bri",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Dr. Daniel Cremers erklärt den nächsten KI-Durchbruch durch Weltmodelle.",
+      "bullets": [
+        "Der eigentliche Durchbruch in der KI liegt nicht bei ChatGPT, sondern bei Weltmodellen.",
+        "Cremers' Team hatte die AlphaFold-Idee Jahre vor DeepMind entwickelt.",
+        "Der Streit zwischen Tesla und Waymo zeigt die Herausforderungen im autonomen Fahren.",
+        "Deutschland muss aktiv werden, um im KI-Wettlauf wettbewerbsfähig zu bleiben.",
+        "Unternehmen sollten KI-Lösungen integrieren, um Wettbewerbsvorteile zu sichern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-19T18:18:25.451430+00:00",
+    "is_new": true
+  },
+  "Dfknd_RSJ_8": {
+    "video_id": "Dfknd_RSJ_8",
+    "title": "How to be happy",
+    "published": "2026-05-19T15:03:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Dfknd_RSJ_8/hqdefault.jpg",
+    "description": "17 easy rules to live a successful life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to be happy",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T18:19:48.403596+00:00",
+    "is_new": true
+  },
+  "T8Yn_JNbEEA": {
+    "video_id": "T8Yn_JNbEEA",
+    "title": "AI tools in 2026",
+    "published": "2026-05-19T15:00:31+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/T8Yn_JNbEEA/hqdefault.jpg",
+    "description": "The biggest AI tools right now in one line",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T18:19:53.827508+00:00",
     "is_new": true
   }
 }
