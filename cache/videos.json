@@ -4581,7 +4581,7 @@
       "model": null
     },
     "first_seen": "2026-05-18T22:13:33.006984+00:00",
-    "is_new": true
+    "is_new": false
   },
   "6PjntYI8REw": {
     "video_id": "6PjntYI8REw",
@@ -4601,7 +4601,7 @@
       "model": null
     },
     "first_seen": "2026-05-18T22:13:39.498713+00:00",
-    "is_new": true
+    "is_new": false
   },
   "f5atS__1in8": {
     "video_id": "f5atS__1in8",
@@ -4621,7 +4621,7 @@
       "model": null
     },
     "first_seen": "2026-05-18T22:13:45.871936+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nbTVnm7Ffh8": {
     "video_id": "nbTVnm7Ffh8",
@@ -4641,7 +4641,7 @@
       "model": null
     },
     "first_seen": "2026-05-18T22:13:51.801279+00:00",
-    "is_new": true
+    "is_new": false
   },
   "yUoAflGHiCc": {
     "video_id": "yUoAflGHiCc",
@@ -4661,6 +4661,26 @@
       "model": null
     },
     "first_seen": "2026-05-18T22:13:57.917407+00:00",
+    "is_new": false
+  },
+  "qydxk1KAo6Q": {
+    "video_id": "qydxk1KAo6Q",
+    "title": "AI can make you rich",
+    "published": "2026-05-19T03:00:51+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qydxk1KAo6Q/hqdefault.jpg",
+    "description": "How to get rich with AI in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI can make you rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T10:49:44.759704+00:00",
     "is_new": true
   }
 }
