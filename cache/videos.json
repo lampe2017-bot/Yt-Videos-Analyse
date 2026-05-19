@@ -4705,7 +4705,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-19T18:18:25.451430+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Dfknd_RSJ_8": {
     "video_id": "Dfknd_RSJ_8",
@@ -4725,7 +4725,7 @@
       "model": null
     },
     "first_seen": "2026-05-19T18:19:48.403596+00:00",
-    "is_new": true
+    "is_new": false
   },
   "T8Yn_JNbEEA": {
     "video_id": "T8Yn_JNbEEA",
@@ -4745,6 +4745,66 @@
       "model": null
     },
     "first_seen": "2026-05-19T18:19:53.827508+00:00",
+    "is_new": false
+  },
+  "7dfQov8TU08": {
+    "video_id": "7dfQov8TU08",
+    "title": "Is school gonna be relevant anymore?",
+    "published": "2026-05-19T21:01:41+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7dfQov8TU08/hqdefault.jpg",
+    "description": "Is school gonna be relevant anymore?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Is school gonna be relevant anymore?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T22:48:08.477697+00:00",
+    "is_new": true
+  },
+  "t208xkB_2hk": {
+    "video_id": "t208xkB_2hk",
+    "title": "Should you start dropshipping in 2026?",
+    "published": "2026-05-19T21:01:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/t208xkB_2hk/hqdefault.jpg",
+    "description": "Should you start dropshipping in 2026?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you start dropshipping in 2026?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T22:48:13.907543+00:00",
+    "is_new": true
+  },
+  "WfT0VdpOGiA": {
+    "video_id": "WfT0VdpOGiA",
+    "title": "Here's how to switch to Claude",
+    "published": "2026-05-19T21:00:44+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/WfT0VdpOGiA/hqdefault.jpg",
+    "description": "Here's how to switch to Claude",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Here's how to switch to Claude",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-19T22:48:19.424789+00:00",
     "is_new": true
   }
 }
