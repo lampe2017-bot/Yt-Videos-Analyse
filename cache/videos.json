@@ -4765,7 +4765,7 @@
       "model": null
     },
     "first_seen": "2026-05-19T22:48:08.477697+00:00",
-    "is_new": true
+    "is_new": false
   },
   "t208xkB_2hk": {
     "video_id": "t208xkB_2hk",
@@ -4785,7 +4785,7 @@
       "model": null
     },
     "first_seen": "2026-05-19T22:48:13.907543+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WfT0VdpOGiA": {
     "video_id": "WfT0VdpOGiA",
@@ -4805,6 +4805,6 @@
       "model": null
     },
     "first_seen": "2026-05-19T22:48:19.424789+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
