@@ -4806,5 +4806,73 @@
     },
     "first_seen": "2026-05-19T22:48:19.424789+00:00",
     "is_new": false
+  },
+  "85Jixq24mqo": {
+    "video_id": "85Jixq24mqo",
+    "title": "How to grow your business",
+    "published": "2026-05-20T15:01:58+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/85Jixq24mqo/hqdefault.jpg",
+    "description": "6 steps to grow your business to $1M",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to grow your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-20T19:36:02.625717+00:00",
+    "is_new": true
+  },
+  "VTmqOQ9cr4E": {
+    "video_id": "VTmqOQ9cr4E",
+    "title": "How to sell to different people",
+    "published": "2026-05-20T15:00:56+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VTmqOQ9cr4E/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Erfahren Sie, wie man erfolgreich an unterschiedliche Menschen verkauft.",
+      "bullets": [
+        "Identifizieren Sie die verschiedenen Persönlichkeitstypen Ihrer Kunden.",
+        "Passen Sie Ihre Verkaufsstrategie an die Bedürfnisse jedes Typs an.",
+        "Nutzen Sie emotionale und rationale Argumente je nach Zielgruppe.",
+        "Bauen Sie Vertrauen auf, um langfristige Kundenbeziehungen zu fördern.",
+        "Verstehen Sie die Kaufmotive, um effektiver zu verkaufen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-20T19:36:10.829792+00:00",
+    "is_new": true
+  },
+  "jAB9OlXRC9A": {
+    "video_id": "jAB9OlXRC9A",
+    "title": "Was dich auf 10K gebracht hat, zerstört dein Wachstum",
+    "published": "2026-05-20T16:01:15+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/jAB9OlXRC9A/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n10.000€ im Monat sind kein Ziel – sondern ein Wendepunkt.\n\nIn diesem Video zeige ich dir, warum sich dein Online-Business ab 10K komplett verändert: neue Engpässe, andere Spielregeln und die Fehler, an denen die meisten genau hier hängen bleiben.\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichhoch.de/newsletter\n📌 Apps & Tools die ich nutze: https://www.blogdichhoch.de/empfehlungen\n📌 ChatGPT E-Book: htt",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Der Übergang zu 10K im Monat erfordert neue Strategien und Denkweisen.",
+      "bullets": [
+        "10.000€ im Monat sind nicht das Endziel, sondern ein entscheidender Wendepunkt.",
+        "Nach 10K treten neue Engpässe und Herausforderungen auf, die es zu meistern gilt.",
+        "Die meisten Unternehmer scheitern an den gleichen Fehlern, die nach 10K auftreten.",
+        "Es ist wichtig, die Spielregeln für das Wachstum deines Online-Business zu ändern.",
+        "Ein neues System ist notwendig, um das Wachstum über 10K hinaus zu fördern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-20T19:37:31.633526+00:00",
+    "is_new": true
   }
 }
