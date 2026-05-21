@@ -4893,7 +4893,7 @@
       "model": null
     },
     "first_seen": "2026-05-20T23:57:51.887914+00:00",
-    "is_new": true
+    "is_new": false
   },
   "yUVQhulSwq8": {
     "video_id": "yUVQhulSwq8",
@@ -4913,7 +4913,7 @@
       "model": null
     },
     "first_seen": "2026-05-20T23:57:57.372863+00:00",
-    "is_new": true
+    "is_new": false
   },
   "g0HzOuggnFM": {
     "video_id": "g0HzOuggnFM",
@@ -4933,7 +4933,7 @@
       "model": null
     },
     "first_seen": "2026-05-20T23:58:02.720486+00:00",
-    "is_new": true
+    "is_new": false
   },
   "c8lsNOS3lFQ": {
     "video_id": "c8lsNOS3lFQ",
@@ -4953,6 +4953,86 @@
       "model": null
     },
     "first_seen": "2026-05-20T23:58:08.117207+00:00",
+    "is_new": false
+  },
+  "24Nt7cdfoM4": {
+    "video_id": "24Nt7cdfoM4",
+    "title": "Does fitness impact your bank account?",
+    "published": "2026-05-21T01:30:23+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/24Nt7cdfoM4/hqdefault.jpg",
+    "description": "Do you get richer after you get fitter?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Does fitness impact your bank account?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T11:57:19.133685+00:00",
+    "is_new": true
+  },
+  "tLki5HJ9bco": {
+    "video_id": "tLki5HJ9bco",
+    "title": "How to lose money in 2026",
+    "published": "2026-05-21T01:01:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tLki5HJ9bco/hqdefault.jpg",
+    "description": "Ranking ways to lose money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to lose money in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T11:57:24.801034+00:00",
+    "is_new": true
+  },
+  "CXBqdp5kg1E": {
+    "video_id": "CXBqdp5kg1E",
+    "title": "Default to action",
+    "published": "2026-05-21T00:30:51+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/CXBqdp5kg1E/hqdefault.jpg",
+    "description": "Just make the phone call",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Default to action",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T11:57:30.229827+00:00",
+    "is_new": true
+  },
+  "qzLEePREc3k": {
+    "video_id": "qzLEePREc3k",
+    "title": "1-10 ways to lose money",
+    "published": "2026-05-21T00:00:59+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qzLEePREc3k/hqdefault.jpg",
+    "description": "The best ways to lose all of your money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "1-10 ways to lose money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T11:57:35.965416+00:00",
     "is_new": true
   }
 }
