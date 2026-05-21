@@ -4825,7 +4825,7 @@
       "model": null
     },
     "first_seen": "2026-05-20T19:36:02.625717+00:00",
-    "is_new": true
+    "is_new": false
   },
   "VTmqOQ9cr4E": {
     "video_id": "VTmqOQ9cr4E",
@@ -4849,7 +4849,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-20T19:36:10.829792+00:00",
-    "is_new": true
+    "is_new": false
   },
   "jAB9OlXRC9A": {
     "video_id": "jAB9OlXRC9A",
@@ -4873,6 +4873,86 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-20T19:37:31.633526+00:00",
+    "is_new": true
+  },
+  "8bkAcos4yjs": {
+    "video_id": "8bkAcos4yjs",
+    "title": "Ranking Careers to become a MILLIONAIRE",
+    "published": "2026-05-20T21:01:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8bkAcos4yjs/hqdefault.jpg",
+    "description": "Ranking Careers to become a MILLIONAIRE",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking Careers to become a MILLIONAIRE",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-20T23:57:51.887914+00:00",
+    "is_new": true
+  },
+  "yUVQhulSwq8": {
+    "video_id": "yUVQhulSwq8",
+    "title": "Should you CASH or PASS on these businesses this year?",
+    "published": "2026-05-20T21:01:28+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yUVQhulSwq8/hqdefault.jpg",
+    "description": "Should you CASH or PASS on these businesses this year?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you CASH or PASS on these businesses this year?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-20T23:57:57.372863+00:00",
+    "is_new": true
+  },
+  "g0HzOuggnFM": {
+    "video_id": "g0HzOuggnFM",
+    "title": "Why buffalos run towards the storm",
+    "published": "2026-05-20T21:01:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/g0HzOuggnFM/hqdefault.jpg",
+    "description": "Why buffalos run towards the storm",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why buffalos run towards the storm",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-20T23:58:02.720486+00:00",
+    "is_new": true
+  },
+  "c8lsNOS3lFQ": {
+    "video_id": "c8lsNOS3lFQ",
+    "title": "Blind ranking books that will make you WILDLY successful",
+    "published": "2026-05-20T21:00:30+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/c8lsNOS3lFQ/hqdefault.jpg",
+    "description": "Blind ranking books that will make you WILDLY successful",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Blind ranking books that will make you WILDLY successful",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-20T23:58:08.117207+00:00",
     "is_new": true
   }
 }
