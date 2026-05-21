@@ -4973,7 +4973,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T11:57:19.133685+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tLki5HJ9bco": {
     "video_id": "tLki5HJ9bco",
@@ -4993,7 +4993,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T11:57:24.801034+00:00",
-    "is_new": true
+    "is_new": false
   },
   "CXBqdp5kg1E": {
     "video_id": "CXBqdp5kg1E",
@@ -5013,7 +5013,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T11:57:30.229827+00:00",
-    "is_new": true
+    "is_new": false
   },
   "qzLEePREc3k": {
     "video_id": "qzLEePREc3k",
@@ -5033,6 +5033,93 @@
       "model": null
     },
     "first_seen": "2026-05-21T11:57:35.965416+00:00",
+    "is_new": false
+  },
+  "vSwmJDMw4xY": {
+    "video_id": "vSwmJDMw4xY",
+    "title": "Streitgespräch: „Der Mensch soll abgeschafft werden!\" Wohin steuert uns KI wirklich?",
+    "published": "2026-05-21T15:15:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vSwmJDMw4xY/hqdefault.jpg",
+    "description": "In diesem Streitgespräch diskutieren KI-Forscher und Gründer des \"kalifornischen Instituts für Maschinenbewusstsein\" Joscha Bach und die Philosophin Gwendolin Walter-Kirchhoff über \"die Abschaffung des Menschen\" durch KI, das eigentliche Ziel von KI und die Frage, ob Maschinen wirklich ein Bewusstsein haben können.\n\nWir implementieren KI-Lösungen in deinem Unternehmen, die real Kosten einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Everlast%20AI \n\nDu willst dich",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Das Streitgespräch beleuchtet die kontroverse Frage nach der Zukunft des Menschen in der Ära der KI.",
+      "bullets": [
+        "Joscha Bach und Gwendolin Walter-Kirchhoff diskutieren die potenziellen Gefahren der KI für die Menschheit.",
+        "Die Philosophie der KI wird hinterfragt: Können Maschinen echtes Bewusstsein entwickeln?",
+        "Es wird erörtert, ob KI tatsächlich das Ziel hat, den Menschen zu ersetzen oder zu unterstützen.",
+        "Die Diskussion thematisiert ethische Implikationen und die Verantwortung der Entwickler von KI-Technologien."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-21T18:27:52.797469+00:00",
+    "is_new": true
+  },
+  "tdXszlZ4eBA": {
+    "video_id": "tdXszlZ4eBA",
+    "title": "The best books to read in 2026",
+    "published": "2026-05-21T15:23:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tdXszlZ4eBA/hqdefault.jpg",
+    "description": "Here are 3 of the best books to help you become a millionaire.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The best books to read in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T18:30:42.033416+00:00",
+    "is_new": true
+  },
+  "IOc76k3chJw": {
+    "video_id": "IOc76k3chJw",
+    "title": "How to be successful in life",
+    "published": "2026-05-21T15:01:24+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IOc76k3chJw/hqdefault.jpg",
+    "description": "17 rules for success",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to be successful in life",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T18:31:38.213235+00:00",
+    "is_new": true
+  },
+  "wZeOwqmSw84": {
+    "video_id": "wZeOwqmSw84",
+    "title": "Learn 97% of Claude in Under 16 Minutes",
+    "published": "2026-05-21T13:01:30+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wZeOwqmSw84/hqdefault.jpg",
+    "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4urNJqa\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4dzYm33\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4dz0M1M\n\nMost people are using Claude like a smarter Google search and missing 90% of what it can actually do.\n\nIn this video, I show you how I use Claude across every part of my business to save hours every single day, write code, run my calendar, and even ship work while I sleep. If you're paying for Claude and only using a fraction of it, this is the video th",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Nutze Claude effizienter, um Zeit zu sparen und deine Produktivität zu steigern.",
+      "bullets": [
+        "Viele verwenden Claude nur als erweiterte Suchmaschine und verpassen wertvolle Funktionen.",
+        "Claude kann in verschiedenen Geschäftsbereichen eingesetzt werden, um Zeit zu sparen.",
+        "Das Video zeigt, wie man Claude für Programmierung, Terminplanung und mehr nutzt.",
+        "Durch die richtige Nutzung von Claude kann man auch im Schlaf arbeiten.",
+        "Lerne, wie du 97% von Claudes Möglichkeiten in kurzer Zeit erfassen kannst."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-21T18:32:39.696752+00:00",
     "is_new": true
   }
 }
