@@ -5056,7 +5056,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-21T18:27:52.797469+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tdXszlZ4eBA": {
     "video_id": "tdXszlZ4eBA",
@@ -5076,7 +5076,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T18:30:42.033416+00:00",
-    "is_new": true
+    "is_new": false
   },
   "IOc76k3chJw": {
     "video_id": "IOc76k3chJw",
@@ -5096,7 +5096,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T18:31:38.213235+00:00",
-    "is_new": true
+    "is_new": false
   },
   "wZeOwqmSw84": {
     "video_id": "wZeOwqmSw84",
@@ -5120,6 +5120,106 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-21T18:32:39.696752+00:00",
+    "is_new": false
+  },
+  "Mf9eUQk_leA": {
+    "video_id": "Mf9eUQk_leA",
+    "title": "Ranking the BEST careers to become a millionaire",
+    "published": "2026-05-21T21:01:43+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Mf9eUQk_leA/hqdefault.jpg",
+    "description": "Ranking the BEST careers to become a millionaire",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking the BEST careers to become a millionaire",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T22:52:29.899768+00:00",
+    "is_new": true
+  },
+  "LxgwtIQhUqg": {
+    "video_id": "LxgwtIQhUqg",
+    "title": "Meetings are a huge waste of time",
+    "published": "2026-05-21T21:01:35+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LxgwtIQhUqg/hqdefault.jpg",
+    "description": "Meetings are a huge waste of time",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Meetings are a huge waste of time",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T22:52:35.722030+00:00",
+    "is_new": true
+  },
+  "R74_MMvgb7w": {
+    "video_id": "R74_MMvgb7w",
+    "title": "Comparing new AI tools",
+    "published": "2026-05-21T21:01:03+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/R74_MMvgb7w/hqdefault.jpg",
+    "description": "Comparing new AI tools",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Comparing new AI tools",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T22:52:42.035390+00:00",
+    "is_new": true
+  },
+  "Tp3fZomRX7I": {
+    "video_id": "Tp3fZomRX7I",
+    "title": "It always gets better tomorrow",
+    "published": "2026-05-21T21:00:47+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Tp3fZomRX7I/hqdefault.jpg",
+    "description": "It always gets better tomorrow",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "It always gets better tomorrow",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T22:52:48.089255+00:00",
+    "is_new": true
+  },
+  "IQdqxT9RWHs": {
+    "video_id": "IQdqxT9RWHs",
+    "title": "How do you switch from ChatGPT to Claude?",
+    "published": "2026-05-21T21:00:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IQdqxT9RWHs/hqdefault.jpg",
+    "description": "How do you switch from ChatGPT to Claude?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you switch from ChatGPT to Claude?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-21T22:52:54.330869+00:00",
     "is_new": true
   }
 }
