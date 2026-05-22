@@ -5260,7 +5260,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:29:46.350162+00:00",
-    "is_new": true
+    "is_new": false
   },
   "5-OrFvf8two": {
     "video_id": "5-OrFvf8two",
@@ -5280,7 +5280,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:29:51.813748+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Fh-jyHIZAGA": {
     "video_id": "Fh-jyHIZAGA",
@@ -5300,7 +5300,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:29:57.334636+00:00",
-    "is_new": true
+    "is_new": false
   },
   "l0tSY3PLcKo": {
     "video_id": "l0tSY3PLcKo",
@@ -5320,7 +5320,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:30:02.803363+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZbvxZjFMJ1M": {
     "video_id": "ZbvxZjFMJ1M",
@@ -5340,7 +5340,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:30:08.441835+00:00",
-    "is_new": true
+    "is_new": false
   },
   "XBoatFToScU": {
     "video_id": "XBoatFToScU",
@@ -5360,7 +5360,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:30:13.799061+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1A58t8di45M": {
     "video_id": "1A58t8di45M",
@@ -5380,6 +5380,86 @@
       "model": null
     },
     "first_seen": "2026-05-22T17:30:19.265576+00:00",
+    "is_new": false
+  },
+  "rIJfj5txUdg": {
+    "video_id": "rIJfj5txUdg",
+    "title": "How to use Claude to your advantage",
+    "published": "2026-05-22T21:00:25+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/rIJfj5txUdg/hqdefault.jpg",
+    "description": "How to use Claude to your advantage",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to use Claude to your advantage",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-22T21:49:49.145111+00:00",
+    "is_new": true
+  },
+  "a9mgZ9GCOQ8": {
+    "video_id": "a9mgZ9GCOQ8",
+    "title": "People that want balance are average",
+    "published": "2026-05-22T20:04:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/a9mgZ9GCOQ8/hqdefault.jpg",
+    "description": "People that want balance are average",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "People that want balance are average",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-22T21:49:55.611649+00:00",
+    "is_new": true
+  },
+  "TAA7EI2EbJU": {
+    "video_id": "TAA7EI2EbJU",
+    "title": "Which AI tool am I?",
+    "published": "2026-05-22T19:01:44+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TAA7EI2EbJU/hqdefault.jpg",
+    "description": "Guess the AI...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which AI tool am I?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-22T21:50:01.245566+00:00",
+    "is_new": true
+  },
+  "BlTF52zuEG0": {
+    "video_id": "BlTF52zuEG0",
+    "title": "If I can do it...",
+    "published": "2026-05-22T18:01:30+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BlTF52zuEG0/hqdefault.jpg",
+    "description": "Why Not You?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If I can do it...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-22T21:50:07.506838+00:00",
     "is_new": true
   }
 }
