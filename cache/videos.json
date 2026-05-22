@@ -5140,7 +5140,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T22:52:29.899768+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LxgwtIQhUqg": {
     "video_id": "LxgwtIQhUqg",
@@ -5160,7 +5160,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T22:52:35.722030+00:00",
-    "is_new": true
+    "is_new": false
   },
   "R74_MMvgb7w": {
     "video_id": "R74_MMvgb7w",
@@ -5180,7 +5180,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T22:52:42.035390+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Tp3fZomRX7I": {
     "video_id": "Tp3fZomRX7I",
@@ -5200,7 +5200,7 @@
       "model": null
     },
     "first_seen": "2026-05-21T22:52:48.089255+00:00",
-    "is_new": true
+    "is_new": false
   },
   "IQdqxT9RWHs": {
     "video_id": "IQdqxT9RWHs",
@@ -5220,6 +5220,26 @@
       "model": null
     },
     "first_seen": "2026-05-21T22:52:54.330869+00:00",
+    "is_new": false
+  },
+  "TMAdVWN1XOM": {
+    "video_id": "TMAdVWN1XOM",
+    "title": "A/B test your content",
+    "published": "2026-05-22T10:00:52+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TMAdVWN1XOM/hqdefault.jpg",
+    "description": "Split testing content is the best way to grow in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "A/B test your content",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-22T10:35:44.425146+00:00",
     "is_new": true
   }
 }
