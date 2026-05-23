@@ -5644,7 +5644,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-23T11:45:39.674285+00:00",
-    "is_new": true
+    "is_new": false
   },
   "E_W7g5CNgXw": {
     "video_id": "E_W7g5CNgXw",
@@ -5664,7 +5664,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T11:46:18.913473+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nM1Js9ieNR0": {
     "video_id": "nM1Js9ieNR0",
@@ -5684,6 +5684,86 @@
       "model": null
     },
     "first_seen": "2026-05-23T11:46:25.904241+00:00",
+    "is_new": false
+  },
+  "AE28iq4XJvg": {
+    "video_id": "AE28iq4XJvg",
+    "title": "How to bounce back",
+    "published": "2026-05-23T15:00:53+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AE28iq4XJvg/hqdefault.jpg",
+    "description": "His house burned down...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to bounce back",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T15:48:26.688122+00:00",
+    "is_new": true
+  },
+  "vVatP08jANk": {
+    "video_id": "vVatP08jANk",
+    "title": "Here's the secret to success",
+    "published": "2026-05-23T14:00:34+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vVatP08jANk/hqdefault.jpg",
+    "description": "The best investment I ever made was...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Here's the secret to success",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T15:48:32.934551+00:00",
+    "is_new": true
+  },
+  "1yGmTAoPbOk": {
+    "video_id": "1yGmTAoPbOk",
+    "title": "What books will make you rich?",
+    "published": "2026-05-23T13:01:47+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1yGmTAoPbOk/hqdefault.jpg",
+    "description": "Blind ranking the best books to read in business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What books will make you rich?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T15:48:39.566773+00:00",
+    "is_new": true
+  },
+  "92_HlE0VxYk": {
+    "video_id": "92_HlE0VxYk",
+    "title": "What a father should teach his son",
+    "published": "2026-05-23T12:01:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/92_HlE0VxYk/hqdefault.jpg",
+    "description": "This is your only responsibility as a father",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What a father should teach his son",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T15:48:46.089585+00:00",
     "is_new": true
   }
 }
