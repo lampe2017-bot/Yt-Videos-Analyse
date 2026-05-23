@@ -5400,7 +5400,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T21:49:49.145111+00:00",
-    "is_new": true
+    "is_new": false
   },
   "a9mgZ9GCOQ8": {
     "video_id": "a9mgZ9GCOQ8",
@@ -5420,7 +5420,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T21:49:55.611649+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TAA7EI2EbJU": {
     "video_id": "TAA7EI2EbJU",
@@ -5440,7 +5440,7 @@
       "model": null
     },
     "first_seen": "2026-05-22T21:50:01.245566+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BlTF52zuEG0": {
     "video_id": "BlTF52zuEG0",
@@ -5460,6 +5460,166 @@
       "model": null
     },
     "first_seen": "2026-05-22T21:50:07.506838+00:00",
+    "is_new": false
+  },
+  "lJ520HNFbjc": {
+    "video_id": "lJ520HNFbjc",
+    "title": "How do you grow your business?",
+    "published": "2026-05-23T05:00:37+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lJ520HNFbjc/hqdefault.jpg",
+    "description": "How do you grow your business?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you grow your business?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:40:42.378769+00:00",
+    "is_new": true
+  },
+  "Z7w5EdnKT-0": {
+    "video_id": "Z7w5EdnKT-0",
+    "title": "I don't care if my kids stop listening to me",
+    "published": "2026-05-23T04:00:45+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Z7w5EdnKT-0/hqdefault.jpg",
+    "description": "I don't care if my kids stop listening to me",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I don't care if my kids stop listening to me",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:40:48.704876+00:00",
+    "is_new": true
+  },
+  "ubqcTPhJuV4": {
+    "video_id": "ubqcTPhJuV4",
+    "title": "Buffalos run at the storm, not away from it. Why?",
+    "published": "2026-05-23T03:00:24+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ubqcTPhJuV4/hqdefault.jpg",
+    "description": "Buffalos run at the storm, not away from it. Why?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Buffalos run at the storm, not away from it. Why?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:40:54.489126+00:00",
+    "is_new": true
+  },
+  "4lcE716YMAk": {
+    "video_id": "4lcE716YMAk",
+    "title": "School is such bullsh*t nowadays",
+    "published": "2026-05-23T02:00:33+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4lcE716YMAk/hqdefault.jpg",
+    "description": "School is such bullsh*t nowadays",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "School is such bullsh*t nowadays",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:41:00.160224+00:00",
+    "is_new": true
+  },
+  "QyVk3tdpgSo": {
+    "video_id": "QyVk3tdpgSo",
+    "title": "Leave him there",
+    "published": "2026-05-23T01:00:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QyVk3tdpgSo/hqdefault.jpg",
+    "description": "Leave him there",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Leave him there",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:41:05.890337+00:00",
+    "is_new": true
+  },
+  "IU66iFJLNVs": {
+    "video_id": "IU66iFJLNVs",
+    "title": "\"How much does your watch cost?\"",
+    "published": "2026-05-23T00:01:08+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IU66iFJLNVs/hqdefault.jpg",
+    "description": "\"How much does your watch cost?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"How much does your watch cost?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:41:11.535024+00:00",
+    "is_new": true
+  },
+  "krmF4V3RC3w": {
+    "video_id": "krmF4V3RC3w",
+    "title": "The 4 C's of Leverage",
+    "published": "2026-05-22T23:00:54+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/krmF4V3RC3w/hqdefault.jpg",
+    "description": "The 4 C's of Leverage",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The 4 C's of Leverage",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:41:17.265192+00:00",
+    "is_new": true
+  },
+  "VM1CP_j1onY": {
+    "video_id": "VM1CP_j1onY",
+    "title": "When should you fire a team member",
+    "published": "2026-05-22T22:00:47+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VM1CP_j1onY/hqdefault.jpg",
+    "description": "When should you fire a team member",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "When should you fire a team member",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T07:41:22.986084+00:00",
     "is_new": true
   }
 }
