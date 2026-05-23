@@ -5704,7 +5704,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T15:48:26.688122+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vVatP08jANk": {
     "video_id": "vVatP08jANk",
@@ -5724,7 +5724,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T15:48:32.934551+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1yGmTAoPbOk": {
     "video_id": "1yGmTAoPbOk",
@@ -5744,7 +5744,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T15:48:39.566773+00:00",
-    "is_new": true
+    "is_new": false
   },
   "92_HlE0VxYk": {
     "video_id": "92_HlE0VxYk",
@@ -5764,6 +5764,86 @@
       "model": null
     },
     "first_seen": "2026-05-23T15:48:46.089585+00:00",
+    "is_new": false
+  },
+  "6lpjn7D069s": {
+    "video_id": "6lpjn7D069s",
+    "title": "The secret to success",
+    "published": "2026-05-23T19:00:35+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6lpjn7D069s/hqdefault.jpg",
+    "description": "The best investment I ever made...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The secret to success",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T19:57:29.893337+00:00",
+    "is_new": true
+  },
+  "P0MToavk_0g": {
+    "video_id": "P0MToavk_0g",
+    "title": "Books to become rich",
+    "published": "2026-05-23T18:00:32+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P0MToavk_0g/hqdefault.jpg",
+    "description": "Blind ranking business books to read",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books to become rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T19:57:36.406759+00:00",
+    "is_new": true
+  },
+  "OC58V4aPoDg": {
+    "video_id": "OC58V4aPoDg",
+    "title": "What a dad should teach his son...",
+    "published": "2026-05-23T17:00:30+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OC58V4aPoDg/hqdefault.jpg",
+    "description": "Your only responsibility as a father",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What a dad should teach his son...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T19:57:42.503584+00:00",
+    "is_new": true
+  },
+  "YVc7Ch5PCpk": {
+    "video_id": "YVc7Ch5PCpk",
+    "title": "Success starts young...",
+    "published": "2026-05-23T16:02:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YVc7Ch5PCpk/hqdefault.jpg",
+    "description": "How to succeed as a kid in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Success starts young...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T19:57:48.814951+00:00",
     "is_new": true
   }
 }
