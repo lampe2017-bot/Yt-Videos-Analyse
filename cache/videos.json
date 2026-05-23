@@ -5784,7 +5784,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T19:57:29.893337+00:00",
-    "is_new": true
+    "is_new": false
   },
   "P0MToavk_0g": {
     "video_id": "P0MToavk_0g",
@@ -5804,7 +5804,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T19:57:36.406759+00:00",
-    "is_new": true
+    "is_new": false
   },
   "OC58V4aPoDg": {
     "video_id": "OC58V4aPoDg",
@@ -5824,7 +5824,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T19:57:42.503584+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YVc7Ch5PCpk": {
     "video_id": "YVc7Ch5PCpk",
@@ -5844,6 +5844,86 @@
       "model": null
     },
     "first_seen": "2026-05-23T19:57:48.814951+00:00",
+    "is_new": false
+  },
+  "v14jmVq2qxU": {
+    "video_id": "v14jmVq2qxU",
+    "title": "If you're looking for balance you'll become average",
+    "published": "2026-05-23T22:01:14+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/v14jmVq2qxU/hqdefault.jpg",
+    "description": "If you're looking for balance you'll become average",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're looking for balance you'll become average",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T22:39:43.892625+00:00",
+    "is_new": true
+  },
+  "3IiEJqMEhCc": {
+    "video_id": "3IiEJqMEhCc",
+    "title": "Best career paths of 2026",
+    "published": "2026-05-23T21:01:04+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3IiEJqMEhCc/hqdefault.jpg",
+    "description": "Best career paths of 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Best career paths of 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T22:39:49.550148+00:00",
+    "is_new": true
+  },
+  "jHZuC7zttGE": {
+    "video_id": "jHZuC7zttGE",
+    "title": "Parenting Dilemma: Tough Love vs. Enabling",
+    "published": "2026-05-23T21:00:41+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/jHZuC7zttGE/hqdefault.jpg",
+    "description": "\"LEAVE HIM THERE\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Parenting Dilemma: Tough Love vs. Enabling",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T22:39:55.363800+00:00",
+    "is_new": true
+  },
+  "sL7Of26Ji6w": {
+    "video_id": "sL7Of26Ji6w",
+    "title": "Date your wife",
+    "published": "2026-05-23T20:00:54+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sL7Of26Ji6w/hqdefault.jpg",
+    "description": "Date your wife",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Date your wife",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T22:40:00.854177+00:00",
     "is_new": true
   }
 }
