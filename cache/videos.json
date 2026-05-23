@@ -5480,7 +5480,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:40:42.378769+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Z7w5EdnKT-0": {
     "video_id": "Z7w5EdnKT-0",
@@ -5500,7 +5500,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:40:48.704876+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ubqcTPhJuV4": {
     "video_id": "ubqcTPhJuV4",
@@ -5520,7 +5520,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:40:54.489126+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4lcE716YMAk": {
     "video_id": "4lcE716YMAk",
@@ -5540,7 +5540,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:41:00.160224+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QyVk3tdpgSo": {
     "video_id": "QyVk3tdpgSo",
@@ -5560,7 +5560,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:41:05.890337+00:00",
-    "is_new": true
+    "is_new": false
   },
   "IU66iFJLNVs": {
     "video_id": "IU66iFJLNVs",
@@ -5580,7 +5580,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:41:11.535024+00:00",
-    "is_new": true
+    "is_new": false
   },
   "krmF4V3RC3w": {
     "video_id": "krmF4V3RC3w",
@@ -5600,7 +5600,7 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:41:17.265192+00:00",
-    "is_new": true
+    "is_new": false
   },
   "VM1CP_j1onY": {
     "video_id": "VM1CP_j1onY",
@@ -5620,6 +5620,70 @@
       "model": null
     },
     "first_seen": "2026-05-23T07:41:22.986084+00:00",
+    "is_new": false
+  },
+  "M0IbOlMHwzs": {
+    "video_id": "M0IbOlMHwzs",
+    "title": "Warum die größte KI-Ausrede in Unternehmen KEINEN SINN ergibt",
+    "published": "2026-05-23T08:15:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/M0IbOlMHwzs/hqdefault.jpg",
+    "description": "Die meisten Unternehmen bremsen ihre KI-Projekte mit dem Argument Datenschutz aus und schaden sich damit selbst. Gleichzeitig haben viele Gründer Angst vor Datenschutz und starten die Selbstständigkeit teilweise gar nicht erst. In diesem Video zeige ich dir, warum „Datenschutz\" bei KI fast immer eine fadenscheinige Ausrede ist.\n\nKostenfreier Workshop - KI datenschutzkonform für Unternehmen einführen: https://www.kiberatung.de/corporatellm-workshop\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Datenschutz ist oft eine unbegründete Ausrede für Unternehmen, die KI-Projekte bremsen.",
+      "bullets": [
+        "Unternehmen schränken ihre KI-Projekte durch Datenschutzängste unnötig ein.",
+        "Viele Gründer lassen sich von Datenschutzängsten von der Selbstständigkeit abhalten.",
+        "Datenschutz sollte nicht als Ausrede für fehlende KI-Initiativen verwendet werden.",
+        "Es gibt Möglichkeiten, KI datenschutzkonform in Unternehmen zu implementieren.",
+        "Ein kostenfreier Workshop hilft, KI rechtssicher einzuführen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-23T11:45:39.674285+00:00",
+    "is_new": true
+  },
+  "E_W7g5CNgXw": {
+    "video_id": "E_W7g5CNgXw",
+    "title": "Success starts young",
+    "published": "2026-05-23T11:00:34+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/E_W7g5CNgXw/hqdefault.jpg",
+    "description": "How to succeed as a kid in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Success starts young",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T11:46:18.913473+00:00",
+    "is_new": true
+  },
+  "nM1Js9ieNR0": {
+    "video_id": "nM1Js9ieNR0",
+    "title": "How to bounce back",
+    "published": "2026-05-23T10:00:59+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nM1Js9ieNR0/hqdefault.jpg",
+    "description": "His house burned down...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to bounce back",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-23T11:46:25.904241+00:00",
     "is_new": true
   }
 }
