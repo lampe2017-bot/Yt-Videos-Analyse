@@ -6088,7 +6088,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-24T12:08:51.108019+00:00",
-    "is_new": true
+    "is_new": false
   },
   "7WhTTBU92Ok": {
     "video_id": "7WhTTBU92Ok",
@@ -6108,7 +6108,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T12:10:15.502866+00:00",
-    "is_new": true
+    "is_new": false
   },
   "O7VTdNFrUak": {
     "video_id": "O7VTdNFrUak",
@@ -6128,7 +6128,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T12:10:21.219387+00:00",
-    "is_new": true
+    "is_new": false
   },
   "W8KBR9zhGjU": {
     "video_id": "W8KBR9zhGjU",
@@ -6151,6 +6151,106 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-24T12:11:41.704618+00:00",
+    "is_new": true
+  },
+  "Obe-HFjUbQI": {
+    "video_id": "Obe-HFjUbQI",
+    "title": "Networking is the best part about college",
+    "published": "2026-05-24T16:00:33+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Obe-HFjUbQI/hqdefault.jpg",
+    "description": "Should you go to university in 2026?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Networking is the best part about college",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T16:14:20.814800+00:00",
+    "is_new": true
+  },
+  "tOlXxyFRf0U": {
+    "video_id": "tOlXxyFRf0U",
+    "title": "Use ChatGPT in schools",
+    "published": "2026-05-24T15:00:43+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tOlXxyFRf0U/hqdefault.jpg",
+    "description": "AI can help kids in school",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Use ChatGPT in schools",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T16:14:26.646762+00:00",
+    "is_new": true
+  },
+  "orlNzdUDxPs": {
+    "video_id": "orlNzdUDxPs",
+    "title": "Scorecards make or break your business",
+    "published": "2026-05-24T14:00:31+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/orlNzdUDxPs/hqdefault.jpg",
+    "description": "Head to my IG and DM me \"SCORECARD\". I'll send it across.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Scorecards make or break your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T16:14:32.559922+00:00",
+    "is_new": true
+  },
+  "udl_pDjz2Dw": {
+    "video_id": "udl_pDjz2Dw",
+    "title": "Words to avoid in business",
+    "published": "2026-05-24T13:00:44+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/udl_pDjz2Dw/hqdefault.jpg",
+    "description": "The words you use in business make a big difference",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Words to avoid in business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T16:14:38.899202+00:00",
+    "is_new": true
+  },
+  "bQyj01FcCWo": {
+    "video_id": "bQyj01FcCWo",
+    "title": "AI vs University",
+    "published": "2026-05-24T12:00:32+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bQyj01FcCWo/hqdefault.jpg",
+    "description": "Colleges are done...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI vs University",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T16:14:45.202140+00:00",
     "is_new": true
   }
 }
