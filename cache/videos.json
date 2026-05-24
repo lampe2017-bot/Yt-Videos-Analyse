@@ -2046,7 +2046,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-03T14:18:42.624283+00:00",
-    "is_new": true
+    "is_new": false
   },
   "2J0Y0Gezw0M": {
     "video_id": "2J0Y0Gezw0M",
@@ -2689,7 +2689,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-06T20:57:29.266879+00:00",
-    "is_new": true
+    "is_new": false
   },
   "l-MFgXb7PZc": {
     "video_id": "l-MFgXb7PZc",
@@ -3209,7 +3209,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-10T14:43:23.279245+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tUECsCm6jeI": {
     "video_id": "tUECsCm6jeI",
@@ -3746,7 +3746,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-13T16:43:32.752238+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4mgrkDJ4QEk": {
     "video_id": "4mgrkDJ4QEk",
@@ -4414,7 +4414,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-17T15:44:56.955040+00:00",
-    "is_new": true
+    "is_new": false
   },
   "DpiHAz52VSQ": {
     "video_id": "DpiHAz52VSQ",
@@ -4873,7 +4873,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-20T19:37:31.633526+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8bkAcos4yjs": {
     "video_id": "8bkAcos4yjs",
@@ -6151,7 +6151,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-24T12:11:41.704618+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Obe-HFjUbQI": {
     "video_id": "Obe-HFjUbQI",
@@ -6171,7 +6171,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T16:14:20.814800+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tOlXxyFRf0U": {
     "video_id": "tOlXxyFRf0U",
@@ -6191,7 +6191,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T16:14:26.646762+00:00",
-    "is_new": true
+    "is_new": false
   },
   "orlNzdUDxPs": {
     "video_id": "orlNzdUDxPs",
@@ -6211,7 +6211,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T16:14:32.559922+00:00",
-    "is_new": true
+    "is_new": false
   },
   "udl_pDjz2Dw": {
     "video_id": "udl_pDjz2Dw",
@@ -6231,7 +6231,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T16:14:38.899202+00:00",
-    "is_new": true
+    "is_new": false
   },
   "bQyj01FcCWo": {
     "video_id": "bQyj01FcCWo",
@@ -6251,6 +6251,90 @@
       "model": null
     },
     "first_seen": "2026-05-24T16:14:45.202140+00:00",
+    "is_new": false
+  },
+  "uZQL1RSV-T0": {
+    "video_id": "uZQL1RSV-T0",
+    "title": "5 numbers to track in your job.",
+    "published": "2026-05-24T19:01:24+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uZQL1RSV-T0/hqdefault.jpg",
+    "description": "Head to my IG and DM me \"SCORECARD\" for the resource.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "5 numbers to track in your job.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T20:17:14.559910+00:00",
+    "is_new": true
+  },
+  "Dl0yH6ntI08": {
+    "video_id": "Dl0yH6ntI08",
+    "title": "Words to avoid in business",
+    "published": "2026-05-24T18:00:33+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Dl0yH6ntI08/hqdefault.jpg",
+    "description": "The words you use matter",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Words to avoid in business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T20:17:20.673509+00:00",
+    "is_new": true
+  },
+  "ZxtBlOU3D6o": {
+    "video_id": "ZxtBlOU3D6o",
+    "title": "AI vs universities",
+    "published": "2026-05-24T17:00:35+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZxtBlOU3D6o/hqdefault.jpg",
+    "description": "Colleges are done...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI vs universities",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T20:17:27.043948+00:00",
+    "is_new": true
+  },
+  "7aabLS2qlvY": {
+    "video_id": "7aabLS2qlvY",
+    "title": "LIFE UPDATE!!!!",
+    "published": "2026-05-24T20:09:03+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7aabLS2qlvY/hqdefault.jpg",
+    "description": "Jetzt Kraken ausprobieren und 30€ (!!) in BTC geschenkt bekommen: https://kraken.pxf.io/c/5009311/3762442/10583\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:35 Der Moment\n2:16 Ein neues Kapitel\n4:12 Partnerwahl\n6:34 Ernüchterung\n8:38 Paartherapie\n9:41 Erfolgsgeheimnis\n11:16 Fazit \n\n\nJetzt deine Lebensbalance testen: http://rebalance.",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Niklas Steenfatt teilt persönliche Updates und Einblicke in sein Leben.",
+      "bullets": [
+        "Er spricht über einen neuen Lebensabschnitt und persönliche Entwicklungen.",
+        "Die Bedeutung der Partnerwahl wird hervorgehoben und reflektiert.",
+        "Erfahrungen mit Paartherapie werden geteilt, um Beziehungen zu stärken.",
+        "Ein Erfolgsgeheimnis wird enthüllt, das für persönliche Fortschritte wichtig ist.",
+        "Zuschauer werden ermutigt, ihre Lebensbalance kostenlos zu testen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-24T20:19:35.254796+00:00",
     "is_new": true
   }
 }
