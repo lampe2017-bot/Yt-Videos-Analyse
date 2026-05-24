@@ -6271,7 +6271,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T20:17:14.559910+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Dl0yH6ntI08": {
     "video_id": "Dl0yH6ntI08",
@@ -6291,7 +6291,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T20:17:20.673509+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZxtBlOU3D6o": {
     "video_id": "ZxtBlOU3D6o",
@@ -6311,7 +6311,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T20:17:27.043948+00:00",
-    "is_new": true
+    "is_new": false
   },
   "7aabLS2qlvY": {
     "video_id": "7aabLS2qlvY",
@@ -6335,6 +6335,66 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-24T20:19:35.254796+00:00",
+    "is_new": true
+  },
+  "ecE2lXaCO3E": {
+    "video_id": "ecE2lXaCO3E",
+    "title": "2025 vs 2026 AI Tools",
+    "published": "2026-05-24T21:01:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ecE2lXaCO3E/hqdefault.jpg",
+    "description": "2025 vs 2026 AI Tools",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "2025 vs 2026 AI Tools",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T23:46:11.912346+00:00",
+    "is_new": true
+  },
+  "e0-_hETKnGQ": {
+    "video_id": "e0-_hETKnGQ",
+    "title": "Meetings are the BIGGEST waste of time in any company",
+    "published": "2026-05-24T21:01:01+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/e0-_hETKnGQ/hqdefault.jpg",
+    "description": "Meetings are the BIGGEST waste of time in any company",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Meetings are the BIGGEST waste of time in any company",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T23:46:17.604890+00:00",
+    "is_new": true
+  },
+  "Hf3mhhBbjDY": {
+    "video_id": "Hf3mhhBbjDY",
+    "title": "\"Should I start dropshipping?\"",
+    "published": "2026-05-24T21:00:37+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Hf3mhhBbjDY/hqdefault.jpg",
+    "description": "\"Should I start dropshipping?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"Should I start dropshipping?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T23:46:23.032537+00:00",
     "is_new": true
   }
 }
