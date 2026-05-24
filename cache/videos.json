@@ -5944,7 +5944,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:06.435321+00:00",
-    "is_new": true
+    "is_new": false
   },
   "zCw7qJZPhns": {
     "video_id": "zCw7qJZPhns",
@@ -5964,7 +5964,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:12.285288+00:00",
-    "is_new": true
+    "is_new": false
   },
   "a7472B83RtU": {
     "video_id": "a7472B83RtU",
@@ -5984,7 +5984,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:18.009350+00:00",
-    "is_new": true
+    "is_new": false
   },
   "e5GGEAK--mc": {
     "video_id": "e5GGEAK--mc",
@@ -6004,7 +6004,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:23.849129+00:00",
-    "is_new": true
+    "is_new": false
   },
   "SeMe38SGHAs": {
     "video_id": "SeMe38SGHAs",
@@ -6024,7 +6024,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:29.940927+00:00",
-    "is_new": true
+    "is_new": false
   },
   "F_rXmzVT74E": {
     "video_id": "F_rXmzVT74E",
@@ -6044,7 +6044,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:35.901244+00:00",
-    "is_new": true
+    "is_new": false
   },
   "fUumzfc_Ew8": {
     "video_id": "fUumzfc_Ew8",
@@ -6064,6 +6064,93 @@
       "model": null
     },
     "first_seen": "2026-05-24T08:07:41.685013+00:00",
+    "is_new": false
+  },
+  "zzJp0EcdIDc": {
+    "video_id": "zzJp0EcdIDc",
+    "title": "Gemini 3.5: DIESES Problem übersehen alle & DAS kann “Omni” wirklich! (+AI Act Update Interview)",
+    "published": "2026-05-24T08:15:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zzJp0EcdIDc/hqdefault.jpg",
+    "description": "100 neue KI-Updates von der Google I/O 2026 - DAS sind die fünf, die du wirklich kennen musst! Wir testen Gemini 3.5 Flash, Omni & ich zeige dir wie du jetzt mit nur einem Prompt Android Apps bauen kannst. Außerdem ein Spezial-Interview zu den AI-Act Änderungen mit Everlast IT-Fachanwalt Dr. Lutz Keppeler sowie viele weitere KI-News.\n\nKostenfreier CorporateLLM Workshop nächsten Mittwoch: https://www.kiberatung.de/corporatellm-workshop \n\nKostenfreier Workshop für alle, die KI von Grund auf lernen wollen: https://kilernen.de/ki-manager-workshop  \n\nMit diesem Tool mache ich meine Transkriptionen,",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Gemini 3.5 bietet innovative Möglichkeiten zur App-Entwicklung und wichtige Einblicke in den AI Act.",
+      "bullets": [
+        "Gemini 3.5 ermöglicht die Erstellung von Android Apps mit nur einem Prompt.",
+        "Das Video präsentiert fünf essentielle KI-Updates von der Google I/O 2026.",
+        "Ein Interview mit Dr. Lutz Keppeler beleuchtet die Änderungen im AI Act.",
+        "Zwei kostenfreie Workshops bieten umfassende Schulungen zur KI-Nutzung.",
+        "Omni zeigt beeindruckende Funktionen, die oft übersehen werden."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-24T12:08:51.108019+00:00",
+    "is_new": true
+  },
+  "7WhTTBU92Ok": {
+    "video_id": "7WhTTBU92Ok",
+    "title": "What university is good for",
+    "published": "2026-05-24T11:00:35+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7WhTTBU92Ok/hqdefault.jpg",
+    "description": "University is the best networking tool",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What university is good for",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T12:10:15.502866+00:00",
+    "is_new": true
+  },
+  "O7VTdNFrUak": {
+    "video_id": "O7VTdNFrUak",
+    "title": "Using Claude at school",
+    "published": "2026-05-24T10:01:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/O7VTdNFrUak/hqdefault.jpg",
+    "description": "AI can help kids with schoolwork",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Using Claude at school",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-24T12:10:21.219387+00:00",
+    "is_new": true
+  },
+  "W8KBR9zhGjU": {
+    "video_id": "W8KBR9zhGjU",
+    "title": "So würde ich 2026 bei 0 mit Social Media starten",
+    "published": "2026-05-24T12:00:38+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/W8KBR9zhGjU/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nDie alte Social Media Strategie funktioniert nicht mehr. In diesem Video zeige ich dir, was wirklich zieht — basierend auf 450.000 Followern und über 2 Millionen € Online-Umsatz.\nDu lernst:\n\nWarum erfolgreiche Creator kopieren statt erfinden\nWie du schnellen und langsamen Content richtig kombinierst\nWarum Authentizität heute jede Überproduktion schlägt\nWas ich heute anders machen würde, wenn ich bei 0 starten würde\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4t",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre, wie du 2026 erfolgreich mit Social Media starten kannst.",
+      "bullets": [
+        "Erfolgreiche Creator kopieren Strategien, anstatt komplett neu zu erfinden.",
+        "Kombiniere schnellen und langsamen Content für maximale Reichweite.",
+        "Authentizität übertrumpft heute jede Form von Überproduktion.",
+        "Lerne, was ich anders machen würde, wenn ich bei Null starte."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-24T12:11:41.704618+00:00",
     "is_new": true
   }
 }
