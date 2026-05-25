@@ -6515,7 +6515,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T15:46:22.080808+00:00",
-    "is_new": true
+    "is_new": false
   },
   "UHxcPRklwlE": {
     "video_id": "UHxcPRklwlE",
@@ -6535,7 +6535,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T15:46:28.481066+00:00",
-    "is_new": true
+    "is_new": false
   },
   "on_n74r2vYA": {
     "video_id": "on_n74r2vYA",
@@ -6555,7 +6555,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T15:46:35.009045+00:00",
-    "is_new": true
+    "is_new": false
   },
   "yvXNmdfYJYY": {
     "video_id": "yvXNmdfYJYY",
@@ -6579,6 +6579,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-25T15:46:45.804727+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
