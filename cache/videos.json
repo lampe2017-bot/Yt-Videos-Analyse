@@ -6580,5 +6580,25 @@
     },
     "first_seen": "2026-05-25T15:46:45.804727+00:00",
     "is_new": false
+  },
+  "LOS3Vdg3ecM": {
+    "video_id": "LOS3Vdg3ecM",
+    "title": "$100M CEO grades jobs REPLACED by AI",
+    "published": "2026-05-25T21:01:09+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LOS3Vdg3ecM/hqdefault.jpg",
+    "description": "$100M CEO grades jobs REPLACED by AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO grades jobs REPLACED by AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T21:40:09.381252+00:00",
+    "is_new": true
   }
 }
