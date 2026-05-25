@@ -6415,7 +6415,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T12:50:46.911080+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Gr8RAnOfNKk": {
     "video_id": "Gr8RAnOfNKk",
@@ -6435,7 +6435,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T12:50:52.405241+00:00",
-    "is_new": true
+    "is_new": false
   },
   "zYjzZkmvyUI": {
     "video_id": "zYjzZkmvyUI",
@@ -6455,7 +6455,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T12:50:57.756598+00:00",
-    "is_new": true
+    "is_new": false
   },
   "dFz9nRdArlY": {
     "video_id": "dFz9nRdArlY",
@@ -6475,7 +6475,7 @@
       "model": null
     },
     "first_seen": "2026-05-25T12:51:03.369184+00:00",
-    "is_new": true
+    "is_new": false
   },
   "E1C6up0FyOk": {
     "video_id": "E1C6up0FyOk",
@@ -6495,6 +6495,90 @@
       "model": null
     },
     "first_seen": "2026-05-25T12:51:08.959279+00:00",
+    "is_new": false
+  },
+  "bTy6FNKxcNA": {
+    "video_id": "bTy6FNKxcNA",
+    "title": "Prioritize your wife every time",
+    "published": "2026-05-25T15:01:41+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bTy6FNKxcNA/hqdefault.jpg",
+    "description": "If your wife is happy, everything else is good",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prioritize your wife every time",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T15:46:22.080808+00:00",
+    "is_new": true
+  },
+  "UHxcPRklwlE": {
+    "video_id": "UHxcPRklwlE",
+    "title": "There's 3 levels of AI...",
+    "published": "2026-05-25T14:02:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/UHxcPRklwlE/hqdefault.jpg",
+    "description": "Head to my IG and DM me \"AI\" for my full AI Business Cheat Sheet",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "There's 3 levels of AI...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T15:46:28.481066+00:00",
+    "is_new": true
+  },
+  "on_n74r2vYA": {
+    "video_id": "on_n74r2vYA",
+    "title": "C students run the world",
+    "published": "2026-05-25T13:01:57+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/on_n74r2vYA/hqdefault.jpg",
+    "description": "The most successful people in the world all share one thing",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "C students run the world",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T15:46:35.009045+00:00",
+    "is_new": true
+  },
+  "yvXNmdfYJYY": {
+    "video_id": "yvXNmdfYJYY",
+    "title": "Understand These, and You’ll Understand How to Get Rich as F*ck",
+    "published": "2026-05-25T13:01:07+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yvXNmdfYJYY/hqdefault.jpg",
+    "description": "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/4wOEeTx\n\nMost people think getting rich is complicated. It isn't. There are 7 principles that quietly separate the people who build real wealth from the ones who stay stuck no matter how hard they work.\n\nI learned these the hard way, and in this video I'm handing them to you with the math behind each one so you can actually act on them this week. Watch to the end, because the last one is the difference between building a business that frees you and one that owns you.\n\n▸▸ Subscribe to The Martell Method Newsletter: htt",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Reichtum ist nicht kompliziert, sondern basiert auf sieben klaren Prinzipien.",
+      "bullets": [
+        "Die meisten Menschen unterschätzen die Einfachheit des Reichtums und bleiben oft stecken.",
+        "Es gibt sieben grundlegende Prinzipien, die den Aufbau von echtem Wohlstand ermöglichen.",
+        "Jedes Prinzip wird mit mathematischen Grundlagen erklärt, um sofortige Umsetzung zu ermöglichen.",
+        "Das letzte Prinzip unterscheidet zwischen einem selbstbestimmten und einem besitzergreifenden Geschäft.",
+        "Handeln Sie noch diese Woche, um Ihre finanzielle Situation zu verbessern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-25T15:46:45.804727+00:00",
     "is_new": true
   }
 }
