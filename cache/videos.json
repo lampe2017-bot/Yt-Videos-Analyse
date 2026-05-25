@@ -6355,7 +6355,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T23:46:11.912346+00:00",
-    "is_new": true
+    "is_new": false
   },
   "e0-_hETKnGQ": {
     "video_id": "e0-_hETKnGQ",
@@ -6375,7 +6375,7 @@
       "model": null
     },
     "first_seen": "2026-05-24T23:46:17.604890+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Hf3mhhBbjDY": {
     "video_id": "Hf3mhhBbjDY",
@@ -6395,6 +6395,106 @@
       "model": null
     },
     "first_seen": "2026-05-24T23:46:23.032537+00:00",
+    "is_new": false
+  },
+  "9cw5UzQd-m4": {
+    "video_id": "9cw5UzQd-m4",
+    "title": "The most important skill",
+    "published": "2026-05-25T12:02:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9cw5UzQd-m4/hqdefault.jpg",
+    "description": "You have to be okay being disliked...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The most important skill",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T12:50:46.911080+00:00",
+    "is_new": true
+  },
+  "Gr8RAnOfNKk": {
+    "video_id": "Gr8RAnOfNKk",
+    "title": "She wants to run 5K every day for 100 days",
+    "published": "2026-05-25T11:00:36+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Gr8RAnOfNKk/hqdefault.jpg",
+    "description": "Consistency is super valuable",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "She wants to run 5K every day for 100 days",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T12:50:52.405241+00:00",
+    "is_new": true
+  },
+  "zYjzZkmvyUI": {
+    "video_id": "zYjzZkmvyUI",
+    "title": "Prioritize your wife",
+    "published": "2026-05-25T10:00:50+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zYjzZkmvyUI/hqdefault.jpg",
+    "description": "Your wife's happiness is #1 priority always.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prioritize your wife",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T12:50:57.756598+00:00",
+    "is_new": true
+  },
+  "dFz9nRdArlY": {
+    "video_id": "dFz9nRdArlY",
+    "title": "You HAVE to date your wife",
+    "published": "2026-05-25T05:00:30+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dFz9nRdArlY/hqdefault.jpg",
+    "description": "You HAVE to date your wife",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You HAVE to date your wife",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T12:51:03.369184+00:00",
+    "is_new": true
+  },
+  "E1C6up0FyOk": {
+    "video_id": "E1C6up0FyOk",
+    "title": "The school system is failing your kids",
+    "published": "2026-05-25T04:02:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/E1C6up0FyOk/hqdefault.jpg",
+    "description": "The school system is failing your kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The school system is failing your kids",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-25T12:51:08.959279+00:00",
     "is_new": true
   }
 }
