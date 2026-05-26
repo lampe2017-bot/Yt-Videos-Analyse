@@ -6622,7 +6622,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-26T17:17:59.145330+00:00",
-    "is_new": true
+    "is_new": false
   },
   "gAXN5v3jTlA": {
     "video_id": "gAXN5v3jTlA",
@@ -6642,7 +6642,7 @@
       "model": null
     },
     "first_seen": "2026-05-26T17:19:20.109244+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nSzxqwbNIMs": {
     "video_id": "nSzxqwbNIMs",
@@ -6662,6 +6662,26 @@
       "model": null
     },
     "first_seen": "2026-05-26T17:19:25.708276+00:00",
+    "is_new": false
+  },
+  "qASYfEyBWBE": {
+    "video_id": "qASYfEyBWBE",
+    "title": "Build a Brand, Not Just a Business",
+    "published": "2026-05-26T19:01:28+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qASYfEyBWBE/hqdefault.jpg",
+    "description": "Don't just build a business, build a BRAND",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Build a Brand, Not Just a Business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-26T19:33:27.341167+00:00",
     "is_new": true
   }
 }
