@@ -6600,5 +6600,68 @@
     },
     "first_seen": "2026-05-25T21:40:09.381252+00:00",
     "is_new": false
+  },
+  "vOreK_A66Gw": {
+    "video_id": "vOreK_A66Gw",
+    "title": "KI 2026: Der Beginn der Agenten-Ökonomie (der größte Umbruch seit 2000 Jahren)",
+    "published": "2026-05-26T15:15:18+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vOreK_A66Gw/hqdefault.jpg",
+    "description": "Die Agenten-Ökonomie: Was passiert, wenn KI nicht nur einfache Aufgaben, sondern die gesamte Wirtschaft übernimmt? In diesem Video schauen wir uns an, wie diese Welt aussieht und wieso dies nicht so absurd ist, wie viele denken.\n\nKostenfreier CorporateLLM Workshop nächsten Mittwoch: https://www.kiberatung.de/corporatellm-workshop \n\nKostenfreier Workshop für alle, die KI von Grund auf lernen wollen: https://kilernen.de/ki-manager-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen ",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die Agenten-Ökonomie könnte die Wirtschaft grundlegend verändern und KI in alle Bereiche integrieren.",
+      "bullets": [
+        "KI wird nicht nur einfache Aufgaben übernehmen, sondern die gesamte Wirtschaft revolutionieren.",
+        "Die Vorstellung einer Agenten-Ökonomie ist realistischer, als viele Menschen annehmen.",
+        "Unternehmen müssen KI-Integration nutzen, um wettbewerbsfähig zu bleiben und Vorteile zu sichern.",
+        "Kostenfreie Workshops bieten die Möglichkeit, KI von Grund auf zu lernen und anzuwenden."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-26T17:17:59.145330+00:00",
+    "is_new": true
+  },
+  "gAXN5v3jTlA": {
+    "video_id": "gAXN5v3jTlA",
+    "title": "Prioritize Health for Trust and Opportunity",
+    "published": "2026-05-26T17:02:14+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/gAXN5v3jTlA/hqdefault.jpg",
+    "description": "Prioritize Health for Trust and Opportunity",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prioritize Health for Trust and Opportunity",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-26T17:19:20.109244+00:00",
+    "is_new": true
+  },
+  "nSzxqwbNIMs": {
+    "video_id": "nSzxqwbNIMs",
+    "title": "Is ChatGPT any good in 2026?",
+    "published": "2026-05-26T15:02:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nSzxqwbNIMs/hqdefault.jpg",
+    "description": "Is ChatGPT any good in 2026?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Is ChatGPT any good in 2026?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-26T17:19:25.708276+00:00",
+    "is_new": true
   }
 }
