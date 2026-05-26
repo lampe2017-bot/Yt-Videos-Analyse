@@ -6682,6 +6682,26 @@
       "model": null
     },
     "first_seen": "2026-05-26T19:33:27.341167+00:00",
+    "is_new": false
+  },
+  "OnpaZPQYftc": {
+    "video_id": "OnpaZPQYftc",
+    "title": "Kiss, Marry, Kill: AI Tools Edition",
+    "published": "2026-05-26T21:01:20+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OnpaZPQYftc/hqdefault.jpg",
+    "description": "Kiss, Marry, Kill: AI Tools",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Kiss, Marry, Kill: AI Tools Edition",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-26T21:27:26.900272+00:00",
     "is_new": true
   }
 }
