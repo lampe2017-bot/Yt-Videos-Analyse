@@ -6725,7 +6725,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-27T17:38:53.197240+00:00",
-    "is_new": true
+    "is_new": false
   },
   "JotQBHTcywI": {
     "video_id": "JotQBHTcywI",
@@ -6745,7 +6745,7 @@
       "model": null
     },
     "first_seen": "2026-05-27T17:39:32.385855+00:00",
-    "is_new": true
+    "is_new": false
   },
   "6CEu-80B3ws": {
     "video_id": "6CEu-80B3ws",
@@ -6792,6 +6792,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-27T17:41:39.112183+00:00",
+    "is_new": true
+  },
+  "svi2xGDu9ik": {
+    "video_id": "svi2xGDu9ik",
+    "title": "Use these AI Tools to grow your business in 2026",
+    "published": "2026-05-27T19:01:15+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/svi2xGDu9ik/hqdefault.jpg",
+    "description": "Use these AI Tools to grow your business in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Use these AI Tools to grow your business in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-27T19:58:13.125263+00:00",
     "is_new": true
   }
 }
