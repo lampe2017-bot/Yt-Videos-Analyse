@@ -6812,6 +6812,26 @@
       "model": null
     },
     "first_seen": "2026-05-27T19:58:13.125263+00:00",
+    "is_new": false
+  },
+  "igNNTCE3vEA": {
+    "video_id": "igNNTCE3vEA",
+    "title": "The best AI Tools to help you make money",
+    "published": "2026-05-27T21:00:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/igNNTCE3vEA/hqdefault.jpg",
+    "description": "The best AI Tools to help you make money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The best AI Tools to help you make money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-27T21:48:36.169316+00:00",
     "is_new": true
   }
 }
