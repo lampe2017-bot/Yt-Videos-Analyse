@@ -6832,6 +6832,26 @@
       "model": null
     },
     "first_seen": "2026-05-27T21:48:36.169316+00:00",
+    "is_new": false
+  },
+  "7scZbwtZzA8": {
+    "video_id": "7scZbwtZzA8",
+    "title": "You should be doing weekly meetings with your kids",
+    "published": "2026-05-27T23:01:03+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7scZbwtZzA8/hqdefault.jpg",
+    "description": "You should be doing weekly meetings with your kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You should be doing weekly meetings with your kids",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-27T23:09:14.768752+00:00",
     "is_new": true
   }
 }
