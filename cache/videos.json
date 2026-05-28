@@ -6940,6 +6940,26 @@
       "model": null
     },
     "first_seen": "2026-05-28T19:53:08.144039+00:00",
+    "is_new": false
+  },
+  "ccoZLMhVP1E": {
+    "video_id": "ccoZLMhVP1E",
+    "title": "Your fitness says a lot about you in business",
+    "published": "2026-05-28T21:01:12+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/ccoZLMhVP1E/hqdefault.jpg",
+    "description": "Your fitness says alot about you in business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your fitness says a lot about you in business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-28T21:50:17.460703+00:00",
     "is_new": true
   }
 }
