@@ -6853,5 +6853,73 @@
     },
     "first_seen": "2026-05-27T23:09:14.768752+00:00",
     "is_new": false
+  },
+  "pFE9rmAFXLw": {
+    "video_id": "pFE9rmAFXLw",
+    "title": "Emanuel Böminghaus: „KI ist das ENDE von allem, was ich kenne!\" Unternehmen müssen endlich aufwachen",
+    "published": "2026-05-28T15:15:07+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pFE9rmAFXLw/hqdefault.jpg",
+    "description": "Emanuel Böminghaus warnt im Interview: Deutschland steht im Endspiel mit China — die Chemie kippt, BASF flieht, Maschinenbau und Automotive verlieren den Preiskampf, weil China seine Fabriken mit KI hochautomatisiert hat. \n\nLerne Agentic Coding Tools wie Claude Code von A-Z zu meistern: https://claudecodekurs.de \n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in dei",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Emanuel Böminghaus warnt vor den Folgen der KI-Entwicklung für deutsche Unternehmen.",
+      "bullets": [
+        "Deutschland steht im Wettbewerb mit China, insbesondere in der Chemie- und Maschinenbauindustrie.",
+        "BASF und andere Unternehmen verlieren den Preiskampf durch KI-gestützte Automatisierung in China.",
+        "Unternehmen müssen dringend auf KI-Integration setzen, um wettbewerbsfähig zu bleiben.",
+        "Agentic Coding Tools wie Claude Code sind entscheidend für die Zukunft der Unternehmen.",
+        "Ein kostenfreier Workshop bietet die Möglichkeit, KI-Kenntnisse zu vertiefen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-28T17:04:53.799209+00:00",
+    "is_new": true
+  },
+  "74AaBiVZ1BY": {
+    "video_id": "74AaBiVZ1BY",
+    "title": "What even is \"ADHD\"?",
+    "published": "2026-05-28T15:02:25+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/74AaBiVZ1BY/hqdefault.jpg",
+    "description": "What even is \"ADHD\"?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What even is \"ADHD\"?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-28T17:06:29.015704+00:00",
+    "is_new": true
+  },
+  "TWuzAO7ukk0": {
+    "video_id": "TWuzAO7ukk0",
+    "title": "If you’re trying to get rich with AI, you need to hear this…",
+    "published": "2026-05-28T13:00:01+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TWuzAO7ukk0/hqdefault.jpg",
+    "description": "✅ Want my AI Tech Stack? Get it here: https://go.danmartell.com/4nUvaZi\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/3Ryt3hI\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/3PFmTM9\n\nMost people chasing money with AI are chasing the wrong thing. They stack tools, copy prompts, jump on every new agent, and still can't figure out why they aren't getting paid.\n\nThe problem isn't the AI. The problem is that nobody taught them what AI actually rewards, and what it punishes.\n\nIn this video, I'll show you the 5 shifts that separate the people getting ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfolgreich mit KI Geld verdienen erfordert ein Umdenken in der Herangehensweise.",
+      "bullets": [
+        "Viele verfolgen mit KI die falschen Ziele und verstehen nicht, was wirklich zählt.",
+        "Es geht nicht nur um Tools, sondern um das Verständnis der Belohnungen und Strafen von KI.",
+        "Der Videoautor präsentiert fünf entscheidende Veränderungen für den Erfolg im KI-Bereich.",
+        "Ein strategischer Ansatz ist entscheidend, um mit KI profitabel zu arbeiten.",
+        "Die richtige Denkweise kann den Unterschied zwischen Misserfolg und Erfolg ausmachen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-28T17:06:39.265746+00:00",
+    "is_new": true
   }
 }
