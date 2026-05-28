@@ -6876,7 +6876,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-28T17:04:53.799209+00:00",
-    "is_new": true
+    "is_new": false
   },
   "74AaBiVZ1BY": {
     "video_id": "74AaBiVZ1BY",
@@ -6896,7 +6896,7 @@
       "model": null
     },
     "first_seen": "2026-05-28T17:06:29.015704+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TWuzAO7ukk0": {
     "video_id": "TWuzAO7ukk0",
@@ -6920,6 +6920,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-28T17:06:39.265746+00:00",
+    "is_new": false
+  },
+  "R_8Ndl9Z1JE": {
+    "video_id": "R_8Ndl9Z1JE",
+    "title": "CEO morning routine for 2026",
+    "published": "2026-05-28T17:02:53+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/R_8Ndl9Z1JE/hqdefault.jpg",
+    "description": "CEO morning routine for 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "CEO morning routine for 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-28T19:53:08.144039+00:00",
     "is_new": true
   }
 }
