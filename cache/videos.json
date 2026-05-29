@@ -7020,6 +7020,26 @@
       "model": null
     },
     "first_seen": "2026-05-29T16:35:12.147439+00:00",
+    "is_new": false
+  },
+  "u36ltT6uOMs": {
+    "video_id": "u36ltT6uOMs",
+    "title": "My best AI advice for this year (deleting soon)",
+    "published": "2026-05-29T17:03:44+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/u36ltT6uOMs/hqdefault.jpg",
+    "description": "My best AI advice for this year (deleting soon)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "My best AI advice for this year (deleting soon)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-29T19:26:36.585676+00:00",
     "is_new": true
   }
 }
