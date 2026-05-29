@@ -6961,5 +6961,45 @@
     },
     "first_seen": "2026-05-28T21:50:17.460703+00:00",
     "is_new": false
+  },
+  "L8AmaLgrO5Q": {
+    "video_id": "L8AmaLgrO5Q",
+    "title": "Your Partner Marries Two People",
+    "published": "2026-05-28T23:01:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/L8AmaLgrO5Q/hqdefault.jpg",
+    "description": "Your Partner Marries Two People",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your Partner Marries Two People",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-29T01:31:35.457962+00:00",
+    "is_new": true
+  },
+  "-OdU80S5wjQ": {
+    "video_id": "-OdU80S5wjQ",
+    "title": "You might be raising weak kids",
+    "published": "2026-05-28T23:00:42+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-OdU80S5wjQ/hqdefault.jpg",
+    "description": "You might be raising weak kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You might be raising weak kids",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-29T01:31:41.585688+00:00",
+    "is_new": true
   }
 }
