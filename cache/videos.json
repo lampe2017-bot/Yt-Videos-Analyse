@@ -6980,7 +6980,7 @@
       "model": null
     },
     "first_seen": "2026-05-29T01:31:35.457962+00:00",
-    "is_new": true
+    "is_new": false
   },
   "-OdU80S5wjQ": {
     "video_id": "-OdU80S5wjQ",
@@ -7000,6 +7000,6 @@
       "model": null
     },
     "first_seen": "2026-05-29T01:31:41.585688+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
