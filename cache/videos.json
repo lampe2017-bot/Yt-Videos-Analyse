@@ -7001,5 +7001,25 @@
     },
     "first_seen": "2026-05-29T01:31:41.585688+00:00",
     "is_new": false
+  },
+  "wK7YkoZ-Du0": {
+    "video_id": "wK7YkoZ-Du0",
+    "title": "Describing AI tools with only 1 line",
+    "published": "2026-05-29T15:02:40+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wK7YkoZ-Du0/hqdefault.jpg",
+    "description": "Describing AI tools with only 1 line",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Describing AI tools with only 1 line",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-29T16:35:12.147439+00:00",
+    "is_new": true
   }
 }
