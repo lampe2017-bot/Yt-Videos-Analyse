@@ -7040,6 +7040,26 @@
       "model": null
     },
     "first_seen": "2026-05-29T19:26:36.585676+00:00",
+    "is_new": false
+  },
+  "P5fW1TPSNTA": {
+    "video_id": "P5fW1TPSNTA",
+    "title": "The truth about entrepreneurs",
+    "published": "2026-05-29T21:01:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P5fW1TPSNTA/hqdefault.jpg",
+    "description": "The truth about entrepreneurs",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The truth about entrepreneurs",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-29T21:21:08.664340+00:00",
     "is_new": true
   }
 }
