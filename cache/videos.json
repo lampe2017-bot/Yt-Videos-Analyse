@@ -7105,5 +7105,25 @@
     },
     "first_seen": "2026-05-30T09:49:37.056919+00:00",
     "is_new": false
+  },
+  "P9HcM0m1F0Q": {
+    "video_id": "P9HcM0m1F0Q",
+    "title": "Explaining AI tools in ONE LINE",
+    "published": "2026-05-30T15:02:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P9HcM0m1F0Q/hqdefault.jpg",
+    "description": "Explaining AI tools in ONE LINE",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Explaining AI tools in ONE LINE",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-30T15:45:09.658543+00:00",
+    "is_new": true
   }
 }
