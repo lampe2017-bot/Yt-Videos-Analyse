@@ -7061,5 +7061,25 @@
     },
     "first_seen": "2026-05-29T21:21:08.664340+00:00",
     "is_new": false
+  },
+  "60GlPNCMpIM": {
+    "video_id": "60GlPNCMpIM",
+    "title": "I motivated this kid to start his business",
+    "published": "2026-05-29T23:43:53+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/60GlPNCMpIM/hqdefault.jpg",
+    "description": "I motivated this kid to start his business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I motivated this kid to start his business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-30T00:02:31.107496+00:00",
+    "is_new": true
   }
 }
