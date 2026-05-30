@@ -707,7 +707,7 @@
     "description": "Wieso jedes Unternehmen ein CorporateLLM braucht! Nachdem wir die letzten Jahre alle relevanten KI Use Cases für Unternehmen und KI-Agenturen, wie AI Voice Agents eingeführt und etabliert haben, folgt hiermit offiziell einer der wichtigsten KI Use Cases für 2026 und alle Folgejahre.\n\nProfitiere auch du von dieser Chance und sichere dir deinen Platz für den kostenfreien Live CorporateLLM Workshop: https://assets.kiberatung.de/corporatellm-workshop \n\nDer Workshop eignet sich sowohl für Agenturen und Selbstständige, als auch für Unternehmen.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfre",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "12:12",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Jedes Unternehmen benötigt ein CorporateLLM für zukünftigen Erfolg und Wettbewerbsfähigkeit.",
@@ -7164,6 +7164,6 @@
       "model": null
     },
     "first_seen": "2026-05-30T21:31:18.897039+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
