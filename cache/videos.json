@@ -7125,5 +7125,25 @@
     },
     "first_seen": "2026-05-30T15:45:09.658543+00:00",
     "is_new": false
+  },
+  "Z4hjwlRzBs8": {
+    "video_id": "Z4hjwlRzBs8",
+    "title": "How many people are gonna get rich with the AI boom?",
+    "published": "2026-05-30T19:01:47+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Z4hjwlRzBs8/hqdefault.jpg",
+    "description": "How many people are gonna get rich with the AI boom?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How many people are gonna get rich with the AI boom?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-30T20:06:20.208885+00:00",
+    "is_new": true
   }
 }
