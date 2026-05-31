@@ -6768,7 +6768,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-27T17:40:56.166248+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sT9UU5hc3eM": {
     "video_id": "sT9UU5hc3eM",
@@ -7185,5 +7185,53 @@
     },
     "first_seen": "2026-05-30T23:51:49.958936+00:00",
     "is_new": false
+  },
+  "lHU6jFHWAkM": {
+    "video_id": "lHU6jFHWAkM",
+    "title": "Claude Opus 4.8: DIESE 7 Dinge ändern jetzt ALLES! (+ KI-Weltmodell Interview)",
+    "published": "2026-05-31T08:15:31+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lHU6jFHWAkM/hqdefault.jpg",
+    "description": "KI-News der Woche: Das neue Opus 4.8 Modell mit UltraCode und Dynamic Workflows, selbstverbessernde Codex-Agenten und das erste Multi-Agent-Weltmodell Agora 1 von Odyssey (Interview mit Dr. Jenny Seidenschwarz über KI-Weltmodelle). Plus Humanoide Roboter und die Business-Idee der Woche rund um die Agentenökonomie.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nCorporateLLM Live Beta: https://corporatellm.de\n\nAlle KI-News gibt es auch täglich kostenfrei per Newsletter: https://kibubble.news\n\nDu hast ein Unternehmen, wil",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die neuen Entwicklungen in der KI verändern die Landschaft der Technologie grundlegend.",
+      "bullets": [
+        "Das Opus 4.8 Modell bringt UltraCode und Dynamic Workflows für verbesserte Effizienz.",
+        "Selbstverbessernde Codex-Agenten revolutionieren die Programmierung und Automatisierung.",
+        "Agora 1 ist das erste Multi-Agent-Weltmodell, das neue Möglichkeiten für KI-Anwendungen eröffnet.",
+        "Humanoide Roboter und Agentenökonomie bieten innovative Geschäftsideen und Chancen.",
+        "Der kostenfreie Live Agentic Coding Workshop vermittelt praxisnahe Kenntnisse in der KI-Entwicklung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-31T09:40:32.021947+00:00",
+    "is_new": true
+  },
+  "TQO6QrNiG20": {
+    "video_id": "TQO6QrNiG20",
+    "title": "Claude Remote Control ist unglaublich!!!!",
+    "published": "2026-05-31T08:00:34+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TQO6QrNiG20/hqdefault.jpg",
+    "description": "Claude Code VPS-Hosting: https://www.hostg.xyz/SHJWB\n(Jetzt 10% Rabatt mit Code: NIKLAS auf alle Jahrespläne!)\n\nAnleitung: https://steenfatt.notion.site/VPS-Claude-Code-Remote-Setup-36c88af6390880f68bcbd208127166cf?pvs=74 (erst Kanal abonnieren, dann klicken ;))\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:29 Mein Server friert ein\n1",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Claude Remote Control revolutioniert die Verwaltung von VPS-Hosting.",
+      "bullets": [
+        "Mit Claude Remote Control kannst du VPS-Hosting effizient und einfach steuern.",
+        "Der Service bietet eine benutzerfreundliche Oberfläche für optimale Kontrolle.",
+        "Nutze den Rabattcode NIKLAS für 10% Ersparnis auf Jahrespläne.",
+        "Die Anleitung zur Einrichtung ist über den Kanal verfügbar.",
+        "Teste deine Lebensbalance mit einem kostenlosen Quiz auf der Website."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-31T09:43:41.292967+00:00",
+    "is_new": true
   }
 }
