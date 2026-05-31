@@ -7010,7 +7010,7 @@
     "description": "Describing AI tools with only 1 line",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:53",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Describing AI tools with only 1 line",
@@ -7232,6 +7232,30 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-31T09:43:41.292967+00:00",
+    "is_new": true
+  },
+  "7_yg8YS0Zi4": {
+    "video_id": "7_yg8YS0Zi4",
+    "title": "Ich wurde reich als ich das verstanden habe: Wie online-Marketing wirklich funktioniert",
+    "published": "2026-05-31T12:00:04+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7_yg8YS0Zi4/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nDie meisten bauen sich mit Online-Marketing keinen Hebel, sondern einen Job.\n\nIn diesem Video zeige ich dir, warum die meisten Content Creator, Coaches und Selbstständigen trotz viel Reichweite und täglichem Content nicht wirklich skalieren – und wie du stattdessen ein System aufbaust, das dauerhaft Umsatz macht.\n\nDu lernst:\nWarum Reichweite alleine kein Geld bringt\nWas Content wirklich leisten muss, damit er verkauft\nWie ein funktionierender Funnel aufgebaut ist\nWarum Evergreen-Systeme langfristig besser sind als Launches\nUnd wi",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Verstehe, wie Online-Marketing wirklich funktioniert und baue ein profitables System auf.",
+      "bullets": [
+        "Reichweite allein generiert keinen Umsatz, wichtig ist ein skalierbares System.",
+        "Content muss gezielt gestaltet werden, um tatsächlich Verkäufe zu fördern.",
+        "Ein funktionierender Funnel ist entscheidend für den Erfolg im Online-Marketing.",
+        "Evergreen-Systeme bieten langfristige Vorteile gegenüber einmaligen Launches.",
+        "Vermeide, dir einen Job im Online-Marketing zu schaffen, statt ein passives Einkommen aufzubauen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-05-31T12:57:09.946682+00:00",
     "is_new": true
   }
 }
