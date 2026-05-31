@@ -7317,5 +7317,25 @@
     },
     "first_seen": "2026-05-31T21:31:18.931925+00:00",
     "is_new": false
+  },
+  "YXVEKVKG4ZE": {
+    "video_id": "YXVEKVKG4ZE",
+    "title": "The Domino Effect of Reactions",
+    "published": "2026-05-31T23:00:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YXVEKVKG4ZE/hqdefault.jpg",
+    "description": "The higher you go, the quieter it gets",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Domino Effect of Reactions",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-31T23:55:56.283512+00:00",
+    "is_new": true
   }
 }
