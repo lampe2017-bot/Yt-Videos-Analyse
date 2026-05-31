@@ -7277,5 +7277,25 @@
     },
     "first_seen": "2026-05-31T15:46:26.841767+00:00",
     "is_new": false
+  },
+  "mq7TUBNJbK4": {
+    "video_id": "mq7TUBNJbK4",
+    "title": "The True Skill of Success: Risk-Taking and Confidence",
+    "published": "2026-05-31T19:01:28+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/mq7TUBNJbK4/hqdefault.jpg",
+    "description": "The True Skill of Success: Risk-Taking and Confidence",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The True Skill of Success: Risk-Taking and Confidence",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-31T20:11:13.298605+00:00",
+    "is_new": true
   }
 }
