@@ -7296,6 +7296,26 @@
       "model": null
     },
     "first_seen": "2026-05-31T20:11:13.298605+00:00",
+    "is_new": false
+  },
+  "jZrPhJrehJw": {
+    "video_id": "jZrPhJrehJw",
+    "title": "Education's Failure to Adapt to AI",
+    "published": "2026-05-31T21:00:37+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/jZrPhJrehJw/hqdefault.jpg",
+    "description": "Education's Failure to Adapt to AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Education's Failure to Adapt to AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-05-31T21:31:18.931925+00:00",
     "is_new": true
   }
 }
