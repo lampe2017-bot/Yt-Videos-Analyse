@@ -7337,5 +7337,28 @@
     },
     "first_seen": "2026-05-31T23:55:56.283512+00:00",
     "is_new": false
+  },
+  "-T4OMgeLWTY": {
+    "video_id": "-T4OMgeLWTY",
+    "title": "I read 1,900 books. These 4 made me a multi-millionaire",
+    "published": "2026-06-01T13:00:13+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-T4OMgeLWTY/hqdefault.jpg",
+    "description": "✅ Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4x1mjsU\n\nAfter 1900+ books on money, business, and wealth, I can tell you most of them are noise.\n\nA small handful actually move the needle on income, and the rest are entertainment dressed up as education. In this video, I'm pulling back the curtain on the 4 books that personally shaped how I built and exited multiple companies, and exactly why they matter at different stages of your wealth journey. Stick around till the end because the last one is the reason most high performers quietly burn out before they ever get",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Vier Bücher, die Dan Martell zum Multi-Millionär gemacht haben.",
+      "bullets": [
+        "Nach 1900 gelesenen Büchern sind nur wenige wirklich wertvoll für den finanziellen Erfolg.",
+        "Die ausgewählten Bücher haben entscheidend zur Unternehmensgründung und -veräußertung beigetragen.",
+        "Jedes Buch ist wichtig für unterschiedliche Phasen der Vermögensbildung.",
+        "Das letzte Buch behandelt die Gefahr von Burnout bei Hochleistungsperformern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-01T14:30:53.289354+00:00",
+    "is_new": true
   }
 }
