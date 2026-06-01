@@ -7359,6 +7359,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-01T14:30:53.289354+00:00",
+    "is_new": false
+  },
+  "NB9-OrnN7zU": {
+    "video_id": "NB9-OrnN7zU",
+    "title": "Ranking ways to lose money",
+    "published": "2026-06-01T17:04:57+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/NB9-OrnN7zU/hqdefault.jpg",
+    "description": "Will these things make you lose your money or not?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking ways to lose money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-01T19:29:39.971043+00:00",
     "is_new": true
   }
 }
