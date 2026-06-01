@@ -7379,6 +7379,26 @@
       "model": null
     },
     "first_seen": "2026-06-01T19:29:39.971043+00:00",
+    "is_new": false
+  },
+  "28yTSBS71Y4": {
+    "video_id": "28yTSBS71Y4",
+    "title": "I don't care when you work as long as the job gets done",
+    "published": "2026-06-01T21:22:44+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/28yTSBS71Y4/hqdefault.jpg",
+    "description": "I don't care when you work as long as the job gets done",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I don't care when you work as long as the job gets done",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-01T22:21:14.846460+00:00",
     "is_new": true
   }
 }
