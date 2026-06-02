@@ -7444,5 +7444,25 @@
     },
     "first_seen": "2026-06-02T15:56:12.102042+00:00",
     "is_new": false
+  },
+  "9U4kdQq2PT0": {
+    "video_id": "9U4kdQq2PT0",
+    "title": "Worth it or NOT: AI Edition",
+    "published": "2026-06-02T21:01:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9U4kdQq2PT0/hqdefault.jpg",
+    "description": "Worth it or NOT: AI Edition",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Worth it or NOT: AI Edition",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-02T22:17:12.206487+00:00",
+    "is_new": true
   }
 }
