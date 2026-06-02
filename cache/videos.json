@@ -7400,5 +7400,49 @@
     },
     "first_seen": "2026-06-01T22:21:14.846460+00:00",
     "is_new": false
+  },
+  "ui2418ZlUYM": {
+    "video_id": "ui2418ZlUYM",
+    "title": "Die neue KI-Joblüge, Chinas Preissturz, Roboter-Durchbruch, Tokenproblem & die Agenten-Ökonomie",
+    "published": "2026-06-02T15:15:07+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ui2418ZlUYM/hqdefault.jpg",
+    "description": "In dieser VORSPRUNG-Folge: Anthropic überholt mit Opus 4.8 und 965 Mrd. Dollar Bewertung erstmals OpenAI, der Papst segnet ausgerechnet Anthropic, und China senkt seine KI-Preise um 75 Prozent. KI-Agenten bekommen jetzt eigene Bankkonten und Aktiendepots, humanoide Roboter aus China laufen im 15-Minuten-Takt vom Band und Sam Altman und Dario Amodei rudern bei der Jobapokalypse plötzlich zurück. Wie immer eingeordnet für die Praxis, sodass du den entscheidenden Vorsprung hast.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-codin",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die neuesten Entwicklungen in der KI-Industrie und deren Auswirkungen auf den Arbeitsmarkt werden analysiert.",
+      "bullets": [
+        "Anthropic überholt OpenAI mit einer Bewertung von 965 Milliarden Dollar.",
+        "China senkt KI-Preise um 75 Prozent, was den Markt beeinflusst.",
+        "KI-Agenten erhalten eigene Bankkonten und Aktiendepots für mehr Autonomie.",
+        "Humanoide Roboter aus China werden in 15-Minuten-Intervallen produziert.",
+        "Sam Altman und Dario Amodei reagieren auf die Jobapokalypse mit neuen Strategien."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-02T15:54:44.384957+00:00",
+    "is_new": true
+  },
+  "x-sgQt0OiAM": {
+    "video_id": "x-sgQt0OiAM",
+    "title": "Popular AI tools ranked",
+    "published": "2026-06-02T15:01:38+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/x-sgQt0OiAM/hqdefault.jpg",
+    "description": "How helpful are the most popular AI tools right now?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Popular AI tools ranked",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-02T15:56:12.102042+00:00",
+    "is_new": true
   }
 }
