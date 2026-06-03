@@ -7484,5 +7484,29 @@
     },
     "first_seen": "2026-06-03T00:09:36.192512+00:00",
     "is_new": false
+  },
+  "3GCiIlEISqs": {
+    "video_id": "3GCiIlEISqs",
+    "title": "DAS ist alles erst der ANFANG! KI, Neuromorphe Chips & Quantencomputer (Prof. Dr. Klaus Mainzer)",
+    "published": "2026-06-03T14:45:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3GCiIlEISqs/hqdefault.jpg",
+    "description": "Professor Dr. Klaus Mainzer zählt zu den bedeutendsten deutschen Wissenschaftstheoretikern und gilt als Pionier der Komplexitätsforschung sowie Präsident der Europäischen Akademie der Wissenschaften und Künste. Im Interview erklärt er, wie Quantencomputing, Neuromorphic Computing und künstliche Intelligenz zusammen die nächste Generation der KI bestimmen werden.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvort",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Professor Dr. Klaus Mainzer erklärt die Zukunft von KI, Quantencomputern und neuromorphen Chips.",
+      "bullets": [
+        "Quantencomputing wird die Rechenleistung revolutionieren und neue Möglichkeiten für KI schaffen.",
+        "Neuromorphe Chips imitieren die Funktionsweise des menschlichen Gehirns und verbessern die KI-Entwicklung.",
+        "Die Kombination dieser Technologien wird die nächste Generation der künstlichen Intelligenz prägen.",
+        "Unternehmen sollten sich frühzeitig mit KI-Integration auseinandersetzen, um wettbewerbsfähig zu bleiben.",
+        "Professor Mainzer gilt als führender Wissenschaftstheoretiker und Pionier der Komplexitätsforschung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-03T15:10:57.530493+00:00",
+    "is_new": true
   }
 }
