@@ -7527,7 +7527,7 @@
       "model": null
     },
     "first_seen": "2026-06-03T19:04:55.585361+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4nC5PBMCX-Q": {
     "video_id": "4nC5PBMCX-Q",
@@ -7551,6 +7551,46 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-03T19:06:24.485600+00:00",
+    "is_new": true
+  },
+  "qPhXlU1BNkA": {
+    "video_id": "qPhXlU1BNkA",
+    "title": "\"How much is your watch?\"",
+    "published": "2026-06-03T21:01:56+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qPhXlU1BNkA/hqdefault.jpg",
+    "description": "\"How much is your watch?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"How much is your watch?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-03T22:09:46.045720+00:00",
+    "is_new": true
+  },
+  "svp0ceyBx-g": {
+    "video_id": "svp0ceyBx-g",
+    "title": "As a leader, I don't care if you work 1 hour or 90 hours.",
+    "published": "2026-06-03T21:00:31+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/svp0ceyBx-g/hqdefault.jpg",
+    "description": "As a leader, I don't care if you work 1 hour or 90 hours.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "As a leader, I don't care if you work 1 hour or 90 hours.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-03T22:09:52.318246+00:00",
     "is_new": true
   }
 }
