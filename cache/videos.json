@@ -7507,6 +7507,50 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-03T15:10:57.530493+00:00",
+    "is_new": false
+  },
+  "ToF25RJLAYw": {
+    "video_id": "ToF25RJLAYw",
+    "title": "Winners win and losers lose",
+    "published": "2026-06-03T15:01:57+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/ToF25RJLAYw/hqdefault.jpg",
+    "description": "Is the AI bubble going to pop?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Winners win and losers lose",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-03T19:04:55.585361+00:00",
+    "is_new": true
+  },
+  "4nC5PBMCX-Q": {
+    "video_id": "4nC5PBMCX-Q",
+    "title": "Jeder liebt erfolgreiche Menschen  Es sei denn, es ist ein Freund.",
+    "published": "2026-06-03T16:00:00+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4nC5PBMCX-Q/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn _____________________________________________\nWarum fragen Freunde nach Rabatt — und fremde Menschen einfach kaufen? In dieser Episode spreche ich über einen der größten Fehler den Selbstständige, Coaches und Online-Unternehmer machen: Freunden und Familie Rabatte geben. Was dabei wirklich passiert, warum es Freundschaften zerstört statt sie zu stärken — und wie ein Business aussieht das nicht von deinem Umfeld abhängig ist.\n\nEigenwerbung: 📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn 📌 gratis E-Mail-Coaching:  https:",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Freunde erwarten Rabatte, was Freundschaften und Geschäfte gefährden kann.",
+      "bullets": [
+        "Selbstständige machen oft den Fehler, Freunden und Familie Rabatte zu gewähren.",
+        "Rabatte an Freunde können Freundschaften belasten, anstatt sie zu stärken.",
+        "Ein erfolgreiches Business sollte nicht von den Erwartungen des Umfelds abhängen.",
+        "Fremde Kunden kaufen oft ohne zu fragen, während Freunde nach Rabatten verlangen.",
+        "Es ist wichtig, klare Grenzen zwischen Freundschaft und Geschäft zu setzen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-03T19:06:24.485600+00:00",
     "is_new": true
   }
 }
