@@ -7463,6 +7463,26 @@
       "model": null
     },
     "first_seen": "2026-06-02T22:17:12.206487+00:00",
+    "is_new": false
+  },
+  "JpLgVf8Alys": {
+    "video_id": "JpLgVf8Alys",
+    "title": "Stop pretending not to know how to start a business with Claude Code",
+    "published": "2026-06-02T23:00:35+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JpLgVf8Alys/hqdefault.jpg",
+    "description": "Stop pretending not to know how to start a business with Claude Code",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop pretending not to know how to start a business with Claude Code",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-03T00:09:36.192512+00:00",
     "is_new": true
   }
 }
