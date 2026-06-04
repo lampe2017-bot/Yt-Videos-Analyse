@@ -7612,5 +7612,72 @@
     },
     "first_seen": "2026-06-04T00:11:48.300303+00:00",
     "is_new": false
+  },
+  "Egp_xk9fX0M": {
+    "video_id": "Egp_xk9fX0M",
+    "title": "Nr.1 Historiker: Dieses Mal könnte es ANDERS ausgehen! Ludditen, Kapitalismus & KI (Jürgen Kocka)",
+    "published": "2026-06-04T14:15:11+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Egp_xk9fX0M/hqdefault.jpg",
+    "description": "\"Technologie hat schon immer oft ersetzt\" Das ist die Standard Aussage von so ziemlich jeden, der sich in die KI-Jobdebatte einmischt. Doch ist das wirklich so? Und könnte es dieses mal anders sein?\nGenau das wollte ich wissen und dazu habe ich NICHT mit einem Techniker gesprochen, sondern mit einem der Nr. 1 Historiker in Deutschland: Prof. Dr. Jürgen Kocka.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die Auswirkungen von KI auf den Arbeitsmarkt könnten diesmal anders sein als in der Vergangenheit.",
+      "bullets": [
+        "Technologie hat in der Geschichte oft Arbeitsplätze ersetzt, aber die aktuellen Entwicklungen könnten anders verlaufen.",
+        "Prof. Dr. Jürgen Kocka diskutiert die Rolle der Ludditen und deren Relevanz für die heutige KI-Debatte.",
+        "Die Integration von KI in Unternehmen könnte neue Wettbewerbsvorteile schaffen, anstatt nur bestehende Jobs zu gefährden.",
+        "Historische Perspektiven helfen, die möglichen Auswirkungen von KI auf die Gesellschaft besser zu verstehen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-04T15:52:31.339928+00:00",
+    "is_new": true
+  },
+  "PYDJURJI64A": {
+    "video_id": "PYDJURJI64A",
+    "title": "Take care in the way you're perceived",
+    "published": "2026-06-04T15:01:42+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PYDJURJI64A/hqdefault.jpg",
+    "description": "The way you look is a reflection of how much you value yourself",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Take care in the way you're perceived",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-04T15:54:03.919107+00:00",
+    "is_new": true
+  },
+  "b3yuAekDS4U": {
+    "video_id": "b3yuAekDS4U",
+    "title": "How to Build a $10M Business with AI (Zero Employees)",
+    "published": "2026-06-04T13:00:15+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/b3yuAekDS4U/hqdefault.jpg",
+    "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku6\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4eo2Xqo\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4x8o1IU\n\nMost of what you're being told about getting rich with AI is noise. Sell a course, try a prompt, copy a guru, that's not how real wealth gets built with this technology.\n\nI've spent the last year building and scaling AI companies inside Martell Ventures, and the gap between what works and what gets talked about online is massive.\n\nIn this video I'm pull",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre, wie du mit KI ein 10-Millionen-Dollar-Unternehmen ohne Mitarbeiter aufbaust.",
+      "bullets": [
+        "Die meisten Ratschläge zu KI und Reichtum sind irreführend und oberflächlich.",
+        "Echte Vermögensbildung erfordert strategisches Denken und nicht nur das Nachahmen von Gurus.",
+        "Der Unterschied zwischen Theorie und Praxis in der KI-Unternehmensgründung ist enorm.",
+        "Nutze bewährte Methoden, um KI effektiv in deinem Unternehmen zu integrieren.",
+        "Baue ein skalierbares Geschäftsmodell auf, das auf KI-Technologie basiert."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-04T15:54:13.440509+00:00",
+    "is_new": true
   }
 }
