@@ -7722,7 +7722,7 @@
       "model": null
     },
     "first_seen": "2026-06-04T22:04:02.812731+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vHBlbpUw0X0": {
     "video_id": "vHBlbpUw0X0",
@@ -7742,6 +7742,26 @@
       "model": null
     },
     "first_seen": "2026-06-04T22:04:08.504617+00:00",
+    "is_new": false
+  },
+  "VRS4B7EdwFQ": {
+    "video_id": "VRS4B7EdwFQ",
+    "title": "Ranking the BEST ways to LOSE your money",
+    "published": "2026-06-04T23:00:50+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VRS4B7EdwFQ/hqdefault.jpg",
+    "description": "Ranking the BEST ways to LOSE your money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking the BEST ways to LOSE your money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-04T23:43:20.317683+00:00",
     "is_new": true
   }
 }
