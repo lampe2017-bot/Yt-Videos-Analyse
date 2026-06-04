@@ -7571,7 +7571,7 @@
       "model": null
     },
     "first_seen": "2026-06-03T22:09:46.045720+00:00",
-    "is_new": true
+    "is_new": false
   },
   "svp0ceyBx-g": {
     "video_id": "svp0ceyBx-g",
@@ -7591,6 +7591,26 @@
       "model": null
     },
     "first_seen": "2026-06-03T22:09:52.318246+00:00",
+    "is_new": false
+  },
+  "e-SX-VFkGJ0": {
+    "video_id": "e-SX-VFkGJ0",
+    "title": "Multi-millionaire ranks best business books for 2026",
+    "published": "2026-06-03T23:00:35+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/e-SX-VFkGJ0/hqdefault.jpg",
+    "description": "Multi-millionaire ranks best business books for 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Multi-millionaire ranks best business books for 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-04T00:11:48.300303+00:00",
     "is_new": true
   }
 }
