@@ -7256,7 +7256,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-05-31T12:57:09.946682+00:00",
-    "is_new": true
+    "is_new": false
   },
   "-izz1L6BmVg": {
     "video_id": "-izz1L6BmVg",
@@ -7551,7 +7551,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-03T19:06:24.485600+00:00",
-    "is_new": true
+    "is_new": false
   },
   "qPhXlU1BNkA": {
     "video_id": "qPhXlU1BNkA",
@@ -7634,7 +7634,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-04T15:52:31.339928+00:00",
-    "is_new": true
+    "is_new": false
   },
   "PYDJURJI64A": {
     "video_id": "PYDJURJI64A",
@@ -7654,7 +7654,7 @@
       "model": null
     },
     "first_seen": "2026-06-04T15:54:03.919107+00:00",
-    "is_new": true
+    "is_new": false
   },
   "b3yuAekDS4U": {
     "video_id": "b3yuAekDS4U",
@@ -7678,6 +7678,30 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-04T15:54:13.440509+00:00",
+    "is_new": false
+  },
+  "oiNvnjpuqfo": {
+    "video_id": "oiNvnjpuqfo",
+    "title": "Als Amateur zum größten Schachturnier der Welt!",
+    "published": "2026-06-04T15:56:55+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oiNvnjpuqfo/hqdefault.jpg",
+    "description": "Überall Internet! Spare 15 % auf deinen Saily-Datenplan – einfach auf https://saily.com/niklas mit dem Code: niklas\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:27 Ankunft & Tag 1\n1:53 Spielformat\n2:36 Tag 2: Ein starker Gegner\"\n3:42 Turnierformat\n4:30 Kinderspiel\n5:22 Streamer-Bereich\n7:23 Tag 3: Ich bin vorbereitet!\n11:00 Flexen mi",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Niklas Steenfatt berichtet von seiner Teilnahme am größten Schachturnier der Welt.",
+      "bullets": [
+        "Er beschreibt seine Ankunft und die ersten Eindrücke vom Turnier.",
+        "Das Spielformat und die Herausforderungen werden detailliert erklärt.",
+        "Er trifft auf starke Gegner und reflektiert seine Erfahrungen.",
+        "Einblick in den Streamer-Bereich und die Atmosphäre des Turniers.",
+        "Er teilt seine Vorbereitungen und Strategien für die nächsten Spiele."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-04T18:10:46.249108+00:00",
     "is_new": true
   }
 }
