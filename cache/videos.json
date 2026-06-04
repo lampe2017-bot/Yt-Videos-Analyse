@@ -7638,7 +7638,7 @@
   },
   "PYDJURJI64A": {
     "video_id": "PYDJURJI64A",
-    "title": "Take care in the way you're perceived",
+    "title": "Take care of the way you're perceived",
     "published": "2026-06-04T15:01:42+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/PYDJURJI64A/hqdefault.jpg",
     "description": "The way you look is a reflection of how much you value yourself",
@@ -7647,7 +7647,7 @@
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Take care in the way you're perceived",
+      "hook": "Take care of the way you're perceived",
       "bullets": [
         "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
@@ -7702,6 +7702,46 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-04T18:10:46.249108+00:00",
+    "is_new": true
+  },
+  "6asiRTWRnw4": {
+    "video_id": "6asiRTWRnw4",
+    "title": "Go from $0 to $1 Million with AI",
+    "published": "2026-06-04T21:01:24+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6asiRTWRnw4/hqdefault.jpg",
+    "description": "Go from $0 to $1 Million with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Go from $0 to $1 Million with AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-04T22:04:02.812731+00:00",
+    "is_new": true
+  },
+  "vHBlbpUw0X0": {
+    "video_id": "vHBlbpUw0X0",
+    "title": "Worth it or NOT: AI Edition",
+    "published": "2026-06-04T21:01:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vHBlbpUw0X0/hqdefault.jpg",
+    "description": "Worth it or NOT: AI Edition",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Worth it or NOT: AI Edition",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-04T22:04:08.504617+00:00",
     "is_new": true
   }
 }
