@@ -7803,5 +7803,45 @@
     },
     "first_seen": "2026-06-05T16:25:35.564392+00:00",
     "is_new": false
+  },
+  "ZQBGTNk1iuA": {
+    "video_id": "ZQBGTNk1iuA",
+    "title": "Redefining Education: Beyond Grades and Tests",
+    "published": "2026-06-05T21:01:22+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZQBGTNk1iuA/hqdefault.jpg",
+    "description": "I don't care about my kids grades",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Redefining Education: Beyond Grades and Tests",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-05T21:53:31.586512+00:00",
+    "is_new": true
+  },
+  "7FoxjTFzh2Q": {
+    "video_id": "7FoxjTFzh2Q",
+    "title": "AI is creating the next wave of millionaires",
+    "published": "2026-06-05T21:01:14+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7FoxjTFzh2Q/hqdefault.jpg",
+    "description": "AI is creating the next wave of millionaires",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI is creating the next wave of millionaires",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-05T21:53:37.306536+00:00",
+    "is_new": true
   }
 }
