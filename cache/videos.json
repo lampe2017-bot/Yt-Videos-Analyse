@@ -7822,7 +7822,7 @@
       "model": null
     },
     "first_seen": "2026-06-05T21:53:31.586512+00:00",
-    "is_new": true
+    "is_new": false
   },
   "7FoxjTFzh2Q": {
     "video_id": "7FoxjTFzh2Q",
@@ -7842,6 +7842,6 @@
       "model": null
     },
     "first_seen": "2026-06-05T21:53:37.306536+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
