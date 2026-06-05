@@ -7763,5 +7763,45 @@
     },
     "first_seen": "2026-06-04T23:43:20.317683+00:00",
     "is_new": false
+  },
+  "0t0mbPs23kQ": {
+    "video_id": "0t0mbPs23kQ",
+    "title": "The AI bubble could pop",
+    "published": "2026-06-05T16:02:28+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0t0mbPs23kQ/hqdefault.jpg",
+    "description": "Will the AI bubble pop?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The AI bubble could pop",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-05T16:25:29.586848+00:00",
+    "is_new": true
+  },
+  "QgZBDtVudgc": {
+    "video_id": "QgZBDtVudgc",
+    "title": "Stop sitting on your hands",
+    "published": "2026-06-05T15:02:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QgZBDtVudgc/hqdefault.jpg",
+    "description": "Just f*cking do it",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop sitting on your hands",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-05T16:25:35.564392+00:00",
+    "is_new": true
   }
 }
