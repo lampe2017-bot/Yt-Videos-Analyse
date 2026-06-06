@@ -7926,5 +7926,45 @@
     },
     "first_seen": "2026-06-06T18:03:00.456461+00:00",
     "is_new": false
+  },
+  "RWJCxIoaiDk": {
+    "video_id": "RWJCxIoaiDk",
+    "title": "Fastest way to tell if you'll be rich",
+    "published": "2026-06-06T21:01:13+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RWJCxIoaiDk/hqdefault.jpg",
+    "description": "Fastest way to tell if you'll be rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Fastest way to tell if you'll be rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-06T21:55:39.549676+00:00",
+    "is_new": true
+  },
+  "B9lxVoyCDV0": {
+    "video_id": "B9lxVoyCDV0",
+    "title": "Best skills to learn in your 20s",
+    "published": "2026-06-06T21:01:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/B9lxVoyCDV0/hqdefault.jpg",
+    "description": "Best skills to learn in your 20s",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Best skills to learn in your 20s",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-06T21:55:45.750842+00:00",
+    "is_new": true
   }
 }
