@@ -7945,7 +7945,7 @@
       "model": null
     },
     "first_seen": "2026-06-06T21:55:39.549676+00:00",
-    "is_new": true
+    "is_new": false
   },
   "B9lxVoyCDV0": {
     "video_id": "B9lxVoyCDV0",
@@ -7965,6 +7965,6 @@
       "model": null
     },
     "first_seen": "2026-06-06T21:55:45.750842+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
