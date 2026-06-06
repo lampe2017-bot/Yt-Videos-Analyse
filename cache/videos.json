@@ -7843,5 +7843,28 @@
     },
     "first_seen": "2026-06-05T21:53:37.306536+00:00",
     "is_new": false
+  },
+  "AF9Vpv-h6Jw": {
+    "video_id": "AF9Vpv-h6Jw",
+    "title": "Die 14 Wege mit KI Geld zu verdienen (auch als absoluter Anfänger)",
+    "published": "2026-06-06T08:15:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AF9Vpv-h6Jw/hqdefault.jpg",
+    "description": "14 Wege, mit KI Geld zu verdienen: Ehrliches Ranking von Flop nach Top.\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://aicoding.de\n\n----------------------------------------------\n\nLerne alles über KI mit diesen Kanälen:\n• Haupt-Kanal (Everlast AI):",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke 14 effektive Methoden, um mit KI Geld zu verdienen, auch als Anfänger.",
+      "bullets": [
+        "Das Video präsentiert ein ehrliches Ranking von 14 Wegen, mit KI Einkommen zu generieren.",
+        "Anfänger können durch den Aufbau einer KI-Agentur erste Schritte in der Branche machen.",
+        "Kostenfreie Workshops und Erstgespräche bieten Unterstützung für den Einstieg in die KI-Welt.",
+        "Die vorgestellten Methoden sind für verschiedene Erfahrungsstufen geeignet und leicht umsetzbar."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-06T09:06:45.229304+00:00",
+    "is_new": true
   }
 }
