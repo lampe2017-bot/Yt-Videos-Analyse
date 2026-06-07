@@ -8033,6 +8033,26 @@
       "model": null
     },
     "first_seen": "2026-06-07T15:08:58.343927+00:00",
+    "is_new": false
+  },
+  "dV-Q1uadiDk": {
+    "video_id": "dV-Q1uadiDk",
+    "title": "Listen to your heart",
+    "published": "2026-06-07T16:01:31+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dV-Q1uadiDk/hqdefault.jpg",
+    "description": "Just f*cking do it",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Listen to your heart",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-07T16:50:15.514608+00:00",
     "is_new": true
   }
 }
