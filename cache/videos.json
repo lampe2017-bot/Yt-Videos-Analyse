@@ -8073,7 +8073,7 @@
       "model": null
     },
     "first_seen": "2026-06-07T21:58:18.796949+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4kZQJ5DhLmg": {
     "video_id": "4kZQJ5DhLmg",
@@ -8093,6 +8093,6 @@
       "model": null
     },
     "first_seen": "2026-06-07T21:58:24.976094+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
