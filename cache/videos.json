@@ -8014,5 +8014,25 @@
     },
     "first_seen": "2026-06-07T13:18:50.423590+00:00",
     "is_new": true
+  },
+  "BQbwNh9c_Rc": {
+    "video_id": "BQbwNh9c_Rc",
+    "title": "This wasn't my time to go",
+    "published": "2026-06-07T15:00:54+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BQbwNh9c_Rc/hqdefault.jpg",
+    "description": "My brother told me not to come home...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This wasn't my time to go",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-07T15:08:58.343927+00:00",
+    "is_new": true
   }
 }
