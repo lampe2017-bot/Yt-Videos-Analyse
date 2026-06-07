@@ -7966,5 +7966,29 @@
     },
     "first_seen": "2026-06-06T21:55:45.750842+00:00",
     "is_new": false
+  },
+  "XAPDzR2Xvng": {
+    "video_id": "XAPDzR2Xvng",
+    "title": "KI-News: RIESEN ChatGPT Update! Codex “Apps”, Neue Funktionen & Lokale KI holt auf",
+    "published": "2026-06-07T08:15:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XAPDzR2Xvng/hqdefault.jpg",
+    "description": "Das größte ChatGPT Update der letzten drei Jahre ist da und kaum jemand spricht darüber. Hier ist alles, was du jetzt wissen musst, sowie alle weiteren KI-News der Woche.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nLokale KI kostenfrei und unlimitiert in CorporateLLM nutzen: https://corporatellm.de \nInstallations-Anleitung (kannst du auch deinem Agenten geben): https://docs.corporatellm.de/guides/ollama-secure-connection\n\nWir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Das größte ChatGPT Update bringt zahlreiche neue Funktionen und Möglichkeiten für Nutzer und Unternehmen.",
+      "bullets": [
+        "Das Update umfasst die Einführung von Codex 'Apps', die die Funktionalität erweitern.",
+        "Neue Funktionen verbessern die Benutzererfahrung und die Interaktivität mit ChatGPT.",
+        "Lokale KI-Lösungen bieten Unternehmen unlimitierte Nutzungsmöglichkeiten und Sicherheit.",
+        "Kostenfreie Workshops helfen Nutzern, die neuen Funktionen effektiv zu nutzen.",
+        "Die Implementierung von KI-Lösungen kann signifikante Umsatzsteigerungen für Unternehmen bringen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-07T09:54:35.825899+00:00",
+    "is_new": true
   }
 }
