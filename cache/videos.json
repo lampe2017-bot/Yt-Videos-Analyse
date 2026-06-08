@@ -8117,6 +8117,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-08T14:06:27.912455+00:00",
+    "is_new": false
+  },
+  "bpnHBdPbFCo": {
+    "video_id": "bpnHBdPbFCo",
+    "title": "Selling to different groups...",
+    "published": "2026-06-08T15:00:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bpnHBdPbFCo/hqdefault.jpg",
+    "description": "You sell to everyone differently, here's a few examples",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Selling to different groups...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-08T17:32:49.859171+00:00",
     "is_new": true
   }
 }
