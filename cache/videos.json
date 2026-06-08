@@ -8094,5 +8094,29 @@
     },
     "first_seen": "2026-06-07T21:58:24.976094+00:00",
     "is_new": false
+  },
+  "7KLDM--MI6Q": {
+    "video_id": "7KLDM--MI6Q",
+    "title": "How to build more wealth than 99% of people",
+    "published": "2026-06-08T13:00:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7KLDM--MI6Q/hqdefault.jpg",
+    "description": "✅ Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/3QvjGPz\n\nWorking hard isn't what makes you rich. If it was, the people grinding 12 hour days at two jobs would already be wealthy, and they're not.\n\nThe truth is the 1% operate on a completely different set of mental models than everyone else, and until you adopt them, you'll stay stuck no matter how many hours you put in.\n\nIn this video, I'm walking you through the exact mindset shifts I used to become a multi-millionaire by 28 and build a venture studio approaching a billion dollar valuation.\n\nWatch till the end bec",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Reichtum entsteht durch mentale Modelle, nicht durch harte Arbeit allein.",
+      "bullets": [
+        "Die 1% nutzen andere Denkweisen als der Rest der Bevölkerung.",
+        "Harte Arbeit allein führt nicht zu Wohlstand, wie viele Beispiele zeigen.",
+        "Mentale Veränderungen sind entscheidend, um finanziellen Erfolg zu erreichen.",
+        "Dan Martell teilt seine Erfahrungen, um Millionär zu werden.",
+        "Ein erfolgreicher Ansatz ist der Aufbau eines eigenen Unternehmens oder Venture Studios."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-08T14:06:27.912455+00:00",
+    "is_new": true
   }
 }
