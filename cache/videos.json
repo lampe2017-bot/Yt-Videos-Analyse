@@ -8157,7 +8157,7 @@
       "model": null
     },
     "first_seen": "2026-06-08T21:48:46.447124+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LWa4s8XoP2c": {
     "video_id": "LWa4s8XoP2c",
@@ -8177,6 +8177,6 @@
       "model": null
     },
     "first_seen": "2026-06-08T21:48:51.989028+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
