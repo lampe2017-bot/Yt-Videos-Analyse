@@ -8178,5 +8178,69 @@
     },
     "first_seen": "2026-06-08T21:48:51.989028+00:00",
     "is_new": false
+  },
+  "w2fVxiUPTv4": {
+    "video_id": "w2fVxiUPTv4",
+    "title": "20 KI-Tools, die 99% noch nie gehört haben (und dich allen voraus bringen)",
+    "published": "2026-06-09T15:15:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/w2fVxiUPTv4/hqdefault.jpg",
+    "description": "KI-Tools in 2026 unterscheiden sich fundamental von den Tool-Listen der letzten Jahre, doch die meisten arbeiten immer noch mit ChatGPT wie vor 2 Jahren: In diesem Video liste ich daher die besten 20 KI-Tools, die ich selbst nutze. Welche Tools waren neu für dich? Schreibs in die Kommentare!\n\nKostenfreie Tool-Stack Übersicht downloaden: https://www.kiberatung.de/report/ki-tool-stack-2026\n\nWarteliste Agentic Marketing: https://kilernen.de/warteliste/agentic-marketing-manager\n\nCorporateLLM kostenfrei mit lokalen Modellen nutzen: https://corporatellm.de\nVoicely kostenfrei testen: https://voicely.",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke 20 innovative KI-Tools, die dir einen Wettbewerbsvorteil verschaffen können.",
+      "bullets": [
+        "Die KI-Tools von 2026 bieten neue Funktionen im Vergleich zu früheren Jahren.",
+        "Viele Nutzer verwenden immer noch veraltete Tools wie ChatGPT von vor zwei Jahren.",
+        "Das Video präsentiert 20 persönliche Favoriten des Sprechers, die wenig bekannt sind.",
+        "Ein kostenfreier Tool-Stack ist verfügbar, um die besten KI-Tools zu entdecken.",
+        "Die Zuschauer werden ermutigt, ihre Erfahrungen mit neuen Tools in den Kommentaren zu teilen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-09T17:06:44.122795+00:00",
+    "is_new": true
+  },
+  "mQNzrpqA9fQ": {
+    "video_id": "mQNzrpqA9fQ",
+    "title": "How to sell better",
+    "published": "2026-06-09T16:01:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/mQNzrpqA9fQ/hqdefault.jpg",
+    "description": "Selling to different groups",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to sell better",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-09T17:08:06.340661+00:00",
+    "is_new": true
+  },
+  "cY_8shF4oTU": {
+    "video_id": "cY_8shF4oTU",
+    "title": "How to use Claude to stop sending emails",
+    "published": "2026-06-09T15:00:42+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cY_8shF4oTU/hqdefault.jpg",
+    "description": "AI can release you from email prison",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to use Claude to stop sending emails",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-09T17:08:12.285117+00:00",
+    "is_new": true
   }
 }
