@@ -8261,7 +8261,7 @@
       "model": null
     },
     "first_seen": "2026-06-09T21:30:02.000328+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QPa1q6Qkm5Q": {
     "video_id": "QPa1q6Qkm5Q",
@@ -8281,6 +8281,6 @@
       "model": null
     },
     "first_seen": "2026-06-09T21:30:08.450943+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
