@@ -8242,5 +8242,45 @@
     },
     "first_seen": "2026-06-09T17:08:12.285117+00:00",
     "is_new": false
+  },
+  "rgUBycpMWuA": {
+    "video_id": "rgUBycpMWuA",
+    "title": "I zero care about my kids grades",
+    "published": "2026-06-09T21:13:25+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/rgUBycpMWuA/hqdefault.jpg",
+    "description": "I zero care about my kids grades",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I zero care about my kids grades",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-09T21:30:02.000328+00:00",
+    "is_new": true
+  },
+  "QPa1q6Qkm5Q": {
+    "video_id": "QPa1q6Qkm5Q",
+    "title": "AI vs. No AI: The Business Impact",
+    "published": "2026-06-09T21:00:58+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QPa1q6Qkm5Q/hqdefault.jpg",
+    "description": "Be the one who USES AI Comment \"AI VID\" if you wanna learn how.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI vs. No AI: The Business Impact",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-09T21:30:08.450943+00:00",
+    "is_new": true
   }
 }
