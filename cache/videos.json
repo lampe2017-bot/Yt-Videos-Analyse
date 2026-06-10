@@ -8291,7 +8291,7 @@
     "description": "Your inbox is a prison",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "1:12",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "How to become free of emails",
@@ -8365,7 +8365,7 @@
       "model": null
     },
     "first_seen": "2026-06-10T21:23:18.538639+00:00",
-    "is_new": true
+    "is_new": false
   },
   "xh5EUoFhUE0": {
     "video_id": "xh5EUoFhUE0",
@@ -8385,6 +8385,6 @@
       "model": null
     },
     "first_seen": "2026-06-10T21:23:24.756635+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
