@@ -8346,5 +8346,45 @@
     },
     "first_seen": "2026-06-10T16:15:13.537304+00:00",
     "is_new": true
+  },
+  "uk1QYGivJkA": {
+    "video_id": "uk1QYGivJkA",
+    "title": "These are the best skills you can learn in 2026",
+    "published": "2026-06-10T21:01:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uk1QYGivJkA/hqdefault.jpg",
+    "description": "These are the best skills you can learn in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These are the best skills you can learn in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-10T21:23:18.538639+00:00",
+    "is_new": true
+  },
+  "xh5EUoFhUE0": {
+    "video_id": "xh5EUoFhUE0",
+    "title": "The fastest way to tell if you're gonna be rich or not.",
+    "published": "2026-06-10T21:00:38+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xh5EUoFhUE0/hqdefault.jpg",
+    "description": "The fastest way to tell if you're gonna be rich or not.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The fastest way to tell if you're gonna be rich or not.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-10T21:23:24.756635+00:00",
+    "is_new": true
   }
 }
