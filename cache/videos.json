@@ -8282,5 +8282,69 @@
     },
     "first_seen": "2026-06-09T21:30:08.450943+00:00",
     "is_new": false
+  },
+  "At03nu-BOIg": {
+    "video_id": "At03nu-BOIg",
+    "title": "How to become free of emails",
+    "published": "2026-06-10T16:02:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/At03nu-BOIg/hqdefault.jpg",
+    "description": "Your inbox is a prison",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to become free of emails",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-10T16:13:40.782525+00:00",
+    "is_new": true
+  },
+  "GvS4lb6mj24": {
+    "video_id": "GvS4lb6mj24",
+    "title": "John C Maxwell on goals",
+    "published": "2026-06-10T15:01:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/GvS4lb6mj24/hqdefault.jpg",
+    "description": "Here's what my friend John Maxwell taught me about setting goals in life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "John C Maxwell on goals",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-10T16:13:46.562312+00:00",
+    "is_new": true
+  },
+  "7KbQe-ZdLvk": {
+    "video_id": "7KbQe-ZdLvk",
+    "title": "Warum ich nie wieder launchen würde",
+    "published": "2026-06-10T16:00:20+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7KbQe-ZdLvk/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \nWenn du gerade das Gefühl hast, dass Launches irgendwie nicht mehr so funktionieren wie früher, dann liegt das wahrscheinlich nicht an dir. Sondern daran, dass sich der komplette Markt verändert hat.\n\nIn dieser Folge spreche ich darüber, warum klassische Launches meiner Meinung nach bis 2027 immer mehr verschwinden werden. Nicht weil plötzlich niemand mehr verkaufen kann, sondern weil sich das Verhalten von Menschen, Plattformen und dem gesamten Online-Business-Markt verändert hat.\n\nFrüher haben Countdown-Mails, künstliche Deadlin",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Launches funktionieren nicht mehr wie früher, das liegt am sich verändernden Markt.",
+      "bullets": [
+        "Der gesamte Online-Business-Markt verändert sich, was klassische Launches betrifft.",
+        "Countdown-Mails und künstliche Deadlines verlieren an Effektivität.",
+        "Bis 2027 werden traditionelle Launch-Strategien zunehmend obsolet.",
+        "Verändertes Nutzerverhalten erfordert neue Verkaufsansätze und Strategien.",
+        "Es ist wichtig, sich an die neuen Gegebenheiten anzupassen, um erfolgreich zu bleiben."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-10T16:15:13.537304+00:00",
+    "is_new": true
   }
 }
