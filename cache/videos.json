@@ -8409,6 +8409,90 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-11T15:01:59.718769+00:00",
+    "is_new": false
+  },
+  "P7hoTfEZySs": {
+    "video_id": "P7hoTfEZySs",
+    "title": "Neuromorphe KI: DAS verändert ALLES! Warum 20 Watt genügen (Prof. Christoph von der Malsburg)",
+    "published": "2026-06-11T15:15:15+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P7hoTfEZySs/hqdefault.jpg",
+    "description": "Neurowissenschafts- und KI-Pionier Prof. Christoph von der Malsburg erklärt im Gespräch mit Leonard Schmedding, warum große Sprachmodelle (LLMs) fundamental an echter Intelligenz scheitern, was das Bindungsproblem damit zu tun hat und wie Selbstorganisation statt reinem Skalieren den Weg zur nächsten KI-Generation weist.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönli",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Christoph von der Malsburg erklärt, wie neuromorphe KI die Zukunft der Intelligenz verändert.",
+      "bullets": [
+        "Große Sprachmodelle scheitern an echter Intelligenz und dem Bindungsproblem.",
+        "Selbstorganisation ist der Schlüssel zur nächsten Generation von KI.",
+        "Neuromorphe KI benötigt nur 20 Watt, um effizient zu arbeiten.",
+        "Unternehmen können durch KI-Integration Wettbewerbsvorteile sichern.",
+        "Die Zukunft der KI liegt in der Nachahmung biologischer Prozesse."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-11T18:29:23.870661+00:00",
+    "is_new": true
+  },
+  "q6hTAFGQkzM": {
+    "video_id": "q6hTAFGQkzM",
+    "title": "Make more money in sales",
+    "published": "2026-06-11T16:02:58+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/q6hTAFGQkzM/hqdefault.jpg",
+    "description": "Selling to different groups",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Make more money in sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-11T18:30:50.653247+00:00",
+    "is_new": true
+  },
+  "HDgrCZqA9Tg": {
+    "video_id": "HDgrCZqA9Tg",
+    "title": "Dream bigger",
+    "published": "2026-06-11T16:02:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/HDgrCZqA9Tg/hqdefault.jpg",
+    "description": "Your goals are too small",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Dream bigger",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-11T18:30:57.042534+00:00",
+    "is_new": true
+  },
+  "37IaAbDDFh4": {
+    "video_id": "37IaAbDDFh4",
+    "title": "How to prompt AI like a pro",
+    "published": "2026-06-11T15:03:05+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/37IaAbDDFh4/hqdefault.jpg",
+    "description": "When you're prompting AI, give it these 4 things every time",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to prompt AI like a pro",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-11T18:31:03.758481+00:00",
     "is_new": true
   }
 }
