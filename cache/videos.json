@@ -8513,6 +8513,26 @@
       "model": null
     },
     "first_seen": "2026-06-11T20:43:44.041472+00:00",
+    "is_new": false
+  },
+  "MFjaJRgBcLg": {
+    "video_id": "MFjaJRgBcLg",
+    "title": "How to ACTUALLY use AI",
+    "published": "2026-06-11T21:01:24+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/MFjaJRgBcLg/hqdefault.jpg",
+    "description": "How to ACTUALLY use AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to ACTUALLY use AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-11T22:47:03.649713+00:00",
     "is_new": true
   }
 }
