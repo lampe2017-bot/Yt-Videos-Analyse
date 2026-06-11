@@ -8433,7 +8433,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-11T18:29:23.870661+00:00",
-    "is_new": true
+    "is_new": false
   },
   "q6hTAFGQkzM": {
     "video_id": "q6hTAFGQkzM",
@@ -8453,7 +8453,7 @@
       "model": null
     },
     "first_seen": "2026-06-11T18:30:50.653247+00:00",
-    "is_new": true
+    "is_new": false
   },
   "HDgrCZqA9Tg": {
     "video_id": "HDgrCZqA9Tg",
@@ -8473,7 +8473,7 @@
       "model": null
     },
     "first_seen": "2026-06-11T18:30:57.042534+00:00",
-    "is_new": true
+    "is_new": false
   },
   "37IaAbDDFh4": {
     "video_id": "37IaAbDDFh4",
@@ -8493,6 +8493,26 @@
       "model": null
     },
     "first_seen": "2026-06-11T18:31:03.758481+00:00",
+    "is_new": false
+  },
+  "2cenMC8k-4I": {
+    "video_id": "2cenMC8k-4I",
+    "title": "How to get rich in your 20s: do the opposite",
+    "published": "2026-06-11T20:01:56+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2cenMC8k-4I/hqdefault.jpg",
+    "description": "How to get rich in your 20s: do the opposite",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to get rich in your 20s: do the opposite",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-11T20:43:44.041472+00:00",
     "is_new": true
   }
 }
