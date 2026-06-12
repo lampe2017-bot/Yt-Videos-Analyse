@@ -8013,7 +8013,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-07T13:18:50.423590+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BQbwNh9c_Rc": {
     "video_id": "BQbwNh9c_Rc",
@@ -8345,7 +8345,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-10T16:15:13.537304+00:00",
-    "is_new": true
+    "is_new": false
   },
   "uk1QYGivJkA": {
     "video_id": "uk1QYGivJkA",
@@ -8554,5 +8554,49 @@
     },
     "first_seen": "2026-06-12T16:12:31.434851+00:00",
     "is_new": false
+  },
+  "W_DIQ8MB6Ys": {
+    "video_id": "W_DIQ8MB6Ys",
+    "title": "The 4 things every AI prompt needs",
+    "published": "2026-06-12T19:01:34+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/W_DIQ8MB6Ys/hqdefault.jpg",
+    "description": "How to prompt AI like a pro",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The 4 things every AI prompt needs",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-12T20:33:42.284990+00:00",
+    "is_new": true
+  },
+  "eYecqeyRZoo": {
+    "video_id": "eYecqeyRZoo",
+    "title": "Vom KI-Code bis zur fertigen App!",
+    "published": "2026-06-12T19:38:30+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/eYecqeyRZoo/hqdefault.jpg",
+    "description": "Einfaches Deployment für Codex, Claude Code oder Antigravity: https://www.hostg.xyz/SHJBl\n(Jetzt 10% Rabatt mit Code: NIKLAS)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n1:03 Account & Installation\n1:40 Prompt Engineering\n2:55 VS Code einrichten\n4:46 MCP Connector\n6:25 Antigravity IDE\n8:40 Deployment per Prompt\n9:57 Antigravity Result",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lerne, wie du KI-Code in eine funktionierende App umwandelst.",
+      "bullets": [
+        "Der Prozess beginnt mit der Erstellung eines Accounts und der Installation der benötigten Tools.",
+        "Prompt Engineering ist entscheidend für die effektive Nutzung von KI-Tools.",
+        "VS Code muss korrekt eingerichtet werden, um die Entwicklung zu unterstützen.",
+        "Der MCP Connector ermöglicht die Verbindung zwischen verschiedenen Komponenten.",
+        "Das Deployment erfolgt einfach über Prompts, um Ergebnisse schnell zu erhalten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-12T20:35:48.677249+00:00",
+    "is_new": true
   }
 }
