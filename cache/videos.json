@@ -8534,5 +8534,25 @@
     },
     "first_seen": "2026-06-11T22:47:03.649713+00:00",
     "is_new": false
+  },
+  "imjWJRYXucw": {
+    "video_id": "imjWJRYXucw",
+    "title": "There's no future without AI",
+    "published": "2026-06-12T15:02:15+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/imjWJRYXucw/hqdefault.jpg",
+    "description": "My head of finance manages 17 companies because he defaults to using AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "There's no future without AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-12T16:12:31.434851+00:00",
+    "is_new": true
   }
 }
