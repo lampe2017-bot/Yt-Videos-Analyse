@@ -8573,7 +8573,7 @@
       "model": null
     },
     "first_seen": "2026-06-12T20:33:42.284990+00:00",
-    "is_new": true
+    "is_new": false
   },
   "eYecqeyRZoo": {
     "video_id": "eYecqeyRZoo",
@@ -8597,6 +8597,46 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-12T20:35:48.677249+00:00",
+    "is_new": true
+  },
+  "dRfbQRcsXiY": {
+    "video_id": "dRfbQRcsXiY",
+    "title": "Fastest way to tell if you're gonna get rich",
+    "published": "2026-06-12T21:01:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dRfbQRcsXiY/hqdefault.jpg",
+    "description": "Fastest way to tell if you're gonna get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Fastest way to tell if you're gonna get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-12T22:18:23.469676+00:00",
+    "is_new": true
+  },
+  "9bOTeAfTEgY": {
+    "video_id": "9bOTeAfTEgY",
+    "title": "Multi-Millionaire Ranks: Ways to Get Rich",
+    "published": "2026-06-12T21:00:39+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9bOTeAfTEgY/hqdefault.jpg",
+    "description": "Ranking ways to get rich in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Multi-Millionaire Ranks: Ways to Get Rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-12T22:18:29.047481+00:00",
     "is_new": true
   }
 }
