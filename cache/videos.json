@@ -8722,6 +8722,46 @@
       "model": null
     },
     "first_seen": "2026-06-13T20:00:14.039166+00:00",
+    "is_new": false
+  },
+  "dNCM3f5ATrQ": {
+    "video_id": "dNCM3f5ATrQ",
+    "title": "If you wanna get rich...",
+    "published": "2026-06-13T21:01:02+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dNCM3f5ATrQ/hqdefault.jpg",
+    "description": "If you wanna get rich...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you wanna get rich...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-13T21:15:40.566694+00:00",
+    "is_new": true
+  },
+  "QWh6RJmcRJg": {
+    "video_id": "QWh6RJmcRJg",
+    "title": "The 7 metrics EVERY CEO should know (Comment SCORECARD for the playbook)",
+    "published": "2026-06-13T21:00:55+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QWh6RJmcRJg/hqdefault.jpg",
+    "description": "The 7 metrics EVERY CEO should know (Comment SCORECARD for the playbook)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The 7 metrics EVERY CEO should know (Comment SCORECARD for the playbook)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-13T21:15:46.134186+00:00",
     "is_new": true
   }
 }
