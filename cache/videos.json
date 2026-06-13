@@ -8703,5 +8703,25 @@
     },
     "first_seen": "2026-06-13T16:55:08.311079+00:00",
     "is_new": false
+  },
+  "uatg8_WO-ZY": {
+    "video_id": "uatg8_WO-ZY",
+    "title": "Inbox Zero is the goal",
+    "published": "2026-06-13T18:01:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uatg8_WO-ZY/hqdefault.jpg",
+    "description": "How to become free from your inbox",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Inbox Zero is the goal",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-13T20:00:14.039166+00:00",
+    "is_new": true
   }
 }
