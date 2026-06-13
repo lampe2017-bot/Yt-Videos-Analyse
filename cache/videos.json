@@ -8742,7 +8742,7 @@
       "model": null
     },
     "first_seen": "2026-06-13T21:15:40.566694+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QWh6RJmcRJg": {
     "video_id": "QWh6RJmcRJg",
@@ -8762,6 +8762,6 @@
       "model": null
     },
     "first_seen": "2026-06-13T21:15:46.134186+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
