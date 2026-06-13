@@ -8638,5 +8638,28 @@
     },
     "first_seen": "2026-06-12T22:18:29.047481+00:00",
     "is_new": false
+  },
+  "O9o7vgVYbDs": {
+    "video_id": "O9o7vgVYbDs",
+    "title": "So gewinnst du den ersten Kunden für deine KI-Agentur (ohne Kaltakquise und Ads)",
+    "published": "2026-06-13T08:15:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/O9o7vgVYbDs/hqdefault.jpg",
+    "description": "Wie gewinnst du den ersten Kunden für deine KI-Agentur? In diesem Video zeige ich dir, was wirklich nachhaltig funktioniert, ohne Kaltakquise und ohne bezahlte Werbung. Natürlich kannst du den ersten Kunden am besten über dein Netzwerk oder Empfehlung generieren, doch hier zeige ich einen Weg, der dir planbar immer wieder Kunden bringt.\n\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_camp",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre, wie du ohne Kaltakquise deinen ersten Kunden für die KI-Agentur gewinnst.",
+      "bullets": [
+        "Nutze dein Netzwerk und Empfehlungen, um erste Kunden zu gewinnen.",
+        "Finde einen planbaren Weg, der dir kontinuierlich neue Kunden bringt.",
+        "Vermeide Kaltakquise und bezahlte Werbung für nachhaltigen Erfolg.",
+        "Baue deine KI-Agentur strategisch auf, um langfristig erfolgreich zu sein."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-13T09:49:55.418198+00:00",
+    "is_new": true
   }
 }
