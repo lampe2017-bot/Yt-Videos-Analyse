@@ -8661,5 +8661,27 @@
     },
     "first_seen": "2026-06-13T09:49:55.418198+00:00",
     "is_new": false
+  },
+  "AP-U-vqju-8": {
+    "video_id": "AP-U-vqju-8",
+    "title": "Send the elevator back down",
+    "published": "2026-06-13T15:01:42+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AP-U-vqju-8/hqdefault.jpg",
+    "description": "If you have the opportunity to inspire young people to do great things in life, always take it",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Inspire junge Menschen, um Großes im Leben zu erreichen.",
+      "bullets": [
+        "Nutze jede Gelegenheit, um andere zu motivieren und zu unterstützen.",
+        "Teile deine Erfahrungen, um den Weg für die nächste Generation zu ebnen.",
+        "Erfolg ist nicht nur für dich, sondern auch für die, die du inspirierst."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-13T15:17:14.080659+00:00",
+    "is_new": true
   }
 }
