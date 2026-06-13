@@ -8682,6 +8682,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-13T15:17:14.080659+00:00",
+    "is_new": false
+  },
+  "N_ImOcUIzj8": {
+    "video_id": "N_ImOcUIzj8",
+    "title": "Sell to everyone differently",
+    "published": "2026-06-13T16:01:08+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/N_ImOcUIzj8/hqdefault.jpg",
+    "description": "How to make more money in sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Sell to everyone differently",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-13T16:55:08.311079+00:00",
     "is_new": true
   }
 }
