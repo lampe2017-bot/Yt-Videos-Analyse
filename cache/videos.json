@@ -8866,7 +8866,7 @@
       "model": null
     },
     "first_seen": "2026-06-14T21:48:26.902770+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vv8jgWqPrZY": {
     "video_id": "vv8jgWqPrZY",
@@ -8886,6 +8886,6 @@
       "model": null
     },
     "first_seen": "2026-06-14T21:48:32.621191+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
