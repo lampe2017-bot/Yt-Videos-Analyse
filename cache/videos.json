@@ -8847,5 +8847,45 @@
     },
     "first_seen": "2026-06-14T16:53:03.541055+00:00",
     "is_new": false
+  },
+  "G7uqWiTMT7g": {
+    "video_id": "G7uqWiTMT7g",
+    "title": "$100 million dollar CEO ranks different ways to get rich",
+    "published": "2026-06-14T21:00:47+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/G7uqWiTMT7g/hqdefault.jpg",
+    "description": "$100 million dollar CEO ranks different ways to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100 million dollar CEO ranks different ways to get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-14T21:48:26.902770+00:00",
+    "is_new": true
+  },
+  "vv8jgWqPrZY": {
+    "video_id": "vv8jgWqPrZY",
+    "title": "Should you pay for these AI tools?",
+    "published": "2026-06-14T21:00:31+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vv8jgWqPrZY/hqdefault.jpg",
+    "description": "Should you pay for these AI tools?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you pay for these AI tools?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-14T21:48:32.621191+00:00",
+    "is_new": true
   }
 }
