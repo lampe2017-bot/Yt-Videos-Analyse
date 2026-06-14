@@ -8806,7 +8806,7 @@
       "model": null
     },
     "first_seen": "2026-06-14T16:52:52.012214+00:00",
-    "is_new": true
+    "is_new": false
   },
   "5Q-ohfhrXDg": {
     "video_id": "5Q-ohfhrXDg",
@@ -8826,7 +8826,7 @@
       "model": null
     },
     "first_seen": "2026-06-14T16:52:57.591061+00:00",
-    "is_new": true
+    "is_new": false
   },
   "o_8ACE1YwTI": {
     "video_id": "o_8ACE1YwTI",
@@ -8846,6 +8846,6 @@
       "model": null
     },
     "first_seen": "2026-06-14T16:53:03.541055+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
