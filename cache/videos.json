@@ -8910,7 +8910,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-15T16:51:55.164357+00:00",
-    "is_new": true
+    "is_new": false
   },
   "md711xP0dnk": {
     "video_id": "md711xP0dnk",
@@ -8930,7 +8930,7 @@
       "model": null
     },
     "first_seen": "2026-06-15T16:52:34.037546+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YU1QpFZMju0": {
     "video_id": "YU1QpFZMju0",
@@ -8950,7 +8950,7 @@
       "model": null
     },
     "first_seen": "2026-06-15T16:52:39.681703+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sL5hPovH1vU": {
     "video_id": "sL5hPovH1vU",
@@ -8974,6 +8974,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-15T16:52:49.033171+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
