@@ -8975,5 +8975,27 @@
     },
     "first_seen": "2026-06-15T16:52:49.033171+00:00",
     "is_new": false
+  },
+  "SS0Ym3t7NlY": {
+    "video_id": "SS0Ym3t7NlY",
+    "title": "My dad didn't believe how rich I was...",
+    "published": "2026-06-15T21:00:35+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/SS0Ym3t7NlY/hqdefault.jpg",
+    "description": "You can't control what people say to you, but you can always decide what you want to hear",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Der Einfluss von Meinungen anderer auf unser Selbstwertgefühl ist entscheidend.",
+      "bullets": [
+        "Du kannst nicht kontrollieren, was andere über dich sagen.",
+        "Es liegt an dir, was du aus diesen Aussagen machst.",
+        "Wähle bewusst, welche Meinungen du annehmen möchtest."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-15T22:33:35.964156+00:00",
+    "is_new": true
   }
 }
