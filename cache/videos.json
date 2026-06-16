@@ -9080,6 +9080,66 @@
       "model": null
     },
     "first_seen": "2026-06-16T19:27:48.579480+00:00",
+    "is_new": false
+  },
+  "Ky6ZKXaGbeU": {
+    "video_id": "Ky6ZKXaGbeU",
+    "title": "The education system is broken",
+    "published": "2026-06-16T21:01:58+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Ky6ZKXaGbeU/hqdefault.jpg",
+    "description": "School doesn't teach you how to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The education system is broken",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-16T22:00:00.375269+00:00",
+    "is_new": true
+  },
+  "mePXSxAp4hk": {
+    "video_id": "mePXSxAp4hk",
+    "title": "Rewarding Hard Work and Value Creation",
+    "published": "2026-06-16T21:01:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/mePXSxAp4hk/hqdefault.jpg",
+    "description": "if you want more opportunities, you have to bring more value",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Rewarding Hard Work and Value Creation",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-16T22:00:06.856165+00:00",
+    "is_new": true
+  },
+  "CQZ1I8lZHRo": {
+    "video_id": "CQZ1I8lZHRo",
+    "title": "What makes Joe Rogan so successful?",
+    "published": "2026-06-16T21:01:09+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/CQZ1I8lZHRo/hqdefault.jpg",
+    "description": "What makes Joe Rogan so successful?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What makes Joe Rogan so successful?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-16T22:00:13.034588+00:00",
     "is_new": true
   }
 }
