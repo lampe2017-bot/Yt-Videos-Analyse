@@ -9100,7 +9100,7 @@
       "model": null
     },
     "first_seen": "2026-06-16T22:00:00.375269+00:00",
-    "is_new": true
+    "is_new": false
   },
   "mePXSxAp4hk": {
     "video_id": "mePXSxAp4hk",
@@ -9120,7 +9120,7 @@
       "model": null
     },
     "first_seen": "2026-06-16T22:00:06.856165+00:00",
-    "is_new": true
+    "is_new": false
   },
   "CQZ1I8lZHRo": {
     "video_id": "CQZ1I8lZHRo",
@@ -9140,6 +9140,6 @@
       "model": null
     },
     "first_seen": "2026-06-16T22:00:13.034588+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
