@@ -9016,6 +9016,50 @@
       "model": null
     },
     "first_seen": "2026-06-16T10:51:59.432939+00:00",
+    "is_new": false
+  },
+  "qZRftXozT3M": {
+    "video_id": "qZRftXozT3M",
+    "title": "Lokale KI wird MASSIV unterschätzt! Alle Wege, KI komplett kostenlos & offline zu nutzen",
+    "published": "2026-06-16T15:15:35+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qZRftXozT3M/hqdefault.jpg",
+    "description": "In diesem Video erfährst du, wie du leistungsstarke KI-Modelle komplett lokal auf deinem eigenen Rechner betreibst, ohne Abo, ohne Cloud, ohne dass deine Daten irgendwo landen.\n\nLocal AI Report kostenfrei downloaden: https://www.kiberatung.de/report/lokale-ki \n\nLokale KI im CorporateLLM nutzen: https://corporatellm.de\nLokale KI im CLLM anbinden: https://docs.corporatellm.de/guides/ollama-secure-connection \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLI",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lokale KI bietet enorme Vorteile und kann kostenlos und offline genutzt werden.",
+      "bullets": [
+        "Leistungsstarke KI-Modelle können lokal auf deinem eigenen Rechner betrieben werden.",
+        "Es sind keine Abonnements oder Cloud-Dienste erforderlich, um KI zu nutzen.",
+        "Deine Daten bleiben sicher, da sie nicht online gespeichert werden.",
+        "Kostenlose Ressourcen und Anleitungen sind verfügbar, um lokale KI zu implementieren.",
+        "Unternehmen können durch KI-Integration einen Wettbewerbsvorteil erzielen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-16T15:47:38.311600+00:00",
+    "is_new": true
+  },
+  "-13iAy-5KDs": {
+    "video_id": "-13iAy-5KDs",
+    "title": "3 Daily Habits to Become a Millionaire",
+    "published": "2026-06-16T15:02:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-13iAy-5KDs/hqdefault.jpg",
+    "description": "These 3 habits can make you millions.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "3 Daily Habits to Become a Millionaire",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-16T15:49:17.012317+00:00",
     "is_new": true
   }
 }
