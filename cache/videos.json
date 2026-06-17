@@ -9164,7 +9164,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-17T15:32:37.462196+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Rswd2zqAxYM": {
     "video_id": "Rswd2zqAxYM",
@@ -9184,6 +9184,50 @@
       "model": null
     },
     "first_seen": "2026-06-17T15:34:17.841614+00:00",
+    "is_new": false
+  },
+  "_xXrt-NTTzo": {
+    "video_id": "_xXrt-NTTzo",
+    "title": "Your words matter in sales",
+    "published": "2026-06-17T15:50:59+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_xXrt-NTTzo/hqdefault.jpg",
+    "description": "Your words matter in sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your words matter in sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-17T18:08:57.169789+00:00",
+    "is_new": true
+  },
+  "MjCw8iIliUw": {
+    "video_id": "MjCw8iIliUw",
+    "title": "Personal Brand und KI : Wie sieht die Zukunft aus?",
+    "published": "2026-06-17T16:00:10+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/MjCw8iIliUw/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nKI macht Content immer perfekter. Doch genau das könnte das größte Problem für Personal Brands werden.\n\nIn dieser Folge spreche ich darüber, warum authentischer Content, echte Geschichten, klare Meinungen und unperfekte Einblicke in Zukunft wichtiger sein werden als perfekte Videos, KI-generierte Inhalte oder Hochglanz-Marketing.\n\nDu erfährst, warum Menschen nicht bei Logos, Brands oder Funnels kaufen, sondern bei Menschen. Warum Personal Branding 2027, 2028 und 2030 völlig anders funktionieren könnte als heute. Und weshalb die e",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die Zukunft der Personal Brands hängt von Authentizität und echten Geschichten ab.",
+      "bullets": [
+        "KI verbessert Content, könnte aber die Authentizität von Personal Brands gefährden.",
+        "Echte Geschichten und unperfekte Einblicke werden zunehmend wichtiger für das Publikum.",
+        "Menschen kaufen eher bei echten Personen als bei Logos oder Marken.",
+        "Die Strategien für Personal Branding werden sich bis 2030 drastisch verändern.",
+        "Authentizität wird der Schlüssel zum Erfolg in der Zukunft des Personal Brandings sein."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-17T18:10:22.488322+00:00",
     "is_new": true
   }
 }
