@@ -9141,5 +9141,49 @@
     },
     "first_seen": "2026-06-16T22:00:13.034588+00:00",
     "is_new": false
+  },
+  "WVkDduNKkMc": {
+    "video_id": "WVkDduNKkMc",
+    "title": "Prof. Maximilian Fichtner: Das KI-Energieproblem, Speicher-Lüge, Wasserstoff-Mythos, China & Zukunft",
+    "published": "2026-06-17T15:15:30+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/WVkDduNKkMc/hqdefault.jpg",
+    "description": "Batterieforscher Prof. Dr. Maximilian Fichtner erklärt im Everlast AI Interview, warum Kernkraft für KI-Rechenzentren ökonomisch nicht aufgeht, weshalb Solar plus Speicher längst die billigste Energiequelle ist und welchen entscheidenden Denkfehler die deutsche Strompreis-Debatte macht.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nKI kostenfrei und offline nutzen - Local AI PDF-Report jetzt downloaden: https://www.kiberatung.de/report/lokale-ki \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen ",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Fichtner beleuchtet die Herausforderungen der Energieversorgung für KI und die Rolle von Solarenergie.",
+      "bullets": [
+        "Kernkraft ist für KI-Rechenzentren wirtschaftlich unattraktiv, trotz ihrer Vorteile.",
+        "Solarenergie kombiniert mit Speichern ist die kostengünstigste Energiequelle der Zukunft.",
+        "Die deutsche Strompreis-Debatte ignoriert entscheidende Faktoren, die die Kosten beeinflussen.",
+        "Wasserstoff wird oft überbewertet und sollte kritisch hinterfragt werden.",
+        "China spielt eine zentrale Rolle in der globalen Energiezukunft und der KI-Entwicklung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-17T15:32:37.462196+00:00",
+    "is_new": true
+  },
+  "Rswd2zqAxYM": {
+    "video_id": "Rswd2zqAxYM",
+    "title": "This is what my dad said to me...",
+    "published": "2026-06-17T15:01:45+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Rswd2zqAxYM/hqdefault.jpg",
+    "description": "You can always decide what you want to hear",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This is what my dad said to me...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-17T15:34:17.841614+00:00",
+    "is_new": true
   }
 }
