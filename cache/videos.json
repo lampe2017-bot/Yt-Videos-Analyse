@@ -9248,7 +9248,7 @@
       "model": null
     },
     "first_seen": "2026-06-17T22:29:39.279455+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TTRX99SLJoU": {
     "video_id": "TTRX99SLJoU",
@@ -9268,6 +9268,6 @@
       "model": null
     },
     "first_seen": "2026-06-17T22:29:44.982662+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
