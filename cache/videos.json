@@ -7194,7 +7194,7 @@
     "description": "KI-News der Woche: Das neue Opus 4.8 Modell mit UltraCode und Dynamic Workflows, selbstverbessernde Codex-Agenten und das erste Multi-Agent-Weltmodell Agora 1 von Odyssey (Interview mit Dr. Jenny Seidenschwarz über KI-Weltmodelle). Plus Humanoide Roboter und die Business-Idee der Woche rund um die Agentenökonomie.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nCorporateLLM Live Beta: https://corporatellm.de\n\nAlle KI-News gibt es auch täglich kostenfrei per Newsletter: https://kibubble.news\n\nDu hast ein Unternehmen, wil",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "25:16",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Die neuen Entwicklungen in der KI verändern die Landschaft der Technologie grundlegend.",
@@ -9292,6 +9292,69 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-18T14:42:11.574736+00:00",
+    "is_new": false
+  },
+  "S3jvAS9JnOg": {
+    "video_id": "S3jvAS9JnOg",
+    "title": "„China bereitet sich DARAUF vor und niemand schaut hin!” DAS wird jetzt passieren (Wolfgang Hirn)",
+    "published": "2026-06-18T15:15:07+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/S3jvAS9JnOg/hqdefault.jpg",
+    "description": "China-Experte Wolfgang Hirn erklärt, wie Huawei mit der Tau-Revolution das Ende von Moores Gesetz einläutet, warum der US-Chip-Krieg gegen China nach hinten losgeht und weshalb Europa im Tech-Wettlauf zwischen USA und China abgehängt wird.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen ein",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "China bereitet sich auf technologische Veränderungen vor, während der Rest der Welt zuschaut.",
+      "bullets": [
+        "Huawei leitet mit der Tau-Revolution das Ende von Moores Gesetz ein.",
+        "Der US-Chip-Krieg gegen China könnte negative Folgen für die USA haben.",
+        "Europa droht im technologischen Wettlauf zwischen den USA und China abgehängt zu werden.",
+        "Unternehmen sollten KI-Integration nutzen, um Wettbewerbsvorteile zu sichern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-18T17:53:36.302385+00:00",
+    "is_new": true
+  },
+  "i3TqlnqH97I": {
+    "video_id": "i3TqlnqH97I",
+    "title": "If you want your kids to be disciplined, YOU have to start.",
+    "published": "2026-06-18T15:02:14+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/i3TqlnqH97I/hqdefault.jpg",
+    "description": "If you want your kids to be disciplined, YOU have to start.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you want your kids to be disciplined, YOU have to start.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-18T17:54:59.230059+00:00",
+    "is_new": true
+  },
+  "xz4DTOiDVkY": {
+    "video_id": "xz4DTOiDVkY",
+    "title": "These 3 habits will make you apart of the top 1%",
+    "published": "2026-06-18T15:01:52+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xz4DTOiDVkY/hqdefault.jpg",
+    "description": "These 3 habits will make you apart of the top 1%",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These 3 habits will make you apart of the top 1%",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-18T17:55:05.110121+00:00",
     "is_new": true
   }
 }
