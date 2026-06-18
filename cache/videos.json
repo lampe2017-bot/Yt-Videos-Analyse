@@ -9356,5 +9356,45 @@
     },
     "first_seen": "2026-06-18T17:55:05.110121+00:00",
     "is_new": false
+  },
+  "PSLHUvdz1NQ": {
+    "video_id": "PSLHUvdz1NQ",
+    "title": "This ONE tactic will get you more sales",
+    "published": "2026-06-18T21:01:01+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PSLHUvdz1NQ/hqdefault.jpg",
+    "description": "This ONE tactic will get you more sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This ONE tactic will get you more sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-18T22:29:20.943455+00:00",
+    "is_new": true
+  },
+  "WmAeQaFbG60": {
+    "video_id": "WmAeQaFbG60",
+    "title": "School was never designed to make you millions",
+    "published": "2026-06-18T21:00:54+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/WmAeQaFbG60/hqdefault.jpg",
+    "description": "School was never designed to make you millions",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "School was never designed to make you millions",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-18T22:29:26.705738+00:00",
+    "is_new": true
   }
 }
