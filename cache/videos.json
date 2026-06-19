@@ -9375,7 +9375,7 @@
       "model": null
     },
     "first_seen": "2026-06-18T22:29:20.943455+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WmAeQaFbG60": {
     "video_id": "WmAeQaFbG60",
@@ -9395,6 +9395,6 @@
       "model": null
     },
     "first_seen": "2026-06-18T22:29:26.705738+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
