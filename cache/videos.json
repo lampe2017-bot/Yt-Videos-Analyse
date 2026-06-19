@@ -7090,7 +7090,7 @@
     "description": "n8n ist tot: In diesem Video erfährst du was wirklich dahinter steckt, was du als KI-Agentur jetzt wissen musst und wie wir bei Everlast AI aktuell (noch) mit n8n arbeiten.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&ut",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "15:41",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "n8n ist tot, aber es gibt neue Möglichkeiten für KI-Agenturen.",
@@ -9463,5 +9463,25 @@
     },
     "first_seen": "2026-06-19T16:28:26.955826+00:00",
     "is_new": false
+  },
+  "tMCXD2gfK_Q": {
+    "video_id": "tMCXD2gfK_Q",
+    "title": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
+    "published": "2026-06-19T21:00:37+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tMCXD2gfK_Q/hqdefault.jpg",
+    "description": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-19T21:41:39.906803+00:00",
+    "is_new": true
   }
 }
