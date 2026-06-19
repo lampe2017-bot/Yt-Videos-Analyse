@@ -9420,5 +9420,48 @@
     },
     "first_seen": "2026-06-19T13:56:20.058871+00:00",
     "is_new": true
+  },
+  "77q5LaMRcm8": {
+    "video_id": "77q5LaMRcm8",
+    "title": "200 Kunden reaktiviert & neue Vermietungen durch KI-Agent als Makler | Everlast AI Erfahrung",
+    "published": "2026-06-19T14:45:12+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/77q5LaMRcm8/hqdefault.jpg",
+    "description": "Mit der Hilfe von Everlast AI konnte Stephan Hoffmann, seit 20 Jahren im Immobiliengeschäft und Leiter des Nordgebiets bei Porta Mallorquina auf Mallorca, seinen eingeschlafenen Kundenbestand vollautomatisch reaktivieren. Durch die Implementierung eines AI Voice Agents, der eigenständig Outbound-Calls durchführt und Ergebnisse direkt in seine Datenbank einschreibt, konnte er 200 Kunden automatisch kontaktieren und daraus neue Vermietungen generieren.\n\nStatt Kunden manuell nachzufassen oder Personal dafür einzusetzen, hat er mit Everlast AI einen KI-Telefonagenten aufgebaut, der rund um die Uhr",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stephan Hoffmann reaktiviert 200 Kunden und generiert neue Vermietungen mit Everlast AI.",
+      "bullets": [
+        "Everlast AI ermöglicht die vollautomatische Reaktivierung eines eingeschlafenen Kundenbestands.",
+        "Ein KI Voice Agent führt Outbound-Calls durch und dokumentiert Ergebnisse in der Datenbank.",
+        "Die Lösung spart Zeit und Ressourcen, da manuelle Nachfassaktionen entfallen.",
+        "Stephan Hoffmann nutzt die Technologie, um effizient neue Vermietungen zu generieren."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-19T16:26:56.783112+00:00",
+    "is_new": true
+  },
+  "BqFeFj4eRB0": {
+    "video_id": "BqFeFj4eRB0",
+    "title": "What was the best investment you ever made? @theicedcoffeehour",
+    "published": "2026-06-19T15:04:46+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BqFeFj4eRB0/hqdefault.jpg",
+    "description": "What was the best investment you ever made?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What was the best investment you ever made? @theicedcoffeehour",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-19T16:28:26.955826+00:00",
+    "is_new": true
   }
 }
