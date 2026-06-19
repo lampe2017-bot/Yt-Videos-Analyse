@@ -9228,7 +9228,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-17T18:10:22.488322+00:00",
-    "is_new": true
+    "is_new": false
   },
   "bjZOENovy4Y": {
     "video_id": "bjZOENovy4Y",
@@ -9396,5 +9396,29 @@
     },
     "first_seen": "2026-06-18T22:29:26.705738+00:00",
     "is_new": false
+  },
+  "BScwrGxZiTY": {
+    "video_id": "BScwrGxZiTY",
+    "title": "WIR LEBEN IN EINER SIMULATION",
+    "published": "2026-06-19T10:30:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BScwrGxZiTY/hqdefault.jpg",
+    "description": "Odysseus jetzt mit einem Klick installieren: https://www.hostg.xyz/SHJdP \n(Code: NIKLAS für 10% Rabatt auf die Hosting-Jahrespläne!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n1:29 Setup\n3:57 Odysseus + Ollama\n6:10 Praxistest\n9:33 Open Source Revolution\n\nJetzt deine Lebensbalance testen: http://rebalance.so/",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Das Video diskutiert die Theorie, dass wir in einer Simulation leben.",
+      "bullets": [
+        "Die Idee der Simulation wird durch verschiedene philosophische und wissenschaftliche Ansätze unterstützt.",
+        "Technologische Fortschritte könnten uns näher an die Schaffung von Simulationen bringen.",
+        "Der Praxistest zeigt, wie Simulationen unser Leben beeinflussen können.",
+        "Open Source Projekte fördern die Diskussion über digitale Realität und Simulationen.",
+        "Das Testen der Lebensbalance hilft, die eigene Realität besser zu verstehen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-19T13:56:20.058871+00:00",
+    "is_new": true
   }
 }
