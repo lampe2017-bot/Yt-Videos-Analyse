@@ -9442,7 +9442,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-19T16:26:56.783112+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BqFeFj4eRB0": {
     "video_id": "BqFeFj4eRB0",
@@ -9462,6 +9462,6 @@
       "model": null
     },
     "first_seen": "2026-06-19T16:28:26.955826+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
