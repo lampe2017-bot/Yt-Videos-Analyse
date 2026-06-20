@@ -9507,5 +9507,25 @@
     },
     "first_seen": "2026-06-20T09:57:13.830293+00:00",
     "is_new": false
+  },
+  "LWQeHBpJNWI": {
+    "video_id": "LWQeHBpJNWI",
+    "title": "The biggest problem you can solve is finding the right problem to solve.",
+    "published": "2026-06-20T15:00:41+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LWQeHBpJNWI/hqdefault.jpg",
+    "description": "The biggest problem you can solve is finding the right problem to solve.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The biggest problem you can solve is finding the right problem to solve.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-20T15:21:17.341074+00:00",
+    "is_new": true
   }
 }
