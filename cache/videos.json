@@ -9527,5 +9527,25 @@
     },
     "first_seen": "2026-06-20T15:21:17.341074+00:00",
     "is_new": false
+  },
+  "iQtbUx3yQvg": {
+    "video_id": "iQtbUx3yQvg",
+    "title": "Business expert ranks the ways people waste their time",
+    "published": "2026-06-20T21:00:34+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iQtbUx3yQvg/hqdefault.jpg",
+    "description": "Business expert ranks the ways people waste their time",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Business expert ranks the ways people waste their time",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-20T21:45:24.739845+00:00",
+    "is_new": true
   }
 }
