@@ -9591,5 +9591,25 @@
     },
     "first_seen": "2026-06-21T15:45:19.914937+00:00",
     "is_new": false
+  },
+  "Dr0UUonmX1Q": {
+    "video_id": "Dr0UUonmX1Q",
+    "title": "Can you guess the AI tools?",
+    "published": "2026-06-21T21:00:49+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Dr0UUonmX1Q/hqdefault.jpg",
+    "description": "Can you guess the AI tools?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Can you guess the AI tools?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-21T21:50:15.784934+00:00",
+    "is_new": true
   }
 }
