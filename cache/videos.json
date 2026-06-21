@@ -9571,5 +9571,25 @@
     },
     "first_seen": "2026-06-21T08:45:57.470735+00:00",
     "is_new": false
+  },
+  "SOoDr6Imt7Q": {
+    "video_id": "SOoDr6Imt7Q",
+    "title": "Cut this one thing out if you want to be successful",
+    "published": "2026-06-21T15:01:29+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/SOoDr6Imt7Q/hqdefault.jpg",
+    "description": "Cut this one thing out if you want to be successful",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Cut this one thing out if you want to be successful",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-21T15:45:19.914937+00:00",
+    "is_new": true
   }
 }
