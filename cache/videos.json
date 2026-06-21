@@ -9547,5 +9547,29 @@
     },
     "first_seen": "2026-06-20T21:45:24.739845+00:00",
     "is_new": false
+  },
+  "eg3GcZEnbHQ": {
+    "video_id": "eg3GcZEnbHQ",
+    "title": "KI-News: SO leicht hackt man Claude Mythos! KI-Jailbreaks erklärt & Codex Updates (Florian Tramèr)",
+    "published": "2026-06-21T08:15:12+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/eg3GcZEnbHQ/hqdefault.jpg",
+    "description": "Codex setzt sich jetzt selbst Ziele, Open-Source-Modelle wie GLM 5.2 fordern Claude Fable 5 heraus und KI-Sicherheitsforscher Prof. Dr. Florian Tramèr erklärt, warum Jailbreaks so einfach bleiben. Alle wichtigen KI-News der Woche kompakt erklärt: agentenbasiertes Arbeiten, lokale KI und was das für dein Unternehmen bedeutet.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nLocal AI Report kostenfrei downloaden: https://www.kiberatung.de/report/lokale-ki \nLokale KI kostenfrei im CorporateLLM nutzen: https://corpo",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Florian Tramèr erklärt die Herausforderungen von KI-Jailbreaks und aktuelle Entwicklungen in der KI-Sicherheit.",
+      "bullets": [
+        "Codex setzt sich selbst Ziele und entwickelt sich kontinuierlich weiter.",
+        "Open-Source-Modelle wie GLM 5.2 stellen eine Herausforderung für Claude Fable 5 dar.",
+        "Jailbreaks bleiben einfach, was Sicherheitsforscher alarmiert.",
+        "Agentenbasiertes Arbeiten und lokale KI sind wichtige Trends für Unternehmen.",
+        "Kostenfreie Workshops und Berichte bieten wertvolle Informationen zur Nutzung von KI."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-21T08:45:57.470735+00:00",
+    "is_new": true
   }
 }
