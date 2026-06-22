@@ -9469,17 +9469,20 @@
     "title": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
     "published": "2026-06-19T21:00:37+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/tMCXD2gfK_Q/hqdefault.jpg",
-    "description": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
+    "description": "Here's the guide: https://docs.google.com/document/d/1zzbpp7hiPcbeiTFY1p5zjcmQCwk9vntU4RxbdHGNeB4/edit?usp=sharing",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
     "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "How to make your AI smarter - comment \"BRAIN\" for the full guide",
+      "hook": "Erfahren Sie, wie Sie Ihre KI intelligenter machen können.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Nutzen Sie Datenanalyse, um die Leistung Ihrer KI zu verbessern.",
+        "Integrieren Sie maschinelles Lernen für präzisere Vorhersagen.",
+        "Optimieren Sie Algorithmen regelmäßig, um die Effizienz zu steigern.",
+        "Testen Sie verschiedene Modelle, um das beste Ergebnis zu erzielen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-19T21:41:39.906803+00:00",
     "is_new": false
