@@ -9677,6 +9677,30 @@
       "model": null
     },
     "first_seen": "2026-06-22T21:55:17.921609+00:00",
+    "is_new": false
+  },
+  "odswQtYI5yc": {
+    "video_id": "odswQtYI5yc",
+    "title": "Ich kehre zurück ins Silicon Valley!! (Ex Meta Mitarbeiter)",
+    "published": "2026-06-22T22:22:24+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/odswQtYI5yc/hqdefault.jpg",
+    "description": "Hole dir jetzt Kraken Pro: https://kraken.pxf.io/c/5009311/3909148/10583\n(30€ in Bitcoin geschenkt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:44 Business Class gönnt\n2:34 Illegale Einreise\n3:18 Ankunft im Hotel\n4:24 5am Club\n6:00 Google I/O\n7:14 Fortnite Flashbacks\n8:06 Neue Google-Modelle\n9:00 AI Deepfakes\n10:10 Gemini Omni\n10:5",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Niklas Steenfatt berichtet von seiner Rückkehr ins Silicon Valley und neuen Technologien.",
+      "bullets": [
+        "Er genießt die Annehmlichkeiten der Business Class auf dem Flug.",
+        "Niklas beschreibt seine illegale Einreise und die Ankunft im Hotel.",
+        "Er spricht über den 5am Club und seine Produktivitätsgewohnheiten.",
+        "Das Video thematisiert die Google I/O und neue AI-Technologien.",
+        "Er teilt seine Eindrücke von den neuesten Google-Modellen und Deepfakes."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-22T23:13:55.573397+00:00",
     "is_new": true
   }
 }
