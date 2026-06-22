@@ -9658,5 +9658,25 @@
     },
     "first_seen": "2026-06-22T16:12:13.442949+00:00",
     "is_new": false
+  },
+  "ufV9hZGyjEQ": {
+    "video_id": "ufV9hZGyjEQ",
+    "title": "Business expert ranks what business to start in 2026",
+    "published": "2026-06-22T21:00:33+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ufV9hZGyjEQ/hqdefault.jpg",
+    "description": "Business expert ranks what business to start in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Business expert ranks what business to start in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-22T21:55:17.921609+00:00",
+    "is_new": true
   }
 }
