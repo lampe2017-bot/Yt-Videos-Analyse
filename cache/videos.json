@@ -9633,7 +9633,7 @@
       "model": null
     },
     "first_seen": "2026-06-22T16:12:03.178711+00:00",
-    "is_new": true
+    "is_new": false
   },
   "qZJS1yOaw_U": {
     "video_id": "qZJS1yOaw_U",
@@ -9657,6 +9657,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-22T16:12:13.442949+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
