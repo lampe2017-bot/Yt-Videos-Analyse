@@ -9614,5 +9614,49 @@
     },
     "first_seen": "2026-06-21T21:50:15.784934+00:00",
     "is_new": false
+  },
+  "ZL8pyw2Y3Zg": {
+    "video_id": "ZL8pyw2Y3Zg",
+    "title": "Use these secret Claude features to level up your AI skills",
+    "published": "2026-06-22T15:00:51+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZL8pyw2Y3Zg/hqdefault.jpg",
+    "description": "Use these secret Claude features to level up your AI skills",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Use these secret Claude features to level up your AI skills",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-22T16:12:03.178711+00:00",
+    "is_new": true
+  },
+  "qZJS1yOaw_U": {
+    "video_id": "qZJS1yOaw_U",
+    "title": "28 Brutal Truths I wish someone told me in my 20s",
+    "published": "2026-06-22T13:00:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qZJS1yOaw_U/hqdefault.jpg",
+    "description": "✅ Get your FREE CEO Scorecard: https://go.danmartell.com/4uOZPJi\n\nMost people learn how money actually works the hard way, after a decade of expensive mistakes nobody warned them about.\n\nI went from dead broke to owning a portfolio of companies doing nine figures a year, and almost every breakthrough came from a brutal lesson I had to learn the painful way.\n\nIn this video, I'm handing over the 28 truths I wish someone had hammered into me at 20, so you can skip the expensive detours and start playing the real game two decades earlier.\n\n▸▸ Subscribe to The Martell Method Newsletter: https://bit",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Dan Martell teilt 28 harte Wahrheiten, die er in seinen 20ern gerne gewusst hätte.",
+      "bullets": [
+        "Die meisten lernen den Umgang mit Geld auf die harte Tour durch teure Fehler.",
+        "Erfolgreiche Unternehmer lernen oft aus schmerzhaften Lektionen und Rückschlägen.",
+        "Frühzeitige Erkenntnisse können helfen, kostspielige Umwege im Leben zu vermeiden.",
+        "Die richtigen finanziellen Entscheidungen können den Unterschied zwischen Erfolg und Misserfolg ausmachen.",
+        "Es ist wichtig, aus den Erfahrungen anderer zu lernen, um schneller voranzukommen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-22T16:12:13.442949+00:00",
+    "is_new": true
   }
 }
