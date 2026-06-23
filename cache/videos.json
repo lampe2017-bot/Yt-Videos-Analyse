@@ -9725,7 +9725,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-23T16:45:28.744819+00:00",
-    "is_new": true
+    "is_new": false
   },
   "GUnAj3rd_2E": {
     "video_id": "GUnAj3rd_2E",
@@ -9749,6 +9749,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-23T16:46:50.595037+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
