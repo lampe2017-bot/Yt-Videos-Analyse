@@ -661,7 +661,7 @@
     "description": "CorporateLLMs sind die größte und gleichzeitig unterschätzteste Chance, um KI 2026 sinnvoll im Unternehmen einzusetzen oder als KI-Agentur an Unternehmen zu verkaufen. In diesem Videos erfährst du, was CorporateLLMs sind und wie du sie sinnvoll einsetztz.\n\nProfitiere auch du von dieser Chance und sichere dir deinen Platz für den kostenfreien Live CorporateLLM Workshop: https://assets.kiberatung.de/corporatellm-workshop  \n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_c",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "13:58",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Corporate LLMs bieten 2026 enorme Chancen für Unternehmen und KI-Agenturen.",
@@ -9701,6 +9701,54 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-22T23:13:55.573397+00:00",
+    "is_new": true
+  },
+  "gxsa2xoLxGY": {
+    "video_id": "gxsa2xoLxGY",
+    "title": "Massive KI-Durchbrüche: Claude Mythos, KI-Rechtsform, Humanoide, OpenSource & Superintelligenz",
+    "published": "2026-06-23T15:15:03+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/gxsa2xoLxGY/hqdefault.jpg",
+    "description": "Bleibe täglich auf dem Laufenden mit unserem WhatsApp-Kanal: https://everlastwhatsapp.de \nLerne Tools wie Agentic Coding Tools wie Claude Code und Codex von A-Z: https://claudecodekurs.de \n\nProf. Dr. Andreas Moring – Spezialist für Digitale Wirtschaft & Mensch-KI-Kooperation\nhttps://www.linkedin.com/in/prof-dr-andreas-moring-a557b2189/  \nProf. Dr. Pero Micic - International führender Experte für Zukunftsstrategien & Managementberater\nhttps://www.linkedin.com/in/peromicic/ \nKim Isenberg – KI-Insider & Betreiber des größten X-Channels über KI-News\nhttps://www.linkedin.com/in/kim-isenberg-581b352",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Das Video beleuchtet bedeutende Fortschritte in der KI und deren gesellschaftliche Auswirkungen.",
+      "bullets": [
+        "Claude Mythos stellt einen neuen Standard in der KI-Entwicklung dar.",
+        "Die Diskussion über rechtliche Rahmenbedingungen für KI wird immer dringlicher.",
+        "Humanoide Roboter gewinnen an Bedeutung in verschiedenen Lebensbereichen.",
+        "OpenSource-Projekte fördern die Zugänglichkeit und Innovation in der KI.",
+        "Superintelligenz könnte die Zukunft der Menschheit grundlegend verändern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-23T16:45:28.744819+00:00",
+    "is_new": true
+  },
+  "GUnAj3rd_2E": {
+    "video_id": "GUnAj3rd_2E",
+    "title": "\"What's the best affirmation for success?\"",
+    "published": "2026-06-23T15:01:24+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/GUnAj3rd_2E/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Erfolgreiche Affirmationen können den Weg zum persönlichen und beruflichen Erfolg ebnen.",
+      "bullets": [
+        "Affirmationen stärken das Selbstbewusstsein und die Motivation.",
+        "Regelmäßige Wiederholung von positiven Aussagen fördert das Mindset.",
+        "Die richtige Affirmation sollte spezifisch und glaubwürdig sein.",
+        "Affirmationen helfen, negative Gedankenmuster zu durchbrechen.",
+        "Erfolg beginnt oft mit der richtigen inneren Einstellung und Überzeugung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-23T16:46:50.595037+00:00",
     "is_new": true
   }
 }
