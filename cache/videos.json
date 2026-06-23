@@ -9750,5 +9750,29 @@
     },
     "first_seen": "2026-06-23T16:46:50.595037+00:00",
     "is_new": false
+  },
+  "Cnfsjyt-Tpo": {
+    "video_id": "Cnfsjyt-Tpo",
+    "title": "NEVER use these words in sales",
+    "published": "2026-06-23T21:00:29+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Cnfsjyt-Tpo/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Vermeide bestimmte Wörter im Verkauf, um erfolgreicher zu sein.",
+      "bullets": [
+        "Bestimmte Wörter können das Vertrauen der Kunden untergraben.",
+        "Vermeide negative Formulierungen, die Unsicherheit erzeugen.",
+        "Nutze positive und einladende Sprache, um Interesse zu wecken.",
+        "Achte auf die Emotionen der Kunden, um besser zu kommunizieren.",
+        "Worte beeinflussen die Wahrnehmung und Entscheidung der Käufer."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-23T22:43:46.438971+00:00",
+    "is_new": true
   }
 }
