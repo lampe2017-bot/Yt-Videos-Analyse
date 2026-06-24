@@ -9774,5 +9774,25 @@
     },
     "first_seen": "2026-06-23T22:43:46.438971+00:00",
     "is_new": false
+  },
+  "FZOYMBEStgA": {
+    "video_id": "FZOYMBEStgA",
+    "title": "Ranking RICH vs BROKE habits",
+    "published": "2026-06-24T15:02:09+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FZOYMBEStgA/hqdefault.jpg",
+    "description": "Ranking RICH vs BROKE habits",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking RICH vs BROKE habits",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-24T15:16:16.612800+00:00",
+    "is_new": true
   }
 }
