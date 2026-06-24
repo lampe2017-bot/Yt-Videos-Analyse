@@ -9793,6 +9793,29 @@
       "model": null
     },
     "first_seen": "2026-06-24T15:16:16.612800+00:00",
+    "is_new": false
+  },
+  "TtZUOGHdW7I": {
+    "video_id": "TtZUOGHdW7I",
+    "title": "Kundengewinnung auf Instagram, kleine Community großes Einkommen?",
+    "published": "2026-06-24T16:00:12+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TtZUOGHdW7I/hqdefault.jpg",
+    "description": "Ich habe heute weniger Reichweite als vor drei Jahren — und verdiene mehr. In dieser Episode erkläre ich warum sich gerade alles verändert: warum AI, sinkende Reichweite und bessere Filter dafür sorgen dass eine kleine loyale Community heute mehr wert ist als 500.000 passive Follower. Und was das konkret bedeutet wenn du ein Online-Business aufbaust.\n\n\n\n📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Unternehmer Workshop: https://tinyurl.com/4tymc9hn \n📌 gratis E-Mail-Coaching:  https://mailchi.mp/blogdichh",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Eine loyale Community ist heute wertvoller als viele passive Follower auf Instagram.",
+      "bullets": [
+        "Weniger Reichweite kann zu höherem Einkommen führen, wenn die Community loyal ist.",
+        "AI und bessere Filter verändern die Dynamik der Kundengewinnung auf Instagram.",
+        "Qualität der Follower ist entscheidender als die bloße Anzahl an Followern.",
+        "Ein Online-Business profitiert von einer engagierten und aktiven Zielgruppe."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-24T17:26:45.067707+00:00",
     "is_new": true
   }
 }
