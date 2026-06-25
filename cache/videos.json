@@ -9904,5 +9904,25 @@
     },
     "first_seen": "2026-06-25T15:37:29.665133+00:00",
     "is_new": false
+  },
+  "Yv7oO-cFdOo": {
+    "video_id": "Yv7oO-cFdOo",
+    "title": "The truth no one tells you about being a dad",
+    "published": "2026-06-25T21:00:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Yv7oO-cFdOo/hqdefault.jpg",
+    "description": "The truth no one tells you about being a dad",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The truth no one tells you about being a dad",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-25T21:59:19.847048+00:00",
+    "is_new": true
   }
 }
