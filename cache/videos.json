@@ -9859,7 +9859,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-25T15:36:03.548286+00:00",
-    "is_new": true
+    "is_new": false
   },
   "j-HkPW2k2T4": {
     "video_id": "j-HkPW2k2T4",
@@ -9879,7 +9879,7 @@
       "model": null
     },
     "first_seen": "2026-06-25T15:37:19.565301+00:00",
-    "is_new": true
+    "is_new": false
   },
   "b4d32pBa3UY": {
     "video_id": "b4d32pBa3UY",
@@ -9903,6 +9903,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-25T15:37:29.665133+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
