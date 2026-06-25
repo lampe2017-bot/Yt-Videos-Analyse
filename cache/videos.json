@@ -9837,5 +9837,72 @@
     },
     "first_seen": "2026-06-24T22:44:54.275895+00:00",
     "is_new": false
+  },
+  "Om8hyIlX94w": {
+    "video_id": "Om8hyIlX94w",
+    "title": "Robotik-Pionier: DAS ist der WAHRE Durchbruch bei Humanoiden & DIESE Entwicklungen kommen jetzt!",
+    "published": "2026-06-25T15:15:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Om8hyIlX94w/hqdefault.jpg",
+    "description": "Robotik-Pionier Prof. Dr. Wolfram Burgard spricht im Interview mit Leonard Schmedding über die rasante Entwicklung der Humanoiden Robotik, Robotic Foundation Models und was als nächstes kommt.\n\nNeuer kostenfreier Report - Lokale KI produktiv einsetzen: https://www.kiberatung.de/report/lokale-ki \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: http",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Dr. Wolfram Burgard erklärt die neuesten Durchbrüche in der humanoiden Robotik.",
+      "bullets": [
+        "Humanoide Robotik entwickelt sich rasant, mit bedeutenden Fortschritten in der Technik.",
+        "Robotic Foundation Models revolutionieren die Art und Weise, wie Roboter lernen und interagieren.",
+        "Zukünftige Entwicklungen versprechen noch intelligentere und anpassungsfähigere humanoide Roboter.",
+        "Unternehmen sollten KI-Integration nutzen, um Wettbewerbsvorteile zu sichern und Effizienz zu steigern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-25T15:36:03.548286+00:00",
+    "is_new": true
+  },
+  "j-HkPW2k2T4": {
+    "video_id": "j-HkPW2k2T4",
+    "title": "What do you do with your first $10K?",
+    "published": "2026-06-25T15:01:30+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/j-HkPW2k2T4/hqdefault.jpg",
+    "description": "What do you do with your first $10K?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What do you do with your first $10K?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-25T15:37:19.565301+00:00",
+    "is_new": true
+  },
+  "b4d32pBa3UY": {
+    "video_id": "b4d32pBa3UY",
+    "title": "This AI Brain Will Make You So Smart It’s Almost Unfair",
+    "published": "2026-06-25T13:00:31+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/b4d32pBa3UY/hqdefault.jpg",
+    "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4amP5uh\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/3SJWpKq\n\nMost people are using AI like a search bar, and that's why they feel behind no matter how many prompts they save.\n\nIn this video, I show you the exact AI setup I use to run dozens of companies, make faster decisions, and get days of my life back every single week.\n\nIf you've been waiting for the right way to actually plug AI into your life, this is it.\n\nPrompts from the video:\n\nIdentity setup prompt (for your USER, S",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Nutze KI effektiv, um deine Entscheidungsfindung zu verbessern und Zeit zu sparen.",
+      "bullets": [
+        "Die meisten verwenden KI nur als Suchmaschine und bleiben dadurch zurück.",
+        "Ein effektives KI-Setup kann dir helfen, mehrere Unternehmen zu führen.",
+        "Mit der richtigen KI-Integration gewinnst du wertvolle Zeit in deinem Alltag.",
+        "Lerne, wie du KI strategisch in dein Leben einbinden kannst.",
+        "Verpasse nicht die Chance, deine Produktivität durch KI zu steigern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-25T15:37:29.665133+00:00",
+    "is_new": true
   }
 }
