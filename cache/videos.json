@@ -7493,7 +7493,7 @@
     "description": "Professor Dr. Klaus Mainzer zählt zu den bedeutendsten deutschen Wissenschaftstheoretikern und gilt als Pionier der Komplexitätsforschung sowie Präsident der Europäischen Akademie der Wissenschaften und Künste. Im Interview erklärt er, wie Quantencomputing, Neuromorphic Computing und künstliche Intelligenz zusammen die nächste Generation der KI bestimmen werden.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvort",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:48:40",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Professor Dr. Klaus Mainzer erklärt die Zukunft von KI, Quantencomputern und neuromorphen Chips.",
@@ -9923,6 +9923,6 @@
       "model": null
     },
     "first_seen": "2026-06-25T21:59:19.847048+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
