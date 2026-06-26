@@ -9972,5 +9972,25 @@
     },
     "first_seen": "2026-06-26T16:33:44.741409+00:00",
     "is_new": true
+  },
+  "hgXI229Lar4": {
+    "video_id": "hgXI229Lar4",
+    "title": "What's the \"BAD\" AI Tool you're still using?",
+    "published": "2026-06-26T21:00:35+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hgXI229Lar4/hqdefault.jpg",
+    "description": "What's the \"BAD\" AI Tool you're still using?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What's the \"BAD\" AI Tool you're still using?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-26T21:46:05.222265+00:00",
+    "is_new": true
   }
 }
