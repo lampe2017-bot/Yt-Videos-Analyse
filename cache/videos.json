@@ -9816,7 +9816,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-24T17:26:45.067707+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8nwyJi-Lpbo": {
     "video_id": "8nwyJi-Lpbo",
@@ -9924,5 +9924,49 @@
     },
     "first_seen": "2026-06-25T21:59:19.847048+00:00",
     "is_new": false
+  },
+  "4NzoIXEHoME": {
+    "video_id": "4NzoIXEHoME",
+    "title": "How to get promoted at any job 💪🏻",
+    "published": "2026-06-26T15:01:57+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4NzoIXEHoME/hqdefault.jpg",
+    "description": "How to get promoted at any job 💪🏻",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to get promoted at any job 💪🏻",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-26T16:31:38.600439+00:00",
+    "is_new": true
+  },
+  "Sfaue2R64AA": {
+    "video_id": "Sfaue2R64AA",
+    "title": "ES REICHT",
+    "published": "2026-06-26T14:43:06+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Sfaue2R64AA/hqdefault.jpg",
+    "description": "Die perfekte KI-Plattform für deine Arbeit: https://nexos.ai/niklas (50% Rabatt!)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:16 Meine Geschichte\n1:21 Das Problem mit KI \n2:20 Ein neues Kapitel\n5:10 Mein Projekt\n6:42 Softwareentwicklung mit KI\n7:32 Zukunft des Kanals\n\nJetzt deine Lebensbalance testen: http://rebalance.so/",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Niklas Steenfatt spricht über die Herausforderungen und Chancen von KI in der Produktivität.",
+      "bullets": [
+        "Er teilt seine persönliche Geschichte und Erfahrungen mit KI-Technologien.",
+        "Das Video thematisiert die Probleme, die KI mit sich bringt.",
+        "Niklas stellt sein neues Projekt und seine Vision für die Zukunft vor.",
+        "Er diskutiert, wie KI die Softwareentwicklung revolutionieren kann.",
+        "Der Kanal wird sich weiterentwickeln, um neue Themen zu behandeln."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-26T16:33:44.741409+00:00",
+    "is_new": true
   }
 }
