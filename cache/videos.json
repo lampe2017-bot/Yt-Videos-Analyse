@@ -9624,13 +9624,17 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "Use these secret Claude features to level up your AI skills",
+      "hook": "Entdecke geheime Funktionen von Claude, um deine KI-Fähigkeiten zu verbessern.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Claude kann Skills erstellen, die es sich merkt und immer wieder anwendet.",
+        "Mit Connectors kannst du alle deine Apps für bessere Antworten verknüpfen.",
+        "Visualisierung ermöglicht interaktive Diagramme und Charts für visuelle Lerner.",
+        "Claude verbindet sich mit deinem Browser und nutzt das Internet aktiv.",
+        "Jetzt ist der beste Zeitpunkt, um mit Claude zu starten und seine Funktionen zu nutzen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-22T16:12:03.178711+00:00",
     "is_new": false
