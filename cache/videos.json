@@ -10036,5 +10036,25 @@
     },
     "first_seen": "2026-06-27T15:46:10.775759+00:00",
     "is_new": false
+  },
+  "Tp3kIqp_nEA": {
+    "video_id": "Tp3kIqp_nEA",
+    "title": "Should you fire these employees or train them up?",
+    "published": "2026-06-27T21:01:19+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Tp3kIqp_nEA/hqdefault.jpg",
+    "description": "Should you fire these employees or train them up?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you fire these employees or train them up?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-27T21:52:47.057211+00:00",
+    "is_new": true
   }
 }
