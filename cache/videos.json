@@ -9992,5 +9992,29 @@
     },
     "first_seen": "2026-06-26T21:46:05.222265+00:00",
     "is_new": false
+  },
+  "vvlAIqbFR2Q": {
+    "video_id": "vvlAIqbFR2Q",
+    "title": "36 KI-Geschäftsmodelle, die in den nächsten Jahren riesig werden",
+    "published": "2026-06-27T08:15:22+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vvlAIqbFR2Q/hqdefault.jpg",
+    "description": "36 ganz konkrete KI-Geschäftsideen und Modelle, mit denen du andere Jahre voraus sein wirst, über die aber kaum jemand spricht.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n• AI Voice Agents installieren: https://www.kiberatung.de/ki-telefonassis",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke 36 innovative KI-Geschäftsmodelle für die Zukunft.",
+      "bullets": [
+        "Die vorgestellten KI-Geschäftsideen sind zukunftsweisend und wenig bekannt.",
+        "Nutze die Chancen der KI-Revolution, um erfolgreich zu sein.",
+        "Kostenfreie Ressourcen und Communities unterstützen beim Einstieg in die KI-Welt.",
+        "Baue deine eigene KI-Agentur auf und profitiere von neuen Technologien.",
+        "AI Voice Agents bieten innovative Lösungen für Unternehmen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-27T09:54:44.368002+00:00",
+    "is_new": true
   }
 }
