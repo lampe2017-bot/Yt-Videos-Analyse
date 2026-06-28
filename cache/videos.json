@@ -10100,5 +10100,29 @@
     },
     "first_seen": "2026-06-28T16:02:42.870002+00:00",
     "is_new": false
+  },
+  "IXZp-2Nl2vY": {
+    "video_id": "IXZp-2Nl2vY",
+    "title": "How to sell anyone ANYTHING in 5 steps",
+    "published": "2026-06-28T21:01:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IXZp-2Nl2vY/hqdefault.jpg",
+    "description": "How to sell anyone ANYTHING in 5 steps",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "en",
+    "summary": {
+      "hook": "Verkaufen Sie jedem alles in fünf einfachen Schritten.",
+      "bullets": [
+        "Konzentrieren Sie sich auf die Schmerzpunkte des Kunden, nicht auf Ihr Produkt.",
+        "Stellen Sie gezielte Fragen, um den Schmerz des Kunden zu vertiefen.",
+        "Verkaufen Sie den gewünschten Zustand, den der Kunde erreichen möchte.",
+        "Nennen Sie den Preis und hören Sie auf zu reden, um nicht zu überreden.",
+        "Bei Zweifeln kehren Sie zu den Schmerzfragen zurück und verstärken Sie den Fokus darauf."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-28T21:35:30.359524+00:00",
+    "is_new": true
   }
 }
