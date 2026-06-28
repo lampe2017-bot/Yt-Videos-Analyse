@@ -4149,7 +4149,7 @@
     "description": "Du brauchst keine öffentlichen APIs mehr für Prozessautomatisierungen - In diesem Video teile ich dir alle KI-Durchbrüche, über die niemand spricht!\n\nBewirb dich auf ein kostenfreies Erstgespräch und automatisiere Prozesse ohne öffentliche APIs: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nWir sind technischer und strategischer Partner hunderter KI-Agenturen: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n--------------------------------",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "27:20",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Öffentliche APIs sind überflüssig – KI revolutioniert die Prozessautomatisierung.",
@@ -10065,7 +10065,7 @@
     "description": "Claude “Tag” verspricht das 3. Paradigma der KI-Agenten: Entitäten, die eigenständig als Teammitglied in deinem Unternehmen arbeiten. Doch was steckt wirklich dahinter und wieso würde ich die Finger davon lassen? Alles in den KI-News der Woche! \n\nMistral-Test und alles Ressourcen aus dem Video kostenfrei in der Community: https://kichampions.de \n\nBleibe immer auf dem Laufenden und hole dir die wichtigsten KI-News direkt in WhatsApp mit dem „Everlast AI\" WhatsApp-Kanal: https://whatsapp.com/channel/0029Vb6jkNVFsn0WTfbbzH2t (100% kostenfrei & anonym)\n\nDu hast ein Unternehmen, willst den Anschlus",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "34:40",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Claude 'Entitäten' könnten die Zukunft der KI-Agenten revolutionieren, bergen jedoch Risiken.",
@@ -10080,5 +10080,25 @@
     },
     "first_seen": "2026-06-28T09:51:15.153483+00:00",
     "is_new": false
+  },
+  "57OjpVl8yTU": {
+    "video_id": "57OjpVl8yTU",
+    "title": "\"How do I get the motivation to read more books?\"",
+    "published": "2026-06-28T15:02:15+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/57OjpVl8yTU/hqdefault.jpg",
+    "description": "\"How do I get the motivation to read more books?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"How do I get the motivation to read more books?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-28T16:02:42.870002+00:00",
+    "is_new": true
   }
 }
