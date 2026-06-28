@@ -7975,7 +7975,7 @@
     "description": "Das größte ChatGPT Update der letzten drei Jahre ist da und kaum jemand spricht darüber. Hier ist alles, was du jetzt wissen musst, sowie alle weiteren KI-News der Woche.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nLokale KI kostenfrei und unlimitiert in CorporateLLM nutzen: https://corporatellm.de \nInstallations-Anleitung (kannst du auch deinem Agenten geben): https://docs.corporatellm.de/guides/ollama-secure-connection\n\nWir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "28:54",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Das größte ChatGPT Update bringt zahlreiche neue Funktionen und Möglichkeiten für Nutzer und Unternehmen.",
@@ -9830,7 +9830,7 @@
     "description": "Helping a young entrepreneur make more profit in his business",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:29",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Helping a young entrepreneur make more profit in his business",
@@ -10099,6 +10099,6 @@
       "model": null
     },
     "first_seen": "2026-06-28T16:02:42.870002+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
