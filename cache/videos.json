@@ -10056,5 +10056,29 @@
     },
     "first_seen": "2026-06-27T21:52:47.057211+00:00",
     "is_new": false
+  },
+  "ExXld8WtQz8": {
+    "video_id": "ExXld8WtQz8",
+    "title": "KI-NEWS: Das können Claude “Entitäten”! Chinas “Mythos” für KI-Videos & Mistral OCR-4 im Test",
+    "published": "2026-06-28T08:16:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ExXld8WtQz8/hqdefault.jpg",
+    "description": "Claude “Tag” verspricht das 3. Paradigma der KI-Agenten: Entitäten, die eigenständig als Teammitglied in deinem Unternehmen arbeiten. Doch was steckt wirklich dahinter und wieso würde ich die Finger davon lassen? Alles in den KI-News der Woche! \n\nMistral-Test und alles Ressourcen aus dem Video kostenfrei in der Community: https://kichampions.de \n\nBleibe immer auf dem Laufenden und hole dir die wichtigsten KI-News direkt in WhatsApp mit dem „Everlast AI\" WhatsApp-Kanal: https://whatsapp.com/channel/0029Vb6jkNVFsn0WTfbbzH2t (100% kostenfrei & anonym)\n\nDu hast ein Unternehmen, willst den Anschlus",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Claude 'Entitäten' könnten die Zukunft der KI-Agenten revolutionieren, bergen jedoch Risiken.",
+      "bullets": [
+        "Claude 'Tag' verspricht KI-Agenten, die eigenständig im Team arbeiten können.",
+        "Es gibt Bedenken hinsichtlich der Sicherheit und Zuverlässigkeit dieser Technologie.",
+        "Mistral OCR-4 wird getestet und bietet interessante Funktionen für Unternehmen.",
+        "Die Community bietet kostenfreie Ressourcen und Informationen zu den neuesten KI-Entwicklungen.",
+        "Bleibe über die neuesten KI-News via WhatsApp informiert und vernetze dich mit Gleichgesinnten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-28T09:51:15.153483+00:00",
+    "is_new": true
   }
 }
