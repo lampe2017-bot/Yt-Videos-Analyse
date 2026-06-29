@@ -10143,7 +10143,7 @@
       "model": null
     },
     "first_seen": "2026-06-29T16:33:01.688603+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oB5zo5G7KRg": {
     "video_id": "oB5zo5G7KRg",
@@ -10167,7 +10167,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-29T16:33:11.664661+00:00",
-    "is_new": true
+    "is_new": false
   },
   "cn7A98eCY0U": {
     "video_id": "cn7A98eCY0U",
