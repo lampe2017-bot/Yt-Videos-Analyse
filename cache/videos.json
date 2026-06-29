@@ -10192,5 +10192,25 @@
     },
     "first_seen": "2026-06-29T16:35:02.899387+00:00",
     "is_new": true
+  },
+  "usBtacPDitw": {
+    "video_id": "usBtacPDitw",
+    "title": "The BEST AI tools for every task in 2026",
+    "published": "2026-06-29T21:00:52+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/usBtacPDitw/hqdefault.jpg",
+    "description": "The BEST AI tools for every task in 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The BEST AI tools for every task in 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-29T22:03:29.846817+00:00",
+    "is_new": true
   }
 }
