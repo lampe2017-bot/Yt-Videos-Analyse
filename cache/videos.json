@@ -10124,5 +10124,73 @@
     },
     "first_seen": "2026-06-28T21:35:30.359524+00:00",
     "is_new": false
+  },
+  "9PuY_H36YZ4": {
+    "video_id": "9PuY_H36YZ4",
+    "title": "Here's how you actually sell AI",
+    "published": "2026-06-29T15:02:30+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9PuY_H36YZ4/hqdefault.jpg",
+    "description": "Here's how you actually sell AI @grantowenpod",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Here's how you actually sell AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-29T16:33:01.688603+00:00",
+    "is_new": true
+  },
+  "oB5zo5G7KRg": {
+    "video_id": "oB5zo5G7KRg",
+    "title": "If you're always busy but never productive, watch this video",
+    "published": "2026-06-29T13:00:24+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oB5zo5G7KRg/hqdefault.jpg",
+    "description": "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/4v3p8HF\n\nMost business owners are losing 20+ hours every single week to work that AI could be doing for them right now, and they don't even realize it.\n\nIn this video, I show you exactly how I use AI to claw back at least 20 hours a week so I can run over a dozen companies while traveling and barely touching my phone.\n\nStick around because the way most founders are using AI today is the exact reason they're still drowning in their calendar.\n\nPrompts from the video (run these on your AI with your calendar connected):\n\n",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke, wie du mit KI 20 Stunden pro Woche zurückgewinnen kannst.",
+      "bullets": [
+        "Viele Unternehmer verlieren wöchentlich über 20 Stunden an Aufgaben, die KI übernehmen könnte.",
+        "Durch den Einsatz von KI kannst du mehrere Unternehmen effizienter führen.",
+        "Die falsche Nutzung von KI führt dazu, dass Gründer in ihren Kalendern ertrinken.",
+        "Verwende spezifische KI-Prompts, um deine Produktivität zu steigern.",
+        "Nutze KI, um deine Arbeitslast zu reduzieren und mehr Zeit für wichtigere Aufgaben zu gewinnen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-29T16:33:11.664661+00:00",
+    "is_new": true
+  },
+  "cn7A98eCY0U": {
+    "video_id": "cn7A98eCY0U",
+    "title": "7 Levels der Softwareentwicklung",
+    "published": "2026-06-29T13:56:19+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cn7A98eCY0U/hqdefault.jpg",
+    "description": "Apps und Websites erstellen mit Horizons: https://www.hostg.xyz/SHJBm\n(Code: NIKLAS für 10% Rabatt)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:32 Level 1: Statische Website\n1:30 Level 2: Interaktive Apps\n4:05 Level 3: CRUD\n5:10 Level 3,5: KI-Apps\n7:07 Level 4: OG Twitter\n9:45 Level 5: Local-First\n14:17 Level 6: Google Docs\n16:45 Le",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die 7 Levels der Softwareentwicklung bieten einen klaren Entwicklungsrahmen für Programmierer.",
+      "bullets": [
+        "Level 1 umfasst die Erstellung statischer Websites ohne Interaktivität.",
+        "Level 2 führt zu interaktiven Apps, die Benutzeraktionen ermöglichen.",
+        "CRUD (Create, Read, Update, Delete) ist das zentrale Konzept im Level 3.",
+        "Level 3,5 beschreibt die Integration von KI in Anwendungen.",
+        "Fortgeschrittene Level wie Google Docs zeigen komplexe, kollaborative Softwarelösungen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-29T16:35:02.899387+00:00",
+    "is_new": true
   }
 }
