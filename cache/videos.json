@@ -10212,5 +10212,29 @@
     },
     "first_seen": "2026-06-29T22:03:29.846817+00:00",
     "is_new": false
+  },
+  "S7yg98I6L7k": {
+    "video_id": "S7yg98I6L7k",
+    "title": "Vergiss “Second Brains”! So baust du ECHTES KI-Wissensmanagement (KOMPLETTKURS)",
+    "published": "2026-06-30T14:45:19+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/S7yg98I6L7k/hqdefault.jpg",
+    "description": "In diesem Komplettkurs lernst du alles über den wichtigsten KI-Use-Case im deutschsprachigen Bereich: KI-Wissensmanagement. Von den Grundlagen, über alle Konzepte wie RAG, Hybrid Search, Reranking, Knowledge Graphs, GraphRAG, usw. bis hin zur Monetarisierung dieser Fähigkeiten.\n\nDie Ressourcen aus diesem Tutorial findest du kostenfrei im “Resource Hub” der Community: https://www.skool.com/ki-champions/classroom/fd72e28d?md=83fd65c64ae5482b8db77902179bc48a \n\nWerde kostenfrei Teil der CorporateLLM Community: https://corporatellm.de \n\nWir implementieren KI-Wissensmanagement-Systeme für Unternehme",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lerne, wie du effektives KI-Wissensmanagement für Unternehmen aufbaust und monetarisierst.",
+      "bullets": [
+        "Der Kurs behandelt grundlegende Konzepte wie RAG, Hybrid Search und Knowledge Graphs.",
+        "Du erhältst Zugang zu kostenfreien Ressourcen im Community Resource Hub.",
+        "Erfahre, wie du KI-Wissensmanagement-Systeme erfolgreich implementierst.",
+        "Monetarisierung von KI-Wissen wird ebenfalls ausführlich behandelt.",
+        "Werde Teil der CorporateLLM Community für weitere Unterstützung und Networking."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-06-30T15:07:02.032829+00:00",
+    "is_new": true
   }
 }
