@@ -10256,5 +10256,25 @@
     },
     "first_seen": "2026-06-30T17:21:15.678190+00:00",
     "is_new": false
+  },
+  "pYn0dGMyUkQ": {
+    "video_id": "pYn0dGMyUkQ",
+    "title": "How do you handle sales objections?",
+    "published": "2026-06-30T21:01:46+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pYn0dGMyUkQ/hqdefault.jpg",
+    "description": "How do you handle sales objections?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you handle sales objections?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-30T22:47:24.341865+00:00",
+    "is_new": true
   }
 }
