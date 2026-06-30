@@ -10235,6 +10235,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-06-30T15:07:02.032829+00:00",
+    "is_new": false
+  },
+  "hTxjR1G_pHo": {
+    "video_id": "hTxjR1G_pHo",
+    "title": "\"What business should I start?\"",
+    "published": "2026-06-30T15:02:40+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hTxjR1G_pHo/hqdefault.jpg",
+    "description": "\"What business should I start?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"What business should I start?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-06-30T17:21:15.678190+00:00",
     "is_new": true
   }
 }
