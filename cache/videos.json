@@ -10407,5 +10407,25 @@
     },
     "first_seen": "2026-07-02T15:38:31.846204+00:00",
     "is_new": false
+  },
+  "FeOL1Xnl1vA": {
+    "video_id": "FeOL1Xnl1vA",
+    "title": "You can only help yourself",
+    "published": "2026-07-02T21:01:47+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FeOL1Xnl1vA/hqdefault.jpg",
+    "description": "You can only help yourself",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You can only help yourself",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-02T21:40:43.268827+00:00",
+    "is_new": true
   }
 }
