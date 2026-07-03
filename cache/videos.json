@@ -8772,7 +8772,7 @@
     "description": "KI-News der Woche: Claude Fable 5 bricht das Internet und wird von der US-Regierung gesperrt, dazu die 12 wichtigsten Praxis-Learnings, neue lokale Modelle (Diffusion Gemma) sowie eine der größten Seed-Runden Europas für fonio und vieles mehr.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nDiffusionGemma nutzen: https://www.corporatellm.de/blog/diffusiongemma-corporate-llm \nLokale KI kostenfrei und unlimitiert in CorporateLLM anbinden: https://corporatellm.de\n\nDu hast ein Unternehmen, willst den Anschluss nich",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "38:36",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Claude Fable 5 sorgt für Aufregung und wurde von der US-Regierung gesperrt.",
@@ -10446,6 +10446,6 @@
       "model": null
     },
     "first_seen": "2026-07-03T15:33:04.629182+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
