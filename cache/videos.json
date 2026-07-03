@@ -10427,5 +10427,25 @@
     },
     "first_seen": "2026-07-02T21:40:43.268827+00:00",
     "is_new": false
+  },
+  "tabwyQZ7P2M": {
+    "video_id": "tabwyQZ7P2M",
+    "title": "Young Entrepreneur: \"My parents don't want me to start a business\"",
+    "published": "2026-07-03T15:03:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tabwyQZ7P2M/hqdefault.jpg",
+    "description": "Young Entrepreneur: \"My parents don't want me to start a business\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Young Entrepreneur: \"My parents don't want me to start a business\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-03T15:33:04.629182+00:00",
+    "is_new": true
   }
 }
