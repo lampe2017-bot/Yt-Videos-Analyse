@@ -10447,5 +10447,25 @@
     },
     "first_seen": "2026-07-03T15:33:04.629182+00:00",
     "is_new": false
+  },
+  "5YxdnNAijGw": {
+    "video_id": "5YxdnNAijGw",
+    "title": "What business should I start in the AI era?",
+    "published": "2026-07-03T21:00:43+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5YxdnNAijGw/hqdefault.jpg",
+    "description": "What business should I start in the AI era?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What business should I start in the AI era?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-03T21:38:21.182309+00:00",
+    "is_new": true
   }
 }
