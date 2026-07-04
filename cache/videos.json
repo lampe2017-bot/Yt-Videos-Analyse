@@ -1817,7 +1817,7 @@
     "description": "Warum macht OpenAI KEINE KI-generierten Werbespots und wieso nehme ich meine Videos nicht mit einem KI-Avatar auf, wenn KI doch so gut ist? Die Antwort ist simpel. In diesem Video teile ich dir meine Gedanken dazu.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Leona",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "5:12",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Nicht alles muss KI-generiert sein, um erfolgreich zu sein.",
@@ -10467,5 +10467,25 @@
     },
     "first_seen": "2026-07-03T21:38:21.182309+00:00",
     "is_new": false
+  },
+  "d5DpLts40n8": {
+    "video_id": "d5DpLts40n8",
+    "title": "People don't quit a company, they quit their boss.",
+    "published": "2026-07-04T01:01:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/d5DpLts40n8/hqdefault.jpg",
+    "description": "People don't quit a company, they quit their boss.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "People don't quit a company, they quit their boss.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-04T01:46:56.980633+00:00",
+    "is_new": true
   }
 }
