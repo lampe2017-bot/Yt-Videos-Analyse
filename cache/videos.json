@@ -10486,6 +10486,30 @@
       "model": null
     },
     "first_seen": "2026-07-04T01:46:56.980633+00:00",
+    "is_new": false
+  },
+  "rOCpcOzxGRU": {
+    "video_id": "rOCpcOzxGRU",
+    "title": "I bought my wife her dream car...",
+    "published": "2026-07-04T05:01:07+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/rOCpcOzxGRU/hqdefault.jpg",
+    "description": "She had no idea…\nI love my wife SOOO MUCH!\nNo one knows how hard she pushes…\nThe crap she deals with.\nThe vision she kept even when people tried to pull her down.\nNope, she kept going.\nShe set a goal to get this car… and totally missed that she hit it.\nSo we reminded her ;)\nWILD!!!!\n🖤🥹\n@renee_warren",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Dan Martell überrascht seine Frau mit ihrem Traumauto und zeigt seine Wertschätzung.",
+      "bullets": [
+        "Die Frau wusste nichts von der Überraschung und war völlig überwältigt.",
+        "Dan betont die harte Arbeit und den unermüdlichen Einsatz seiner Frau.",
+        "Sie hatte sich ein Ziel gesetzt, das sie unbewusst erreicht hat.",
+        "Die Überraschung zeigt, wie wichtig es ist, die Partner zu unterstützen.",
+        "Ein emotionaler Moment, der die Liebe zwischen Dan und seiner Frau verdeutlicht."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-04T05:35:35.180305+00:00",
     "is_new": true
   }
 }
