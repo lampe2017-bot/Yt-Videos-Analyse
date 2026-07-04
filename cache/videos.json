@@ -10555,5 +10555,25 @@
     },
     "first_seen": "2026-07-04T15:38:52.030687+00:00",
     "is_new": false
+  },
+  "ZzNYPd1m3kY": {
+    "video_id": "ZzNYPd1m3kY",
+    "title": "These are the 4 levels of leadership",
+    "published": "2026-07-04T21:00:50+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZzNYPd1m3kY/hqdefault.jpg",
+    "description": "These are the 4 levels of leadership",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These are the 4 levels of leadership",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-04T21:25:53.360926+00:00",
+    "is_new": true
   }
 }
