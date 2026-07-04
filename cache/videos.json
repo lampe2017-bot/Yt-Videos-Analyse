@@ -10510,6 +10510,30 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-04T05:35:35.180305+00:00",
+    "is_new": false
+  },
+  "YJ5BmiORFXk": {
+    "video_id": "YJ5BmiORFXk",
+    "title": "Brisante Zahlen: Renter sind BESSER in KI als GenZ!",
+    "published": "2026-07-04T08:15:18+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YJ5BmiORFXk/hqdefault.jpg",
+    "description": "Wieso Rentner besser mit KI umgehen können, als die Generation Z.\nMan würde eigentlich denken, dass ältere Menschen den Anschluss verlieren, aber in Wirklichkeit spielt sich ein ganz anderes Bild ab - belegt mit Zahlen.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Überraschende Erkenntnisse: Rentner nutzen KI effektiver als die Generation Z.",
+      "bullets": [
+        "Ältere Menschen zeigen eine höhere Kompetenz im Umgang mit KI-Technologien als erwartet.",
+        "Die Generation Z hat Schwierigkeiten, sich an die neuen Technologien anzupassen.",
+        "Zahlen belegen, dass Rentner in der KI-Revolution besser abschneiden.",
+        "Die Wahrnehmung, dass ältere Menschen den Anschluss verlieren, ist irreführend.",
+        "Ein kostenfreies Erstgespräch und Community-Angebote unterstützen beim Einstieg in die KI-Welt."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-04T08:20:11.849026+00:00",
     "is_new": true
   }
 }
