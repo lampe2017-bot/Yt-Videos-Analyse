@@ -10535,5 +10535,25 @@
     },
     "first_seen": "2026-07-04T08:20:11.849026+00:00",
     "is_new": false
+  },
+  "KfktOHO3aq4": {
+    "video_id": "KfktOHO3aq4",
+    "title": "$100M CEO: What to do with your first $10K?",
+    "published": "2026-07-04T15:02:55+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KfktOHO3aq4/hqdefault.jpg",
+    "description": "What would you do with your first $10K?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO: What to do with your first $10K?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-04T15:38:52.030687+00:00",
+    "is_new": true
   }
 }
