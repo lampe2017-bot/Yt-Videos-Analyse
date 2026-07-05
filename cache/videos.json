@@ -10575,5 +10575,25 @@
     },
     "first_seen": "2026-07-04T21:25:53.360926+00:00",
     "is_new": false
+  },
+  "KBh-Ql3fllI": {
+    "video_id": "KBh-Ql3fllI",
+    "title": "Kids who can't sit still are destined to be millionaires",
+    "published": "2026-07-05T01:00:55+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KBh-Ql3fllI/hqdefault.jpg",
+    "description": "Kids who can't sit still are destined to be millionaires",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Kids who can't sit still are destined to be millionaires",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-05T01:14:59.891863+00:00",
+    "is_new": true
   }
 }
