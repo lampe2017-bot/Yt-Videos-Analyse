@@ -10663,5 +10663,25 @@
     },
     "first_seen": "2026-07-05T17:57:28.830949+00:00",
     "is_new": true
+  },
+  "iNCQWST61LE": {
+    "video_id": "iNCQWST61LE",
+    "title": "Should you go to university?",
+    "published": "2026-07-05T21:01:18+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iNCQWST61LE/hqdefault.jpg",
+    "description": "Should you go to university?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you go to university?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-05T21:32:00.105525+00:00",
+    "is_new": true
   }
 }
