@@ -10619,5 +10619,25 @@
     },
     "first_seen": "2026-07-05T10:33:21.018683+00:00",
     "is_new": false
+  },
+  "16He65A2-30": {
+    "video_id": "16He65A2-30",
+    "title": "The Best Books for Young & Ambitious Entrepreneurs",
+    "published": "2026-07-05T15:01:29+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/16He65A2-30/hqdefault.jpg",
+    "description": "The Best Books for Young & Ambitious Entrepreneurs",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Best Books for Young & Ambitious Entrepreneurs",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-05T15:43:16.742221+00:00",
+    "is_new": true
   }
 }
