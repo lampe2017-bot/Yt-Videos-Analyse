@@ -10595,5 +10595,29 @@
     },
     "first_seen": "2026-07-05T01:14:59.891863+00:00",
     "is_new": false
+  },
+  "-JCCcR9qtYQ": {
+    "video_id": "-JCCcR9qtYQ",
+    "title": "KI-News: Chinas KI-Roboter werden ZU ECHT! + DAS kann das NEUE Fable 5 & Sonnet 5",
+    "published": "2026-07-05T08:15:15+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-JCCcR9qtYQ/hqdefault.jpg",
+    "description": "China veröffentlicht fast schon zu menschliche Humanoide Roboter, Anthropic lanciert Sonnet 5 und Claude Fable 5 ist zurück: Den realen Praxistest und alle relevanten KI-News im Geschäftskontext gibt’s wie immer in den KI-News der Woche auf deutsch – heute aus Hongkong!\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Chinas humanoide Roboter erreichen menschenähnliche Fähigkeiten und neue KI-Modelle werden vorgestellt.",
+      "bullets": [
+        "China präsentiert fortschrittliche humanoide Roboter, die fast menschlich wirken.",
+        "Anthropic hat das KI-Modell Sonnet 5 veröffentlicht, das neue Funktionen bietet.",
+        "Claude Fable 5 kehrt zurück und wird im Praxistest bewertet.",
+        "Unternehmen können durch KI-Integration Wettbewerbsvorteile und Kosteneinsparungen erzielen.",
+        "Ein persönliches Analysegespräch zur KI-Implementierung wird kostenfrei angeboten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-05T10:33:21.018683+00:00",
+    "is_new": true
   }
 }
