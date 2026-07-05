@@ -10299,7 +10299,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-01T13:32:30.580227+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Ug9fVilZoic": {
     "video_id": "Ug9fVilZoic",
@@ -10639,5 +10639,29 @@
     },
     "first_seen": "2026-07-05T15:43:16.742221+00:00",
     "is_new": false
+  },
+  "trg1FRbpnys": {
+    "video_id": "trg1FRbpnys",
+    "title": "Ich programmiere wieder!!",
+    "published": "2026-07-05T16:48:48+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/trg1FRbpnys/hqdefault.jpg",
+    "description": "Meine Empfehlung für Codex CLI Hosting: https://www.hostg.xyz/SHJhl\n(Jetzt 10% Rabatt mit Code: NIKLAS)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:28 Das Problem mit KI-Coding\n1:03 Mein Workflow (Demo)\n2:45 Tutorial: Remote einrichten\n5:04 Branches und Worktrees\n6:35 SSH Handover\n7:45 Fazit\n\nJetzt deine Lebensbalance testen: http:/",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Niklas Steenfatt erklärt seinen Rückkehr zur Programmierung und teilt wertvolle Tipps.",
+      "bullets": [
+        "Er beschreibt die Herausforderungen und Probleme beim KI-Coding.",
+        "Niklas zeigt seinen Workflow und gibt eine praktische Demo.",
+        "Er erklärt, wie man Remote-Umgebungen einrichtet und Branches nutzt.",
+        "SSH Handover wird als wichtiger Schritt im Prozess hervorgehoben.",
+        "Das Video schließt mit einem persönlichen Fazit und Empfehlungen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-05T17:57:28.830949+00:00",
+    "is_new": true
   }
 }
