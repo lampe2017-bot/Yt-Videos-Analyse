@@ -10747,5 +10747,25 @@
     },
     "first_seen": "2026-07-06T17:37:05.640136+00:00",
     "is_new": false
+  },
+  "xrrRhUonRY8": {
+    "video_id": "xrrRhUonRY8",
+    "title": "D Students are destined to get rich",
+    "published": "2026-07-06T21:01:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xrrRhUonRY8/hqdefault.jpg",
+    "description": "D Students are destined to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "D Students are destined to get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-06T22:43:54.074633+00:00",
+    "is_new": true
   }
 }
