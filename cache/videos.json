@@ -10683,5 +10683,25 @@
     },
     "first_seen": "2026-07-05T21:32:00.105525+00:00",
     "is_new": false
+  },
+  "zXUWmHzGBtM": {
+    "video_id": "zXUWmHzGBtM",
+    "title": "How do you know when you've crossed the Pain Line?",
+    "published": "2026-07-06T01:01:24+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zXUWmHzGBtM/hqdefault.jpg",
+    "description": "How do you know when you've crossed the Pain Line?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you know when you've crossed the Pain Line?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-06T01:58:44.719809+00:00",
+    "is_new": true
   }
 }
