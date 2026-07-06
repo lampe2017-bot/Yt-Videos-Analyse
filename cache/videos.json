@@ -10726,6 +10726,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-06T14:41:27.556394+00:00",
+    "is_new": false
+  },
+  "vjuUF--P7eI": {
+    "video_id": "vjuUF--P7eI",
+    "title": "How to sell to ANYONE",
+    "published": "2026-07-06T15:01:01+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vjuUF--P7eI/hqdefault.jpg",
+    "description": "How to sell to ANYONE",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to sell to ANYONE",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-06T17:37:05.640136+00:00",
     "is_new": true
   }
 }
