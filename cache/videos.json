@@ -10810,7 +10810,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-07T15:38:13.671459+00:00",
-    "is_new": true
+    "is_new": false
   },
   "pn998Gc6xeQ": {
     "video_id": "pn998Gc6xeQ",
@@ -10830,6 +10830,6 @@
       "model": null
     },
     "first_seen": "2026-07-07T15:39:13.218575+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
