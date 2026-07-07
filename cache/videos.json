@@ -10787,5 +10787,49 @@
     },
     "first_seen": "2026-07-07T02:09:55.893347+00:00",
     "is_new": false
+  },
+  "lqwJza-EBiY": {
+    "video_id": "lqwJza-EBiY",
+    "title": "Hirnforscher wettet GEGEN die KI-Blase: DAS wird sie zum Platzen bringen! (Prof. Konrad Körding)",
+    "published": "2026-07-07T15:15:13+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lqwJza-EBiY/hqdefault.jpg",
+    "description": "Prof. Dr. Konrad Körding spricht im Everlast AI Interview über seine Forschung an der Schnittstelle von Gehirn und KI, warum der Nutzen von Intelligenz sättigt und was beim digitalen Zwilling der Fruchtfliege wirklich passiert ist.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTub",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Körding erklärt, warum er gegen die KI-Blase wettet und was sie zum Platzen bringen könnte.",
+      "bullets": [
+        "Der Nutzen von Intelligenz erreicht irgendwann einen Sättigungspunkt, was die KI-Entwicklung beeinflusst.",
+        "Körding untersucht die Schnittstelle zwischen menschlichem Gehirn und künstlicher Intelligenz.",
+        "Er spricht über die Bedeutung digitaler Zwillinge, wie im Fall der Fruchtfliege.",
+        "Die Implementierung von KI sollte echten Umsatz bringen und nicht nur theoretische Vorteile bieten.",
+        "Unternehmen sollten KI-Lösungen strategisch einsetzen, um Wettbewerbsvorteile zu sichern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-07T15:38:13.671459+00:00",
+    "is_new": true
+  },
+  "pn998Gc6xeQ": {
+    "video_id": "pn998Gc6xeQ",
+    "title": "Money moves to make you wealthy",
+    "published": "2026-07-07T15:03:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pn998Gc6xeQ/hqdefault.jpg",
+    "description": "Money moves to make you wealthy",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Money moves to make you wealthy",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-07T15:39:13.218575+00:00",
+    "is_new": true
   }
 }
