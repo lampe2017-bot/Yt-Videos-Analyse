@@ -10831,5 +10831,25 @@
     },
     "first_seen": "2026-07-07T15:39:13.218575+00:00",
     "is_new": false
+  },
+  "FKkRIf4yFVg": {
+    "video_id": "FKkRIf4yFVg",
+    "title": "3 books only the top 1% have read",
+    "published": "2026-07-07T21:01:12+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/FKkRIf4yFVg/hqdefault.jpg",
+    "description": "3 books only the top 1% have read",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "3 books only the top 1% have read",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-07T21:14:00.224143+00:00",
+    "is_new": true
   }
 }
