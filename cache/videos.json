@@ -10871,5 +10871,49 @@
     },
     "first_seen": "2026-07-08T01:25:20.313805+00:00",
     "is_new": false
+  },
+  "fnCWSV6zKY4": {
+    "video_id": "fnCWSV6zKY4",
+    "title": "I don't give a sh*t about my kids grades",
+    "published": "2026-07-08T15:02:52+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fnCWSV6zKY4/hqdefault.jpg",
+    "description": "I don't give a sh*t about my kids grades",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I don't give a sh*t about my kids grades",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-08T15:40:04.018966+00:00",
+    "is_new": true
+  },
+  "6Kaj92NxrEg": {
+    "video_id": "6Kaj92NxrEg",
+    "title": "3 Wege um Geld im Internet zu verdienen, die 2026 wirklich funktionieren",
+    "published": "2026-07-08T14:00:07+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6Kaj92NxrEg/hqdefault.jpg",
+    "description": "3 Wege, um 2026 online Geld zu verdienen. Ohne klassischen Onlinekurs, ohne dich als Flaschenhals und so aufgebaut, dass es irgendwann ohne dich läuft. In dieser Folge zeige ich dir die drei Geschäftsmodelle, die ich mit 11 Jahren Online-Business-Erfahrung heute aufbauen würde. Ich sortiere sie nach Bronze, Silber und Gold und kombiniere sie am Ende zum Platin-Modell. Du erfährst, warum reine Onlinekurse, 1:1-Coaching ohne System und Affiliate immer schlechter funktionieren und welche drei Fragen du dir vor jedem Modell stellen solltest: Baust du ein Asset auf oder tauschst du nur Zeit gegen G",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke drei zukunftssichere Wege, um 2026 online Geld zu verdienen.",
+      "bullets": [
+        "Die vorgestellten Modelle sind nachhaltig und erfordern keinen ständigen persönlichen Einsatz.",
+        "Reine Onlinekurse und 1:1-Coaching verlieren an Effektivität und sollten vermieden werden.",
+        "Stelle dir vor jedem Geschäftsmodell drei entscheidende Fragen zur Wertschöpfung.",
+        "Die Modelle werden in Bronze, Silber und Gold kategorisiert, um ihre Potenziale zu verdeutlichen.",
+        "Am Ende wird ein Platin-Modell vorgestellt, das die besten Elemente kombiniert."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-08T15:41:32.842081+00:00",
+    "is_new": true
   }
 }
