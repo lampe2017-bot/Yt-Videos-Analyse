@@ -10851,5 +10851,25 @@
     },
     "first_seen": "2026-07-07T21:14:00.224143+00:00",
     "is_new": false
+  },
+  "q2wfgI2k2SE": {
+    "video_id": "q2wfgI2k2SE",
+    "title": "What is the 1-3-1 rule in business?",
+    "published": "2026-07-08T01:00:58+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/q2wfgI2k2SE/hqdefault.jpg",
+    "description": "What is the 1-3-1 rule in business?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What is the 1-3-1 rule in business?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-08T01:25:20.313805+00:00",
+    "is_new": true
   }
 }
