@@ -10756,7 +10756,7 @@
     "description": "D Students are destined to get rich",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:28",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "D Students are destined to get rich",
@@ -10914,6 +10914,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-08T15:41:32.842081+00:00",
+    "is_new": true
+  },
+  "hE_acGIWOpI": {
+    "video_id": "hE_acGIWOpI",
+    "title": "3 habits that will turn ANYONE into a millionaire",
+    "published": "2026-07-08T21:01:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hE_acGIWOpI/hqdefault.jpg",
+    "description": "3 habits that will turn ANYONE into a millionaire",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "3 habits that will turn ANYONE into a millionaire",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-08T21:37:12.067478+00:00",
     "is_new": true
   }
 }
