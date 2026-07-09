@@ -10955,5 +10955,72 @@
     },
     "first_seen": "2026-07-09T02:40:36.397979+00:00",
     "is_new": false
+  },
+  "6Ur1B4uXJ7Q": {
+    "video_id": "6Ur1B4uXJ7Q",
+    "title": "Prof. Alex Smola: Das Problem mit KI-Benchmarks, Digital Humans, Jobverluste & Zukunft der KI",
+    "published": "2026-07-09T15:15:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6Ur1B4uXJ7Q/hqdefault.jpg",
+    "description": "Alex Smola spricht im Everlast AI Interview über das fundamentale Problem heutiger KI-Benchmarks, seinen Weg von AT&T Bell Labs über Amazon zum eigenen Startup Boson AI und seine Vision für digitale Menschen mit Stimme, Avatar und echtem Verstand.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&u",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Prof. Alex Smola diskutiert die Herausforderungen und Zukunft der KI-Benchmarks und digitaler Menschen.",
+      "bullets": [
+        "Aktuelle KI-Benchmarks sind oft unzureichend und spiegeln nicht die tatsächliche Leistungsfähigkeit wider.",
+        "Alex Smola teilt seine Erfahrungen von AT&T Bell Labs über Amazon bis zu seinem Startup Boson AI.",
+        "Die Vision für digitale Menschen umfasst realistische Stimmen, Avatare und echte Intelligenz.",
+        "Unternehmen sollten KI-Integration strategisch nutzen, um Wettbewerbsvorteile zu erzielen und Kosten zu senken."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-09T15:50:23.335340+00:00",
+    "is_new": true
+  },
+  "ht3lISFjcl8": {
+    "video_id": "ht3lISFjcl8",
+    "title": "5 AI Tools I Use Everyday - Comment \"STACK\" for the link",
+    "published": "2026-07-09T15:03:45+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/ht3lISFjcl8/hqdefault.jpg",
+    "description": "5 AI Tools I Use Everyday - Comment \"STACK\" for the link",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "5 AI Tools I Use Everyday - Comment \"STACK\" for the link",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-09T15:51:34.526802+00:00",
+    "is_new": true
+  },
+  "b6aLGChngnE": {
+    "video_id": "b6aLGChngnE",
+    "title": "Why I'm changing how I invest my money because of AI",
+    "published": "2026-07-09T13:00:06+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/b6aLGChngnE/hqdefault.jpg",
+    "description": "✅ Get my FREE AI Operating System here: https://go.danmartell.com/4wDfgpn\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/3QKtcPb\n\nMost people are still investing the way their parents did, and it's why they're leaving massive returns on the table.\n\nI've spent decades putting real money into startups, real estate, and public companies, and AI has completely rewired how I make every single decision. In this video, I break down the exact way I'm using AI to find opportunities other investors miss, pressure-test every deal before I fund it, and monitor every",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Dan Martell erklärt, wie AI seine Investitionsstrategien revolutioniert hat.",
+      "bullets": [
+        "Traditionelle Investitionsmethoden lassen oft hohe Renditen ungenutzt.",
+        "AI hilft, Chancen zu erkennen, die andere Investoren übersehen.",
+        "Mit AI werden Investitionsentscheidungen präziser und fundierter getroffen.",
+        "Jede Investition wird vor der Finanzierung gründlich überprüft.",
+        "AI ermöglicht eine kontinuierliche Überwachung der Investitionen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-09T15:51:45.390227+00:00",
+    "is_new": true
   }
 }
