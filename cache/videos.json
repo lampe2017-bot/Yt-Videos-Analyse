@@ -10935,5 +10935,25 @@
     },
     "first_seen": "2026-07-08T21:37:12.067478+00:00",
     "is_new": false
+  },
+  "8wRmUSB2tRI": {
+    "video_id": "8wRmUSB2tRI",
+    "title": "How do you know when to fire someone?",
+    "published": "2026-07-09T01:00:56+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8wRmUSB2tRI/hqdefault.jpg",
+    "description": "How do you know when to fire someone?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you know when to fire someone?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-09T02:40:36.397979+00:00",
+    "is_new": true
   }
 }
