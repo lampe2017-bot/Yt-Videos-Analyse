@@ -10776,7 +10776,7 @@
     "description": "Leaders Encourage Bigger Vision",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:35",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Leaders Encourage Bigger Vision",
@@ -11041,6 +11041,6 @@
       "model": null
     },
     "first_seen": "2026-07-09T22:22:26.137757+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
