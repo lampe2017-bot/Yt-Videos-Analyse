@@ -11022,5 +11022,25 @@
     },
     "first_seen": "2026-07-09T15:51:45.390227+00:00",
     "is_new": false
+  },
+  "40ZMWHJI0RI": {
+    "video_id": "40ZMWHJI0RI",
+    "title": "Which success habits ACTUALLY matter?",
+    "published": "2026-07-09T21:00:49+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/40ZMWHJI0RI/hqdefault.jpg",
+    "description": "Which success habits ACTUALLY matter?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which success habits ACTUALLY matter?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-09T22:22:26.137757+00:00",
+    "is_new": true
   }
 }
