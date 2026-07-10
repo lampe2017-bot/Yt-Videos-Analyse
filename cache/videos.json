@@ -10914,7 +10914,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-08T15:41:32.842081+00:00",
-    "is_new": true
+    "is_new": false
   },
   "hE_acGIWOpI": {
     "video_id": "hE_acGIWOpI",
@@ -11062,5 +11062,29 @@
     },
     "first_seen": "2026-07-10T01:31:08.478367+00:00",
     "is_new": false
+  },
+  "wu7gLVRriE8": {
+    "video_id": "wu7gLVRriE8",
+    "title": "KOMPLETTER HERMES KURS (Anfänger bis Profi!!)",
+    "published": "2026-07-10T11:59:44+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wu7gLVRriE8/hqdefault.jpg",
+    "description": "Jetzt Hermes installieren: https://www.hostg.xyz/SHJHz\n(Code: NIKLAS für 10% Rabatt!)\n\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:26 Was ist ein KI-Agent?\n00:02:37 Hosting & Modellwahl\n00:05:19 Managed Hermes einrichten\n00:07:31 Telegram-Bot verbinden\n00:09:32 Kennenlernen (& Reverse Prompting)\n00:11:38 Dashboard & Memory\n0",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lerne, wie du Hermes von den Grundlagen bis zur Profianwendung einrichtest.",
+      "bullets": [
+        "Ein KI-Agent ist ein automatisiertes System, das Aufgaben selbstständig erledigt.",
+        "Wähle das passende Hosting und Modell für deine Hermes-Installation aus.",
+        "Richte Managed Hermes ein und verbinde es mit einem Telegram-Bot.",
+        "Nutze Reverse Prompting, um die Interaktion mit Hermes zu optimieren.",
+        "Verstehe das Dashboard und die Memory-Funktion für effektives Arbeiten."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-10T13:55:18.688412+00:00",
+    "is_new": true
   }
 }
