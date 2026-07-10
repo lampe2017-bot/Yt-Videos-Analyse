@@ -9850,7 +9850,7 @@
     "description": "Robotik-Pionier Prof. Dr. Wolfram Burgard spricht im Interview mit Leonard Schmedding über die rasante Entwicklung der Humanoiden Robotik, Robotic Foundation Models und was als nächstes kommt.\n\nNeuer kostenfreier Report - Lokale KI produktiv einsetzen: https://www.kiberatung.de/report/lokale-ki \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: http",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:07:37",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Prof. Dr. Wolfram Burgard erklärt die neuesten Durchbrüche in der humanoiden Robotik.",
@@ -11042,5 +11042,25 @@
     },
     "first_seen": "2026-07-09T22:22:26.137757+00:00",
     "is_new": false
+  },
+  "9UgZaHTlAY4": {
+    "video_id": "9UgZaHTlAY4",
+    "title": "Sales isn't hard if you follow my process",
+    "published": "2026-07-10T01:01:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9UgZaHTlAY4/hqdefault.jpg",
+    "description": "Sales isn't hard if you follow my process",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Sales isn't hard if you follow my process",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-10T01:31:08.478367+00:00",
+    "is_new": true
   }
 }
