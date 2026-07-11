@@ -11170,5 +11170,25 @@
     },
     "first_seen": "2026-07-11T08:17:37.237212+00:00",
     "is_new": false
+  },
+  "V_Q4cVbRHJw": {
+    "video_id": "V_Q4cVbRHJw",
+    "title": "Microsoft hired this kid at 16...",
+    "published": "2026-07-11T15:02:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/V_Q4cVbRHJw/hqdefault.jpg",
+    "description": "Microsoft hired this kid at 16...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Microsoft hired this kid at 16...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-11T15:28:48.053383+00:00",
+    "is_new": true
   }
 }
