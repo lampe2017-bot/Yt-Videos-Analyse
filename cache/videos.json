@@ -11190,5 +11190,25 @@
     },
     "first_seen": "2026-07-11T15:28:48.053383+00:00",
     "is_new": false
+  },
+  "HpAt03lGoQI": {
+    "video_id": "HpAt03lGoQI",
+    "title": "Careers to make you ultra wealthy",
+    "published": "2026-07-11T21:00:51+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/HpAt03lGoQI/hqdefault.jpg",
+    "description": "Careers to make you ultra wealthy",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Careers to make you ultra wealthy",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-11T21:38:53.585724+00:00",
+    "is_new": true
   }
 }
