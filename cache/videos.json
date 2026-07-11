@@ -11126,5 +11126,25 @@
     },
     "first_seen": "2026-07-10T22:01:55.789631+00:00",
     "is_new": false
+  },
+  "snFUWBORgnc": {
+    "video_id": "snFUWBORgnc",
+    "title": "Comment or DM me \"EA\"",
+    "published": "2026-07-11T01:01:00+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/snFUWBORgnc/hqdefault.jpg",
+    "description": "Comment or DM me \"EA\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Comment or DM me \"EA\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-11T03:50:11.061315+00:00",
+    "is_new": true
   }
 }
