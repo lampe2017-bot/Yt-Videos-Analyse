@@ -11274,5 +11274,25 @@
     },
     "first_seen": "2026-07-12T15:31:55.957565+00:00",
     "is_new": false
+  },
+  "HY3hjkPTgrI": {
+    "video_id": "HY3hjkPTgrI",
+    "title": "Busting myths about money",
+    "published": "2026-07-12T21:01:00+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/HY3hjkPTgrI/hqdefault.jpg",
+    "description": "Busting myths about money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Busting myths about money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-12T21:39:06.499374+00:00",
+    "is_new": true
   }
 }
