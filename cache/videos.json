@@ -11210,5 +11210,25 @@
     },
     "first_seen": "2026-07-11T21:38:53.585724+00:00",
     "is_new": false
+  },
+  "T6o0sl0daDs": {
+    "video_id": "T6o0sl0daDs",
+    "title": "Is it a people or process problem?",
+    "published": "2026-07-12T01:01:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/T6o0sl0daDs/hqdefault.jpg",
+    "description": "Is it a people or process problem?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Is it a people or process problem?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-12T01:26:28.951626+00:00",
+    "is_new": true
   }
 }
