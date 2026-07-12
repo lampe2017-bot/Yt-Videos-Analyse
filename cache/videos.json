@@ -11230,5 +11230,29 @@
     },
     "first_seen": "2026-07-12T01:26:28.951626+00:00",
     "is_new": false
+  },
+  "RWDsx8KxtX8": {
+    "video_id": "RWDsx8KxtX8",
+    "title": "Krass: Das kann GPT-5.6 “Sol”! Das neue ChatGPT erklärt + DIESE Humanoide baut China (UBTech Live)",
+    "published": "2026-07-12T08:15:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RWDsx8KxtX8/hqdefault.jpg",
+    "description": "GPT 5.6 Codex, ChatGPT wird zur Superapp mit GPT for Work und GPT Live – plus exklusive Eindrücke aus dem Robot Valley in Shenzhen und Chinas Humanoid-Robotik.\n\nFolge dem neuen Everlast Robotics Kanal für alle Updates rund um Humanoide Roboter und Live Reportagen aus dem Shenzhen Robot Valley: https://www.youtube.com/channel/UCrsjdqXseSxCpRgeSbdimTg\n\nKostenfreier Agentic Coding Workshop: https://aicoding.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKL",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "GPT-5.6 revolutioniert ChatGPT und zeigt neue Möglichkeiten in der Robotik.",
+      "bullets": [
+        "GPT-5.6 Codex verwandelt ChatGPT in eine vielseitige Superapp für Arbeit und Live-Interaktionen.",
+        "Exklusive Einblicke in die fortschrittliche Humanoide-Robotik aus dem Robot Valley in Shenzhen.",
+        "Der Everlast Robotics Kanal bietet aktuelle Updates und Reportagen über humanoide Roboter.",
+        "Kostenfreier Workshop für Agentic Coding zur Förderung von KI-Kompetenzen in Unternehmen.",
+        "Integration von KI-Lösungen kann Unternehmen entscheidende Wettbewerbsvorteile verschaffen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-12T09:23:08.303695+00:00",
+    "is_new": true
   }
 }
