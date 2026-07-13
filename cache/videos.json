@@ -11294,5 +11294,25 @@
     },
     "first_seen": "2026-07-12T21:39:06.499374+00:00",
     "is_new": false
+  },
+  "hOaIrQoNtRk": {
+    "video_id": "hOaIrQoNtRk",
+    "title": "How to actually sell",
+    "published": "2026-07-13T01:01:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hOaIrQoNtRk/hqdefault.jpg",
+    "description": "How to actually sell",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to actually sell",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-13T01:27:49.846113+00:00",
+    "is_new": true
   }
 }
