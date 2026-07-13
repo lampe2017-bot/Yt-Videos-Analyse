@@ -11334,5 +11334,25 @@
     },
     "first_seen": "2026-07-13T16:29:53.245485+00:00",
     "is_new": false
+  },
+  "nKkrU3TqywU": {
+    "video_id": "nKkrU3TqywU",
+    "title": "Sh*t vs Superstar: Employee Edition",
+    "published": "2026-07-13T21:00:53+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nKkrU3TqywU/hqdefault.jpg",
+    "description": "Sh*t vs Superstar: Employee Edition",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Sh*t vs Superstar: Employee Edition",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-13T21:43:23.941129+00:00",
+    "is_new": true
   }
 }
