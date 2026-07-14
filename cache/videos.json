@@ -11353,6 +11353,90 @@
       "model": null
     },
     "first_seen": "2026-07-13T21:43:23.941129+00:00",
+    "is_new": false
+  },
+  "AktS_a6Ru7E": {
+    "video_id": "AktS_a6Ru7E",
+    "title": "Robotiker rechnet ab: „Humanoide werden SCHEITERN!” DAS übersieht der Markt (Ronnie Vuine)",
+    "published": "2026-07-14T15:15:22+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AktS_a6Ru7E/hqdefault.jpg",
+    "description": "Robotik-Pionier Ronnie Vuine erklärt im Gespräch mit Leonard Schmedding, warum humanoide Roboter mit Beinen und Kopf für ihn reine Puppenspielerei sind, weshalb Elon Musks Optimus krachend scheitern wird und welchen entscheidenden Denkfehler der Markt bei der Robotik macht.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ronnie Vuine erklärt, warum humanoide Roboter scheitern werden und welche Fehler der Markt macht.",
+      "bullets": [
+        "Humanoide Roboter sind für Vuine reine Puppenspielerei und nicht praktikabel.",
+        "Elon Musks Optimus wird laut Vuine krachend scheitern aufgrund falscher Annahmen.",
+        "Der Markt übersieht entscheidende Denkfehler in der Robotik-Entwicklung.",
+        "Integration von KI in Unternehmen kann Wettbewerbsvorteile sichern und Kosten senken.",
+        "Praktische Anwendungen sind entscheidend für den Erfolg von Robotik-Technologien."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-14T22:42:40.495446+00:00",
+    "is_new": true
+  },
+  "RqdxsEn7fHw": {
+    "video_id": "RqdxsEn7fHw",
+    "title": "The words you use could be killing your sales",
+    "published": "2026-07-14T21:01:34+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RqdxsEn7fHw/hqdefault.jpg",
+    "description": "The words you use could be killing your sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The words you use could be killing your sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-14T22:43:49.170142+00:00",
+    "is_new": true
+  },
+  "bu4MU9r0bfo": {
+    "video_id": "bu4MU9r0bfo",
+    "title": "Wealthy Couples vs Broke Couples",
+    "published": "2026-07-14T15:03:39+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bu4MU9r0bfo/hqdefault.jpg",
+    "description": "Wealthy Couples vs Broke Couples",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Wealthy Couples vs Broke Couples",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-14T22:43:55.329708+00:00",
+    "is_new": true
+  },
+  "-1y-QbpnhEw": {
+    "video_id": "-1y-QbpnhEw",
+    "title": "Focus on profit first",
+    "published": "2026-07-14T01:08:38+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-1y-QbpnhEw/hqdefault.jpg",
+    "description": "Focus on profit first",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Focus on profit first",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-14T22:44:01.807053+00:00",
     "is_new": true
   }
 }
