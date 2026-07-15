@@ -11529,7 +11529,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-15T16:12:02.145299+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Uysrgyd90Kg": {
     "video_id": "Uysrgyd90Kg",
@@ -11549,6 +11549,6 @@
       "model": null
     },
     "first_seen": "2026-07-15T16:13:12.540377+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
