@@ -11438,5 +11438,25 @@
     },
     "first_seen": "2026-07-14T22:44:01.807053+00:00",
     "is_new": false
+  },
+  "fgruv83JcBQ": {
+    "video_id": "fgruv83JcBQ",
+    "title": "How to handle sales with confidence @omareltakrori",
+    "published": "2026-07-15T01:01:10+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fgruv83JcBQ/hqdefault.jpg",
+    "description": "How to handle sales with confidence @omareltakrori",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to handle sales with confidence @omareltakrori",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-15T09:04:28.130690+00:00",
+    "is_new": true
   }
 }
