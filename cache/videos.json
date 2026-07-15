@@ -11458,5 +11458,53 @@
     },
     "first_seen": "2026-07-15T09:04:28.130690+00:00",
     "is_new": false
+  },
+  "Bm84BAtOfQw": {
+    "video_id": "Bm84BAtOfQw",
+    "title": "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
+    "published": "2026-07-15T13:00:36+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Bm84BAtOfQw/hqdefault.jpg",
+    "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4pjN7RP\n\nBy 2030, the biggest wave of new jobs isn't going to reward people who can chat with AI. It's going to reward people who can build with it.\n\nRight now most people are still typing prompts one at a time, while a small group is quietly building AI agents that run their businesses in the background.\n\nIn this video, I show you exactly how I went from doing the work to directing it, and how you can build your first AI age",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lerne, wie du deinen ersten KI-Agenten erfolgreich aufbaust und dein Geschäft transformierst.",
+      "bullets": [
+        "Bis 2030 werden die besten Jobs für diejenigen sein, die mit KI bauen können.",
+        "Die meisten Menschen nutzen KI nur für einfache Eingaben, während andere bereits KI-Agenten entwickeln.",
+        "Der Video-Guide zeigt, wie man von der Arbeit zur Leitung übergeht.",
+        "Erfahre, wie du dein eigenes KI-Unternehmen aufbauen kannst.",
+        "Nutze kostenlose Ressourcen, um dein KI-Wissen zu erweitern."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-15T14:41:40.685344+00:00",
+    "is_new": true
+  },
+  "xcIDZPGx3tc": {
+    "video_id": "xcIDZPGx3tc",
+    "title": "Social Media ist am Ende. Die NEUE Strategie für dein online Business",
+    "published": "2026-07-15T14:00:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xcIDZPGx3tc/hqdefault.jpg",
+    "description": "📌 📌 Lerne mein System kostenlos:  https://tinyurl.com/4tymc9hn \n\nocial Media, wie du es kennst, ist am Ende. In diesem Video erkläre ich, warum sinkende Reichweite, eingebrochene Story Views und das tote Prinzip „viele Follower gleich viele Views\" gerade fast jeden Selbstständigen treffen, und wie du Instagram, YouTube und Podcast trotzdem nutzt, um organisch Leads zu gewinnen und ein Business aufzubauen, das auch ohne dich läuft.\n\nDu lernst, warum Reichweite nicht dein wichtigstes Ziel ist, wie du mit Long Form Content echtes Vertrauen aufbaust, wie die 5:2 Methode auf Instagram gleichzeitig ",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Social Media ist nicht mehr der Schlüssel zum Erfolg für dein Online-Business.",
+      "bullets": [
+        "Sinkende Reichweiten und Story Views sind Herausforderungen für Selbstständige.",
+        "Reichweite sollte nicht dein Hauptziel sein, sondern echtes Vertrauen aufbauen.",
+        "Long Form Content ist entscheidend für nachhaltige Kundenbindung.",
+        "Die 5:2 Methode auf Instagram hilft, organisch Leads zu gewinnen.",
+        "Ein erfolgreiches Business kann auch ohne ständige Präsenz des Gründers laufen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-15T14:43:14.570344+00:00",
+    "is_new": true
   }
 }
