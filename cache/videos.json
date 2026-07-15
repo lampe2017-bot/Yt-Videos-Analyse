@@ -11481,7 +11481,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-15T14:41:40.685344+00:00",
-    "is_new": true
+    "is_new": false
   },
   "xcIDZPGx3tc": {
     "video_id": "xcIDZPGx3tc",
@@ -11505,6 +11505,50 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-15T14:43:14.570344+00:00",
+    "is_new": true
+  },
+  "81pDusm5nZE": {
+    "video_id": "81pDusm5nZE",
+    "title": "Vergiss „Second Brains” & baue ein „Company Brain” für dein Unternehmen (Vortrag Leonard Schmedding)",
+    "published": "2026-07-15T15:15:09+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/81pDusm5nZE/hqdefault.jpg",
+    "description": "In diesem Vortrag vom CEO Day zeigt Leonard Schmedding, warum der aktuelle Second-Brain-Hype in Unternehmen zwangsläufig scheitert und was stattdessen wirklich funktioniert: das Company Brain, eine Single Source of Truth, auf die Mitarbeiter, Agenten, Dashboards und Apps gleichermaßen zugreifen.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: http",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Leonard Schmedding erklärt, warum Unternehmen ein 'Company Brain' statt eines 'Second Brains' benötigen.",
+      "bullets": [
+        "Der Hype um Second Brains führt in Unternehmen oft zu Misserfolg und Ineffizienz.",
+        "Ein 'Company Brain' bietet eine zentrale Informationsquelle für alle Mitarbeiter und Tools.",
+        "Die Integration von KI-Lösungen kann Umsatz steigern und Stellen einsparen.",
+        "Ein effektives Wissensmanagement ist entscheidend für den Unternehmenserfolg.",
+        "Mitarbeiter, Agenten und Apps profitieren von einer einheitlichen Datenbasis."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-15T16:12:02.145299+00:00",
+    "is_new": true
+  },
+  "Uysrgyd90Kg": {
+    "video_id": "Uysrgyd90Kg",
+    "title": "If you wanna be the richest person in your family...",
+    "published": "2026-07-15T15:03:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Uysrgyd90Kg/hqdefault.jpg",
+    "description": "If you wanna be the richest person in your family...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you wanna be the richest person in your family...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-15T16:13:12.540377+00:00",
     "is_new": true
   }
 }
