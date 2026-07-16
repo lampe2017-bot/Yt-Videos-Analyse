@@ -11570,5 +11570,25 @@
     },
     "first_seen": "2026-07-15T22:27:29.548504+00:00",
     "is_new": false
+  },
+  "OynOMoqaHNU": {
+    "video_id": "OynOMoqaHNU",
+    "title": "What makes a good CEO?",
+    "published": "2026-07-16T01:00:59+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OynOMoqaHNU/hqdefault.jpg",
+    "description": "What makes a good CEO?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What makes a good CEO?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-16T08:38:20.867700+00:00",
+    "is_new": true
   }
 }
