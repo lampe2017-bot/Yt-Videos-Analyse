@@ -11612,7 +11612,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-16T15:55:23.963840+00:00",
-    "is_new": true
+    "is_new": false
   },
   "seISZnoASyY": {
     "video_id": "seISZnoASyY",
@@ -11632,6 +11632,6 @@
       "model": null
     },
     "first_seen": "2026-07-16T15:56:31.043217+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
