@@ -11590,5 +11590,48 @@
     },
     "first_seen": "2026-07-16T08:38:20.867700+00:00",
     "is_new": false
+  },
+  "XhvLvqSd8VE": {
+    "video_id": "XhvLvqSd8VE",
+    "title": "KI-Forscher schlägt ALARM: „Wir haben noch 18 Monate!” Niemand sieht es kommen (Connor Leahy)",
+    "published": "2026-07-16T15:15:19+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XhvLvqSd8VE/hqdefault.jpg",
+    "description": "Connor Leahy hat mit 24 GPT-2 nachgebaut - heute ist er der bekannteste Warner vor Superintelligenz und kämpft mit ControlAI in Washington für ein Verbot ihrer Entwicklung. Im Interview packt aus über KI-Psychose und Spiral Cults um GPT-4o - und warum uns womöglich nur noch 18 Monate bis zum Point of No Return bleiben.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönlich",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Connor Leahy warnt vor der rasanten Entwicklung von Superintelligenz in den nächsten 18 Monaten.",
+      "bullets": [
+        "Leahy hat GPT-2 mit 24 Jahren nachgebaut und ist ein führender Kritiker der KI-Entwicklung.",
+        "Er kämpft in Washington für ein Verbot der Entwicklung von Superintelligenz durch ControlAI.",
+        "Leahy spricht über die Gefahren von KI-Psychose und den Einfluss von Spiral Cults auf die Technologie.",
+        "Die Warnung besagt, dass wir möglicherweise nur noch 18 Monate bis zum Point of No Return haben."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-16T15:55:23.963840+00:00",
+    "is_new": true
+  },
+  "seISZnoASyY": {
+    "video_id": "seISZnoASyY",
+    "title": "AI is just a Yes Man - Comment YES MAN below for the fix",
+    "published": "2026-07-16T15:03:09+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/seISZnoASyY/hqdefault.jpg",
+    "description": "AI is just a Yes Man - Comment YES MAN below for the fix",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI is just a Yes Man - Comment YES MAN below for the fix",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-16T15:56:31.043217+00:00",
+    "is_new": true
   }
 }
