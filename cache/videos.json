@@ -11633,5 +11633,25 @@
     },
     "first_seen": "2026-07-16T15:56:31.043217+00:00",
     "is_new": false
+  },
+  "l8N83zgBcmA": {
+    "video_id": "l8N83zgBcmA",
+    "title": "Ranking all the worst ways to lose your money",
+    "published": "2026-07-16T21:01:45+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/l8N83zgBcmA/hqdefault.jpg",
+    "description": "Ranking all the worst ways to lose your money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking all the worst ways to lose your money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-16T21:54:27.758275+00:00",
+    "is_new": true
   }
 }
