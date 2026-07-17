@@ -11673,5 +11673,25 @@
     },
     "first_seen": "2026-07-17T01:26:25.644513+00:00",
     "is_new": false
+  },
+  "ugxH-hi9m-w": {
+    "video_id": "ugxH-hi9m-w",
+    "title": "Are you a dumb, normal, or smart AI user?",
+    "published": "2026-07-17T15:05:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ugxH-hi9m-w/hqdefault.jpg",
+    "description": "Are you a dumb, normal, or smart AI user?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you a dumb, normal, or smart AI user?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-17T15:52:36.051049+00:00",
+    "is_new": true
   }
 }
