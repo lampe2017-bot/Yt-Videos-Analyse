@@ -11653,5 +11653,25 @@
     },
     "first_seen": "2026-07-16T21:54:27.758275+00:00",
     "is_new": false
+  },
+  "TXrILlR_prg": {
+    "video_id": "TXrILlR_prg",
+    "title": "Having an assistant is the best hire you can make",
+    "published": "2026-07-17T01:01:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TXrILlR_prg/hqdefault.jpg",
+    "description": "Having an assistant is the best hire you can make",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Having an assistant is the best hire you can make",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-17T01:26:25.644513+00:00",
+    "is_new": true
   }
 }
