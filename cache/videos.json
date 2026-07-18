@@ -11733,5 +11733,29 @@
     },
     "first_seen": "2026-07-18T03:40:37.167003+00:00",
     "is_new": false
+  },
+  "UQvLezrYrBw": {
+    "video_id": "UQvLezrYrBw",
+    "title": "10 Wege mit Humanoiden Robotern Geld zu verdienen",
+    "published": "2026-07-18T08:15:19+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/UQvLezrYrBw/hqdefault.jpg",
+    "description": "Alle reden über Humanoide Roboter, doch wie kannst du damit Geld verdienen (ohne selbst ein Robotik StartUp aufbauen zu müssen)? In diesem Video zeige ich dir 10 konkrete Geschäftsmodelle mit Robotern Geld zu verdienen.\n\nTauche tiefer ein in die Welt der Humanoiden Roboter über den neuen Everlast Robotics Kanal: https://www.youtube.com/channel/UCrsjdqXseSxCpRgeSbdimTg\n\nBewirb dich hier, wenn du eine Leidenschaft für Roboter und Medien hast: https://everlast-media-gmbh.jobs.personio.de/job/2717255?apply\n\nDu planst Roboter geschäftlich einzusetzen? Bewirb dich auf ein kostenfreies Erstgespräch: ",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entdecke 10 Wege, wie du mit humanoiden Robotern Geld verdienen kannst.",
+      "bullets": [
+        "Humanoide Roboter bieten vielfältige Geschäftsmodelle ohne eigenes StartUp.",
+        "Das Video präsentiert konkrete Ideen zur Monetarisierung von Robotern.",
+        "Erfahre, wie du Roboter in verschiedenen Branchen gewinnbringend einsetzen kannst.",
+        "Nutze die Chance, dich für Roboter- und Medienjobs zu bewerben.",
+        "Erhalte Tipps für ein kostenfreies Erstgespräch zur geschäftlichen Roboternutzung."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-18T09:06:45.685248+00:00",
+    "is_new": true
   }
 }
