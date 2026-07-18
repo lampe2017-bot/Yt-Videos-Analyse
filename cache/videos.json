@@ -11757,5 +11757,25 @@
     },
     "first_seen": "2026-07-18T09:06:45.685248+00:00",
     "is_new": false
+  },
+  "OnClCM2qndM": {
+    "video_id": "OnClCM2qndM",
+    "title": "The skill only the top 1% have",
+    "published": "2026-07-18T15:02:24+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OnClCM2qndM/hqdefault.jpg",
+    "description": "The skill only the top 1% have",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The skill only the top 1% have",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-18T15:27:24.200235+00:00",
+    "is_new": true
   }
 }
