@@ -11387,7 +11387,7 @@
     "description": "The words you use could be killing your sales",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:30",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "The words you use could be killing your sales",
@@ -11713,5 +11713,25 @@
     },
     "first_seen": "2026-07-17T21:13:05.801356+00:00",
     "is_new": false
+  },
+  "EtuStyfFDXQ": {
+    "video_id": "EtuStyfFDXQ",
+    "title": "My first investment just sold for $3.6B",
+    "published": "2026-07-18T01:01:53+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/EtuStyfFDXQ/hqdefault.jpg",
+    "description": "My first investment just sold for $3.6B",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "My first investment just sold for $3.6B",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-18T03:40:37.167003+00:00",
+    "is_new": true
   }
 }
