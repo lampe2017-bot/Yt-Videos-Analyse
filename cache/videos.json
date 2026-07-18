@@ -11777,5 +11777,25 @@
     },
     "first_seen": "2026-07-18T15:27:24.200235+00:00",
     "is_new": false
+  },
+  "x0YiZwBdL4s": {
+    "video_id": "x0YiZwBdL4s",
+    "title": "Are these AI tools the FUTURE or are they FINISHED?",
+    "published": "2026-07-18T21:01:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/x0YiZwBdL4s/hqdefault.jpg",
+    "description": "Are these AI tools the FUTURE or are they FINISHED?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are these AI tools the FUTURE or are they FINISHED?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-18T21:39:25.348722+00:00",
+    "is_new": true
   }
 }
