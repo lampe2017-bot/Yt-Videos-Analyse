@@ -11663,13 +11663,17 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "Having an assistant is the best hire you can make",
+      "hook": "Ein Assistent ist die beste Einstellung, die du tätigen kannst.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Jeder hat einen Assistenten – oft ist es man selbst, und das ist ineffizient.",
+        "Die erste Einstellung sollte ein Assistent sein, um Zeit zu gewinnen.",
+        "Geld für Unterstützung auszugeben, sollte Zeitersparnis zum niedrigsten Preis bringen.",
+        "Viele Unternehmer unterschätzen die Bedeutung eines Assistenten und stellen stattdessen einen COO ein.",
+        "Ein Assistent kann Aufgaben wie E-Mail-Management übernehmen und somit viel Zeit freisetzen."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-17T01:26:25.644513+00:00",
     "is_new": false
@@ -11864,6 +11868,26 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-19T12:50:30.749340+00:00",
+    "is_new": true
+  },
+  "Rx1-bNNDpVQ": {
+    "video_id": "Rx1-bNNDpVQ",
+    "title": "How to go from $0 to $1M with AI?",
+    "published": "2026-07-19T15:02:08+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Rx1-bNNDpVQ/hqdefault.jpg",
+    "description": "How to go from $0 to $1M with AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to go from $0 to $1M with AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-19T15:29:26.501682+00:00",
     "is_new": true
   }
 }
