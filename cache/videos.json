@@ -11797,5 +11797,25 @@
     },
     "first_seen": "2026-07-18T21:39:25.348722+00:00",
     "is_new": false
+  },
+  "PD48michlKU": {
+    "video_id": "PD48michlKU",
+    "title": "You can't make a $1M company...",
+    "published": "2026-07-19T01:01:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PD48michlKU/hqdefault.jpg",
+    "description": "You can't make a $1M company...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You can't make a $1M company...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-19T01:24:29.511653+00:00",
+    "is_new": true
   }
 }
