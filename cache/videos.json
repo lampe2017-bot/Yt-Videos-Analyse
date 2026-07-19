@@ -11505,7 +11505,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-15T14:43:14.570344+00:00",
-    "is_new": true
+    "is_new": false
   },
   "81pDusm5nZE": {
     "video_id": "81pDusm5nZE",
@@ -11841,5 +11841,29 @@
     },
     "first_seen": "2026-07-19T09:23:39.026403+00:00",
     "is_new": false
+  },
+  "ElmC237PygY": {
+    "video_id": "ElmC237PygY",
+    "title": "Terminal-Crashkurs (Anfänger bis Profi!!)",
+    "published": "2026-07-19T12:24:47+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ElmC237PygY/hqdefault.jpg",
+    "description": "Ich verwende diesen Linux-Server: https://www.hostg.xyz/SHHuT\n(Code: NIKLAS für 10% Rabatt!)\n\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:45 Warum die Kommandozeile?\n00:02:00 Linux-Server einrichten\n00:03:40 Erste Befehle: ls, cd & mv\n00:07:48 Logs lesen: cat, nano & grep\n00:10:24 Pakete installieren: apt & man\n00:11:39 Pipe",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lerne die Grundlagen der Kommandozeile für Linux-Server von Anfänger bis Profi.",
+      "bullets": [
+        "Die Kommandozeile ermöglicht effiziente Serververwaltung und Automatisierung.",
+        "Wichtige Befehle sind ls, cd, mv für Dateimanagement.",
+        "Logs können mit cat, nano und grep gelesen und bearbeitet werden.",
+        "Pakete werden mit apt installiert, während man die Hilfe zu Befehlen erhält.",
+        "Die Verwendung von Pipes ermöglicht die Kombination von Befehlen für komplexe Aufgaben."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-19T12:50:30.749340+00:00",
+    "is_new": true
   }
 }
