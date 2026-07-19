@@ -11817,5 +11817,29 @@
     },
     "first_seen": "2026-07-19T01:24:29.511653+00:00",
     "is_new": false
+  },
+  "JH_NRbnbC1s": {
+    "video_id": "JH_NRbnbC1s",
+    "title": "China schockt die Welt: DAS ist der nächste DeepSeek Moment! + Neue Kampf-Roboter LIVE aus Shenzhen",
+    "published": "2026-07-19T08:15:01+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JH_NRbnbC1s/hqdefault.jpg",
+    "description": "Chinas DeepSeek Moment 2.0: Kimi K3 schlägt Claude Fable 5 und GPT-5.6 Sol, bei einem Bruchteil der Kosten und bald kostenfrei als Open Source. Wir machen den direkten Praxistest gegen die US-Modelle. Außerdem: Chinas neue Roboter-Arena, live in Shenzhen bei EngineAI und alle weiteren KI-News der Woche.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nFolge dem neuen Everlast Robotics Kanal für reale Einblicke in die Welt der humanoiden Roboter: https://youtube.com/@everlastrobotics \n\nTritt kostenfrei der Relati",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "China präsentiert bahnbrechende KI-Entwicklungen und neue Kampf-Roboter in Shenzhen.",
+      "bullets": [
+        "Chinas Kimi K3 übertrifft US-Modelle wie Claude Fable 5 und GPT-5.6 Sol erheblich.",
+        "Die Kosten für Kimi K3 sind deutlich niedriger und bald als Open Source verfügbar.",
+        "Live-Übertragung aus Shenzhen zeigt die neuesten Entwicklungen in der Roboter-Technologie.",
+        "Der Praxistest gegen US-Modelle demonstriert Chinas Fortschritte im KI-Bereich.",
+        "Einladung zu kostenfreien Workshops und neuen Einblicken in humanoide Roboter."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-19T09:23:39.026403+00:00",
+    "is_new": true
   }
 }
