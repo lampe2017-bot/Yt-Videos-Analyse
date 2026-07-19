@@ -11889,5 +11889,25 @@
     },
     "first_seen": "2026-07-19T15:29:26.501682+00:00",
     "is_new": false
+  },
+  "9DeRokSvQcc": {
+    "video_id": "9DeRokSvQcc",
+    "title": "AI tools that are FINISHED or the FUTURE",
+    "published": "2026-07-19T21:00:55+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9DeRokSvQcc/hqdefault.jpg",
+    "description": "AI tools that are FINISHED or the FUTURE",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools that are FINISHED or the FUTURE",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-19T21:40:37.335276+00:00",
+    "is_new": true
   }
 }
