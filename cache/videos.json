@@ -11929,5 +11929,25 @@
     },
     "first_seen": "2026-07-20T01:28:44.759663+00:00",
     "is_new": false
+  },
+  "wVbl8Po3F4o": {
+    "video_id": "wVbl8Po3F4o",
+    "title": "School never taught me this",
+    "published": "2026-07-20T15:02:19+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wVbl8Po3F4o/hqdefault.jpg",
+    "description": "School never taught me this",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "School never taught me this",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-20T16:51:21.013963+00:00",
+    "is_new": true
   }
 }
