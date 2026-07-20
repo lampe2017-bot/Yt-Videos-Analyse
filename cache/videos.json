@@ -11909,5 +11909,25 @@
     },
     "first_seen": "2026-07-19T21:40:37.335276+00:00",
     "is_new": false
+  },
+  "e8ISRrWqfvk": {
+    "video_id": "e8ISRrWqfvk",
+    "title": "The key to sales",
+    "published": "2026-07-20T01:01:14+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/e8ISRrWqfvk/hqdefault.jpg",
+    "description": "The key to sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The key to sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-20T01:28:44.759663+00:00",
+    "is_new": true
   }
 }
