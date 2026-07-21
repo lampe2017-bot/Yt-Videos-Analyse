@@ -11686,7 +11686,7 @@
     "description": "Are you a dumb, normal, or smart AI user?",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:53",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Are you a dumb, normal, or smart AI user?",
@@ -11771,13 +11771,17 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "The skill only the top 1% have",
+      "hook": "Verkaufskompetenz ist die entscheidende Fähigkeit, die nur die besten Unternehmer beherrschen.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Jeder erfolgreiche Unternehmer muss die Kunst des Verkaufs beherrschen, um Geld zu verdienen.",
+        "Verkauf ist kein Talent, sondern eine erlernbare Fähigkeit und Strategie.",
+        "Die Fähigkeit, Einwände zu behandeln und zu überzeugen, ist für Führungskräfte unerlässlich.",
+        "Angst vor Ablehnung zu überwinden, ist entscheidend für finanziellen Erfolg.",
+        "Nichts geschieht im Geschäft, bis ein Verkauf abgeschlossen wird."
       ],
-      "model": null
+      "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-18T15:27:24.200235+00:00",
     "is_new": false
@@ -11969,5 +11973,25 @@
     },
     "first_seen": "2026-07-20T21:38:22.371453+00:00",
     "is_new": false
+  },
+  "_JGp9O2Q8oA": {
+    "video_id": "_JGp9O2Q8oA",
+    "title": "2 funnels you need to manage in your business",
+    "published": "2026-07-21T01:01:02+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_JGp9O2Q8oA/hqdefault.jpg",
+    "description": "2 funnels you need to manage in your business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "2 funnels you need to manage in your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-21T01:23:54.733184+00:00",
+    "is_new": true
   }
 }
