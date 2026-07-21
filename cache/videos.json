@@ -12037,5 +12037,27 @@
     },
     "first_seen": "2026-07-21T16:51:40.892413+00:00",
     "is_new": false
+  },
+  "XtXEchNM6gk": {
+    "video_id": "XtXEchNM6gk",
+    "title": "What level of AI are you? Follow and comment \"AI BUSINESS\" for the full resource",
+    "published": "2026-07-21T21:01:15+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XtXEchNM6gk/hqdefault.jpg",
+    "description": "What level of AI are you? Follow and comment \"AI BUSINESS\" for the full resource",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Finde heraus, auf welchem Level der KI du dich befindest.",
+      "bullets": [
+        "Der Videoinhalt zielt darauf ab, das Verständnis von KI-Levels zu fördern.",
+        "Interaktive Elemente wie Kommentare sollen die Zuschauer einbinden.",
+        "Der Begriff 'AI BUSINESS' wird als Schlüssel für weitere Ressourcen verwendet."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-21T22:24:51.214533+00:00",
+    "is_new": true
   }
 }
