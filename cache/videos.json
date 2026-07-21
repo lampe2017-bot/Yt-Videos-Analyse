@@ -12012,6 +12012,30 @@
       "model": null
     },
     "first_seen": "2026-07-21T15:21:21.772138+00:00",
+    "is_new": false
+  },
+  "qtte0zpnGks": {
+    "video_id": "qtte0zpnGks",
+    "title": "DAS kommt nach KI-Agenten: Die nächste Stufe der KI beginnt JETZT",
+    "published": "2026-07-21T15:15:34+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qtte0zpnGks/hqdefault.jpg",
+    "description": "Zwanzig Jahre lang wurde deine Aufmerksamkeit verkauft. Jetzt wird deine Absicht gehandelt: KI-Assistenten erkennen im Gespräch, was du als Nächstes vorhast, und versteigern dieses Vorhaben an den Meistbietenden, noch bevor du selbst gehandelt hast. In diesem Video zeige ich dir, wie weit die Intentions-Ökonomie schon Realität ist und wie du davon profitierst.\n\nSichere dir deinen Platz für den nächsten kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nKostenfreier Report: Die 20 besten KI-Tools, die jeder kennen muss: https://www.kiberatung.de/report/ki-t",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die nächste Stufe der KI beginnt mit der Handelsabsicht von Nutzern.",
+      "bullets": [
+        "KI-Assistenten erkennen und handeln mit deinen Absichten in Echtzeit.",
+        "Die Intentions-Ökonomie ermöglicht es, Vorhaben an Meistbietende zu versteigern.",
+        "Nutze die Entwicklungen der KI, um von dieser neuen Wirtschaft zu profitieren.",
+        "Sichere dir deinen Platz im kostenfreien Live Agentic Coding Workshop.",
+        "Erhalte einen kostenfreien Report über die 20 besten KI-Tools."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-21T16:51:40.892413+00:00",
     "is_new": true
   }
 }
