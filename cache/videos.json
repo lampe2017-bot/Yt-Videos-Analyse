@@ -10796,7 +10796,7 @@
     "description": "Prof. Dr. Konrad Körding spricht im Everlast AI Interview über seine Forschung an der Schnittstelle von Gehirn und KI, warum der Nutzen von Intelligenz sättigt und was beim digitalen Zwilling der Fruchtfliege wirklich passiert ist.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTub",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:03:08",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Prof. Körding erklärt, warum er gegen die KI-Blase wettet und was sie zum Platzen bringen könnte.",
@@ -11962,7 +11962,7 @@
     "description": "Should you fire or hire these people?",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:44",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Should you fire or hire these people?",
@@ -12036,6 +12036,6 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-21T16:51:40.892413+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
