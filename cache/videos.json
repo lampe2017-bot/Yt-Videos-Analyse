@@ -11993,5 +11993,25 @@
     },
     "first_seen": "2026-07-21T01:23:54.733184+00:00",
     "is_new": false
+  },
+  "7bXTgJY_WLc": {
+    "video_id": "7bXTgJY_WLc",
+    "title": "You have to send the elevator back down",
+    "published": "2026-07-21T15:03:54+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7bXTgJY_WLc/hqdefault.jpg",
+    "description": "You have to send the elevator back down",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You have to send the elevator back down",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-21T15:21:21.772138+00:00",
+    "is_new": true
   }
 }
