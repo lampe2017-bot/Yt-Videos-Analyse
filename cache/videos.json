@@ -12131,5 +12131,25 @@
     },
     "first_seen": "2026-07-22T16:13:28.674538+00:00",
     "is_new": false
+  },
+  "Z-bUfKCqBN8": {
+    "video_id": "Z-bUfKCqBN8",
+    "title": "ADHD will make you superhuman",
+    "published": "2026-07-22T21:01:36+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Z-bUfKCqBN8/hqdefault.jpg",
+    "description": "ADHD will make you superhuman",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "ADHD will make you superhuman",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-22T21:34:25.207601+00:00",
+    "is_new": true
   }
 }
