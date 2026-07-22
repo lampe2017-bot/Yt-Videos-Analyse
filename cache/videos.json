@@ -12082,7 +12082,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-22T14:54:17.504872+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Qdo0uNYHdIg": {
     "video_id": "Qdo0uNYHdIg",
@@ -12106,6 +12106,30 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-22T14:55:42.122870+00:00",
+    "is_new": true
+  },
+  "NVK9JTjSfPI": {
+    "video_id": "NVK9JTjSfPI",
+    "title": "Why everyone hates their managers",
+    "published": "2026-07-22T15:03:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/NVK9JTjSfPI/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Das Video untersucht die Gründe, warum Mitarbeiter ihre Vorgesetzten oft nicht mögen.",
+      "bullets": [
+        "Mitarbeiter fühlen sich häufig von ihren Managern nicht unterstützt.",
+        "Schlechte Kommunikation führt zu Missverständnissen und Frustration.",
+        "Mikromanagement kann das Vertrauen und die Motivation der Mitarbeiter untergraben.",
+        "Unzureichendes Feedback und Anerkennung verstärken negative Gefühle gegenüber Managern.",
+        "Ein Mangel an Empathie seitens der Führungskräfte trägt zur Unzufriedenheit bei."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-22T16:13:28.674538+00:00",
     "is_new": true
   }
 }
