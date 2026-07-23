@@ -12195,5 +12195,25 @@
     },
     "first_seen": "2026-07-23T15:30:38.521383+00:00",
     "is_new": false
+  },
+  "l01w-F5qTz0": {
+    "video_id": "l01w-F5qTz0",
+    "title": "AI stack for July 2026",
+    "published": "2026-07-23T21:01:29+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/l01w-F5qTz0/hqdefault.jpg",
+    "description": "AI stack for July 2026",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI stack for July 2026",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-23T21:55:17.619843+00:00",
+    "is_new": true
   }
 }
