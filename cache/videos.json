@@ -12151,5 +12151,49 @@
     },
     "first_seen": "2026-07-22T21:34:25.207601+00:00",
     "is_new": false
+  },
+  "KqlXvEP8wEk": {
+    "video_id": "KqlXvEP8wEk",
+    "title": "Synthesia-Gründer: ChatGPT ist NICHTS zu dem, was JETZT kommt! Weltmodelle, Physical AI & Zukunft",
+    "published": "2026-07-23T15:15:37+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KqlXvEP8wEk/hqdefault.jpg",
+    "description": "Prof. Matthias Nießner, Gründer des 4 Milliarden Dollar Unicorns Synthesia und einer der renommiertesten Computer Vision Forscher erklärt im Interview vor Ort an der TU München mit Leonard Schmedding, was die nächste Ära der KI nach ChatGPT wird, was Weltmodelle sind und wieso sie alles verändern, und was ihn dazu gebracht hat, nach dem Milliarden-Erfolg von Synthesia nochmal bei null anzufangen.\n\nMehr von Matthias Nießner\nLinkedIn: https://www.linkedin.com/in/matthias-niessner-a0a43a48/ \nWebsite SpAItial: https://spaitial.ai/ \nWebsite von Matthias: https://niessnerlab.org/\n\nSichere dir deinen",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Die Zukunft der KI wird durch Weltmodelle und Physical AI revolutioniert, sagt Matthias Nießner.",
+      "bullets": [
+        "Matthias Nießner erklärt, dass die nächste KI-Ära weit über ChatGPT hinausgeht.",
+        "Weltmodelle werden als Schlüsseltechnologie für die zukünftige Entwicklung von KI betrachtet.",
+        "Nießner betont die Bedeutung von Physical AI für die Interaktion mit der realen Welt.",
+        "Er spricht über seine Motivation, nach dem Erfolg von Synthesia erneut zu innovieren.",
+        "Das Interview bietet Einblicke in die Herausforderungen und Chancen der KI-Zukunft."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-23T15:29:35.567543+00:00",
+    "is_new": true
+  },
+  "1VteL_S0yTo": {
+    "video_id": "1VteL_S0yTo",
+    "title": "I encourage my kids to cheat with AI",
+    "published": "2026-07-23T15:02:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1VteL_S0yTo/hqdefault.jpg",
+    "description": "I encourage my kids to cheat with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I encourage my kids to cheat with AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-23T15:30:38.521383+00:00",
+    "is_new": true
   }
 }
