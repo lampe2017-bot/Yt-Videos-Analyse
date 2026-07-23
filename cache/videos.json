@@ -12174,7 +12174,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-23T15:29:35.567543+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1VteL_S0yTo": {
     "video_id": "1VteL_S0yTo",
@@ -12194,6 +12194,6 @@
       "model": null
     },
     "first_seen": "2026-07-23T15:30:38.521383+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
