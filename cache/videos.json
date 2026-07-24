@@ -12215,5 +12215,25 @@
     },
     "first_seen": "2026-07-23T21:55:17.619843+00:00",
     "is_new": false
+  },
+  "foOgpSahXf0": {
+    "video_id": "foOgpSahXf0",
+    "title": "The difference between rich and broke people",
+    "published": "2026-07-24T15:03:38+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/foOgpSahXf0/hqdefault.jpg",
+    "description": "The difference between rich and broke people",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The difference between rich and broke people",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-24T17:57:44.777662+00:00",
+    "is_new": true
   }
 }
