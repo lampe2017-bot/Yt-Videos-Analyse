@@ -12299,5 +12299,25 @@
     },
     "first_seen": "2026-07-25T15:36:31.362900+00:00",
     "is_new": false
+  },
+  "XSIRVTl7yy8": {
+    "video_id": "XSIRVTl7yy8",
+    "title": "How to overcome sales objections",
+    "published": "2026-07-25T21:00:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XSIRVTl7yy8/hqdefault.jpg",
+    "description": "How to overcome sales objections",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to overcome sales objections",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-25T22:15:57.123604+00:00",
+    "is_new": true
   }
 }
