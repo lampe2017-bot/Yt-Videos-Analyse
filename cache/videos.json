@@ -12279,5 +12279,25 @@
     },
     "first_seen": "2026-07-25T09:16:45.847824+00:00",
     "is_new": false
+  },
+  "c0zcXc_CUT4": {
+    "video_id": "c0zcXc_CUT4",
+    "title": "You're likely raising mentally weak kids",
+    "published": "2026-07-25T15:03:04+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/c0zcXc_CUT4/hqdefault.jpg",
+    "description": "You're likely raising mentally weak kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You're likely raising mentally weak kids",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-25T15:36:31.362900+00:00",
+    "is_new": true
   }
 }
