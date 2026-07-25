@@ -12255,5 +12255,29 @@
     },
     "first_seen": "2026-07-24T21:54:05.124920+00:00",
     "is_new": false
+  },
+  "wDFwmWrAtwQ": {
+    "video_id": "wDFwmWrAtwQ",
+    "title": "7 Gründe, warum lokale KI MASSIV unterschätzt wird! (und wie du davon profitierst)",
+    "published": "2026-07-25T08:15:28+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wDFwmWrAtwQ/hqdefault.jpg",
+    "description": "Während die Debatte im Cloud KI und den Bann von Open Source KI-Modellen immer lauter wird, bin ich bullish auf lokale KI! In diesem Video teile ich dir 7 konkrete Gründe, wieso lokale KI sich langfristig durchsetzen muss und wie du davon profitierst.\n\nSichere dir den kostenfreien Local AI Report: https://www.kiberatung.de/report/lokale-ki\n\nNutze lokale KI-Modelle kostenfrei in deinem CorporateLLM oder implementiere sie für Kunden: https://relationflow.io\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Leo",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lokale KI wird oft unterschätzt, bietet jedoch enorme Vorteile für Unternehmen.",
+      "bullets": [
+        "Lokale KI-Modelle sind sicherer und bieten mehr Datenschutz als Cloud-basierte Lösungen.",
+        "Die Implementierung lokaler KI kann Kosten sparen und die Effizienz steigern.",
+        "Mit lokalen KI-Tools kannst du individuelle Lösungen für deine Kunden entwickeln.",
+        "Die Unabhängigkeit von externen Anbietern macht lokale KI besonders attraktiv.",
+        "Langfristig wird lokale KI eine entscheidende Rolle in der Unternehmensstrategie spielen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-25T09:16:45.847824+00:00",
+    "is_new": true
   }
 }
