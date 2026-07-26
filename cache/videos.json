@@ -12319,5 +12319,29 @@
     },
     "first_seen": "2026-07-25T22:15:57.123604+00:00",
     "is_new": false
+  },
+  "aT3RDAQ5lLQ": {
+    "video_id": "aT3RDAQ5lLQ",
+    "title": "Krass: Dieses ChatGPT Update hat soeben ALLES verändert! + Claude Opus 5 Praxistest",
+    "published": "2026-07-26T08:15:08+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/aT3RDAQ5lLQ/hqdefault.jpg",
+    "description": "Der neue ChatGPT Voice Mode verändert für immer, wie wir mit KI arbeiten - Anstatt darüber zu reden, nehme ich \"JARVIS\" live als Begleiter mit in diese Folge! Dazu: Claude Opus 5 im Praxistest gegen Fable 5, das versteckte Websuche-Limit in Claude Code und 13 neue KI-Geschäftsmodelle.\n\nSichere dir deinen Platz für den kostenfreien Live Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \n\nWarteliste Agentic Marketing Masterclass: https://kilernen.de/warteliste/agentic-marketing-manager \n\nLerne Agentic Coding Tools wie Claude Code von A-Z zu meistern: https://claudecodekurs.de\n",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Das neue ChatGPT Update revolutioniert die Interaktion mit KI durch den Voice Mode.",
+      "bullets": [
+        "Der Voice Mode von ChatGPT ermöglicht eine neue, interaktive Art der Kommunikation mit KI.",
+        "Im Praxistest wird Claude Opus 5 gegen Fable 5 verglichen und zeigt interessante Ergebnisse.",
+        "Das versteckte Websuche-Limit in Claude Code wird erläutert und bietet neue Einsichten.",
+        "Es werden 13 innovative KI-Geschäftsmodelle vorgestellt, die neue Möglichkeiten eröffnen.",
+        "Ein kostenfreier Live Workshop zum Agentic Coding wird angeboten, um die neuen Tools zu erlernen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-26T09:32:26.175172+00:00",
+    "is_new": true
   }
 }
