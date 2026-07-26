@@ -12343,5 +12343,25 @@
     },
     "first_seen": "2026-07-26T09:32:26.175172+00:00",
     "is_new": false
+  },
+  "ZisROlGSI_M": {
+    "video_id": "ZisROlGSI_M",
+    "title": "30 Years of Business Advice in 30 Seconds",
+    "published": "2026-07-26T15:01:28+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZisROlGSI_M/hqdefault.jpg",
+    "description": "30 years of business advice in 30 seconds",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "30 Years of Business Advice in 30 Seconds",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-26T15:36:05.168723+00:00",
+    "is_new": true
   }
 }
