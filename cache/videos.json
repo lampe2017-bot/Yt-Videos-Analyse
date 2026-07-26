@@ -12363,5 +12363,25 @@
     },
     "first_seen": "2026-07-26T15:36:05.168723+00:00",
     "is_new": false
+  },
+  "EdMkn1aNK2o": {
+    "video_id": "EdMkn1aNK2o",
+    "title": "If you're using this AI tool, use it for...",
+    "published": "2026-07-26T21:01:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/EdMkn1aNK2o/hqdefault.jpg",
+    "description": "If you're using this AI tool, use it for...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're using this AI tool, use it for...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-26T21:23:59.659369+00:00",
+    "is_new": true
   }
 }
