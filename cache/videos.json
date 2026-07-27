@@ -12426,5 +12426,25 @@
     },
     "first_seen": "2026-07-27T18:54:37.631301+00:00",
     "is_new": true
+  },
+  "l8nwqbZNvdo": {
+    "video_id": "l8nwqbZNvdo",
+    "title": "I don't care about grades or a report card",
+    "published": "2026-07-27T21:01:06+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/l8nwqbZNvdo/hqdefault.jpg",
+    "description": "I don't care about grades or a report card",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I don't care about grades or a report card",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-27T21:35:08.211723+00:00",
+    "is_new": true
   }
 }
