@@ -12383,5 +12383,25 @@
     },
     "first_seen": "2026-07-26T21:23:59.659369+00:00",
     "is_new": false
+  },
+  "vd3uw10S8vo": {
+    "video_id": "vd3uw10S8vo",
+    "title": "The best success habits for a young entrepreneur",
+    "published": "2026-07-27T15:03:10+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vd3uw10S8vo/hqdefault.jpg",
+    "description": "The best success habits for a young entrepreneur",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The best success habits for a young entrepreneur",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-27T15:20:27.367123+00:00",
+    "is_new": true
   }
 }
