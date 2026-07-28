@@ -12536,5 +12536,25 @@
     },
     "first_seen": "2026-07-28T16:28:33.528379+00:00",
     "is_new": false
+  },
+  "45HsF2_mIS8": {
+    "video_id": "45HsF2_mIS8",
+    "title": "Important or Not Important: Business Edition",
+    "published": "2026-07-28T21:00:55+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/45HsF2_mIS8/hqdefault.jpg",
+    "description": "Important or Not Important: Business Edition",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Important or Not Important: Business Edition",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-28T21:55:27.450950+00:00",
+    "is_new": true
   }
 }
