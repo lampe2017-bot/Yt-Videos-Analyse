@@ -12106,7 +12106,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-22T14:55:42.122870+00:00",
-    "is_new": true
+    "is_new": false
   },
   "NVK9JTjSfPI": {
     "video_id": "NVK9JTjSfPI",
@@ -12425,7 +12425,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-27T18:54:37.631301+00:00",
-    "is_new": true
+    "is_new": false
   },
   "l8nwqbZNvdo": {
     "video_id": "l8nwqbZNvdo",
@@ -12468,6 +12468,30 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-28T10:09:12.090820+00:00",
+    "is_new": false
+  },
+  "yqQjzYCNxIE": {
+    "video_id": "yqQjzYCNxIE",
+    "title": "Kompletten FILM per KI generieren!!",
+    "published": "2026-07-28T14:36:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yqQjzYCNxIE/hqdefault.jpg",
+    "description": "Wer hat das Ende kommen sehen?\nSo habe ich das Video erstellt: https://higgsfield.ai/s/niklassteenfatt-mDGwwz\n\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Demo\n1:50 Higgsfield\n3:16 Character Sheets\n4:32 Meine Assistentin\n6:04 Kosten\n6:51 Mein Workflow\n7:35 Start & End Frames\n9:17 Higgsfield MCP\n10:18 Einsatzmöglichkeiten\n10:59 Süßes Kätzche",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Erfahre, wie man mit KI einen kompletten Film generieren kann.",
+      "bullets": [
+        "Das Video zeigt den Prozess der Filmgenerierung mit der KI-Plattform Higgsfield.",
+        "Charakterblätter sind entscheidend für die Entwicklung von Figuren im Film.",
+        "Der Workflow umfasst Start- und Endframes für einen strukturierten Filmablauf.",
+        "Higgsfield bietet verschiedene Einsatzmöglichkeiten für kreative Projekte.",
+        "Kosten und Ressourcen für die Nutzung der KI werden ebenfalls thematisiert."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-28T14:58:53.539137+00:00",
     "is_new": true
   }
 }
