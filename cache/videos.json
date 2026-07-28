@@ -10221,7 +10221,7 @@
     "description": "In diesem Komplettkurs lernst du alles über den wichtigsten KI-Use-Case im deutschsprachigen Bereich: KI-Wissensmanagement. Von den Grundlagen, über alle Konzepte wie RAG, Hybrid Search, Reranking, Knowledge Graphs, GraphRAG, usw. bis hin zur Monetarisierung dieser Fähigkeiten.\n\nDie Ressourcen aus diesem Tutorial findest du kostenfrei im “Resource Hub” der Community: https://www.skool.com/ki-champions/classroom/fd72e28d?md=83fd65c64ae5482b8db77902179bc48a \n\nWerde kostenfrei Teil der CorporateLLM Community: https://corporatellm.de \n\nWir implementieren KI-Wissensmanagement-Systeme für Unternehme",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:20:05",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Lerne, wie du effektives KI-Wissensmanagement für Unternehmen aufbaust und monetarisierst.",
@@ -12555,6 +12555,6 @@
       "model": null
     },
     "first_seen": "2026-07-28T21:55:27.450950+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
