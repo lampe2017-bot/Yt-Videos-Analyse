@@ -12515,7 +12515,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-28T16:27:15.896331+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oCEE-kpdZLM": {
     "video_id": "oCEE-kpdZLM",
@@ -12535,6 +12535,6 @@
       "model": null
     },
     "first_seen": "2026-07-28T16:28:33.528379+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
