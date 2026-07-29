@@ -12579,7 +12579,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-29T14:39:23.999322+00:00",
-    "is_new": true
+    "is_new": false
   },
   "k505kwJKYNY": {
     "video_id": "k505kwJKYNY",
@@ -12603,6 +12603,50 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-29T14:40:57.765396+00:00",
+    "is_new": true
+  },
+  "DPeM-KRUJBQ": {
+    "video_id": "DPeM-KRUJBQ",
+    "title": "Wieso dein Unternehmen viel zu langsam mit KI ist",
+    "published": "2026-07-29T15:15:28+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/DPeM-KRUJBQ/hqdefault.jpg",
+    "description": "Wieso deutsche Unternehmen pauschal zu wenig in Künstliche Intelligenz investieren.\n\nGehöre zu den Gewinnern der KI-Revolution:\n• Kostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n• Kostenfreie Community: https://kichampions.de\n• Baue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n• AI Voice Agents installieren: https://www.kiberatung.de/ki-telefonassistent/?utm_source=kiberatung.de/ki-telefonass",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Deutsche Unternehmen investieren zu wenig in Künstliche Intelligenz und verlieren dadurch Chancen.",
+      "bullets": [
+        "Viele deutsche Firmen sind in der KI-Implementierung zu langsam und verpassen wichtige Entwicklungen.",
+        "Investitionen in Künstliche Intelligenz sind entscheidend für die Wettbewerbsfähigkeit in der Zukunft.",
+        "Unternehmen sollten proaktive Strategien entwickeln, um KI-Technologien effektiv zu nutzen.",
+        "Ein Erstgespräch kann helfen, individuelle KI-Lösungen für Unternehmen zu finden.",
+        "Die Teilnahme an Communities kann den Austausch über KI-Anwendungen fördern und unterstützen."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-29T16:14:31.353457+00:00",
+    "is_new": true
+  },
+  "6_pblDB7ruU": {
+    "video_id": "6_pblDB7ruU",
+    "title": "Would you invest in these AI companies? (as of July 2026)",
+    "published": "2026-07-29T15:04:44+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6_pblDB7ruU/hqdefault.jpg",
+    "description": "Would you invest in these AI companies? (as of July 2026)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Would you invest in these AI companies? (as of July 2026)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-29T16:15:13.487290+00:00",
     "is_new": true
   }
 }
