@@ -12648,5 +12648,25 @@
     },
     "first_seen": "2026-07-29T16:15:13.487290+00:00",
     "is_new": false
+  },
+  "wQi3BecRGz4": {
+    "video_id": "wQi3BecRGz4",
+    "title": "POV: Your boss makes you work harder than others",
+    "published": "2026-07-29T21:00:48+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wQi3BecRGz4/hqdefault.jpg",
+    "description": "POV: Your boss makes you work harder than others",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "POV: Your boss makes you work harder than others",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-29T21:25:30.515440+00:00",
+    "is_new": true
   }
 }
