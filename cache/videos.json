@@ -12692,5 +12692,49 @@
     },
     "first_seen": "2026-07-30T09:12:19.106193+00:00",
     "is_new": true
+  },
+  "__MsXVljTH0": {
+    "video_id": "__MsXVljTH0",
+    "title": "„Diese Durchbrüche kommen bis 2075!” Neuromorphe KI & Memristoren (Prof. Rainer Waser)",
+    "published": "2026-07-30T15:15:11+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/__MsXVljTH0/hqdefault.jpg",
+    "description": "Neuromorphe Chips und Memristoren könnten das Energieproblem der KI an der Wurzel lösen: Prof. Rainer Waser, Pionier des Memristors und einer der weltweit führenden Köpfe des neuromorphen Computings, erklärt im Gespräch, warum unser Gehirn mit 25 Watt auskommt, während die KI-Rechenzentren der Welt bald mehr Strom verbrauchen als ganz Japan. Wir sprechen über den von-Neumann-Flaschenhals, das Rechnen direkt im Speicher, die Serienfertigung seiner oxidbasierten Memristor-Zellen bei Infineon und TSMC sowie über Bewusstsein, AGI, Superintelligenz und seine Prognosen für 2075.\n\nLerne Claude von A-",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Neuromorphe KI und Memristoren könnten die Energiekrise der KI bis 2075 lösen.",
+      "bullets": [
+        "Prof. Rainer Waser erklärt, wie neuromorphe Chips den Energieverbrauch der KI drastisch senken können.",
+        "Das menschliche Gehirn benötigt nur 25 Watt, während KI-Rechenzentren immense Energiemengen verbrauchen.",
+        "Die Serienfertigung von Memristoren könnte die Effizienz von KI-Systemen revolutionieren.",
+        "Waser diskutiert die Herausforderungen des von-Neumann-Flaschenhalses und das Rechnen im Speicher.",
+        "Prognosen für 2075 beinhalten Entwicklungen in Bewusstsein, AGI und Superintelligenz."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-30T16:56:13.350475+00:00",
+    "is_new": true
+  },
+  "6jzM3cNqyFs": {
+    "video_id": "6jzM3cNqyFs",
+    "title": "1 book for every problem",
+    "published": "2026-07-30T15:02:59+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6jzM3cNqyFs/hqdefault.jpg",
+    "description": "1 book for every problem",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "1 book for every problem",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-30T16:57:50.481967+00:00",
+    "is_new": true
   }
 }
