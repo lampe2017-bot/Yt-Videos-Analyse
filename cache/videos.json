@@ -12756,5 +12756,25 @@
     },
     "first_seen": "2026-07-30T20:00:36.380505+00:00",
     "is_new": false
+  },
+  "f9DPVDbbjSk": {
+    "video_id": "f9DPVDbbjSk",
+    "title": "Signs you're working for a bad boss",
+    "published": "2026-07-30T23:01:01+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f9DPVDbbjSk/hqdefault.jpg",
+    "description": "Signs you're working for a bad boss",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Signs you're working for a bad boss",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-30T23:52:52.477156+00:00",
+    "is_new": true
   }
 }
