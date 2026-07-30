@@ -12736,5 +12736,25 @@
     },
     "first_seen": "2026-07-30T16:57:50.481967+00:00",
     "is_new": false
+  },
+  "10pzBxcDh2I": {
+    "video_id": "10pzBxcDh2I",
+    "title": "Just make the call",
+    "published": "2026-07-30T19:01:03+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/10pzBxcDh2I/hqdefault.jpg",
+    "description": "Just make the call",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Just make the call",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-30T20:00:36.380505+00:00",
+    "is_new": true
   }
 }
