@@ -12668,5 +12668,29 @@
     },
     "first_seen": "2026-07-29T21:25:30.515440+00:00",
     "is_new": false
+  },
+  "3aVP--vOecw": {
+    "video_id": "3aVP--vOecw",
+    "title": "Content recyclen auf Instagram Strategie #instagramstrategie",
+    "published": "2026-07-30T07:00:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3aVP--vOecw/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "title-only",
+    "summary": {
+      "hook": "Erfahren Sie, wie Sie Inhalte auf Instagram effektiv wiederverwenden können.",
+      "bullets": [
+        "Content-Recycling spart Zeit und Ressourcen bei der Erstellung neuer Beiträge.",
+        "Nutzen Sie bestehende Inhalte, um Ihre Reichweite und Engagement zu steigern.",
+        "Variieren Sie Formate, um unterschiedliche Zielgruppen anzusprechen.",
+        "Planen Sie regelmäßige Wiederverwendungen, um Konsistenz zu gewährleisten.",
+        "Analysieren Sie die Performance, um erfolgreiche Inhalte gezielt zu recyceln."
+      ],
+      "model": "gpt-4o-mini"
+    },
+    "first_seen": "2026-07-30T09:12:19.106193+00:00",
+    "is_new": true
   }
 }
