@@ -12816,5 +12816,25 @@
     },
     "first_seen": "2026-07-31T16:30:08.926066+00:00",
     "is_new": false
+  },
+  "ZdqVvB7G0vM": {
+    "video_id": "ZdqVvB7G0vM",
+    "title": "Follow and comment STACK for my full list",
+    "published": "2026-07-31T19:02:27+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/ZdqVvB7G0vM/hqdefault.jpg",
+    "description": "The best AI tools for every task",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Follow and comment STACK for my full list",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-31T20:00:16.371702+00:00",
+    "is_new": true
   }
 }
