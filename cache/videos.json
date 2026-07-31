@@ -12765,7 +12765,7 @@
     "description": "Signs you're working for a bad boss",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:29",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Signs you're working for a bad boss",
@@ -12796,5 +12796,25 @@
     },
     "first_seen": "2026-07-31T10:26:10.681321+00:00",
     "is_new": false
+  },
+  "KhmCCjrH7As": {
+    "video_id": "KhmCCjrH7As",
+    "title": "If you were to restart today, how would you become a millionaire?",
+    "published": "2026-07-31T15:03:41+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KhmCCjrH7As/hqdefault.jpg",
+    "description": "If you were to restart today, how would you become a millionaire?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you were to restart today, how would you become a millionaire?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-31T16:30:08.926066+00:00",
+    "is_new": true
   }
 }
