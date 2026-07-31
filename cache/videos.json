@@ -12836,5 +12836,25 @@
     },
     "first_seen": "2026-07-31T20:00:16.371702+00:00",
     "is_new": false
+  },
+  "Y7ijB2wGihM": {
+    "video_id": "Y7ijB2wGihM",
+    "title": "$100M CEO handles sales objections",
+    "published": "2026-07-31T23:00:48+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Y7ijB2wGihM/hqdefault.jpg",
+    "description": "$100M CEO handles sales objections",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "$100M CEO handles sales objections",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-07-31T23:31:05.809798+00:00",
+    "is_new": true
   }
 }
