@@ -12856,5 +12856,25 @@
     },
     "first_seen": "2026-07-31T23:31:05.809798+00:00",
     "is_new": false
+  },
+  "zXp57vXksFU": {
+    "video_id": "zXp57vXksFU",
+    "title": "This kid flew 1000 miles to tell me this",
+    "published": "2026-08-01T03:00:38+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zXp57vXksFU/hqdefault.jpg",
+    "description": "This kid flew 1000 miles to tell me this",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This kid flew 1000 miles to tell me this",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-01T04:46:02.829443+00:00",
+    "is_new": true
   }
 }
