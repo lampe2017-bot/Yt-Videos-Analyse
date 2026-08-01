@@ -12936,5 +12936,25 @@
     },
     "first_seen": "2026-08-01T15:52:09.736183+00:00",
     "is_new": false
+  },
+  "gyRkFgxozMQ": {
+    "video_id": "gyRkFgxozMQ",
+    "title": "Parents need to hear this",
+    "published": "2026-08-01T21:00:47+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/gyRkFgxozMQ/hqdefault.jpg",
+    "description": "Parents need to hear this",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Parents need to hear this",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-01T22:24:22.753500+00:00",
+    "is_new": true
   }
 }
