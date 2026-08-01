@@ -12916,5 +12916,25 @@
     },
     "first_seen": "2026-08-01T09:32:59.579555+00:00",
     "is_new": false
+  },
+  "jBcjSqlt0LM": {
+    "video_id": "jBcjSqlt0LM",
+    "title": "Answering your AI questions",
+    "published": "2026-08-01T15:01:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/jBcjSqlt0LM/hqdefault.jpg",
+    "description": "Answering your AI questions",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Answering your AI questions",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-01T15:52:09.736183+00:00",
+    "is_new": true
   }
 }
