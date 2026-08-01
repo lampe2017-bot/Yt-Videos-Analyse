@@ -12603,7 +12603,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-29T14:40:57.765396+00:00",
-    "is_new": true
+    "is_new": false
   },
   "DPeM-KRUJBQ": {
     "video_id": "DPeM-KRUJBQ",
@@ -12691,7 +12691,7 @@
       "model": "gpt-4o-mini"
     },
     "first_seen": "2026-07-30T09:12:19.106193+00:00",
-    "is_new": true
+    "is_new": false
   },
   "__MsXVljTH0": {
     "video_id": "__MsXVljTH0",
@@ -12876,5 +12876,45 @@
     },
     "first_seen": "2026-08-01T04:46:02.829443+00:00",
     "is_new": false
+  },
+  "dPnGlWmB2QQ": {
+    "video_id": "dPnGlWmB2QQ",
+    "title": "Darum verlieren KI-Gegner gerade den BEZUG ZUR REALITÄT",
+    "published": "2026-08-01T08:15:12+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dPnGlWmB2QQ/hqdefault.jpg",
+    "description": "Eine kurzfristige KI-Blase am Aktienmarkt kann real sein, doch die Argumente der KI-Skeptiker halten der Praxis nicht stand. Ich rechne dir den Return on Invest von KI konkret vor, zerlege die bekanntesten Anti-KI-Argumente und zeige, warum falsche Schlussfolgerungen daraus für dein Unternehmen und für Europa existenzbedrohend werden.\n\nLerne von A-Z Claude Code zu meistern und mit KI Geld zu verdienen: https://claudecodekurs.de\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine K",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Eine kurzfristige KI-Blase am Aktienmarkt kann real sein, doch die Argumente der KI-Skeptiker halten der Praxis nicht stand. Ich rechne dir den Return on Invest von KI konkret vor, zerlege die bekanntesten Anti-KI-Argumente und zeige, warum…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-01T09:30:12.300502+00:00",
+    "is_new": true
+  },
+  "wIDhhiPy_NY": {
+    "video_id": "wIDhhiPy_NY",
+    "title": "Oh Mann ......",
+    "published": "2026-08-01T09:00:18+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wIDhhiPy_NY/hqdefault.jpg",
+    "description": "Dieser KI-Agent hat den Hack-Angriff festgestellt: https://www.hostg.xyz/SHJop\nSo habe ich die neue Seite erstellt: https://www.hostg.xyz/SHJoq\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:10 Ich wurde gehackt!\n2:30 SEO Spam Injection\n3:26 Das Ende der CMS\n4:50 WordPress-Seite konvertieren\n7:04 Hosting ",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Dieser KI-Agent hat den Hack-Angriff festgestellt: https://www.hostg.xyz/SHJop\nSo habe ich die neue Seite erstellt: https://www.hostg.xyz/SHJoq\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wh…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-01T09:32:59.579555+00:00",
+    "is_new": true
   }
 }
