@@ -12976,5 +12976,25 @@
     },
     "first_seen": "2026-08-02T04:47:27.457340+00:00",
     "is_new": false
+  },
+  "IYzgxWs4sZ4": {
+    "video_id": "IYzgxWs4sZ4",
+    "title": "KI-Videos haben eine GRENZE überschritten: DAS kann Seedance 2.5! + Claude Code & Codex Updates",
+    "published": "2026-08-02T08:15:29+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IYzgxWs4sZ4/hqdefault.jpg",
+    "description": "KI-News: Seedance 2.5 hebt KI-Video auf 3 Minuten und 50 Referenzen, GPT-5.6 Luna wird 80 Prozent günstiger, Opus 5 überrascht und Gemini Robotics 2 steuert erstmals den kompletten Humanoiden mit einem Modell.\n\nAgentic Marketing Warteliste: https://kilernen.de/warteliste/agentic-marketing-manager \nKostenfreier Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nNeuer Everlast Robotics Kanal: https://www.youtube.com/@everlastrobotics \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "KI-News: Seedance 2.5 hebt KI-Video auf 3 Minuten und 50 Referenzen, GPT-5.6 Luna wird 80 Prozent günstiger, Opus 5 überrascht und Gemini Robotics 2 steuert erstmals den kompletten Humanoiden mit einem Modell.\n\nAgentic Marketing Warteliste:…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-02T09:28:55.024238+00:00",
+    "is_new": true
   }
 }
