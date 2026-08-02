@@ -13036,5 +13036,25 @@
     },
     "first_seen": "2026-08-02T15:51:57.218279+00:00",
     "is_new": false
+  },
+  "yDecFIUVzic": {
+    "video_id": "yDecFIUVzic",
+    "title": "Your One Job As A Father",
+    "published": "2026-08-02T21:00:44+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yDecFIUVzic/hqdefault.jpg",
+    "description": "Your One Job As A Father",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your One Job As A Father",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-02T21:15:39.390480+00:00",
+    "is_new": true
   }
 }
