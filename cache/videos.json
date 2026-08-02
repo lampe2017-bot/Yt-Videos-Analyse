@@ -12956,5 +12956,25 @@
     },
     "first_seen": "2026-08-01T22:24:22.753500+00:00",
     "is_new": false
+  },
+  "qxgjj8qCLG8": {
+    "video_id": "qxgjj8qCLG8",
+    "title": "Why I don't do discounts",
+    "published": "2026-08-02T01:01:07+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qxgjj8qCLG8/hqdefault.jpg",
+    "description": "Why I don't do discounts",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why I don't do discounts",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-02T04:47:27.457340+00:00",
+    "is_new": true
   }
 }
