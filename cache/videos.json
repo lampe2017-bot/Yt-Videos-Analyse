@@ -13076,5 +13076,25 @@
     },
     "first_seen": "2026-08-03T04:56:36.407150+00:00",
     "is_new": false
+  },
+  "LIMq7GlwYyU": {
+    "video_id": "LIMq7GlwYyU",
+    "title": "If you're not in shape you're not successful in my eyes",
+    "published": "2026-08-03T15:02:49+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LIMq7GlwYyU/hqdefault.jpg",
+    "description": "If you're not in shape you're not successful in my eyes",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're not in shape you're not successful in my eyes",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-03T16:45:07.831780+00:00",
+    "is_new": true
   }
 }
