@@ -13056,5 +13056,25 @@
     },
     "first_seen": "2026-08-02T21:15:39.390480+00:00",
     "is_new": false
+  },
+  "Pid0cAlAHTU": {
+    "video_id": "Pid0cAlAHTU",
+    "title": "The truth about leaders",
+    "published": "2026-08-03T01:00:43+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Pid0cAlAHTU/hqdefault.jpg",
+    "description": "The truth about leaders",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The truth about leaders",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-03T04:56:36.407150+00:00",
+    "is_new": true
   }
 }
