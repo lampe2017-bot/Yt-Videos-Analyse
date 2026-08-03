@@ -13096,5 +13096,25 @@
     },
     "first_seen": "2026-08-03T16:45:07.831780+00:00",
     "is_new": false
+  },
+  "rBy6765vc4I": {
+    "video_id": "rBy6765vc4I",
+    "title": "What business should I start?",
+    "published": "2026-08-03T21:01:03+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/rBy6765vc4I/hqdefault.jpg",
+    "description": "What business should I start?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What business should I start?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-03T21:36:46.679949+00:00",
+    "is_new": true
   }
 }
