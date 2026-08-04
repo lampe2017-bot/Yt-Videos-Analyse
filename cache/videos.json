@@ -13176,5 +13176,25 @@
     },
     "first_seen": "2026-08-04T17:11:03.271327+00:00",
     "is_new": false
+  },
+  "P8RKnv9B_VU": {
+    "video_id": "P8RKnv9B_VU",
+    "title": "The only skills you need to learn",
+    "published": "2026-08-04T21:01:03+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P8RKnv9B_VU/hqdefault.jpg",
+    "description": "The only skills you need to learn",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The only skills you need to learn",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-04T22:04:26.246354+00:00",
+    "is_new": true
   }
 }
