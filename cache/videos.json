@@ -12926,11 +12926,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "Answering your AI questions",
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Everything I write sounds like a bot. Tell it to analyze 30 days of your emails and write a tone document. It keeps saying sorry instead of just fixing it. You'd be surprised how much threatening an AI will actually get it to be more creati…"
       ],
       "model": null
     },
@@ -13136,5 +13136,45 @@
     },
     "first_seen": "2026-08-04T02:02:39.497379+00:00",
     "is_new": false
+  },
+  "knZUQ8vaO30": {
+    "video_id": "knZUQ8vaO30",
+    "title": "Die verstörendste Idee der KI (Organoide Intelligenz)",
+    "published": "2026-08-04T15:15:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/knZUQ8vaO30/hqdefault.jpg",
+    "description": "Biocomputing und Organoide Intelligenz: Wie lebende menschliche Hirnzellen im Labor rechnen, lernen, Pong spielen und was das für die Zukunft der KI wirklich bedeutet.\n\nSichere dir den kostenfreien PDF-Report \"Lokale KI\": https://www.kiberatung.de/report/lokale-ki\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_sourc",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Biocomputing und Organoide Intelligenz: Wie lebende menschliche Hirnzellen im Labor rechnen, lernen, Pong spielen und was das für die Zukunft der KI wirklich bedeutet.\n\nSichere dir den kostenfreien PDF-Report \"Lokale KI\": https://www.kibera…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-04T17:09:29.719330+00:00",
+    "is_new": true
+  },
+  "pdUlp39_g5w": {
+    "video_id": "pdUlp39_g5w",
+    "title": "Don't say these words",
+    "published": "2026-08-04T15:02:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pdUlp39_g5w/hqdefault.jpg",
+    "description": "Don't say these words",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't say these words",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-04T17:11:03.271327+00:00",
+    "is_new": true
   }
 }
