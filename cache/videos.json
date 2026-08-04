@@ -13116,5 +13116,25 @@
     },
     "first_seen": "2026-08-03T21:36:46.679949+00:00",
     "is_new": false
+  },
+  "fUzaz8SiuDI": {
+    "video_id": "fUzaz8SiuDI",
+    "title": "Why not you?",
+    "published": "2026-08-04T01:01:33+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fUzaz8SiuDI/hqdefault.jpg",
+    "description": "Why not you?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why not you?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-04T02:02:39.497379+00:00",
+    "is_new": true
   }
 }
