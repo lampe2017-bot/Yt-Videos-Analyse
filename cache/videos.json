@@ -12926,11 +12926,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "en",
+    "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "hook": "Answering your AI questions",
       "bullets": [
-        "Everything I write sounds like a bot. Tell it to analyze 30 days of your emails and write a tone document. It keeps saying sorry instead of just fixing it. You'd be surprised how much threatening an AI will actually get it to be more creati…"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
@@ -13155,7 +13155,7 @@
       "model": null
     },
     "first_seen": "2026-08-04T17:09:29.719330+00:00",
-    "is_new": true
+    "is_new": false
   },
   "pdUlp39_g5w": {
     "video_id": "pdUlp39_g5w",
@@ -13175,6 +13175,6 @@
       "model": null
     },
     "first_seen": "2026-08-04T17:11:03.271327+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
