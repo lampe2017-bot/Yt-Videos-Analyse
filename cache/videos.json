@@ -12701,7 +12701,7 @@
     "description": "Neuromorphe Chips und Memristoren könnten das Energieproblem der KI an der Wurzel lösen: Prof. Rainer Waser, Pionier des Memristors und einer der weltweit führenden Köpfe des neuromorphen Computings, erklärt im Gespräch, warum unser Gehirn mit 25 Watt auskommt, während die KI-Rechenzentren der Welt bald mehr Strom verbrauchen als ganz Japan. Wir sprechen über den von-Neumann-Flaschenhals, das Rechnen direkt im Speicher, die Serienfertigung seiner oxidbasierten Memristor-Zellen bei Infineon und TSMC sowie über Bewusstsein, AGI, Superintelligenz und seine Prognosen für 2075.\n\nLerne Claude von A-",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:11:12",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Neuromorphe KI und Memristoren könnten die Energiekrise der KI bis 2075 lösen.",
@@ -13196,5 +13196,25 @@
     },
     "first_seen": "2026-08-04T22:04:26.246354+00:00",
     "is_new": false
+  },
+  "uib-G4XPCYU": {
+    "video_id": "uib-G4XPCYU",
+    "title": "\"How do you feel about your net worth?",
+    "published": "2026-08-05T01:00:54+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uib-G4XPCYU/hqdefault.jpg",
+    "description": "\"How do you feel about your net worth?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"How do you feel about your net worth?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-05T09:16:26.668226+00:00",
+    "is_new": true
   }
 }
