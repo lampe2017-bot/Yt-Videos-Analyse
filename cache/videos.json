@@ -13276,5 +13276,25 @@
     },
     "first_seen": "2026-08-05T15:55:09.981861+00:00",
     "is_new": false
+  },
+  "QkPI3FS6hUk": {
+    "video_id": "QkPI3FS6hUk",
+    "title": "These are the AI tools you need to run your business",
+    "published": "2026-08-05T21:00:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QkPI3FS6hUk/hqdefault.jpg",
+    "description": "These are the AI tools you need to run your business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These are the AI tools you need to run your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-05T21:40:43.596153+00:00",
+    "is_new": true
   }
 }
