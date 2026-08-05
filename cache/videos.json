@@ -13255,7 +13255,7 @@
       "model": null
     },
     "first_seen": "2026-08-05T15:53:43.684047+00:00",
-    "is_new": true
+    "is_new": false
   },
   "HpWCZ71olf0": {
     "video_id": "HpWCZ71olf0",
@@ -13275,6 +13275,6 @@
       "model": null
     },
     "first_seen": "2026-08-05T15:55:09.981861+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
