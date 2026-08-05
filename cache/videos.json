@@ -13235,6 +13235,46 @@
       "model": null
     },
     "first_seen": "2026-08-05T13:39:28.653469+00:00",
+    "is_new": false
+  },
+  "cDLzIsBbuAc": {
+    "video_id": "cDLzIsBbuAc",
+    "title": "If you're selling to...",
+    "published": "2026-08-05T15:00:58+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cDLzIsBbuAc/hqdefault.jpg",
+    "description": "If you're selling to...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you're selling to...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-05T15:53:43.684047+00:00",
+    "is_new": true
+  },
+  "HpWCZ71olf0": {
+    "video_id": "HpWCZ71olf0",
+    "title": "Wachse endlich auf Instagram! Dein Weg zu den ersten 1.000 Followern",
+    "published": "2026-08-05T14:00:06+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/HpWCZ71olf0/hqdefault.jpg",
+    "description": "NEU 📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n\n#onlinebusinessstarten #Instagramstrategie #evergreen\nDu willst endlich deine ersten 1000 Instagram Follower bekommen? Lerne hier, wie du mit einer klaren Instagram Strategie startest.\n\nViele Nutzer scheitern daran, eine echte Community aufzubauen, weil sie auf kurzfristige Tricks setzen, die nicht funktionieren. Dieses Video richtet sich an alle, die ernsthaftes und nachhaltiges Instagram Wachstum anstreben, ohne auf fragwürdige Methoden zurückzugreifen. Wir konzentrieren uns rein auf langfristige Ansätze, die wirklich Bestand ha",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "NEU 📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n\n#onlinebusinessstarten #Instagramstrategie #evergreen\nDu willst endlich deine ersten 1000 Instagram Follower bekommen? Lerne hier, wie du mit einer klaren Instagram Strategie s…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-05T15:55:09.981861+00:00",
     "is_new": true
   }
 }
