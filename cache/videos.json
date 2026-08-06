@@ -13296,5 +13296,25 @@
     },
     "first_seen": "2026-08-05T21:40:43.596153+00:00",
     "is_new": false
+  },
+  "5T3qDChCCdc": {
+    "video_id": "5T3qDChCCdc",
+    "title": "How do you motivate your team?",
+    "published": "2026-08-06T01:00:42+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5T3qDChCCdc/hqdefault.jpg",
+    "description": "How do you motivate your team?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you motivate your team?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-06T01:21:10.101356+00:00",
+    "is_new": true
   }
 }
