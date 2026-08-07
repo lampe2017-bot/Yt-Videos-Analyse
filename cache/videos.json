@@ -13396,5 +13396,25 @@
     },
     "first_seen": "2026-08-07T00:24:33.836705+00:00",
     "is_new": false
+  },
+  "xN_2lOQ5eaw": {
+    "video_id": "xN_2lOQ5eaw",
+    "title": "I don't tolerate disrespect on my team",
+    "published": "2026-08-07T15:01:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/xN_2lOQ5eaw/hqdefault.jpg",
+    "description": "I don't tolerate disrespect on my team",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I don't tolerate disrespect on my team",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-07T15:43:06.131734+00:00",
+    "is_new": true
   }
 }
