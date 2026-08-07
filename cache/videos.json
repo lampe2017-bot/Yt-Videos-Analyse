@@ -13416,5 +13416,25 @@
     },
     "first_seen": "2026-08-07T15:43:06.131734+00:00",
     "is_new": false
+  },
+  "pp-l82wnzG8": {
+    "video_id": "pp-l82wnzG8",
+    "title": "I think schools are irresponsible with AI",
+    "published": "2026-08-07T21:01:03+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pp-l82wnzG8/hqdefault.jpg",
+    "description": "I think schools are irresponsible with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I think schools are irresponsible with AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-07T21:08:29.954596+00:00",
+    "is_new": true
   }
 }
