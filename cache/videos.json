@@ -13245,7 +13245,7 @@
     "description": "If you're selling to...",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:19",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "If you're selling to...",
@@ -13435,6 +13435,6 @@
       "model": null
     },
     "first_seen": "2026-08-07T21:08:29.954596+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
