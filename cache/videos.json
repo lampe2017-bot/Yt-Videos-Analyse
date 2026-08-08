@@ -13476,5 +13476,25 @@
     },
     "first_seen": "2026-08-08T09:07:32.676406+00:00",
     "is_new": false
+  },
+  "T6ysl06hPnw": {
+    "video_id": "T6ysl06hPnw",
+    "title": "Success Advice for a 10-Year-Old",
+    "published": "2026-08-08T15:02:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/T6ysl06hPnw/hqdefault.jpg",
+    "description": "How would you become successful at 10?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Success Advice for a 10-Year-Old",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-08T15:19:24.146122+00:00",
+    "is_new": true
   }
 }
