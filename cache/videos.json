@@ -13436,5 +13436,25 @@
     },
     "first_seen": "2026-08-07T21:08:29.954596+00:00",
     "is_new": false
+  },
+  "-zb8fPj0_WU": {
+    "video_id": "-zb8fPj0_WU",
+    "title": "What rehab taught me about money",
+    "published": "2026-08-08T01:00:55+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-zb8fPj0_WU/hqdefault.jpg",
+    "description": "What rehab taught me about money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What rehab taught me about money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-08T02:49:18.805663+00:00",
+    "is_new": true
   }
 }
