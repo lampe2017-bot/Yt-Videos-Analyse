@@ -13496,5 +13496,25 @@
     },
     "first_seen": "2026-08-08T15:19:24.146122+00:00",
     "is_new": false
+  },
+  "m_1Vu-TJDFA": {
+    "video_id": "m_1Vu-TJDFA",
+    "title": "ADHD: The Evolutionary Hunter Theory",
+    "published": "2026-08-08T21:00:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/m_1Vu-TJDFA/hqdefault.jpg",
+    "description": "\"What do you think ADHD is?\" @jackhneel",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "ADHD: The Evolutionary Hunter Theory",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-08T21:19:32.177841+00:00",
+    "is_new": true
   }
 }
