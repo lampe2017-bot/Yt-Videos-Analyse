@@ -13596,5 +13596,25 @@
     },
     "first_seen": "2026-08-09T15:28:17.480477+00:00",
     "is_new": false
+  },
+  "WWipe1-TyXU": {
+    "video_id": "WWipe1-TyXU",
+    "title": "Teaching a 10 year old how to start an AI automation business",
+    "published": "2026-08-09T21:00:52+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/WWipe1-TyXU/hqdefault.jpg",
+    "description": "Teaching a 10 year old how to start an AI automation business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Teaching a 10 year old how to start an AI automation business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-09T21:29:50.563095+00:00",
+    "is_new": true
   }
 }
