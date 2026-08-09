@@ -13516,5 +13516,25 @@
     },
     "first_seen": "2026-08-08T21:19:32.177841+00:00",
     "is_new": false
+  },
+  "NRmMC7O4W8o": {
+    "video_id": "NRmMC7O4W8o",
+    "title": "Why Not This Time? A Story of Second Chances",
+    "published": "2026-08-09T01:01:13+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/NRmMC7O4W8o/hqdefault.jpg",
+    "description": "A Caring Adult Changed My Life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why Not This Time? A Story of Second Chances",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-09T02:57:06.675394+00:00",
+    "is_new": true
   }
 }
