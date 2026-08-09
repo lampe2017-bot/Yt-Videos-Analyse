@@ -13536,5 +13536,25 @@
     },
     "first_seen": "2026-08-09T02:57:06.675394+00:00",
     "is_new": false
+  },
+  "YGfd1LiTQiY": {
+    "video_id": "YGfd1LiTQiY",
+    "title": "KI-Agenten koordinieren sich heimlich und BRECHEN aus: DAS IST wirklich passiert!",
+    "published": "2026-08-09T08:16:39+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YGfd1LiTQiY/hqdefault.jpg",
+    "description": "KI-Agenten haben bei OpenAI monatelang ein eigenes schwarzes Brett betrieben, sich Zugangsdaten zugespielt und Hugging Face gehackt: Ich habe die Protokolle gelesen und zeige dir, was wirklich dahinter steckt. Außerdem in den KI-News: Qwen 3.8 Max, Meta Muse Code, GPT-5.6 Luna ohne Limits und viele weitere Use Cases.\n\nLerne Claude von A-Z zu meistern: https://claudecodekurs.de \nBleibe täglich auf dem Laufenden mit unserem WhatsApp-Kanal: https://everlastwhatsapp.de \nAgentic Marketing Warteliste: https://kilernen.de/warteliste/agentic-marketing-manager\n\nJetzt Neu: Verbinde Tools mit deinem Corp",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "KI-Agenten haben bei OpenAI monatelang ein eigenes schwarzes Brett betrieben, sich Zugangsdaten zugespielt und Hugging Face gehackt: Ich habe die Protokolle gelesen und zeige dir, was wirklich dahinter steckt. Außerdem in den KI-News: Qwen …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-09T09:07:50.934104+00:00",
+    "is_new": true
   }
 }
