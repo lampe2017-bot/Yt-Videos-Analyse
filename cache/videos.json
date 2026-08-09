@@ -13556,5 +13556,25 @@
     },
     "first_seen": "2026-08-09T09:07:50.934104+00:00",
     "is_new": false
+  },
+  "wjnue6NJmKI": {
+    "video_id": "wjnue6NJmKI",
+    "title": "Wir sind nicht bereit für AGI",
+    "published": "2026-08-09T12:59:24+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wjnue6NJmKI/hqdefault.jpg",
+    "description": "Wir stolpern gerade in ein völlig neues Zeitalter. \nAufregend und schaurig zugleich.\n\n\n💌 Meine wöchentlichen Gedanken: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:49 KI-Entwicklung\n3:23 Eine neue Ordnung\n6:00 Von AGI zu Superintelligenz\n7:56 Praktische Risiken\n10:03 Das Dilemma",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Wir stolpern gerade in ein völlig neues Zeitalter. \nAufregend und schaurig zugleich.\n\n\n💌 Meine wöchentlichen Gedanken: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:49…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-09T13:32:15.129580+00:00",
+    "is_new": true
   }
 }
