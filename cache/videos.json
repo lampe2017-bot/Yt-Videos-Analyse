@@ -13576,5 +13576,25 @@
     },
     "first_seen": "2026-08-09T13:32:15.129580+00:00",
     "is_new": false
+  },
+  "PC4wIOv8xdI": {
+    "video_id": "PC4wIOv8xdI",
+    "title": "Books to Put You in the Top 1%",
+    "published": "2026-08-09T15:01:48+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PC4wIOv8xdI/hqdefault.jpg",
+    "description": "Read these books to be in the top 1%",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books to Put You in the Top 1%",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-09T15:28:17.480477+00:00",
+    "is_new": true
   }
 }
