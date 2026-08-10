@@ -12985,7 +12985,7 @@
     "description": "KI-News: Seedance 2.5 hebt KI-Video auf 3 Minuten und 50 Referenzen, GPT-5.6 Luna wird 80 Prozent günstiger, Opus 5 überrascht und Gemini Robotics 2 steuert erstmals den kompletten Humanoiden mit einem Modell.\n\nAgentic Marketing Warteliste: https://kilernen.de/warteliste/agentic-marketing-manager \nKostenfreier Agentic Coding Workshop: https://kilernen.de/agentic-coding-workshop \nNeuer Everlast Robotics Kanal: https://www.youtube.com/@everlastrobotics \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "28:22",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -13616,5 +13616,25 @@
     },
     "first_seen": "2026-08-09T21:29:50.563095+00:00",
     "is_new": false
+  },
+  "e_aYSu-bQeQ": {
+    "video_id": "e_aYSu-bQeQ",
+    "title": "Leaders need to set the standard",
+    "published": "2026-08-10T01:00:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/e_aYSu-bQeQ/hqdefault.jpg",
+    "description": "Leaders need to set the standard",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Leaders need to set the standard",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-10T03:06:28.102963+00:00",
+    "is_new": true
   }
 }
