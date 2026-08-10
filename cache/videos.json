@@ -13656,5 +13656,25 @@
     },
     "first_seen": "2026-08-10T15:30:34.161582+00:00",
     "is_new": false
+  },
+  "LTFFSWg6doc": {
+    "video_id": "LTFFSWg6doc",
+    "title": "Is dropshipping worth starting?",
+    "published": "2026-08-10T21:00:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LTFFSWg6doc/hqdefault.jpg",
+    "description": "Is dropshipping worth starting?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Is dropshipping worth starting?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-10T22:05:20.157689+00:00",
+    "is_new": true
   }
 }
