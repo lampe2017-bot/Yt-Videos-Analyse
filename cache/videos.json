@@ -13726,11 +13726,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "en",
+    "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "hook": "Don't say these words in sales",
       "bullets": [
-        "Don't say buy, say invest. Don't say problem, say challenge. Don't say customer, say client. Never say cost, always say value. Never say try. The word is experience. The language you use matters. Don't kill your deals with your words before…"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
