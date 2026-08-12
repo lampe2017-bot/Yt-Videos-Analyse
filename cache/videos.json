@@ -13856,5 +13856,25 @@
     },
     "first_seen": "2026-08-12T15:27:52.372073+00:00",
     "is_new": false
+  },
+  "GOeTaEF6aCo": {
+    "video_id": "GOeTaEF6aCo",
+    "title": "You can start a business with ChatGPT",
+    "published": "2026-08-12T21:01:05+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/GOeTaEF6aCo/hqdefault.jpg",
+    "description": "You can start a business with ChatGPT",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You can start a business with ChatGPT",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-12T21:22:03.060976+00:00",
+    "is_new": true
   }
 }
