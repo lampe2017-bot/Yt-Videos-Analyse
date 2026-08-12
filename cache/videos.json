@@ -13815,7 +13815,7 @@
       "model": null
     },
     "first_seen": "2026-08-12T14:13:34.296520+00:00",
-    "is_new": true
+    "is_new": false
   },
   "e_prqDzesY8": {
     "video_id": "e_prqDzesY8",
@@ -13835,6 +13835,26 @@
       "model": null
     },
     "first_seen": "2026-08-12T14:15:23.837355+00:00",
+    "is_new": false
+  },
+  "3q3eqoGwqu8": {
+    "video_id": "3q3eqoGwqu8",
+    "title": "What AI tools can actually make you money",
+    "published": "2026-08-12T15:05:47+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3q3eqoGwqu8/hqdefault.jpg",
+    "description": "What AI tools can actually make you money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What AI tools can actually make you money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-12T15:27:52.372073+00:00",
     "is_new": true
   }
 }
