@@ -13776,5 +13776,25 @@
     },
     "first_seen": "2026-08-11T21:35:13.596715+00:00",
     "is_new": false
+  },
+  "ClanUPjNFsg": {
+    "video_id": "ClanUPjNFsg",
+    "title": "Lessons I learned from exiting my first company",
+    "published": "2026-08-12T01:01:28+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/ClanUPjNFsg/hqdefault.jpg",
+    "description": "Lessons I learned from exiting my first company",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Lessons I learned from exiting my first company",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-12T05:10:29.453535+00:00",
+    "is_new": true
   }
 }
