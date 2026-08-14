@@ -14056,5 +14056,25 @@
     },
     "first_seen": "2026-08-14T16:14:23.483369+00:00",
     "is_new": false
+  },
+  "qX5di75m-jA": {
+    "video_id": "qX5di75m-jA",
+    "title": "Do you have RICH or BROKE habits?",
+    "published": "2026-08-14T21:01:33+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qX5di75m-jA/hqdefault.jpg",
+    "description": "Do you have RICH or BROKE habits?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Do you have RICH or BROKE habits?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-14T21:16:00.561576+00:00",
+    "is_new": true
   }
 }
