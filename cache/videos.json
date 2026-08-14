@@ -13976,5 +13976,25 @@
     },
     "first_seen": "2026-08-13T22:10:50.063118+00:00",
     "is_new": false
+  },
+  "qULuAU4wKZQ": {
+    "video_id": "qULuAU4wKZQ",
+    "title": "Watch til the end",
+    "published": "2026-08-14T01:00:33+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qULuAU4wKZQ/hqdefault.jpg",
+    "description": "I pay to park here all day for the kids (max 3hrs), then I get a ticket and pay that too.\n\nOften a parent will say thank you and pay it for me.\n\nAnd sometimes, like today, I think the cool meter people of Kelowna look the other way.\n\nI’m never mad. Always understand… and just share with everyone why I do it.\n\nSo for a few thousand dollars a year, hundreds of kids get to see their dreams cars out in the wild.\n\nIt’s a no brainer for me.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "I pay to park here all day for the kids (max 3hrs), then I get a ticket and pay that too.\n\nOften a parent will say thank you and pay it for me.\n\nAnd sometimes, like today, I think the cool meter people of Kelowna look the other way.\n\nI’m ne…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-14T03:05:50.909945+00:00",
+    "is_new": true
   }
 }
