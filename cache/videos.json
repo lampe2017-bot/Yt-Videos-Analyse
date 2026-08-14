@@ -14035,7 +14035,7 @@
       "model": null
     },
     "first_seen": "2026-08-14T16:12:47.815597+00:00",
-    "is_new": true
+    "is_new": false
   },
   "uKYlapjoI6o": {
     "video_id": "uKYlapjoI6o",
@@ -14055,6 +14055,6 @@
       "model": null
     },
     "first_seen": "2026-08-14T16:14:23.483369+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
