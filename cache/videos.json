@@ -14116,5 +14116,25 @@
     },
     "first_seen": "2026-08-15T08:51:55.416498+00:00",
     "is_new": false
+  },
+  "B3njT2pmZrI": {
+    "video_id": "B3njT2pmZrI",
+    "title": "Boss vs. Manager vs. Leader",
+    "published": "2026-08-15T15:02:57+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/B3njT2pmZrI/hqdefault.jpg",
+    "description": "Are you a boss, manager, or a leader?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Boss vs. Manager vs. Leader",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-15T15:42:51.844600+00:00",
+    "is_new": true
   }
 }
