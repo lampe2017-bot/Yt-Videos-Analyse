@@ -14076,5 +14076,25 @@
     },
     "first_seen": "2026-08-14T21:16:00.561576+00:00",
     "is_new": false
+  },
+  "x6mw4CsTi2o": {
+    "video_id": "x6mw4CsTi2o",
+    "title": "What's the 1-3-1 rule?",
+    "published": "2026-08-15T01:01:03+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/x6mw4CsTi2o/hqdefault.jpg",
+    "description": "What's the 1-3-1 rule?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What's the 1-3-1 rule?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-15T02:08:32.891305+00:00",
+    "is_new": true
   }
 }
