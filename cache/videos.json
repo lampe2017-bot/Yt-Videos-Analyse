@@ -12677,7 +12677,7 @@
     "description": "",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "0:33",
     "transcript_lang": "title-only",
     "summary": {
       "hook": "Erfahren Sie, wie Sie Inhalte auf Instagram effektiv wiederverwenden können.",
@@ -13806,11 +13806,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "✅ Find out more about our upcoming events here: https://go.danmartell.com/45oyumX\n\nYou are one relationship away from a completely different life, and most people never realize it because they think networking is sleazy, awkward, or only fo…"
+        "How does a kid from a small town in Eastern Canada who struggled in school, was in and out of jail and rehab by 17, end up getting Mark Cuban to invest in his company, or spend a week with Richard Branson or have Tony Robbins invite him to …"
       ],
       "model": null
     },
@@ -14155,6 +14155,6 @@
       "model": null
     },
     "first_seen": "2026-08-15T16:13:16.437724+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
