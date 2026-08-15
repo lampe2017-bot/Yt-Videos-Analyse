@@ -14096,5 +14096,25 @@
     },
     "first_seen": "2026-08-15T02:08:32.891305+00:00",
     "is_new": false
+  },
+  "LyMC4KRLgF4": {
+    "video_id": "LyMC4KRLgF4",
+    "title": "DAS ist das beste neue Geschäftsmodell für KI-Agenturen (niemand spricht darüber)",
+    "published": "2026-08-15T08:15:28+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LyMC4KRLgF4/hqdefault.jpg",
+    "description": "Die Corporate LLM Agentur ist gerade das gefragteste Geschäftsmodell im deutschsprachigen Mittelstand und trotzdem redet niemand darüber: In diesem Video zeige ich dir grundlegend auf, wieso diese Nachfrage nach diesem \"langweiligen\" Use Case gerade so hoch ist.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\nWerde RelationFlow Partner: htt",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Die Corporate LLM Agentur ist gerade das gefragteste Geschäftsmodell im deutschsprachigen Mittelstand und trotzdem redet niemand darüber: In diesem Video zeige ich dir grundlegend auf, wieso diese Nachfrage nach diesem \"langweiligen\" Use Ca…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-15T08:51:55.416498+00:00",
+    "is_new": true
   }
 }
