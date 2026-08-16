@@ -14196,5 +14196,25 @@
     },
     "first_seen": "2026-08-16T02:15:31.119833+00:00",
     "is_new": false
+  },
+  "z8OocncaeEs": {
+    "video_id": "z8OocncaeEs",
+    "title": "Krass: Claude markiert jetzt JEDEN Text mit Wasserzeichen! So wirst du es los | KI-NEWS",
+    "published": "2026-08-16T08:15:32+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/z8OocncaeEs/hqdefault.jpg",
+    "description": "Ab sofort lässt sich jeder mit Claude generierte Text nachweisbar als KI-Text identifizieren, mit direkten Folgen für Urheberrecht, Vibe Coding und Marketing unter dem EU AI Act. In diesen KI-News erfährst du, wie das Wasserzeichen funktioniert, wie du es entfernst und was Grok 4.6, Mistral und der erste KI-Kinofilm diese Woche verändert haben.\n\nKostenfreier Agentic Coding Workshop Ende August: https://aicoding.de \nSichere dir deinen Platz für den Agentic Marketing Workshop: https://agenticmarketing.de \n\nHiggsfield 80-Seiten PDF: https://drive.google.com/file/d/1MRQoNq7dJD3s1OGWi94BKxoTIac4w_3",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Ab sofort lässt sich jeder mit Claude generierte Text nachweisbar als KI-Text identifizieren, mit direkten Folgen für Urheberrecht, Vibe Coding und Marketing unter dem EU AI Act. In diesen KI-News erfährst du, wie das Wasserzeichen funktion…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-16T08:52:50.490865+00:00",
+    "is_new": true
   }
 }
