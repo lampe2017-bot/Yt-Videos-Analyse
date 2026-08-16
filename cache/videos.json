@@ -14176,5 +14176,25 @@
     },
     "first_seen": "2026-08-15T21:12:06.314862+00:00",
     "is_new": false
+  },
+  "msECsA9TCqU": {
+    "video_id": "msECsA9TCqU",
+    "title": "The process of building Martell Media",
+    "published": "2026-08-16T01:00:57+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/msECsA9TCqU/hqdefault.jpg",
+    "description": "The process of building Martell Media",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The process of building Martell Media",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-16T02:15:31.119833+00:00",
+    "is_new": true
   }
 }
