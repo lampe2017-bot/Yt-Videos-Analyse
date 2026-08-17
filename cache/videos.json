@@ -14356,5 +14356,25 @@
     },
     "first_seen": "2026-08-17T18:25:18.347051+00:00",
     "is_new": false
+  },
+  "pmMyv7eaceU": {
+    "video_id": "pmMyv7eaceU",
+    "title": "Your physique is your physical resume",
+    "published": "2026-08-17T21:00:59+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pmMyv7eaceU/hqdefault.jpg",
+    "description": "Your physique is your physical resume",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your physique is your physical resume",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-17T21:16:28.982960+00:00",
+    "is_new": true
   }
 }
