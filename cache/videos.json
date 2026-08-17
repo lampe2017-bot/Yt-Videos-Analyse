@@ -14296,5 +14296,25 @@
     },
     "first_seen": "2026-08-17T02:13:48.547243+00:00",
     "is_new": false
+  },
+  "Mg4hsqdwjcI": {
+    "video_id": "Mg4hsqdwjcI",
+    "title": "ChatGPT is such a YES MAN",
+    "published": "2026-08-17T15:04:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Mg4hsqdwjcI/hqdefault.jpg",
+    "description": "Follow and comment \"YES MAN\" for the full prompt.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "ChatGPT is such a YES MAN",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-17T15:47:36.542749+00:00",
+    "is_new": true
   }
 }
