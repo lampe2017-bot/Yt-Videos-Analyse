@@ -14276,5 +14276,25 @@
     },
     "first_seen": "2026-08-16T21:10:59.623584+00:00",
     "is_new": false
+  },
+  "cK8q-ZHbcwI": {
+    "video_id": "cK8q-ZHbcwI",
+    "title": "You need to get a coach",
+    "published": "2026-08-17T01:01:02+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cK8q-ZHbcwI/hqdefault.jpg",
+    "description": "You need to get a coach",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You need to get a coach",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-17T02:13:48.547243+00:00",
+    "is_new": true
   }
 }
