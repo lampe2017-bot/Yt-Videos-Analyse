@@ -13145,7 +13145,7 @@
     "description": "Biocomputing und Organoide Intelligenz: Wie lebende menschliche Hirnzellen im Labor rechnen, lernen, Pong spielen und was das für die Zukunft der KI wirklich bedeutet.\n\nSichere dir den kostenfreien PDF-Report \"Lokale KI\": https://www.kiberatung.de/report/lokale-ki\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_sourc",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "21:14",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -14415,7 +14415,7 @@
       "model": null
     },
     "first_seen": "2026-08-18T15:26:43.355588+00:00",
-    "is_new": true
+    "is_new": false
   },
   "s6AEC_BmtYg": {
     "video_id": "s6AEC_BmtYg",
@@ -14435,6 +14435,6 @@
       "model": null
     },
     "first_seen": "2026-08-18T15:28:44.603701+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
