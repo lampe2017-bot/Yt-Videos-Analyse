@@ -14576,5 +14576,25 @@
     },
     "first_seen": "2026-08-19T15:32:21.632956+00:00",
     "is_new": false
+  },
+  "zpJC5IhQR14": {
+    "video_id": "zpJC5IhQR14",
+    "title": "What jobs are safe from AI?",
+    "published": "2026-08-19T21:01:02+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zpJC5IhQR14/hqdefault.jpg",
+    "description": "What jobs are safe from AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What jobs are safe from AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-19T21:19:15.803555+00:00",
+    "is_new": true
   }
 }
