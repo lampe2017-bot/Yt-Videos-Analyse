@@ -14476,5 +14476,25 @@
     },
     "first_seen": "2026-08-18T21:13:41.912095+00:00",
     "is_new": false
+  },
+  "2nZ8SF6WgNc": {
+    "video_id": "2nZ8SF6WgNc",
+    "title": "How to scale to $1M in revenue",
+    "published": "2026-08-19T01:01:16+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2nZ8SF6WgNc/hqdefault.jpg",
+    "description": "How to scale to $1M in revenue",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to scale to $1M in revenue",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-19T02:14:44.951924+00:00",
+    "is_new": true
   }
 }
