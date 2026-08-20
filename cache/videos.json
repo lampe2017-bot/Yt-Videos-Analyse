@@ -14596,5 +14596,25 @@
     },
     "first_seen": "2026-08-19T21:19:15.803555+00:00",
     "is_new": false
+  },
+  "N7bZkITXCas": {
+    "video_id": "N7bZkITXCas",
+    "title": "Don't do this as an entrepreneur",
+    "published": "2026-08-20T01:01:32+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/N7bZkITXCas/hqdefault.jpg",
+    "description": "Don't do this as an entrepreneur",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't do this as an entrepreneur",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-20T02:14:23.944905+00:00",
+    "is_new": true
   }
 }
