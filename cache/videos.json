@@ -14676,5 +14676,25 @@
     },
     "first_seen": "2026-08-20T15:59:34.123583+00:00",
     "is_new": false
+  },
+  "72DxhqI_50I": {
+    "video_id": "72DxhqI_50I",
+    "title": "Should you skip, read, or study these books if you're a young entrepreneur?",
+    "published": "2026-08-21T01:02:06+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/72DxhqI_50I/hqdefault.jpg",
+    "description": "Should you skip, read, or study these books if you're a young entrepreneur?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you skip, read, or study these books if you're a young entrepreneur?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-21T02:20:53.732936+00:00",
+    "is_new": true
   }
 }
