@@ -14696,5 +14696,25 @@
     },
     "first_seen": "2026-08-21T02:20:53.732936+00:00",
     "is_new": false
+  },
+  "fPrFyP9DIas": {
+    "video_id": "fPrFyP9DIas",
+    "title": "Which of these things are ASSETS or LIABILITIES?",
+    "published": "2026-08-21T15:03:58+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fPrFyP9DIas/hqdefault.jpg",
+    "description": "Which of these things are ASSETS or LIABILITIES?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which of these things are ASSETS or LIABILITIES?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-21T15:37:11.806173+00:00",
+    "is_new": true
   }
 }
