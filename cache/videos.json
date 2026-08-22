@@ -12786,11 +12786,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Alle Kundenstimmen findest du hier: https://www.youtube.com/playlist?list=PLk7pG7wpqjW00tIYD3SQxg3cg0FS6hOw5\n\nBewirb dich hier auf unsere zertifizierte AI-Automations-Manager Weiterbildung: https://aiautomationsmanager.de \n\nDu willst als Ar…"
+        "was in diesem Jahr alles gegangen ist, neu dazu gekommen ist, stärker geworden ist, ist unglaublich. Das Ziel ist eigentlich immer voll am Ball zu bleiben und das geht schon relativ gut alleine mit den Videos von Leo. Ich habe so viele Tool…"
       ],
       "model": null
     },
@@ -14796,5 +14796,25 @@
     },
     "first_seen": "2026-08-22T15:13:36.466068+00:00",
     "is_new": false
+  },
+  "Sc1lPi-LD1Q": {
+    "video_id": "Sc1lPi-LD1Q",
+    "title": "How to be a great leader",
+    "published": "2026-08-22T21:01:15+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Sc1lPi-LD1Q/hqdefault.jpg",
+    "description": "How to be a great leader",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to be a great leader",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-22T21:15:20.686736+00:00",
+    "is_new": true
   }
 }
