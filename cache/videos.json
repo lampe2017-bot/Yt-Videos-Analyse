@@ -14756,5 +14756,25 @@
     },
     "first_seen": "2026-08-22T07:17:59.414475+00:00",
     "is_new": false
+  },
+  "prjBlSDEMWs": {
+    "video_id": "prjBlSDEMWs",
+    "title": "7 Wege, mit Software Geld zu verdienen (ohne eigenes SaaS)",
+    "published": "2026-08-22T08:15:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/prjBlSDEMWs/hqdefault.jpg",
+    "description": "In diesem Video zeige ich dir 7 Wege, wie du mit Software Geld verdienen kannst, ohne ein eigenes SaaS zu bauen.  Alle Wege kommen direkt aus der Praxis bei Everlast AI und eignen sich auch für Anfänger, die mit KI-Apps Geld verdienen wollen.\n\nKostenfreier Agentic Coding Live Workshop: https://aicoding.de \n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Leonar",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In diesem Video zeige ich dir 7 Wege, wie du mit Software Geld verdienen kannst, ohne ein eigenes SaaS zu bauen.  Alle Wege kommen direkt aus der Praxis bei Everlast AI und eignen sich auch für Anfänger, die mit KI-Apps Geld verdienen wolle…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-22T08:26:53.067992+00:00",
+    "is_new": true
   }
 }
