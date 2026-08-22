@@ -14716,5 +14716,25 @@
     },
     "first_seen": "2026-08-21T15:37:11.806173+00:00",
     "is_new": false
+  },
+  "5Me4iOf0b5U": {
+    "video_id": "5Me4iOf0b5U",
+    "title": "How to ACTUALLY grow your business",
+    "published": "2026-08-22T01:01:12+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5Me4iOf0b5U/hqdefault.jpg",
+    "description": "How to ACTUALLY grow your business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to ACTUALLY grow your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-22T02:12:02.751030+00:00",
+    "is_new": true
   }
 }
