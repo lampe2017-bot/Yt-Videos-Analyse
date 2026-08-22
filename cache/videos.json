@@ -14776,5 +14776,25 @@
     },
     "first_seen": "2026-08-22T08:26:53.067992+00:00",
     "is_new": false
+  },
+  "zOQf2HGaBTE": {
+    "video_id": "zOQf2HGaBTE",
+    "title": "10/10 skills to teach the kids",
+    "published": "2026-08-22T15:02:57+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zOQf2HGaBTE/hqdefault.jpg",
+    "description": "10/10 skills to teach the kids",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "10/10 skills to teach the kids",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-22T15:13:36.466068+00:00",
+    "is_new": true
   }
 }
