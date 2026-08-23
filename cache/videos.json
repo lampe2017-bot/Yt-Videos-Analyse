@@ -14836,5 +14836,25 @@
     },
     "first_seen": "2026-08-22T22:17:32.655943+00:00",
     "is_new": false
+  },
+  "RAmWmLrPXiY": {
+    "video_id": "RAmWmLrPXiY",
+    "title": "7 metrics you NEED to know as a CEO",
+    "published": "2026-08-23T01:01:12+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RAmWmLrPXiY/hqdefault.jpg",
+    "description": "7 metrics you NEED to know as a CEO",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "7 metrics you NEED to know as a CEO",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-23T02:21:47.130089+00:00",
+    "is_new": true
   }
 }
