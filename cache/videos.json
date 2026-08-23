@@ -14686,11 +14686,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "Should you skip, read, or study these books if you're a young entrepreneur?",
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Rich Dad Poor Dad by Robert Kiyosaki. >> Skip. >> I know. Look, if you're starting off, understanding the difference between an entrepreneur and investor, not critical. You can skip it for now. >> Losing [music] my virginity by Richard Bran…"
       ],
       "model": null
     },
