@@ -14665,7 +14665,7 @@
     "description": "Ranking financial decisions to make in your 20s",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:41",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Ranking financial decisions to make in your 20s",
@@ -14855,6 +14855,6 @@
       "model": null
     },
     "first_seen": "2026-08-23T02:21:47.130089+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
