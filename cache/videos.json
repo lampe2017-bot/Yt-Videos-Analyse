@@ -14916,5 +14916,25 @@
     },
     "first_seen": "2026-08-24T02:20:05.251898+00:00",
     "is_new": false
+  },
+  "2lWarkDqRTA": {
+    "video_id": "2lWarkDqRTA",
+    "title": "How much do you ACTUALLY know about AI?",
+    "published": "2026-08-24T15:02:25+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2lWarkDqRTA/hqdefault.jpg",
+    "description": "How much do you ACTUALLY know about AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How much do you ACTUALLY know about AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-24T15:11:22.268616+00:00",
+    "is_new": true
   }
 }
