@@ -14996,5 +14996,45 @@
     },
     "first_seen": "2026-08-25T07:23:37.868773+00:00",
     "is_new": false
+  },
+  "KZAJeq5n-m8": {
+    "video_id": "KZAJeq5n-m8",
+    "title": "Nie wieder Claude-Limits: 12 Tipps für 20x mehr Leistung aus deinem Claude-Plan!",
+    "published": "2026-08-25T15:15:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KZAJeq5n-m8/hqdefault.jpg",
+    "description": "Claude Kosten senken: In diesem Tutorial zeigen wir dir 12 praxiserprobte Tipps, mit denen du 10 bis 20 Mal mehr aus deinem Claude-Plan herausholst. \n\nKostenfreier “Claude Kostenoptimierung” Report: https://www.kiberatung.de/report/claude-kosten-report \nDer Nr. 1 Claude Kurs mit 8000+ erfolgreichen Teilnehmern: https://claudekurs.de \nKostenfreier Agentic Marketing Workshop: https://kilernen.de/agentic-marketing-workshop\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehm",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Claude Kosten senken: In diesem Tutorial zeigen wir dir 12 praxiserprobte Tipps, mit denen du 10 bis 20 Mal mehr aus deinem Claude-Plan herausholst. \n\nKostenfreier “Claude Kostenoptimierung” Report: https://www.kiberatung.de/report/claude-k…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-25T16:05:34.377474+00:00",
+    "is_new": true
+  },
+  "V8C0S7CcEc8": {
+    "video_id": "V8C0S7CcEc8",
+    "title": "Which leader do you have?",
+    "published": "2026-08-25T15:04:59+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/V8C0S7CcEc8/hqdefault.jpg",
+    "description": "Which leader do you have?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which leader do you have?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-25T16:10:40.035316+00:00",
+    "is_new": true
   }
 }
