@@ -15036,5 +15036,25 @@
     },
     "first_seen": "2026-08-25T16:10:40.035316+00:00",
     "is_new": false
+  },
+  "pEZ0Rl3Hpew": {
+    "video_id": "pEZ0Rl3Hpew",
+    "title": "Letting a kid rev my SVJ",
+    "published": "2026-08-25T21:01:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pEZ0Rl3Hpew/hqdefault.jpg",
+    "description": "Letting a kid rev my SVJ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Letting a kid rev my SVJ",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-25T21:20:33.872052+00:00",
+    "is_new": true
   }
 }
