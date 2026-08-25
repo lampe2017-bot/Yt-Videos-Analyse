@@ -15015,7 +15015,7 @@
       "model": null
     },
     "first_seen": "2026-08-25T16:05:34.377474+00:00",
-    "is_new": true
+    "is_new": false
   },
   "V8C0S7CcEc8": {
     "video_id": "V8C0S7CcEc8",
@@ -15035,6 +15035,6 @@
       "model": null
     },
     "first_seen": "2026-08-25T16:10:40.035316+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
