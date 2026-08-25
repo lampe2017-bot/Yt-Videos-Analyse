@@ -13326,11 +13326,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Thomas Derksen lebt seit über 12 Jahren in Shanghai und erklärt, warum China bei Robotik, KI und Elektroautos uneinholbar vorne liegt: 200 Roboterfirmen auf engstem Raum, 60 Prozent Gleichteile und ein Social-Credit-System, das anders funkt…"
+        "Der EV, der Elektroautoschock ist jetzt gerade in Deutschland angekommen und da kann ich nur drüber [musik] lächeln, weil in China ist das Thema längst abgehackt. Kein Mensch spricht mehr über EVs. Vieles, was man noch als Probleme formulie…"
       ],
       "model": null
     },
@@ -15055,6 +15055,6 @@
       "model": null
     },
     "first_seen": "2026-08-25T21:20:33.872052+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
