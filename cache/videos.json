@@ -14906,11 +14906,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "en",
+    "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "hook": "How to hire quality people on your team",
       "bullets": [
-        "How do I know if I'm hiring dumb [music] people? >> You know, if you do a test and they're dumb. We do cognitive assessments for everybody we hire. So, we know statistically backed by science that their brain doesn't work like everybody els…"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
@@ -15056,5 +15056,25 @@
     },
     "first_seen": "2026-08-25T21:20:33.872052+00:00",
     "is_new": false
+  },
+  "I_-P_SozNK4": {
+    "video_id": "I_-P_SozNK4",
+    "title": "The Most Dangerous People: Specialized Knowledge",
+    "published": "2026-08-26T01:00:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/I_-P_SozNK4/hqdefault.jpg",
+    "description": "How to be come dangerously skilled",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The Most Dangerous People: Specialized Knowledge",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-26T02:35:42.503499+00:00",
+    "is_new": true
   }
 }
