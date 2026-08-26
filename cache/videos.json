@@ -14906,11 +14906,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "How to hire quality people on your team",
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "How do I know if I'm hiring dumb [music] people? >> You know, if you do a test and they're dumb. We do cognitive assessments for everybody we hire. So, we know statistically backed by science that their brain doesn't work like everybody els…"
       ],
       "model": null
     },
