@@ -15115,6 +15115,26 @@
       "model": null
     },
     "first_seen": "2026-08-26T14:41:07.643458+00:00",
+    "is_new": false
+  },
+  "zi38l7wV3ic": {
+    "video_id": "zi38l7wV3ic",
+    "title": "You only need 1 hit to actually be successful, so keep swinging",
+    "published": "2026-08-26T15:03:21+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zi38l7wV3ic/hqdefault.jpg",
+    "description": "You only need 1 hit to actually be successful, so keep swinging",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You only need 1 hit to actually be successful, so keep swinging",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-26T16:12:44.971679+00:00",
     "is_new": true
   }
 }
