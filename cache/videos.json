@@ -15136,5 +15136,25 @@
     },
     "first_seen": "2026-08-26T16:12:44.971679+00:00",
     "is_new": false
+  },
+  "2wc7f14Svok": {
+    "video_id": "2wc7f14Svok",
+    "title": "Don't say these words",
+    "published": "2026-08-26T23:01:16+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2wc7f14Svok/hqdefault.jpg",
+    "description": "Don't say these words",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't say these words",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-26T23:53:39.025100+00:00",
+    "is_new": true
   }
 }
