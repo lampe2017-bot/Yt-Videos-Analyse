@@ -15159,7 +15159,7 @@
   },
   "n_lYxc5WUlQ": {
     "video_id": "n_lYxc5WUlQ",
-    "title": "SO verbessert sich KI selbst: Forscher erklärt wie KI sich jetzt selbst baut (Dr. Robert Lange)",
+    "title": "Es beginnt: KI verbessert sich SELBST! DAS passiert jetzt wirklich (Sakana AI, Robert Lange)",
     "published": "2026-08-27T15:15:14+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/n_lYxc5WUlQ/hqdefault.jpg",
     "description": "Robert Lange, Gründungsmitglied von Sakana AI, dem wertvollsten KI-Forschungslabor Japans, erklärt, wie künstliche Intelligenz durch rekursive Selbstverbesserung und evolutionäre Algorithmen ihren eigenen Code umschreibt und Forschung vollautonom betreibt. Vom AI Scientist über die Darwin-Gödel-Maschine und Shinka Evolve bis zum Modell-Router Sakana Fugu: der komplette Überblick über den Weg zur Superintelligenz.\n\nLerne Tools wie Agentic Coding Tools wie Claude Code und Codex von A-Z: https://claudecodekurs.de \nBleibe täglich auf dem Laufenden mit unserem WhatsApp-Kanal: https://everlastwhatsa",
@@ -15175,7 +15175,7 @@
       "model": null
     },
     "first_seen": "2026-08-27T16:37:31.487052+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WLI9qJXl3bw": {
     "video_id": "WLI9qJXl3bw",
@@ -15195,6 +15195,46 @@
       "model": null
     },
     "first_seen": "2026-08-27T16:42:33.555676+00:00",
+    "is_new": false
+  },
+  "Qi0dVlS3QG0": {
+    "video_id": "Qi0dVlS3QG0",
+    "title": "Build a brand",
+    "published": "2026-08-28T01:00:56+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Qi0dVlS3QG0/hqdefault.jpg",
+    "description": "Build a brand",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Build a brand",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-28T01:16:54.054911+00:00",
+    "is_new": true
+  },
+  "sT3RQEnC3TE": {
+    "video_id": "sT3RQEnC3TE",
+    "title": "6 unpopular truths for your 20s",
+    "published": "2026-08-27T21:01:31+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sT3RQEnC3TE/hqdefault.jpg",
+    "description": "6 unpopular truths for your 20s",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "6 unpopular truths for your 20s",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-28T01:17:07.901605+00:00",
     "is_new": true
   }
 }
