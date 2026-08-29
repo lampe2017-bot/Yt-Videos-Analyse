@@ -15315,6 +15315,26 @@
       "model": null
     },
     "first_seen": "2026-08-29T11:16:55.829235+00:00",
+    "is_new": false
+  },
+  "_8CUgzsdi9U": {
+    "video_id": "_8CUgzsdi9U",
+    "title": "You need to try GrokBot (new AI tool)",
+    "published": "2026-08-29T15:00:29+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_8CUgzsdi9U/hqdefault.jpg",
+    "description": "You need to try GrokBot (new AI tool)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You need to try GrokBot (new AI tool)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-29T15:46:12.790201+00:00",
     "is_new": true
   }
 }
