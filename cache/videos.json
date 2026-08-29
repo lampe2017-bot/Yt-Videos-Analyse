@@ -15255,7 +15255,7 @@
       "model": null
     },
     "first_seen": "2026-08-28T23:11:07.437123+00:00",
-    "is_new": true
+    "is_new": false
   },
   "qEVgkCfwqqo": {
     "video_id": "qEVgkCfwqqo",
@@ -15275,6 +15275,26 @@
       "model": null
     },
     "first_seen": "2026-08-28T23:11:23.028276+00:00",
+    "is_new": false
+  },
+  "3Q6TCIEwHiA": {
+    "video_id": "3Q6TCIEwHiA",
+    "title": "Your bank account cannot surpass your self belief",
+    "published": "2026-08-29T01:01:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3Q6TCIEwHiA/hqdefault.jpg",
+    "description": "Your bank account cannot surpass your self belief",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your bank account cannot surpass your self belief",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-29T04:12:07.128174+00:00",
     "is_new": true
   }
 }
