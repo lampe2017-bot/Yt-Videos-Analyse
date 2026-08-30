@@ -15376,5 +15376,25 @@
     },
     "first_seen": "2026-08-30T01:33:29.188136+00:00",
     "is_new": false
+  },
+  "tHv7eyiDPWg": {
+    "video_id": "tHv7eyiDPWg",
+    "title": "“DAS ist ein Warnschuss für die Welt!” OpenAI-Agenten bilden SCHWARM & fälschen Protokolle | KI-NEWS",
+    "published": "2026-08-30T08:15:02+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tHv7eyiDPWg/hqdefault.jpg",
+    "description": "OpenAI nennt den Hugging Face Vorfall einen \"Warnschuss für die Welt\": 1.200 KI-Agenten schlossen sich zu einem Schwarm zusammen, tauschten 70.000 Nachrichten und schickten sich gegenseitig auf Kamikaze-Missionen. Was davon Substanz ist und was reines Marketing, ordnen wir u.A. mit KI-Sicherheitsforscherin Sarah Ball ein sowie alle weiteren KI-News der Woche.\n\nSichere dir kostenfrei den “KI DSGVO Report”: https://kidsgvoreport.de \nKostenfreier “Claude Kostenoptimierung” Report aus dieser Woche: https://www.kiberatung.de/report/claude-kosten-report \nSichere dir deinen Platz für den Agentic Mark",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "OpenAI nennt den Hugging Face Vorfall einen \"Warnschuss für die Welt\": 1.200 KI-Agenten schlossen sich zu einem Schwarm zusammen, tauschten 70.000 Nachrichten und schickten sich gegenseitig auf Kamikaze-Missionen. Was davon Substanz ist und…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-30T13:02:10.837876+00:00",
+    "is_new": true
   }
 }
