@@ -15415,7 +15415,7 @@
       "model": null
     },
     "first_seen": "2026-08-30T17:44:03.152847+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BkeZ-Kh4ayM": {
     "video_id": "BkeZ-Kh4ayM",
@@ -15435,6 +15435,6 @@
       "model": null
     },
     "first_seen": "2026-08-30T17:47:43.767922+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
