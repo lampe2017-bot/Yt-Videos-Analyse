@@ -15356,5 +15356,25 @@
     },
     "first_seen": "2026-08-29T21:34:10.084640+00:00",
     "is_new": false
+  },
+  "UzqHuuQw0rQ": {
+    "video_id": "UzqHuuQw0rQ",
+    "title": "Are you a $10 CEO or $100M CEO?",
+    "published": "2026-08-30T01:01:10+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/UzqHuuQw0rQ/hqdefault.jpg",
+    "description": "Are you a $10 CEO or $100M CEO?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you a $10 CEO or $100M CEO?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-30T01:33:29.188136+00:00",
+    "is_new": true
   }
 }
