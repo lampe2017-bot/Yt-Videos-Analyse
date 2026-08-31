@@ -15475,6 +15475,26 @@
       "model": null
     },
     "first_seen": "2026-08-31T14:37:29.659831+00:00",
+    "is_new": false
+  },
+  "f5aDPccdHHw": {
+    "video_id": "f5aDPccdHHw",
+    "title": "\"What was your best investment?\"",
+    "published": "2026-08-31T15:02:27+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f5aDPccdHHw/hqdefault.jpg",
+    "description": "\"What was your best investment?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"What was your best investment?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-31T20:31:48.385961+00:00",
     "is_new": true
   }
 }
