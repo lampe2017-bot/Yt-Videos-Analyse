@@ -15456,5 +15456,25 @@
     },
     "first_seen": "2026-08-30T22:56:08.966782+00:00",
     "is_new": false
+  },
+  "0rkUYeyUjzQ": {
+    "video_id": "0rkUYeyUjzQ",
+    "title": "Best bang for your buck marketing strategy",
+    "published": "2026-08-31T01:01:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0rkUYeyUjzQ/hqdefault.jpg",
+    "description": "Best bang for your buck marketing strategy",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Best bang for your buck marketing strategy",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-08-31T14:37:29.659831+00:00",
+    "is_new": true
   }
 }
