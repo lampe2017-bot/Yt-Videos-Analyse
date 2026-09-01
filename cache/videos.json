@@ -15495,6 +15495,26 @@
       "model": null
     },
     "first_seen": "2026-08-31T20:31:48.385961+00:00",
+    "is_new": false
+  },
+  "5a-kOahRdqo": {
+    "video_id": "5a-kOahRdqo",
+    "title": "Managers are the most hated role in any company",
+    "published": "2026-08-31T21:01:22+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5a-kOahRdqo/hqdefault.jpg",
+    "description": "Managers are the most hated role in any company",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Managers are the most hated role in any company",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-01T00:02:23.215660+00:00",
     "is_new": true
   }
 }
