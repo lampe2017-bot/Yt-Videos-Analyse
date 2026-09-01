@@ -15556,5 +15556,45 @@
     },
     "first_seen": "2026-09-01T08:41:40.328758+00:00",
     "is_new": false
+  },
+  "C_N-MopUigk": {
+    "video_id": "C_N-MopUigk",
+    "title": "China hat soeben etwas gebaut, das alle für unmöglich gehalten haben",
+    "published": "2026-09-01T15:15:10+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/C_N-MopUigk/hqdefault.jpg",
+    "description": "Huawei will Chips mit 1,4 Nanometer Äquivalent ohne EUV-Maschinen bauen und greift mit Logic Folding genau den Flaschenhals an, der lokale KI heute ausbremst: das Verschieben von Daten. Ich bin nach China gereist und zeige vor Ort, warum das für lokale LLMs wie DeepSeek und GLM alles verändert.\n\nSichere dir den kostenfreien PDF-Report \"Lokale KI: Der Praxisleitfaden\": https://www.kiberatung.de/report/lokale-ki \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die W",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Huawei will Chips mit 1,4 Nanometer Äquivalent ohne EUV-Maschinen bauen und greift mit Logic Folding genau den Flaschenhals an, der lokale KI heute ausbremst: das Verschieben von Daten. Ich bin nach China gereist und zeige vor Ort, warum da…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-01T17:29:00.773372+00:00",
+    "is_new": true
+  },
+  "ycw9PAdAcbM": {
+    "video_id": "ycw9PAdAcbM",
+    "title": "How to sell websites to local businesses",
+    "published": "2026-09-01T15:04:08+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ycw9PAdAcbM/hqdefault.jpg",
+    "description": "How to sell websites to local businesses",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to sell websites to local businesses",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-01T17:34:53.704637+00:00",
+    "is_new": true
   }
 }
