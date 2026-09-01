@@ -15575,7 +15575,7 @@
       "model": null
     },
     "first_seen": "2026-09-01T17:29:00.773372+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ycw9PAdAcbM": {
     "video_id": "ycw9PAdAcbM",
@@ -15595,6 +15595,6 @@
       "model": null
     },
     "first_seen": "2026-09-01T17:34:53.704637+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
