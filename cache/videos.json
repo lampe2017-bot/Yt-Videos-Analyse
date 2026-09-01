@@ -15596,5 +15596,25 @@
     },
     "first_seen": "2026-09-01T17:34:53.704637+00:00",
     "is_new": false
+  },
+  "lIEoMIs3bRU": {
+    "video_id": "lIEoMIs3bRU",
+    "title": "Which AI user are you?",
+    "published": "2026-09-01T21:02:13+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lIEoMIs3bRU/hqdefault.jpg",
+    "description": "Which AI user are you?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which AI user are you?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-01T22:45:52.958875+00:00",
+    "is_new": true
   }
 }
