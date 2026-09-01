@@ -15535,7 +15535,7 @@
       "model": null
     },
     "first_seen": "2026-09-01T08:26:08.454211+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Rslda-fG1kQ": {
     "video_id": "Rslda-fG1kQ",
@@ -15555,6 +15555,6 @@
       "model": null
     },
     "first_seen": "2026-09-01T08:41:40.328758+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
