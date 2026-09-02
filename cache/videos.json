@@ -15635,7 +15635,7 @@
       "model": null
     },
     "first_seen": "2026-09-02T09:50:30.056212+00:00",
-    "is_new": true
+    "is_new": false
   },
   "GlvF_Sly2BA": {
     "video_id": "GlvF_Sly2BA",
@@ -15655,6 +15655,26 @@
       "model": null
     },
     "first_seen": "2026-09-02T09:54:02.583029+00:00",
+    "is_new": false
+  },
+  "DlQyXhjH2jE": {
+    "video_id": "DlQyXhjH2jE",
+    "title": "Once You Make Money, Upgrade These 7 Things ASAP",
+    "published": "2026-09-02T13:00:23+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/DlQyXhjH2jE/hqdefault.jpg",
+    "description": "✅ Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4gKBcIG\n\nAlmost every finance expert loves telling you what not to spend your money on. I think that advice keeps most people small.\n\nOnce the money finally shows up, the real question is what you actually upgrade first, because most people pour it into things that look impressive and change nothing.\n\nIn this video I share what the wealthiest people I know spend on, and why these moves do more for your life than any bank balance ever will. Watch to the end, the last one is the one nobody expects.\n\n▸▸ Subscribe to The ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4gKBcIG\n\nAlmost every finance expert loves telling you what not to spend your money on. I think that advice keeps most people small.\n\nOnce the money finally shows …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-02T14:01:30.694564+00:00",
     "is_new": true
   }
 }
