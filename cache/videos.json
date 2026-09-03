@@ -15776,5 +15776,45 @@
     },
     "first_seen": "2026-09-03T09:22:51.836748+00:00",
     "is_new": false
+  },
+  "JtcLy_YRFs0": {
+    "video_id": "JtcLy_YRFs0",
+    "title": "Zukunftsforscher packt aus: „Wir haben noch 10 Jahre!” DAS kommt bis 2035",
+    "published": "2026-09-03T15:15:07+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JtcLy_YRFs0/hqdefault.jpg",
+    "description": "Zukunftsforscher Sven Gábor Jánszky erklärt im Interview, warum AGI bis 2035 nahezu sicher kommt, ab wann KI in Unternehmen die Führung übernimmt und weshalb 2040 mehr humanoide Roboter auf der Welt leben als Menschen. Ein Blick in sein neues Buch \"2035\": das Ende der Lohnarbeit, KI-Replikate statt KI-Agenten und zwei Roboter als neue Mitbewohner.\n\nSichere dir kostenfrei den “KI DSGVO Report”: https://kidsgvoreport.de \nSichere dir deinen Platz für den Agentic Marketing Workshop: https://agenticmarketing.de  \nDas Buch zum Interview, \"2035: Die Zukunft beginnt heute\" von Sven Gábor Jánszky: http",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Zukunftsforscher Sven Gábor Jánszky erklärt im Interview, warum AGI bis 2035 nahezu sicher kommt, ab wann KI in Unternehmen die Führung übernimmt und weshalb 2040 mehr humanoide Roboter auf der Welt leben als Menschen. Ein Blick in sein neu…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-03T17:21:30.486129+00:00",
+    "is_new": true
+  },
+  "7lbjqkR7mVg": {
+    "video_id": "7lbjqkR7mVg",
+    "title": "Which books should you be reading as an entrepreneur?",
+    "published": "2026-09-03T15:03:09+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7lbjqkR7mVg/hqdefault.jpg",
+    "description": "Which books should you be reading as an entrepreneur?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which books should you be reading as an entrepreneur?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-03T17:25:44.022587+00:00",
+    "is_new": true
   }
 }
