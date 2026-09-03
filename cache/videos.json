@@ -15795,7 +15795,7 @@
       "model": null
     },
     "first_seen": "2026-09-03T17:21:30.486129+00:00",
-    "is_new": true
+    "is_new": false
   },
   "7lbjqkR7mVg": {
     "video_id": "7lbjqkR7mVg",
@@ -15815,6 +15815,6 @@
       "model": null
     },
     "first_seen": "2026-09-03T17:25:44.022587+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
