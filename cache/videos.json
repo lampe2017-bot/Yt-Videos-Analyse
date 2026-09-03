@@ -15816,5 +15816,25 @@
     },
     "first_seen": "2026-09-03T17:25:44.022587+00:00",
     "is_new": false
+  },
+  "KUhHcjV3NSw": {
+    "video_id": "KUhHcjV3NSw",
+    "title": "No one who's accomplished anything impressive had work life balance",
+    "published": "2026-09-03T21:01:48+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/KUhHcjV3NSw/hqdefault.jpg",
+    "description": "F*ck your work life balance",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "No one who's accomplished anything impressive had work life balance",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-03T22:16:09.062394+00:00",
+    "is_new": true
   }
 }
