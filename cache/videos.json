@@ -15606,11 +15606,11 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "0:53",
-    "transcript_lang": "en",
+    "transcript_lang": "rss-desc",
     "summary": {
-      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "hook": "Which AI user are you?",
       "bullets": [
-        "Googles the thing they want to learn. >> Dumb user. >> Asks Claude or ChatGPT. >> Normal. >> Drops video links and files into Notebook LM to summarize the learnings. >> Ooh, advanced. That's a smart AI user. >> Types, \"Build me an app.\" int…"
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
       ],
       "model": null
     },
@@ -15755,7 +15755,7 @@
       "model": null
     },
     "first_seen": "2026-09-03T09:20:37.528219+00:00",
-    "is_new": true
+    "is_new": false
   },
   "cb5n9nX5bnU": {
     "video_id": "cb5n9nX5bnU",
@@ -15775,6 +15775,6 @@
       "model": null
     },
     "first_seen": "2026-09-03T09:22:51.836748+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
