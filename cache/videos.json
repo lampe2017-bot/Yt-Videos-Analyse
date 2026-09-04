@@ -14446,11 +14446,11 @@
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
     "duration": "",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Allerdings als Selbstständiger entstehen da auch so ein paar gewisse Probleme, die man einfach mitbringt. Ja, ich kann z.B. nicht mehr wirklich einfach mehrmals im Jahr launchen. Ich habe da keine Zeit mehr für, auch wenn ich natürlich dem …"
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: …"
       ],
       "model": null
     },
@@ -15836,5 +15836,45 @@
     },
     "first_seen": "2026-09-03T22:16:09.062394+00:00",
     "is_new": false
+  },
+  "GtYo0XYzfNo": {
+    "video_id": "GtYo0XYzfNo",
+    "title": "Why is my watch $500,000?",
+    "published": "2026-09-04T01:01:40+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/GtYo0XYzfNo/hqdefault.jpg",
+    "description": "Why is my watch $500,000?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why is my watch $500,000?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-04T09:13:44.722247+00:00",
+    "is_new": true
+  },
+  "fy9lQEbSJRg": {
+    "video_id": "fy9lQEbSJRg",
+    "title": "Soloselbstständig als Papa mit 3 Tage Woche",
+    "published": "2026-09-04T05:30:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fy9lQEbSJRg/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nFirma skalieren als Vater: So steigerst du deinen Umsatz, ohne wertvolle Zeit mit deiner Tochter zu verlieren. Lerne, wie du Arbeit effizienter organisierst.\n\nViele Unternehmer stehen vor der Herausforderung, das eigene Business wachsen zu lassen, während die Familie nicht zu kurz kommen darf. Dieses Video zeigt konkrete Strategien für Väter, die ihre Selbstständigkeit optimieren wollen, um mehr Arbeit in weniger Zeit zu bewältigen. Wir ",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nFirma skalieren als Vater: So steigerst du deinen Umsatz, ohne wertvolle Zeit mit…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-04T09:16:16.065381+00:00",
+    "is_new": true
   }
 }
