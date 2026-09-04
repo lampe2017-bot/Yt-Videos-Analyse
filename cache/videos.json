@@ -15896,5 +15896,25 @@
     },
     "first_seen": "2026-09-04T17:17:40.444105+00:00",
     "is_new": false
+  },
+  "YMBZ0o8JBBU": {
+    "video_id": "YMBZ0o8JBBU",
+    "title": "Should You Start These Businesses?",
+    "published": "2026-09-04T21:00:33+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YMBZ0o8JBBU/hqdefault.jpg",
+    "description": "What business should you start?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should You Start These Businesses?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-04T21:58:43.904097+00:00",
+    "is_new": true
   }
 }
