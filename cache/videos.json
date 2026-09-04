@@ -14446,11 +14446,11 @@
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: …"
+        "Allerdings als Selbstständiger entstehen da auch so ein paar gewisse Probleme, die man einfach mitbringt. Ja, ich kann z.B. nicht mehr wirklich einfach mehrmals im Jahr launchen. Ich habe da keine Zeit mehr für, auch wenn ich natürlich dem …"
       ],
       "model": null
     },
@@ -15835,6 +15835,6 @@
       "model": null
     },
     "first_seen": "2026-09-03T22:16:09.062394+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
