@@ -15916,5 +15916,25 @@
     },
     "first_seen": "2026-09-04T21:58:43.904097+00:00",
     "is_new": false
+  },
+  "3AqzFuqv2VM": {
+    "video_id": "3AqzFuqv2VM",
+    "title": "\"What's the best morning routine?\"",
+    "published": "2026-09-05T01:01:08+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3AqzFuqv2VM/hqdefault.jpg",
+    "description": "\"What's the best morning routine?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"What's the best morning routine?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-05T01:20:23.827147+00:00",
+    "is_new": true
   }
 }
