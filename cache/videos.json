@@ -15996,5 +15996,25 @@
     },
     "first_seen": "2026-09-05T16:13:16.439271+00:00",
     "is_new": false
+  },
+  "_yWYnI7RxQQ": {
+    "video_id": "_yWYnI7RxQQ",
+    "title": "You have to dream so big that you're embarrassed to share it",
+    "published": "2026-09-05T21:01:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_yWYnI7RxQQ/hqdefault.jpg",
+    "description": "You have to dream so big that you're embarrassed to share it",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You have to dream so big that you're embarrassed to share it",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-05T22:29:55.886258+00:00",
+    "is_new": true
   }
 }
