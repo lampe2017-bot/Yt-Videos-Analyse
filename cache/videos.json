@@ -16095,7 +16095,7 @@
       "model": null
     },
     "first_seen": "2026-09-06T15:56:54.947179+00:00",
-    "is_new": true
+    "is_new": false
   },
   "zfBc22GS3kI": {
     "video_id": "zfBc22GS3kI",
@@ -16115,6 +16115,6 @@
       "model": null
     },
     "first_seen": "2026-09-06T16:00:09.682664+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
