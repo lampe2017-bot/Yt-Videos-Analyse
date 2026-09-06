@@ -16116,5 +16116,25 @@
     },
     "first_seen": "2026-09-06T16:00:09.682664+00:00",
     "is_new": false
+  },
+  "vZdwws8fblk": {
+    "video_id": "vZdwws8fblk",
+    "title": "Mythbusting businesses",
+    "published": "2026-09-06T21:01:28+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vZdwws8fblk/hqdefault.jpg",
+    "description": "Mythbusting businesses",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Mythbusting businesses",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-06T21:52:44.757485+00:00",
+    "is_new": true
   }
 }
