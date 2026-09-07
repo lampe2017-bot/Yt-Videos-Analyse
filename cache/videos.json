@@ -16235,6 +16235,46 @@
       "model": null
     },
     "first_seen": "2026-09-07T18:03:13.167520+00:00",
+    "is_new": false
+  },
+  "C4fsOf9M4UQ": {
+    "video_id": "C4fsOf9M4UQ",
+    "title": "Are these MYTHS or FACTS? (Business Edition)",
+    "published": "2026-09-07T21:01:32+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/C4fsOf9M4UQ/hqdefault.jpg",
+    "description": "Are these MYTHS or FACTS? (Business Edition)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are these MYTHS or FACTS? (Business Edition)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-07T23:41:22.843685+00:00",
+    "is_new": true
+  },
+  "PVtSAXSv7Fo": {
+    "video_id": "PVtSAXSv7Fo",
+    "title": "GPT-6 Astra hat dieses Video erstellt",
+    "published": "2026-09-07T21:37:23+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PVtSAXSv7Fo/hqdefault.jpg",
+    "description": "So hab ich das Video generiert: https://higgsfield.ai/s/niklassteenfatt-YgoIFi\n\nEinblendungen und Animationen:\nhttps://github.com/heygen-com/hyperframes\n\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:09 KI-generiertes Video\n1:56 Ein Prompt\n3:18 Higgsfield & Hyperframes\n3:47 Deutsches Audio\n4:21 Kosten\n5:00 GPT-6 überspringt alle Hürde",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "So hab ich das Video generiert: https://higgsfield.ai/s/niklassteenfatt-YgoIFi\n\nEinblendungen und Animationen:\nhttps://github.com/heygen-com/hyperframes\n\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-07T23:47:34.193190+00:00",
     "is_new": true
   }
 }
