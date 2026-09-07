@@ -16136,5 +16136,25 @@
     },
     "first_seen": "2026-09-06T21:52:44.757485+00:00",
     "is_new": false
+  },
+  "2s1fEbXbQcU": {
+    "video_id": "2s1fEbXbQcU",
+    "title": "Stop charging by the hour",
+    "published": "2026-09-07T01:00:44+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2s1fEbXbQcU/hqdefault.jpg",
+    "description": "Stop charging by the hour",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Stop charging by the hour",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-07T06:17:39.816431+00:00",
+    "is_new": true
   }
 }
