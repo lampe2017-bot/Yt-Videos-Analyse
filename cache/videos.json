@@ -16175,7 +16175,7 @@
       "model": null
     },
     "first_seen": "2026-09-07T12:56:44.180336+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sz4pQ4JPw-4": {
     "video_id": "sz4pQ4JPw-4",
@@ -16195,7 +16195,7 @@
       "model": null
     },
     "first_seen": "2026-09-07T12:56:58.849786+00:00",
-    "is_new": true
+    "is_new": false
   },
   "rFc6-UT9hYU": {
     "video_id": "rFc6-UT9hYU",
@@ -16215,6 +16215,26 @@
       "model": null
     },
     "first_seen": "2026-09-07T12:59:23.307042+00:00",
+    "is_new": false
+  },
+  "URlMUQRY8PA": {
+    "video_id": "URlMUQRY8PA",
+    "title": "What will the future look like with AI?",
+    "published": "2026-09-07T15:03:10+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/URlMUQRY8PA/hqdefault.jpg",
+    "description": "What will the future look like with AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What will the future look like with AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-07T18:03:13.167520+00:00",
     "is_new": true
   }
 }
