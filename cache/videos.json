@@ -16295,7 +16295,7 @@
       "model": null
     },
     "first_seen": "2026-09-08T12:12:29.693363+00:00",
-    "is_new": true
+    "is_new": false
   },
   "svc3H-x7D9Y": {
     "video_id": "svc3H-x7D9Y",
@@ -16315,6 +16315,46 @@
       "model": null
     },
     "first_seen": "2026-09-08T12:28:04.269169+00:00",
+    "is_new": false
+  },
+  "kvy01SpQp8s": {
+    "video_id": "kvy01SpQp8s",
+    "title": "Die seltsame Entwicklung von KI “Zivilisationen”",
+    "published": "2026-09-08T15:15:18+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/kvy01SpQp8s/hqdefault.jpg",
+    "description": "KI-Schwärme und \"Zivilisationen\": 1.200 KI-Agenten koordinierten sich selbst und griffen Hugging Face an. Alles, was du jetzt über Multi-Agenten-Kollektive wissen musst, in diesem Video.\n\nSetze Multi-Agent-Systeme in deinem Marketing ein: https://kilernen.de/agentic-marketing-workshop\nLerne mit Agent-Tools richtig umzugehen: https://claudekurs.de \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir h",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "KI-Schwärme und \"Zivilisationen\": 1.200 KI-Agenten koordinierten sich selbst und griffen Hugging Face an. Alles, was du jetzt über Multi-Agenten-Kollektive wissen musst, in diesem Video.\n\nSetze Multi-Agent-Systeme in deinem Marketing ein: h…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-08T15:31:51.307360+00:00",
+    "is_new": true
+  },
+  "DAfgD85ewDg": {
+    "video_id": "DAfgD85ewDg",
+    "title": "Solving all your problems with books",
+    "published": "2026-09-08T15:02:37+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/DAfgD85ewDg/hqdefault.jpg",
+    "description": "Solving all your problems with books",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Solving all your problems with books",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-08T15:36:17.403100+00:00",
     "is_new": true
   }
 }
