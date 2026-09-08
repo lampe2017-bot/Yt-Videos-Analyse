@@ -16255,7 +16255,7 @@
       "model": null
     },
     "first_seen": "2026-09-07T23:41:22.843685+00:00",
-    "is_new": true
+    "is_new": false
   },
   "PVtSAXSv7Fo": {
     "video_id": "PVtSAXSv7Fo",
@@ -16275,6 +16275,46 @@
       "model": null
     },
     "first_seen": "2026-09-07T23:47:34.193190+00:00",
+    "is_new": false
+  },
+  "2_5zH1TKG78": {
+    "video_id": "2_5zH1TKG78",
+    "title": "\"What would you do if 4 male masseuses walked into your office?\"",
+    "published": "2026-09-08T01:01:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/2_5zH1TKG78/hqdefault.jpg",
+    "description": "\"What would you do if 4 male masseuses walked into your office?\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"What would you do if 4 male masseuses walked into your office?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-08T12:12:29.693363+00:00",
+    "is_new": true
+  },
+  "svc3H-x7D9Y": {
+    "video_id": "svc3H-x7D9Y",
+    "title": "Mehr verdienen, weniger arbeiten: Der Weg zum echten Coaching-Erfolg",
+    "published": "2026-09-08T05:30:01+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/svc3H-x7D9Y/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nDie richtige Coaching Positionierung entscheidet über deinen Erfolg. Lerne, wie du dich durch deine eigene Transformation abhebst.\n\nViele Coaches scheitern daran, dass sie austauschbare Versprechen wie fünfstellige Monatsumsätze machen. Diese Strategie ist oft ineffektiv, weil sie keine echte Verbindung zum Kunden aufbaut. In diesem Video zeige ich dir, warum eine klare Coaching Nische finden der Schlüssel ist, um dich vom Markt abzugren",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nDie richtige Coaching Positionierung entscheidet über deinen Erfolg. Lerne, wie d…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-08T12:28:04.269169+00:00",
     "is_new": true
   }
 }
