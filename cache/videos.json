@@ -14406,11 +14406,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Die USA bannen alle Roboter über 2kg: Was bedeutet das für China & Europa? Die Dead-Internet-Theory ist nun offiziell Realität, die KI-Rechtsperson wird zum Point of No Return, China kontrolliert 97% der Humanoiden Roboter & die EU blamiert…"
+        "Der Point of No Return, der ist schon gegeben. Da würde ich sagen, die Büchse der Pandora, die ist do schon lange geöffnet. Und warum? Na ja, weil vor allem die USA in einem ganz knallharten Wettbewerb mit China stehen und die Open Source M…"
       ],
       "model": null
     },
@@ -16395,6 +16395,26 @@
       "model": null
     },
     "first_seen": "2026-09-09T01:57:50.378571+00:00",
+    "is_new": false
+  },
+  "PdPEx7YlpDc": {
+    "video_id": "PdPEx7YlpDc",
+    "title": "Meine Strategie für mehr Freizeit und weniger Arbeit: Die 5-2-Methode!",
+    "published": "2026-09-09T05:30:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PdPEx7YlpDc/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nWillst du weniger arbeiten als Selbstständiger? Erfahre hier, warum der Stolz auf Überstunden oft ein Fehler ist.\n\nViele Menschen definieren sich über ihre Arbeitsstunden, doch ist das wirklich sinnvoll? In diesem Video hinterfrage ich den klassischen Ansatz der Selbstständigkeit. Mein Ziel ist es nicht, möglichst beschäftigt zu sein, sondern die Freiheit zu gewinnen, mehr Freizeit für Urlaube und private Projekte zu haben.\n\nWir schauen ",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nWillst du weniger arbeiten als Selbstständiger? Erfahre hier, warum der Stolz auf…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-09T12:08:49.216667+00:00",
     "is_new": true
   }
 }
