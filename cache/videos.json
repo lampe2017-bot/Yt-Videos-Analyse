@@ -16376,5 +16376,25 @@
     },
     "first_seen": "2026-09-08T22:00:43.888910+00:00",
     "is_new": false
+  },
+  "4KNt6Bdzt5Q": {
+    "video_id": "4KNt6Bdzt5Q",
+    "title": "You need to be doing leadership training for your team",
+    "published": "2026-09-09T01:01:12+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4KNt6Bdzt5Q/hqdefault.jpg",
+    "description": "You need to be doing leadership training for your team",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You need to be doing leadership training for your team",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-09T01:57:50.378571+00:00",
+    "is_new": true
   }
 }
