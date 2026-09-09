@@ -16435,7 +16435,7 @@
       "model": null
     },
     "first_seen": "2026-09-09T16:51:29.033372+00:00",
-    "is_new": true
+    "is_new": false
   },
   "gfSVNJZgbOo": {
     "video_id": "gfSVNJZgbOo",
@@ -16455,7 +16455,7 @@
       "model": null
     },
     "first_seen": "2026-09-09T16:51:43.305451+00:00",
-    "is_new": true
+    "is_new": false
   },
   "GNScoceG-s0": {
     "video_id": "GNScoceG-s0",
@@ -16475,6 +16475,6 @@
       "model": null
     },
     "first_seen": "2026-09-09T16:55:01.799687+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
