@@ -14406,11 +14406,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Der Point of No Return, der ist schon gegeben. Da würde ich sagen, die Büchse der Pandora, die ist do schon lange geöffnet. Und warum? Na ja, weil vor allem die USA in einem ganz knallharten Wettbewerb mit China stehen und die Open Source M…"
+        "Die USA bannen alle Roboter über 2kg: Was bedeutet das für China & Europa? Die Dead-Internet-Theory ist nun offiziell Realität, die KI-Rechtsperson wird zum Point of No Return, China kontrolliert 97% der Humanoiden Roboter & die EU blamiert…"
       ],
       "model": null
     },
@@ -16415,6 +16415,66 @@
       "model": null
     },
     "first_seen": "2026-09-09T12:08:49.216667+00:00",
+    "is_new": false
+  },
+  "wP_MRxsho8c": {
+    "video_id": "wP_MRxsho8c",
+    "title": "These ADHD traits will make you rich as f*ck",
+    "published": "2026-09-09T15:03:58+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wP_MRxsho8c/hqdefault.jpg",
+    "description": "These ADHD traits will make you rich as f*ck",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These ADHD traits will make you rich as f*ck",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-09T16:51:29.033372+00:00",
+    "is_new": true
+  },
+  "gfSVNJZgbOo": {
+    "video_id": "gfSVNJZgbOo",
+    "title": "How to Use AI to Change Your Life (for the Better)",
+    "published": "2026-09-09T13:00:06+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/gfSVNJZgbOo/hqdefault.jpg",
+    "description": "I've spent hundreds of thousands of dollars on coaches, and they're the single biggest reason my life looks the way it does today.\n\nHere's what nobody tells you: the real value of a great coach isn't the advice, it's that they see the things about you that you physically cannot see about yourself.\n\nIn this video I show you how to turn AI into that exact outside voice, so you get the kind of clarity most people pay a fortune for. Watch to the end, because the most important piece is the one almost everyone skips.\n\nPrompt 1:\nYou are my ruthless mentor helping me dream bigger. Interview me about ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "I've spent hundreds of thousands of dollars on coaches, and they're the single biggest reason my life looks the way it does today.\n\nHere's what nobody tells you: the real value of a great coach isn't the advice, it's that they see the thing…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-09T16:51:43.305451+00:00",
+    "is_new": true
+  },
+  "GNScoceG-s0": {
+    "video_id": "GNScoceG-s0",
+    "title": "Wenn ich heute Marketing SCHNELL lernen wollte in 2026",
+    "published": "2026-09-09T14:00:29+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/GNScoceG-s0/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=marketing-schnell-lernen\n\n\nDu willst heute Marketing lernen? Hier sind die 6 entscheidenden Säulen für modernen Erfolg, von Performance bis zur eigenen Identität.\n\nIn diesem Video analysiere ich die sechs Kernpunkte, auf die es in der heutigen Marketingwelt wirklich ankommt. Wenn du vor der Frage stehst, wie du dich im Bereich Marketing lernen richtig aufstellst, bietet dir dieser Überblick einen klaren Fokus. Wir gehen weg von allgemeinen Theorien hi",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=marketing-schnell-lernen\n\n\nDu willst heute Marketing lernen? Hier sind die 6 entscheidenden Säu…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-09T16:55:01.799687+00:00",
     "is_new": true
   }
 }
