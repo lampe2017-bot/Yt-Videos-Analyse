@@ -13705,7 +13705,7 @@
     "description": "KI lernen als Einsteiger: Hier bekommst du die 10 wichtigsten Tipps, mit denen du 2026 von null startest, ohne dich in Tools, Prompts und Hypes zu verlieren. \n\nSichere dir den KI-Einsteiger-Guide als kostenfreie PDF: http://kiberatung.de/report/ki-einsteiger-guide\n\nLerne Claude von A-Z zu meistern: https://claudekurs.de \nSichere dir deinen Platz für den Agentic Marketing Workshop: https://agenticmarketing.de\nBleibe täglich auf dem Laufenden mit unserem WhatsApp-Kanal: https://everlastwhatsapp.de \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen ",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "23:49",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -16576,5 +16576,25 @@
     },
     "first_seen": "2026-09-10T17:23:56.765163+00:00",
     "is_new": false
+  },
+  "-gacGzCZySo": {
+    "video_id": "-gacGzCZySo",
+    "title": "Your 20s are for grinding",
+    "published": "2026-09-10T21:02:12+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-gacGzCZySo/hqdefault.jpg",
+    "description": "Your 20s are for grinding",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your 20s are for grinding",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-10T22:06:12.745734+00:00",
+    "is_new": true
   }
 }
