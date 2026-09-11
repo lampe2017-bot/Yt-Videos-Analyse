@@ -16615,7 +16615,7 @@
       "model": null
     },
     "first_seen": "2026-09-11T09:17:53.937848+00:00",
-    "is_new": true
+    "is_new": false
   },
   "EJ9yV4tf2wg": {
     "video_id": "EJ9yV4tf2wg",
@@ -16635,6 +16635,6 @@
       "model": null
     },
     "first_seen": "2026-09-11T09:21:24.994033+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
