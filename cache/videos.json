@@ -16656,5 +16656,25 @@
     },
     "first_seen": "2026-09-11T17:27:42.847364+00:00",
     "is_new": false
+  },
+  "igNZKrKHCW8": {
+    "video_id": "igNZKrKHCW8",
+    "title": "You have to learn this skill to be successful",
+    "published": "2026-09-11T21:00:38+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/igNZKrKHCW8/hqdefault.jpg",
+    "description": "You have to learn this skill to be successful",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You have to learn this skill to be successful",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-11T22:08:25.402638+00:00",
+    "is_new": true
   }
 }
