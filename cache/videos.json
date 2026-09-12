@@ -16746,15 +16746,15 @@
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "en",
     "summary": {
-      "hook": "AI tools for every task",
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+        "Planning your week. >> Chat GPT, connect your calendar if you have one. >> Making a budget. >> Chat GPT cuz they just announced their new personal finance stuff, which means their number models stuff probably works really well. >> Learning …"
       ],
       "model": null
     },
     "first_seen": "2026-09-12T15:46:52.780030+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
