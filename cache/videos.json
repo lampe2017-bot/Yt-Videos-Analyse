@@ -16695,7 +16695,7 @@
       "model": null
     },
     "first_seen": "2026-09-12T08:57:56.595604+00:00",
-    "is_new": true
+    "is_new": false
   },
   "PwbVyFTHbr4": {
     "video_id": "PwbVyFTHbr4",
@@ -16715,7 +16715,7 @@
       "model": null
     },
     "first_seen": "2026-09-12T08:59:32.378032+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LQrKUIvxer0": {
     "video_id": "LQrKUIvxer0",
@@ -16735,6 +16735,6 @@
       "model": null
     },
     "first_seen": "2026-09-12T09:03:05.121943+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
