@@ -16736,5 +16736,25 @@
     },
     "first_seen": "2026-09-12T09:03:05.121943+00:00",
     "is_new": false
+  },
+  "djnMdw6DuFI": {
+    "video_id": "djnMdw6DuFI",
+    "title": "AI tools for every task",
+    "published": "2026-09-12T15:03:56+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/djnMdw6DuFI/hqdefault.jpg",
+    "description": "AI tools for every task",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI tools for every task",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-12T15:46:52.780030+00:00",
+    "is_new": true
   }
 }
