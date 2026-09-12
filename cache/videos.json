@@ -16756,5 +16756,25 @@
     },
     "first_seen": "2026-09-12T15:46:52.780030+00:00",
     "is_new": false
+  },
+  "y9hDis4rRPY": {
+    "video_id": "y9hDis4rRPY",
+    "title": "How well do you ACTUALLY know business?",
+    "published": "2026-09-12T21:01:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/y9hDis4rRPY/hqdefault.jpg",
+    "description": "How well do you ACTUALLY know business?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How well do you ACTUALLY know business?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-12T21:50:51.992380+00:00",
+    "is_new": true
   }
 }
