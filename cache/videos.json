@@ -16876,5 +16876,25 @@
     },
     "first_seen": "2026-09-13T16:38:53.937066+00:00",
     "is_new": false
+  },
+  "0AcoA21fu6A": {
+    "video_id": "0AcoA21fu6A",
+    "title": "How to set up an AI agent",
+    "published": "2026-09-13T21:01:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0AcoA21fu6A/hqdefault.jpg",
+    "description": "How to set up an AI agent",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to set up an AI agent",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-13T21:16:27.854587+00:00",
+    "is_new": true
   }
 }
