@@ -16815,7 +16815,7 @@
       "model": null
     },
     "first_seen": "2026-09-13T12:24:24.392556+00:00",
-    "is_new": true
+    "is_new": false
   },
   "aMW6NyQqDi4": {
     "video_id": "aMW6NyQqDi4",
@@ -16835,6 +16835,46 @@
       "model": null
     },
     "first_seen": "2026-09-13T12:32:29.020171+00:00",
+    "is_new": false
+  },
+  "5J5k27C0FGc": {
+    "video_id": "5J5k27C0FGc",
+    "title": "What are the best ways to get more clients? (RANKED)",
+    "published": "2026-09-13T15:01:35+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5J5k27C0FGc/hqdefault.jpg",
+    "description": "What are the best ways to get more clients? (RANKED)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What are the best ways to get more clients? (RANKED)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-13T16:35:14.983715+00:00",
+    "is_new": true
+  },
+  "Uf8guum6e2s": {
+    "video_id": "Uf8guum6e2s",
+    "title": "Lerne 97% über Instagram Wachstum in unter 30 Minuten",
+    "published": "2026-09-13T14:00:36+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Uf8guum6e2s/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=97-prozent-wachstum\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nVerstehe den neuen Instagram Algorithmus und wie sich die Ausspielung deiner Inhalte grundlegend verändert hat. Erfahre, welche Metriken heute über Erfolg oder Misserfolg entscheiden.\n\nDas Video analysiert die entscheidenden Kennzahlen, die heute über Sichtbarkeit bestimmen. Wir sprechen über das Verhältnis von Likes zur Reichweite bei Followern und warum finanzielle Metr",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=97-prozent-wachstum\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nVerstehe den n…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-13T16:38:53.937066+00:00",
     "is_new": true
   }
 }
