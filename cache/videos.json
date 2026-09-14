@@ -16916,5 +16916,25 @@
     },
     "first_seen": "2026-09-14T01:21:19.661663+00:00",
     "is_new": false
+  },
+  "SfssXCW2esU": {
+    "video_id": "SfssXCW2esU",
+    "title": "Difference between being a boss and being a leader",
+    "published": "2026-09-14T15:04:27+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/SfssXCW2esU/hqdefault.jpg",
+    "description": "Difference between being a boss and being a leader",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Difference between being a boss and being a leader",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-14T18:52:02.584203+00:00",
+    "is_new": true
   }
 }
