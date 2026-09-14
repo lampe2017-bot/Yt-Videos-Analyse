@@ -15785,7 +15785,7 @@
     "description": "Zukunftsforscher Sven Gábor Jánszky erklärt im Interview, warum AGI bis 2035 nahezu sicher kommt, ab wann KI in Unternehmen die Führung übernimmt und weshalb 2040 mehr humanoide Roboter auf der Welt leben als Menschen. Ein Blick in sein neues Buch \"2035\": das Ende der Lohnarbeit, KI-Replikate statt KI-Agenten und zwei Roboter als neue Mitbewohner.\n\nSichere dir kostenfrei den “KI DSGVO Report”: https://kidsgvoreport.de \nSichere dir deinen Platz für den Agentic Marketing Workshop: https://agenticmarketing.de  \nDas Buch zum Interview, \"2035: Die Zukunft beginnt heute\" von Sven Gábor Jánszky: http",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "1:06:37",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -16679,7 +16679,7 @@
   },
   "PjzaN04GEy8": {
     "video_id": "PjzaN04GEy8",
-    "title": "So schlecht steht es wirklich um den deutschen Mittelstand (Falsche Glaubenssätze von KI-Agenturen)",
+    "title": "Die unbequeme Wahrheit über den deutschen Mittelstand (Erfahrung aus über 10.000 Gesprächen)",
     "published": "2026-09-12T08:15:18+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/PjzaN04GEy8/hqdefault.jpg",
     "description": "Das hier sind die 5 größten Mythen und falschen Glaubenssätze von KI-Agenturen über deutschsprachigen Mittelstand aus über 10.000 Gesprächen und 3500+ Kunden.\n\nKostenfreier Agentic Marketing Live Workshop: https://kilernen.de/agentic-marketing-workshop\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n-----------------------------------------",
@@ -16935,6 +16935,26 @@
       "model": null
     },
     "first_seen": "2026-09-14T18:52:02.584203+00:00",
+    "is_new": false
+  },
+  "qLSp0fvNRsE": {
+    "video_id": "qLSp0fvNRsE",
+    "title": "Jobs ranked by the emotional damage they cause",
+    "published": "2026-09-14T21:01:02+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qLSp0fvNRsE/hqdefault.jpg",
+    "description": "Jobs ranked by the emotional damage they cause",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Jobs ranked by the emotional damage they cause",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-14T22:15:11.330498+00:00",
     "is_new": true
   }
 }
