@@ -16896,5 +16896,25 @@
     },
     "first_seen": "2026-09-13T21:16:27.854587+00:00",
     "is_new": false
+  },
+  "siZTT8TwwHU": {
+    "video_id": "siZTT8TwwHU",
+    "title": "My rules for a successful life - the last one is my fav ;)",
+    "published": "2026-09-14T01:01:01+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/siZTT8TwwHU/hqdefault.jpg",
+    "description": "My rules for a successful life - the last one is my fav ;)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "My rules for a successful life - the last one is my fav ;)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-14T01:21:19.661663+00:00",
+    "is_new": true
   }
 }
