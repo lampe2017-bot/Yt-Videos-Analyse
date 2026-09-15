@@ -16975,7 +16975,7 @@
       "model": null
     },
     "first_seen": "2026-09-15T10:40:13.170530+00:00",
-    "is_new": true
+    "is_new": false
   },
   "wuvL5rl_GsU": {
     "video_id": "wuvL5rl_GsU",
@@ -16995,6 +16995,26 @@
       "model": null
     },
     "first_seen": "2026-09-15T10:43:27.327132+00:00",
+    "is_new": false
+  },
+  "ykXm4wnqR5E": {
+    "video_id": "ykXm4wnqR5E",
+    "title": "Are you keeping or cutting these AI tools in 2027?",
+    "published": "2026-09-15T15:03:00+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ykXm4wnqR5E/hqdefault.jpg",
+    "description": "Are you keeping or cutting these AI tools in 2027?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you keeping or cutting these AI tools in 2027?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-15T15:24:09.437401+00:00",
     "is_new": true
   }
 }
