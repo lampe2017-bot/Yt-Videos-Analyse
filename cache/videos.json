@@ -16745,7 +16745,7 @@
     "description": "AI tools for every task",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "1:01",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "AI tools for every task",
@@ -16955,6 +16955,6 @@
       "model": null
     },
     "first_seen": "2026-09-14T22:15:11.330498+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
