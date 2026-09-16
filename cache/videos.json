@@ -17135,7 +17135,7 @@
       "model": null
     },
     "first_seen": "2026-09-16T15:08:55.900642+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TXTL-YQDvOU": {
     "video_id": "TXTL-YQDvOU",
@@ -17155,6 +17155,26 @@
       "model": null
     },
     "first_seen": "2026-09-16T15:12:20.507408+00:00",
+    "is_new": false
+  },
+  "B5GcL7z2mQU": {
+    "video_id": "B5GcL7z2mQU",
+    "title": "What AI tools are the pros using in September?",
+    "published": "2026-09-16T15:04:15+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/B5GcL7z2mQU/hqdefault.jpg",
+    "description": "What AI tools are the pros using in September?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What AI tools are the pros using in September?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-16T19:02:26.781935+00:00",
     "is_new": true
   }
 }
