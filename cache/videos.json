@@ -17035,7 +17035,7 @@
       "model": null
     },
     "first_seen": "2026-09-15T22:21:54.023603+00:00",
-    "is_new": true
+    "is_new": false
   },
   "bYa0fUuEefY": {
     "video_id": "bYa0fUuEefY",
@@ -17055,7 +17055,7 @@
       "model": null
     },
     "first_seen": "2026-09-15T22:26:36.963467+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WmZZL-jSCUo": {
     "video_id": "WmZZL-jSCUo",
@@ -17075,6 +17075,46 @@
       "model": null
     },
     "first_seen": "2026-09-15T22:33:41.948462+00:00",
+    "is_new": false
+  },
+  "IXOBiKejuGw": {
+    "video_id": "IXOBiKejuGw",
+    "title": "AI Freedom Summit - Comment SUMMIT if you want the details",
+    "published": "2026-09-16T01:01:13+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IXOBiKejuGw/hqdefault.jpg",
+    "description": "AI Freedom Summit - Comment SUMMIT if you want the details",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI Freedom Summit - Comment SUMMIT if you want the details",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-16T10:11:21.228833+00:00",
+    "is_new": true
+  },
+  "kuVZMT9BMC4": {
+    "video_id": "kuVZMT9BMC4",
+    "title": "Nie wieder Content-Ideen suchen #contentstrategie #marketingtipps",
+    "published": "2026-09-16T06:00:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/kuVZMT9BMC4/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nErreiche als Solo-Selbstständiger mehr Erfolg mit einer effizienten 3-Tage-Woche.\n\nViele Solopreneure verzweifeln daran, ständig neue Content-Ideen zu finden. Dabei ist der Schlüssel nicht Quantität, sondern die geschickte Wiederholung deiner besten Inhalte.\n\nIn diesem Video zeige ich dir meine Content-Strategie, wie du weniger arbeitest und trotzdem sichtbarer wirst. Abonniere den Kanal für mehr Tipps zur Produktivität.\n\n_______________",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nErreiche als Solo-Selbstständiger mehr Erfolg mit einer effizienten 3-Tage-Woche.…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-16T10:14:40.556661+00:00",
     "is_new": true
   }
 }
