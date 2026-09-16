@@ -17175,6 +17175,26 @@
       "model": null
     },
     "first_seen": "2026-09-16T19:02:26.781935+00:00",
+    "is_new": false
+  },
+  "EKM-gIpug3U": {
+    "video_id": "EKM-gIpug3U",
+    "title": "These AI tool could make you $100K a year",
+    "published": "2026-09-16T21:02:50+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/EKM-gIpug3U/hqdefault.jpg",
+    "description": "These AI tool could make you $100K a year",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These AI tool could make you $100K a year",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-16T21:54:47.010579+00:00",
     "is_new": true
   }
 }
