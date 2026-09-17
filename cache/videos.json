@@ -17296,5 +17296,25 @@
     },
     "first_seen": "2026-09-17T17:56:04.736066+00:00",
     "is_new": false
+  },
+  "ENuYXDI6DAM": {
+    "video_id": "ENuYXDI6DAM",
+    "title": "What are the valid reasons to NOT use AI?",
+    "published": "2026-09-17T21:01:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ENuYXDI6DAM/hqdefault.jpg",
+    "description": "What are the valid reasons to NOT use AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What are the valid reasons to NOT use AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-17T23:16:55.210777+00:00",
+    "is_new": true
   }
 }
