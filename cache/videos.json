@@ -17235,6 +17235,66 @@
       "model": null
     },
     "first_seen": "2026-09-17T13:49:31.420331+00:00",
+    "is_new": false
+  },
+  "fpYG6OBKEZw": {
+    "video_id": "fpYG6OBKEZw",
+    "title": "Jenseits des KI-Hypes: Wo wir wirklich stehen und was 2027 kommt - Dr. Sebastian Raschka",
+    "published": "2026-09-17T15:15:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fpYG6OBKEZw/hqdefault.jpg",
+    "description": "Wie funktioniert KI und LLM-Training heute wirklich? KI-Forscher Dr. Sebastian Raschka erklärt in seinem ersten deutschsprachigen Interview mit Leonard Schmedding Pretraining, Post-Training, Computer Use, GPT-6 Astra und die wichtigsten KI-Trends 2027.\n\nDu willst als Arbeitnehmer deine Zukunft sichern und dein Gehalt durch handfeste KI-Fähigkeiten steigern? Lerne alles auf der Nr.1 KI-Weiterbildungsplattform: https://kilernen.de \n\nBleibe immer auf dem Laufenden und hole dir die wichtigsten KI-News direkt in WhatsApp mit dem „Everlast AI\" WhatsApp-Kanal: https://whatsapp.com/channel/0029Vb6jkNV",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Wie funktioniert KI und LLM-Training heute wirklich? KI-Forscher Dr. Sebastian Raschka erklärt in seinem ersten deutschsprachigen Interview mit Leonard Schmedding Pretraining, Post-Training, Computer Use, GPT-6 Astra und die wichtigsten KI-…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-17T17:48:00.683398+00:00",
+    "is_new": true
+  },
+  "hRdxDtdz6RA": {
+    "video_id": "hRdxDtdz6RA",
+    "title": "Screenshot this and give it to your AI",
+    "published": "2026-09-17T15:03:15+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hRdxDtdz6RA/hqdefault.jpg",
+    "description": "Screenshot this and give it to your AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Screenshot this and give it to your AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-17T17:52:36.459118+00:00",
+    "is_new": true
+  },
+  "B3vknXtiTcg": {
+    "video_id": "B3vknXtiTcg",
+    "title": "Das war’s mit KI auf Instagram 😳",
+    "published": "2026-09-17T16:00:18+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/B3vknXtiTcg/hqdefault.jpg",
+    "description": "Darf man auf Instagram jetzt keine KI mehr nutzen? 🤖\n\nGerade fliegen etliche Accounts aus dem Explore und werden nicht mehr an Nicht-Follower ausgespielt. Überall heißt es: „KI wird bestraft.“\n\nDas stimmt so nicht. Aber es gibt 2 Dinge, auf die du jetzt achten musst:\n\n1️⃣ Das KI-Label\nWenn Instagram deinen Content als KI-generiert einstuft, kann deine Reichweite massiv einbrechen, wenn du das Label nicht aktivierst. Und das trifft nicht nur KI-Influencer. Schon ein automatisch entfernter Hintergrund kann in den Metadaten als KI markiert sein.\n👉 Check unter Kontostatus, ob du noch für Empfehlun",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Darf man auf Instagram jetzt keine KI mehr nutzen? 🤖\n\nGerade fliegen etliche Accounts aus dem Explore und werden nicht mehr an Nicht-Follower ausgespielt. Überall heißt es: „KI wird bestraft.“\n\nDas stimmt so nicht. Aber es gibt 2 Dinge, auf…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-17T17:56:04.736066+00:00",
     "is_new": true
   }
 }
