@@ -17255,7 +17255,7 @@
       "model": null
     },
     "first_seen": "2026-09-17T17:48:00.683398+00:00",
-    "is_new": true
+    "is_new": false
   },
   "hRdxDtdz6RA": {
     "video_id": "hRdxDtdz6RA",
@@ -17275,7 +17275,7 @@
       "model": null
     },
     "first_seen": "2026-09-17T17:52:36.459118+00:00",
-    "is_new": true
+    "is_new": false
   },
   "B3vknXtiTcg": {
     "video_id": "B3vknXtiTcg",
@@ -17295,6 +17295,6 @@
       "model": null
     },
     "first_seen": "2026-09-17T17:56:04.736066+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
