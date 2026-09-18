@@ -16405,7 +16405,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nWillst du weniger arbeiten als Selbstständiger? Erfahre hier, warum der Stolz auf Überstunden oft ein Fehler ist.\n\nViele Menschen definieren sich über ihre Arbeitsstunden, doch ist das wirklich sinnvoll? In diesem Video hinterfrage ich den klassischen Ansatz der Selbstständigkeit. Mein Ziel ist es nicht, möglichst beschäftigt zu sein, sondern die Freiheit zu gewinnen, mehr Freizeit für Urlaube und private Projekte zu haben.\n\nWir schauen ",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "0:48",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -17355,6 +17355,26 @@
       "model": null
     },
     "first_seen": "2026-09-18T21:24:56.719450+00:00",
+    "is_new": false
+  },
+  "Lkcf2wSlgH4": {
+    "video_id": "Lkcf2wSlgH4",
+    "title": "Getting asked about my watch in prison",
+    "published": "2026-09-18T22:03:15+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Lkcf2wSlgH4/hqdefault.jpg",
+    "description": "The most valuable thing a successful person can do is send the elevator back down",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "The most valuable thing a successful person can do is send the elevator back down"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-18T23:28:39.060322+00:00",
     "is_new": true
   }
 }
