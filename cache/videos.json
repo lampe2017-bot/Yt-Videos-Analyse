@@ -17316,5 +17316,25 @@
     },
     "first_seen": "2026-09-17T23:16:55.210777+00:00",
     "is_new": false
+  },
+  "Dm0awLjQHcc": {
+    "video_id": "Dm0awLjQHcc",
+    "title": "1 trick for every AI tool",
+    "published": "2026-09-18T15:03:41+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Dm0awLjQHcc/hqdefault.jpg",
+    "description": "1 trick for every AI tool",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "1 trick for every AI tool",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-18T15:24:32.183466+00:00",
+    "is_new": true
   }
 }
