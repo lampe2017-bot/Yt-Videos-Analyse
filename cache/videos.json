@@ -17375,6 +17375,46 @@
       "model": null
     },
     "first_seen": "2026-09-18T23:28:39.060322+00:00",
+    "is_new": false
+  },
+  "bo5ctro_cgw": {
+    "video_id": "bo5ctro_cgw",
+    "title": "Die besten KI Use Cases für den Mittelstand (Behind The Scenes)",
+    "published": "2026-09-19T09:15:00+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bo5ctro_cgw/hqdefault.jpg",
+    "description": "In diesem Video spreche ich mit Enes, einem unserer Lead AI Engineers bei Everlast AI, über die KI Use Cases, die wir gerade im Mittelstand umsetzen. Du erfährst, wovon wir Kunden inzwischen abraten, welche Fehler wir beim KI-Wissensmanagement am häufigsten sehen und wie wir intern mit unserem Hivemind arbeiten.\n\nSichere dir den kostenfreien KI DSGVO Report: https://kidsgvoreport.de \n\nDer Nr. 1 Claude Kurs im DACH-Raum: https://claudekurs.de\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In diesem Video spreche ich mit Enes, einem unserer Lead AI Engineers bei Everlast AI, über die KI Use Cases, die wir gerade im Mittelstand umsetzen. Du erfährst, wovon wir Kunden inzwischen abraten, welche Fehler wir beim KI-Wissensmanagem…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-19T11:18:06.299569+00:00",
+    "is_new": true
+  },
+  "8V-VqoMp4T0": {
+    "video_id": "8V-VqoMp4T0",
+    "title": "Mehr Follower ohne Fake-Taktiken: So geht's wirklich #instagramwachstum #erfolg",
+    "published": "2026-09-19T06:00:34+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8V-VqoMp4T0/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nErfolgreich werden auf Social Media: So baust du dir eine echte Community auf.\n\nIch zeige dir meine Strategien für authentischen Content, mit denen du deine Reichweite auf verschiedenen Plattformen steigerst. Egal ob du gerade startest oder wachsen willst, hier lernst du, wie du durch echte Mehrwerte überzeugst.\n\nFähigkeiten zu lernen ist die Basis für jeden Erfolg – auch wenn man dafür manchmal Kabel unter dem Schreibtisch sortieren mus",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nErfolgreich werden auf Social Media: So baust du dir eine echte Community auf.\n\nI…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-19T11:23:05.073954+00:00",
     "is_new": true
   }
 }
