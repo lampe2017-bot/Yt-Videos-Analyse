@@ -17395,7 +17395,7 @@
       "model": null
     },
     "first_seen": "2026-09-19T11:18:06.299569+00:00",
-    "is_new": true
+    "is_new": false
   },
   "8V-VqoMp4T0": {
     "video_id": "8V-VqoMp4T0",
@@ -17415,6 +17415,26 @@
       "model": null
     },
     "first_seen": "2026-09-19T11:23:05.073954+00:00",
+    "is_new": false
+  },
+  "4_urJ17Rx8s": {
+    "video_id": "4_urJ17Rx8s",
+    "title": "Give me 57 sec... I'll DELETE your need for perfection",
+    "published": "2026-09-19T13:00:38+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4_urJ17Rx8s/hqdefault.jpg",
+    "description": "Give me 57 seconds, and I'll delete your need for perfection.\n\nSubscribe for change.\n\n- DM🩵\n\nPs: if you’re wondering what happened with my hand, I’ll explain in next week’s video;)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Give me 57 seconds, and I'll delete your need for perfection.\n\nSubscribe for change.\n\n- DM🩵\n\nPs: if you’re wondering what happened with my hand, I’ll explain in next week’s video;)"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-19T14:37:48.339960+00:00",
     "is_new": true
   }
 }
