@@ -17456,5 +17456,25 @@
     },
     "first_seen": "2026-09-19T17:38:14.183494+00:00",
     "is_new": false
+  },
+  "AzYgk_5wnU4": {
+    "video_id": "AzYgk_5wnU4",
+    "title": "\"What was the most important thing you ever did?\"",
+    "published": "2026-09-19T22:03:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/AzYgk_5wnU4/hqdefault.jpg",
+    "description": "I really love my wife @renee_warren",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"What was the most important thing you ever did?\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-19T23:48:55.029582+00:00",
+    "is_new": true
   }
 }
