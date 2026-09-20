@@ -17535,6 +17535,46 @@
       "model": null
     },
     "first_seen": "2026-09-20T12:42:37.106929+00:00",
+    "is_new": false
+  },
+  "sieAUnU1XBE": {
+    "video_id": "sieAUnU1XBE",
+    "title": "How to switch from CLAUDE to CHATGPT",
+    "published": "2026-09-20T15:02:51+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sieAUnU1XBE/hqdefault.jpg",
+    "description": "Trying to SWITCH AI tools? Follow and Comment SWITCH for the full guide",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to switch from CLAUDE to CHATGPT",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-20T16:40:11.468964+00:00",
+    "is_new": true
+  },
+  "JcuGKUBbnxw": {
+    "video_id": "JcuGKUBbnxw",
+    "title": "Was Instagram gerade macht, ändert die Regeln",
+    "published": "2026-09-20T14:00:08+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JcuGKUBbnxw/hqdefault.jpg",
+    "description": "Instagram hat die Regeln geändert, was direkte Auswirkungen auf deine Reichweite hat. Erfahre, wie du auf den Algorithmus reagierst.\n\nDie Plattform durchläuft aktuell eine Phase, in der massiv mehr Inhalte produziert werden. Diese Instagram Änderungen führen jedoch dazu, dass die organische Sichtbarkeit bei vielen Creatorn sinkt. Ich analysiere in diesem Video, warum insbesondere größere Accounts von diesem Reichweiten-Rueckgang betroffen sind und wie meine eigenen Story-Aufrufe auf diese Entwicklung reagieren.\n\nWir schauen uns an, wie sich das Nutzerverhalten durch die neue Dynamik versc",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Instagram hat die Regeln geändert, was direkte Auswirkungen auf deine Reichweite hat. Erfahre, wie du auf den Algorithmus reagierst.\n\nDie Plattform durchläuft aktuell eine Phase, in der massiv mehr Inhalte produziert werden. Diese Instagr…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-20T16:43:47.153518+00:00",
     "is_new": true
   }
 }
