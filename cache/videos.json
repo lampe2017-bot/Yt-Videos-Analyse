@@ -17555,7 +17555,7 @@
       "model": null
     },
     "first_seen": "2026-09-20T16:40:11.468964+00:00",
-    "is_new": true
+    "is_new": false
   },
   "JcuGKUBbnxw": {
     "video_id": "JcuGKUBbnxw",
@@ -17575,6 +17575,6 @@
       "model": null
     },
     "first_seen": "2026-09-20T16:43:47.153518+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
