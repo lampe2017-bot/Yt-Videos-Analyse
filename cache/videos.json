@@ -17576,5 +17576,25 @@
     },
     "first_seen": "2026-09-20T16:43:47.153518+00:00",
     "is_new": false
+  },
+  "8gOWy6F0HPo": {
+    "video_id": "8gOWy6F0HPo",
+    "title": "These are the best AI tools for every task TODAY",
+    "published": "2026-09-20T22:01:45+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8gOWy6F0HPo/hqdefault.jpg",
+    "description": "These are the best AI tools for every task TODAY",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These are the best AI tools for every task TODAY",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-20T23:44:24.309047+00:00",
+    "is_new": true
   }
 }
