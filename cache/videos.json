@@ -17656,5 +17656,25 @@
     },
     "first_seen": "2026-09-21T15:16:16.735684+00:00",
     "is_new": false
+  },
+  "leVK6Nyy4Ac": {
+    "video_id": "leVK6Nyy4Ac",
+    "title": "Yes, you can still use Claude Code to get rich",
+    "published": "2026-09-21T22:02:59+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/leVK6Nyy4Ac/hqdefault.jpg",
+    "description": "Yes, you can still use Claude Code to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Yes, you can still use Claude Code to get rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-21T23:28:51.889778+00:00",
+    "is_new": true
   }
 }
