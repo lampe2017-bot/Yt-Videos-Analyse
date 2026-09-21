@@ -17615,7 +17615,7 @@
       "model": null
     },
     "first_seen": "2026-09-21T08:08:07.695161+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YhGR1pL9uP8": {
     "video_id": "YhGR1pL9uP8",
@@ -17635,6 +17635,26 @@
       "model": null
     },
     "first_seen": "2026-09-21T08:11:37.318355+00:00",
+    "is_new": false
+  },
+  "narpLqAekbA": {
+    "video_id": "narpLqAekbA",
+    "title": "Are you an AI PRO or just an AI BRO?",
+    "published": "2026-09-21T15:03:38+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/narpLqAekbA/hqdefault.jpg",
+    "description": "Are you an AI PRO or just an AI BRO?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you an AI PRO or just an AI BRO?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-21T15:16:16.735684+00:00",
     "is_new": true
   }
 }
