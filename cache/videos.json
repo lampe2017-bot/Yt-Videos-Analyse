@@ -17595,6 +17595,46 @@
       "model": null
     },
     "first_seen": "2026-09-20T23:44:24.309047+00:00",
+    "is_new": false
+  },
+  "CkFP7fz769w": {
+    "video_id": "CkFP7fz769w",
+    "title": "I gave my brother $173,000",
+    "published": "2026-09-21T01:00:29+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/CkFP7fz769w/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-21T08:08:07.695161+00:00",
+    "is_new": true
+  },
+  "YhGR1pL9uP8": {
+    "video_id": "YhGR1pL9uP8",
+    "title": "Zeit vs. Geld: Was Instagram wirklich braucht #instagrammarketing #selbstständig",
+    "published": "2026-09-21T06:00:14+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YhGR1pL9uP8/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nInstagram Reichweite ohne unendliches Budget oder Zeitfresser aufbauen.\n\nViele Selbstständige stehen vor der Wahl: Geld für Ads oder endlose Stunden Content-Produktion. Dieses Video zeigt dir einen dritten Weg durch gezielte Systemarbeit.\n\nLerne, wie du Instagram Insights richtig liest, um deine Strategie effizient und messbar zu optimieren.\n\nAbonniere den Kanal für mehr Tipps zu effizientem Instagram Marketing.\n_________________________",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nInstagram Reichweite ohne unendliches Budget oder Zeitfresser aufbauen.\n\nViele Se…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-21T08:11:37.318355+00:00",
     "is_new": true
   }
 }
