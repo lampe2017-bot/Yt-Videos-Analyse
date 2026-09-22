@@ -17755,6 +17755,26 @@
       "model": null
     },
     "first_seen": "2026-09-22T17:05:33.652904+00:00",
+    "is_new": false
+  },
+  "LR18LzCEUq8": {
+    "video_id": "LR18LzCEUq8",
+    "title": "What ACTUALLY matters when you're using AI?",
+    "published": "2026-09-22T17:05:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LR18LzCEUq8/hqdefault.jpg",
+    "description": "What ACTUALLY matters when you're using AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What ACTUALLY matters when you're using AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-22T20:21:35.274516+00:00",
     "is_new": true
   }
 }
