@@ -17715,7 +17715,7 @@
       "model": null
     },
     "first_seen": "2026-09-22T12:23:26.572130+00:00",
-    "is_new": true
+    "is_new": false
   },
   "O90fHzzIihI": {
     "video_id": "O90fHzzIihI",
@@ -17735,6 +17735,26 @@
       "model": null
     },
     "first_seen": "2026-09-22T12:26:49.952426+00:00",
+    "is_new": false
+  },
+  "fmMCg6dyWpQ": {
+    "video_id": "fmMCg6dyWpQ",
+    "title": "KI 2035: Das letzte Jahr der Menschheit (Szenario eines UN-Beraters)",
+    "published": "2026-09-22T15:15:23+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fmMCg6dyWpQ/hqdefault.jpg",
+    "description": "KI 2035: Fünf Zukunftsszenarien aus der neuen AGI-Studie des Millennium Project, erarbeitet mit 55 der einflussreichsten Köpfe der KI-Welt. Die komplette Studie findest du hier: https://www.millennium-project.org/publications/agi-governance/ \n\nLerne mit KI-Agenten wie Claude Code richtig umzugehen: https://claudekurs.de\nSichere dir deinen Platz für den nächsten Agentic Marketing Workshop: https://agenticmarketing.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, ",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "KI 2035: Fünf Zukunftsszenarien aus der neuen AGI-Studie des Millennium Project, erarbeitet mit 55 der einflussreichsten Köpfe der KI-Welt. Die komplette Studie findest du hier: https://www.millennium-project.org/publications/agi-governance…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-22T17:05:33.652904+00:00",
     "is_new": true
   }
 }
