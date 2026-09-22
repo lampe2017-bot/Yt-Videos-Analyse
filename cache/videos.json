@@ -17675,6 +17675,26 @@
       "model": null
     },
     "first_seen": "2026-09-21T23:28:51.889778+00:00",
+    "is_new": false
+  },
+  "q6LavdUfSrc": {
+    "video_id": "q6LavdUfSrc",
+    "title": "How to create a 10/10 schedule",
+    "published": "2026-09-22T01:01:27+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/q6LavdUfSrc/hqdefault.jpg",
+    "description": "How to create a 10/10 schedule",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to create a 10/10 schedule",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-22T01:44:05.613213+00:00",
     "is_new": true
   }
 }
