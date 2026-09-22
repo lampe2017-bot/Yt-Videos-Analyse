@@ -17725,7 +17725,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n\nNach sieben Jahren Selbstständigkeit weiß ich endlich, wie man nachhaltig Geld verdienen kann.\n\nIch teile meine ehrlichen Business Erfahrungen aus sieben Jahren, damit du schneller lernst als ich damals. Wir sprechen darüber, wie man ein Unternehmen skalieren kann und warum FOMO dein größter Feind ist.\n\nEgal ob online oder offline: Diese Lektionen helfen dir, dich erfolgreich selbstständig machen zu können.\n\n_____________________________",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "1:14",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -17775,6 +17775,26 @@
       "model": null
     },
     "first_seen": "2026-09-22T20:21:35.274516+00:00",
+    "is_new": false
+  },
+  "IjOQUzOmSm4": {
+    "video_id": "IjOQUzOmSm4",
+    "title": "What would you do with $500? (How to invest)",
+    "published": "2026-09-22T22:03:14+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IjOQUzOmSm4/hqdefault.jpg",
+    "description": "What would you do with $500? (How to invest)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What would you do with $500? (How to invest)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-22T23:08:04.070360+00:00",
     "is_new": true
   }
 }
