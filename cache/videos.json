@@ -17815,7 +17815,7 @@
       "model": null
     },
     "first_seen": "2026-09-23T12:27:34.622758+00:00",
-    "is_new": true
+    "is_new": false
   },
   "b6ki6ARBJiI": {
     "video_id": "b6ki6ARBJiI",
@@ -17835,6 +17835,66 @@
       "model": null
     },
     "first_seen": "2026-09-23T12:31:02.301072+00:00",
+    "is_new": false
+  },
+  "Tx0Nvvxg2lI": {
+    "video_id": "Tx0Nvvxg2lI",
+    "title": "Your language matters in marketing/sales",
+    "published": "2026-09-23T17:02:52+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Tx0Nvvxg2lI/hqdefault.jpg",
+    "description": "Your language matters in marketing/sales",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your language matters in marketing/sales",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-23T17:22:42.854525+00:00",
+    "is_new": true
+  },
+  "aPSbZbOzB4s": {
+    "video_id": "aPSbZbOzB4s",
+    "title": "Which AI Tools are the Best in 2026?",
+    "published": "2026-09-23T13:00:30+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/aPSbZbOzB4s/hqdefault.jpg",
+    "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4cU2T0M\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4h71EOh\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4dszH0Y\n\nEvery month a new model drops and everybody argues about which one is best. Meanwhile most people keep starting over, rebuilding everything they taught the last tool.\n\nI've spent dozens of hours testing AI across all of my companies, and the pattern is always the same. The people who fall behind are the ones who never built anything underneath the tools",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4cU2T0M\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4h71EOh\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4dsz…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-23T17:22:59.537609+00:00",
+    "is_new": true
+  },
+  "Q0GiaeODAwg": {
+    "video_id": "Q0GiaeODAwg",
+    "title": "Warum dich KI 2026 nicht erfolgreich machen wird",
+    "published": "2026-09-23T14:00:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Q0GiaeODAwg/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=ki-macht-nicht-erfolgreich\n\n\nWarum bleibt KI im Unternehmen oft hinter den Erwartungen zurück? Wir analysieren, warum viele Firmen trotz KI Hype kaum echte Fortschritte sehen.\n\nViele Unternehmen investieren seit Jahren massiv in Technologie, doch der erhoffte Durchbruch bleibt bei vielen Projekten aus. Dieses Video richtet sich an Entscheider und Fachkräfte, die sich fragen, ob die tatsächlichen Auswirkungen von Künstliche Intelligenz Kritik verdienen",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=ki-macht-nicht-erfolgreich\n\n\nWarum bleibt KI im Unternehmen oft hinter den Erwartungen zurück? …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-23T17:26:15.742579+00:00",
     "is_new": true
   }
 }
