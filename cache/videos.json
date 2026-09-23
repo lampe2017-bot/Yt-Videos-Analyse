@@ -17855,7 +17855,7 @@
       "model": null
     },
     "first_seen": "2026-09-23T17:22:42.854525+00:00",
-    "is_new": true
+    "is_new": false
   },
   "aPSbZbOzB4s": {
     "video_id": "aPSbZbOzB4s",
@@ -17875,7 +17875,7 @@
       "model": null
     },
     "first_seen": "2026-09-23T17:22:59.537609+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Q0GiaeODAwg": {
     "video_id": "Q0GiaeODAwg",
@@ -17895,6 +17895,26 @@
       "model": null
     },
     "first_seen": "2026-09-23T17:26:15.742579+00:00",
+    "is_new": false
+  },
+  "XZrOR3k9Wd4": {
+    "video_id": "XZrOR3k9Wd4",
+    "title": "POV: your calendars finally line up @renee_warren",
+    "published": "2026-09-23T19:13:43+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XZrOR3k9Wd4/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-23T20:37:25.690670+00:00",
     "is_new": true
   }
 }
