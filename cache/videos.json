@@ -17935,6 +17935,26 @@
       "model": null
     },
     "first_seen": "2026-09-23T23:20:53.449561+00:00",
+    "is_new": false
+  },
+  "pjCJBDCKRR4": {
+    "video_id": "pjCJBDCKRR4",
+    "title": "If you want these things, you need to do the following:",
+    "published": "2026-09-24T11:02:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/pjCJBDCKRR4/hqdefault.jpg",
+    "description": "If you want these things, you need to do the following:",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you want these things, you need to do the following:",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-24T12:27:40.389944+00:00",
     "is_new": true
   }
 }
