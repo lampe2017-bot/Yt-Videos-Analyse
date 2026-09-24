@@ -16985,7 +16985,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: https://www.blogdichhoch.de/ZHS\n📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n📌 Die 5:2-Methode kostenlos (mehr Reichweite und Leads auf Instagram): https://www.blogdichhoch.de/planbar/\n📌 Deine Roadmap weg von Launch: https://drive.google.com/file/d/1eIe5hO6e1ub0XLPhUmMIY2D_MIvYYl9_/view\n📌 Gratis E-Mail-Coaching: https://mailchi.mp/blogdichhoch.",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "0:52",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -17975,7 +17975,7 @@
       "model": null
     },
     "first_seen": "2026-09-24T17:23:00.351413+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4uzFw5qCVKI": {
     "video_id": "4uzFw5qCVKI",
@@ -17995,6 +17995,26 @@
       "model": null
     },
     "first_seen": "2026-09-24T17:27:53.262666+00:00",
+    "is_new": false
+  },
+  "uDlkDd3kRDs": {
+    "video_id": "uDlkDd3kRDs",
+    "title": "Are you going to SKIP READ or STUDY these books?",
+    "published": "2026-09-24T22:03:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uDlkDd3kRDs/hqdefault.jpg",
+    "description": "Are you going to SKIP READ or STUDY these books?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you going to SKIP READ or STUDY these books?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-24T23:41:47.897471+00:00",
     "is_new": true
   }
 }
