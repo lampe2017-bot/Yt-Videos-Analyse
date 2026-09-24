@@ -17955,6 +17955,46 @@
       "model": null
     },
     "first_seen": "2026-09-24T12:27:40.389944+00:00",
+    "is_new": false
+  },
+  "0zj46VLkRXw": {
+    "video_id": "0zj46VLkRXw",
+    "title": "„Die neue Krone der Schöpfung!\" Humanoide Roboter, KI & Zukunft (Prof. Gunter Dueck)",
+    "published": "2026-09-24T15:15:03+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0zj46VLkRXw/hqdefault.jpg",
+    "description": "Gunter Dueck über humanoide Roboter: Warum China vorne liegt, was sein Buch „Die neue Krone der Schöpfung\" zeigt und was Deutschland jetzt tun muss.\n\nLink zum neuen Buch: https://www.amazon.de/dp/3690460255\n\nMelde dich an zum nächsten Agentic Marketing Live Workshop: https://kilernen.de/agentic-marketing-workshop\n\nTauche noch tiefer ein in die Welt der Humanoiden Roboter: @everlastrobotics \n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringe",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Gunter Dueck über humanoide Roboter: Warum China vorne liegt, was sein Buch „Die neue Krone der Schöpfung\" zeigt und was Deutschland jetzt tun muss.\n\nLink zum neuen Buch: https://www.amazon.de/dp/3690460255\n\nMelde dich an zum nächsten Agent…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-24T17:23:00.351413+00:00",
+    "is_new": true
+  },
+  "4uzFw5qCVKI": {
+    "video_id": "4uzFw5qCVKI",
+    "title": "This kid wants to start a detailing business",
+    "published": "2026-09-24T17:04:53+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4uzFw5qCVKI/hqdefault.jpg",
+    "description": "This kid wants to start a detailing business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This kid wants to start a detailing business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-24T17:27:53.262666+00:00",
     "is_new": true
   }
 }
