@@ -18035,6 +18035,26 @@
       "model": null
     },
     "first_seen": "2026-09-25T08:07:58.545455+00:00",
+    "is_new": false
+  },
+  "7-xRZ67KZmI": {
+    "video_id": "7-xRZ67KZmI",
+    "title": "When do you know it's time to quit your 9-5 job?",
+    "published": "2026-09-25T11:02:05+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7-xRZ67KZmI/hqdefault.jpg",
+    "description": "When do you know it's time to quit your 9-5 job?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "When do you know it's time to quit your 9-5 job?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-25T13:23:01.241072+00:00",
     "is_new": true
   }
 }
