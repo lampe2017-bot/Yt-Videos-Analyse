@@ -18075,6 +18075,26 @@
       "model": null
     },
     "first_seen": "2026-09-25T18:04:57.387448+00:00",
+    "is_new": false
+  },
+  "4RIaCDr5nQg": {
+    "video_id": "4RIaCDr5nQg",
+    "title": "Who is statistically destined to be a millionaire?",
+    "published": "2026-09-25T20:34:51+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4RIaCDr5nQg/hqdefault.jpg",
+    "description": "Who is statistically destined to be a millionaire?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Who is statistically destined to be a millionaire?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-25T21:14:53.261902+00:00",
     "is_new": true
   }
 }
