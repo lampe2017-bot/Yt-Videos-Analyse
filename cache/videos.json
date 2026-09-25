@@ -18055,6 +18055,26 @@
       "model": null
     },
     "first_seen": "2026-09-25T13:23:01.241072+00:00",
+    "is_new": false
+  },
+  "yZ7UrB1tScY": {
+    "video_id": "yZ7UrB1tScY",
+    "title": "What AI tools are best for each task? (multiple choice)",
+    "published": "2026-09-25T17:04:28+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/yZ7UrB1tScY/hqdefault.jpg",
+    "description": "What AI tools are best for each task in September? (multiple choice)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What AI tools are best for each task? (multiple choice)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-25T18:04:57.387448+00:00",
     "is_new": true
   }
 }
