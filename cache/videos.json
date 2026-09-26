@@ -18176,5 +18176,25 @@
     },
     "first_seen": "2026-09-26T17:24:09.369979+00:00",
     "is_new": false
+  },
+  "o7rih2NZPFQ": {
+    "video_id": "o7rih2NZPFQ",
+    "title": "How get useful answers with your AI models",
+    "published": "2026-09-26T22:00:48+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/o7rih2NZPFQ/hqdefault.jpg",
+    "description": "How get useful answers with your AI models",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How get useful answers with your AI models",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-26T22:27:56.236455+00:00",
+    "is_new": true
   }
 }
