@@ -18135,6 +18135,26 @@
       "model": null
     },
     "first_seen": "2026-09-26T08:55:59.021727+00:00",
+    "is_new": false
+  },
+  "Q5pXAp4IY4o": {
+    "video_id": "Q5pXAp4IY4o",
+    "title": "No one needs to change for you to succeed in life",
+    "published": "2026-09-26T11:01:21+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Q5pXAp4IY4o/hqdefault.jpg",
+    "description": "No one needs to change for you to succeed in life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "No one needs to change for you to succeed in life",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-26T13:31:55.744938+00:00",
     "is_new": true
   }
 }
