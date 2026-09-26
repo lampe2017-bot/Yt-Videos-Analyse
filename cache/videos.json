@@ -18155,6 +18155,26 @@
       "model": null
     },
     "first_seen": "2026-09-26T13:31:55.744938+00:00",
+    "is_new": false
+  },
+  "Ow3NEJ44KZA": {
+    "video_id": "Ow3NEJ44KZA",
+    "title": "What online business should I be starting?",
+    "published": "2026-09-26T17:03:09+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Ow3NEJ44KZA/hqdefault.jpg",
+    "description": "What online business should I be starting?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What online business should I be starting?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-26T17:24:09.369979+00:00",
     "is_new": true
   }
 }
