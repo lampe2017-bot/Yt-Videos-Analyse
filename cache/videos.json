@@ -17739,7 +17739,7 @@
   },
   "fmMCg6dyWpQ": {
     "video_id": "fmMCg6dyWpQ",
-    "title": "KI 2035: Das letzte Jahr der Menschheit (Szenario eines UN-Beraters)",
+    "title": "So endet KI in 2035: Szenario eines UN-Beraters",
     "published": "2026-09-22T15:15:23+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/fmMCg6dyWpQ/hqdefault.jpg",
     "description": "KI 2035: Fünf Zukunftsszenarien aus der neuen AGI-Studie des Millennium Project, erarbeitet mit 55 der einflussreichsten Köpfe der KI-Welt. Die komplette Studie findest du hier: https://www.millennium-project.org/publications/agi-governance/ \n\nLerne mit KI-Agenten wie Claude Code richtig umzugehen: https://claudekurs.de\nSichere dir deinen Platz für den nächsten Agentic Marketing Workshop: https://agenticmarketing.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, ",
@@ -18215,7 +18215,7 @@
       "model": null
     },
     "first_seen": "2026-09-27T11:02:51.830358+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ziODrqD9RA0": {
     "video_id": "ziODrqD9RA0",
@@ -18235,7 +18235,7 @@
       "model": null
     },
     "first_seen": "2026-09-27T11:11:24.051029+00:00",
-    "is_new": true
+    "is_new": false
   },
   "m3uhDDlTx0I": {
     "video_id": "m3uhDDlTx0I",
@@ -18255,6 +18255,26 @@
       "model": null
     },
     "first_seen": "2026-09-27T11:14:30.487770+00:00",
+    "is_new": false
+  },
+  "n06f_CupG98": {
+    "video_id": "n06f_CupG98",
+    "title": "What leadership skills actually matter?",
+    "published": "2026-09-27T11:01:45+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/n06f_CupG98/hqdefault.jpg",
+    "description": "What leadership skills actually matter?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What leadership skills actually matter?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-27T15:47:14.573626+00:00",
     "is_new": true
   }
 }
