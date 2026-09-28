@@ -18335,7 +18335,7 @@
       "model": null
     },
     "first_seen": "2026-09-28T14:19:39.442293+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sHS-1CePq98": {
     "video_id": "sHS-1CePq98",
@@ -18355,14 +18355,14 @@
       "model": null
     },
     "first_seen": "2026-09-28T14:23:15.220746+00:00",
-    "is_new": true
+    "is_new": false
   },
   "l0ck5jW90as": {
     "video_id": "l0ck5jW90as",
     "title": "Herdr ist unglaublich!!!",
     "published": "2026-09-28T06:41:16+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/l0ck5jW90as/hqdefault.jpg",
-    "description": "Zero Knowledge Cloud: https://internxt.com/niklas\n(jetzt 85% Rabatt über meinen Link!)\nHerdr: https://herdr.dev/\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nOmarchy Linux: https://youtu.be/m3uhDDlTx0I?si=G0NYSBY4xipi0DTI\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:38 Terminal-Multiplexer\n00:01:25 Agents-Panel\n00:02:05 Sessions & Remote\n00:03:31 Mein H",
+    "description": "Zero Knowledge Cloud: https://internxt.com/niklas\n(jetzt 85% Rabatt über meinen Link!)\nHerdr: https://herdr.dev/\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nOmarchy Linux: https://youtu.be/m3uhDDlTx0I?si=G0NYSBY4xipi0DTI\nKostenloser Terminal-Kurs: https://youtu.be/ElmC237PygY\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:38 Terminal-Multiplexer\n00:01:25",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
     "duration": "",
@@ -18375,6 +18375,26 @@
       "model": null
     },
     "first_seen": "2026-09-28T14:26:32.314014+00:00",
+    "is_new": false
+  },
+  "r9-5TypfgLY": {
+    "video_id": "r9-5TypfgLY",
+    "title": "Books you NEED to study (young entrepreneurs)",
+    "published": "2026-09-28T17:04:59+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/r9-5TypfgLY/hqdefault.jpg",
+    "description": "Books you NEED to study (young entrepreneurs)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Books you NEED to study (young entrepreneurs)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-28T20:43:23.763254+00:00",
     "is_new": true
   }
 }
