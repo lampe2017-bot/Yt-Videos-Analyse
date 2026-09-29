@@ -18395,6 +18395,26 @@
       "model": null
     },
     "first_seen": "2026-09-28T20:43:23.763254+00:00",
+    "is_new": false
+  },
+  "qjW0OIAuL24": {
+    "video_id": "qjW0OIAuL24",
+    "title": "Do you know how many millionaires will be created because of AI?",
+    "published": "2026-09-28T22:02:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qjW0OIAuL24/hqdefault.jpg",
+    "description": "Do you know how many millionaires will be created because of AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Do you know how many millionaires will be created because of AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-29T00:47:25.334993+00:00",
     "is_new": true
   }
 }
