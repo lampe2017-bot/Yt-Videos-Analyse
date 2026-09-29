@@ -18435,7 +18435,7 @@
       "model": null
     },
     "first_seen": "2026-09-29T13:14:23.124804+00:00",
-    "is_new": true
+    "is_new": false
   },
   "MLg8GOZtRsM": {
     "video_id": "MLg8GOZtRsM",
@@ -18455,7 +18455,7 @@
       "model": null
     },
     "first_seen": "2026-09-29T13:17:49.115332+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YMvY4HgR_OA": {
     "video_id": "YMvY4HgR_OA",
@@ -18475,6 +18475,46 @@
       "model": null
     },
     "first_seen": "2026-09-29T13:18:03.049074+00:00",
+    "is_new": false
+  },
+  "SRvVdEoRnew": {
+    "video_id": "SRvVdEoRnew",
+    "title": "Es beginnt: KI verbessert sich jetzt selbst",
+    "published": "2026-09-29T15:15:17+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/SRvVdEoRnew/hqdefault.jpg",
+    "description": "Rekursive Selbstverbesserung: Claude führt bei Anthropic bereits 26 Prozent der eigenen KI-Forschung, und ein DeepSeek-Forscher rechnet damit, in spätestens einem Jahr von seiner eigenen KI übertroffen zu werden. Ich zeige, wie weit KI wirklich ist, sich selbst zu verbessern, und warum Dario Amodei jetzt ein Tempolimit fordert.\n\nSichere dir deinen Platz für den nächsten kostenfreien Agentic Marketing Live Workshop: https://agenticmarketing.de\n\nEssay von DeepSeek-Forscher Liu Shengyu (Chinesisch): https://zhuanlan.zhihu.com/p/2083228352316551687\"\n\nDu hast ein Unternehmen, willst den Anschluss n",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Rekursive Selbstverbesserung: Claude führt bei Anthropic bereits 26 Prozent der eigenen KI-Forschung, und ein DeepSeek-Forscher rechnet damit, in spätestens einem Jahr von seiner eigenen KI übertroffen zu werden. Ich zeige, wie weit KI wirk…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-29T18:44:00.911223+00:00",
+    "is_new": true
+  },
+  "JNcKZwCDxrg": {
+    "video_id": "JNcKZwCDxrg",
+    "title": "Can ADHD be a good thing?",
+    "published": "2026-09-29T17:04:14+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JNcKZwCDxrg/hqdefault.jpg",
+    "description": "Can ADHD be a good thing?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Can ADHD be a good thing?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-29T18:49:25.693231+00:00",
     "is_new": true
   }
 }
