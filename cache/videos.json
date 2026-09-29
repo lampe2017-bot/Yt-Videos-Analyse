@@ -18495,7 +18495,7 @@
       "model": null
     },
     "first_seen": "2026-09-29T18:44:00.911223+00:00",
-    "is_new": true
+    "is_new": false
   },
   "JNcKZwCDxrg": {
     "video_id": "JNcKZwCDxrg",
@@ -18515,6 +18515,26 @@
       "model": null
     },
     "first_seen": "2026-09-29T18:49:25.693231+00:00",
+    "is_new": false
+  },
+  "5pKgh7w0qeE": {
+    "video_id": "5pKgh7w0qeE",
+    "title": "I've read your comments...",
+    "published": "2026-09-29T22:01:32+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5pKgh7w0qeE/hqdefault.jpg",
+    "description": "I've read your comments...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I've read your comments...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-29T22:49:23.841665+00:00",
     "is_new": true
   }
 }
