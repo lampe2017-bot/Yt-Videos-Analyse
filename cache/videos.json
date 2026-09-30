@@ -18635,7 +18635,7 @@
       "model": null
     },
     "first_seen": "2026-09-30T19:36:26.475602+00:00",
-    "is_new": true
+    "is_new": false
   },
   "4Vo94jxoUMo": {
     "video_id": "4Vo94jxoUMo",
@@ -18655,6 +18655,26 @@
       "model": null
     },
     "first_seen": "2026-09-30T19:43:21.652494+00:00",
+    "is_new": false
+  },
+  "OdKpiSGKrIM": {
+    "video_id": "OdKpiSGKrIM",
+    "title": "Ranking businesses from Chill to Emotionally Scarring",
+    "published": "2026-09-30T22:03:22+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/OdKpiSGKrIM/hqdefault.jpg",
+    "description": "Ranking businesses from Chill to Emotionally Scarring",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking businesses from Chill to Emotionally Scarring",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T23:23:09.538179+00:00",
     "is_new": true
   }
 }
