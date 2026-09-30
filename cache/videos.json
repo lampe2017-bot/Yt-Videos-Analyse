@@ -18555,6 +18555,66 @@
       "model": null
     },
     "first_seen": "2026-09-30T07:46:14.031115+00:00",
+    "is_new": false
+  },
+  "wtaRjOFqdyU": {
+    "video_id": "wtaRjOFqdyU",
+    "title": "How to Make AI Sound EXACTLY Like you",
+    "published": "2026-09-30T13:00:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/wtaRjOFqdyU/hqdefault.jpg",
+    "description": "👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4deEbs2\n\nIn this video, I walk you through how I trained AI on years of my own thinking so it writes like me instead of like everyone else.\n\nIf you've ever reread something AI wrote for you and cringed, this is the fix.\n\nPrompts from the video:\n\nBrain System interview prompt:\nI want you to have all the context you need to think like me. Use all the tools I've connected to gather as much as you can about how I think, what I believe, and what I've done. Then interview me to fill the gaps — my point of view, my ",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4deEbs2\n\nIn this video, I walk you through how I trained AI on years of my own thinking so it writes like me instead of like everyone else.\n\nIf you've eve…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T14:26:44.857920+00:00",
+    "is_new": true
+  },
+  "Q7Ira3MLyRM": {
+    "video_id": "Q7Ira3MLyRM",
+    "title": "My reaction to how much you're spending on AI",
+    "published": "2026-09-30T11:01:41+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Q7Ira3MLyRM/hqdefault.jpg",
+    "description": "My reaction to how much you're spending on AI per month",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "My reaction to how much you're spending on AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T14:26:59.582054+00:00",
+    "is_new": true
+  },
+  "LtfJWGP1XN0": {
+    "video_id": "LtfJWGP1XN0",
+    "title": "Die Wahrheit über Yapping Reels: Was du wirklich darüber wissen musst",
+    "published": "2026-09-30T14:00:38+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LtfJWGP1XN0/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft Wie dein Business verkauft, während du frei hast https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=yapping-reels\n\n\n\nWas bedeutet der Yapping Trend eigentlich? Erfahre, warum Creator den Yapping Trend nutzen und ob er deinen Feed wirklich bestimmt.\n\nDer aktuelle Yapping Trend sorgt für Diskussionen auf verschiedenen Plattformen. Viele Content Creator setzen vermehrt auf lange, erzählerische Sequenzen, statt auf kurze, geschnittene Clips. Diese Analyse erklärt genau, warum diese Strategie derzeit so po",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft Wie dein Business verkauft, während du frei hast https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=yapping-reels\n\n\n\nWas bedeutet der Yapping Tren…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T14:30:23.760217+00:00",
     "is_new": true
   }
 }
