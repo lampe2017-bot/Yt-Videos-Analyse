@@ -18575,7 +18575,7 @@
       "model": null
     },
     "first_seen": "2026-09-30T14:26:44.857920+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Q7Ira3MLyRM": {
     "video_id": "Q7Ira3MLyRM",
@@ -18595,7 +18595,7 @@
       "model": null
     },
     "first_seen": "2026-09-30T14:26:59.582054+00:00",
-    "is_new": true
+    "is_new": false
   },
   "LtfJWGP1XN0": {
     "video_id": "LtfJWGP1XN0",
@@ -18615,6 +18615,46 @@
       "model": null
     },
     "first_seen": "2026-09-30T14:30:23.760217+00:00",
+    "is_new": false
+  },
+  "O3yC-5sp1-s": {
+    "video_id": "O3yC-5sp1-s",
+    "title": "What do you fix in your business when everything feels broken?",
+    "published": "2026-09-30T17:03:25+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/O3yC-5sp1-s/hqdefault.jpg",
+    "description": "What do you fix in your business when everything feels broken?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What do you fix in your business when everything feels broken?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T19:36:26.475602+00:00",
+    "is_new": true
+  },
+  "4Vo94jxoUMo": {
+    "video_id": "4Vo94jxoUMo",
+    "title": "Warum ich nur noch am Handy programmiere",
+    "published": "2026-09-30T14:53:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/4Vo94jxoUMo/hqdefault.jpg",
+    "description": "Alle Tools laufen auf diesem VPS: https://www.hostg.xyz/SHJ7j\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:52 Vom Coder zum Manager\n00:02:27 VPS einrichten\n00:03:58 Claude Remote Control\n00:05:56 Dauerbetrieb per systemd\n00:08:38 Antigravity\n00:10:33 Cursor & Codex\n00:11:53 Workaround: OpenClaw\n",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Alle Tools laufen auf diesem VPS: https://www.hostg.xyz/SHJ7j\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem:…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-09-30T19:43:21.652494+00:00",
     "is_new": true
   }
 }
