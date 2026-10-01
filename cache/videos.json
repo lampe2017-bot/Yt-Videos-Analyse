@@ -18699,7 +18699,7 @@
   },
   "b8SU4cqAWTk": {
     "video_id": "b8SU4cqAWTk",
-    "title": "KI-Forscher: DAS passiert, nachdem KI ALLE Jobs ersetzt hat! (Prof. Dr. Marcus Hutter)",
+    "title": "„In 5 Jahren sind ALLE Bürojobs weg!\" DAS passiert danach (Prof. Marcus Hutter)",
     "published": "2026-10-01T15:15:05+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/b8SU4cqAWTk/hqdefault.jpg",
     "description": "Was passiert, nachdem KI alle Jobs ersetzt hat? KI-Forscher Prof. Dr. Marcus Hutter erklärt im Interview, warum Massenarbeitslosigkeit kein Problem der Produktion, sondern der Verteilung ist, und wie ein bedingungsloses Grundeinkommen finanzierbar wird.\n\nMarcus Hutters Buch „Job-Less Utopia: Macroeconomics in the Age of AGI“: https://www.amazon.de/dp/1066828415\"\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen",
@@ -18715,7 +18715,7 @@
       "model": null
     },
     "first_seen": "2026-10-01T16:33:55.056532+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Zu3sR7chm0E": {
     "video_id": "Zu3sR7chm0E",
@@ -18735,6 +18735,26 @@
       "model": null
     },
     "first_seen": "2026-10-01T16:39:21.844784+00:00",
+    "is_new": false
+  },
+  "9XhN2YnYwiY": {
+    "video_id": "9XhN2YnYwiY",
+    "title": "Have you tried Higgsfield Genjutsu?",
+    "published": "2026-10-01T17:03:09+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9XhN2YnYwiY/hqdefault.jpg",
+    "description": "Have you tried Higgsfield Genjutsu?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Have you tried Higgsfield Genjutsu?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-01T21:34:14.298408+00:00",
     "is_new": true
   }
 }
