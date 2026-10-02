@@ -18795,6 +18795,46 @@
       "model": null
     },
     "first_seen": "2026-10-02T13:26:45.302441+00:00",
+    "is_new": false
+  },
+  "5gNrMZWZLgI": {
+    "video_id": "5gNrMZWZLgI",
+    "title": "Stop doing these business habits if you want to grow",
+    "published": "2026-10-02T17:05:41+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5gNrMZWZLgI/hqdefault.jpg",
+    "description": "Stop doing these business habits if you want to grow\nComment the word SCALE for the workbook",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Stop doing these business habits if you want to grow\nComment the word SCALE for the workbook"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-02T18:38:20.583364+00:00",
+    "is_new": true
+  },
+  "dQhnx2JG0OE": {
+    "video_id": "dQhnx2JG0OE",
+    "title": "How This Runner Aid Station Crafted The Perfect Offer",
+    "published": "2026-10-02T17:04:08+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dQhnx2JG0OE/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-02T18:38:34.620853+00:00",
     "is_new": true
   }
 }
