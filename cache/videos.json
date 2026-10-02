@@ -18815,7 +18815,7 @@
       "model": null
     },
     "first_seen": "2026-10-02T18:38:20.583364+00:00",
-    "is_new": true
+    "is_new": false
   },
   "dQhnx2JG0OE": {
     "video_id": "dQhnx2JG0OE",
@@ -18835,6 +18835,26 @@
       "model": null
     },
     "first_seen": "2026-10-02T18:38:34.620853+00:00",
+    "is_new": false
+  },
+  "I64eMNWppcg": {
+    "video_id": "I64eMNWppcg",
+    "title": "Ranking careers that can make you a millionaire",
+    "published": "2026-10-02T22:03:31+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/I64eMNWppcg/hqdefault.jpg",
+    "description": "If you want to grow your business comment “GROW” and I’ll send you a free gift",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ranking careers that can make you a millionaire",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-02T22:44:20.739000+00:00",
     "is_new": true
   }
 }
