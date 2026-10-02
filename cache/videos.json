@@ -18755,6 +18755,26 @@
       "model": null
     },
     "first_seen": "2026-10-01T21:34:14.298408+00:00",
+    "is_new": false
+  },
+  "koIUqgn_sko": {
+    "video_id": "koIUqgn_sko",
+    "title": "What I hear when you say \"Let me check with my team\"",
+    "published": "2026-10-01T22:00:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/koIUqgn_sko/hqdefault.jpg",
+    "description": "What I hear when you say \"Let me check with my team\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What I hear when you say \"Let me check with my team\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-02T01:04:33.950381+00:00",
     "is_new": true
   }
 }
