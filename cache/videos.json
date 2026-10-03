@@ -18859,7 +18859,7 @@
   },
   "jE58DjVNnP0": {
     "video_id": "jE58DjVNnP0",
-    "title": "Wenn ich nochmal studieren müsste ....",
+    "title": "Wozu noch studieren?",
     "published": "2026-10-03T03:41:00+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/jE58DjVNnP0/hqdefault.jpg",
     "description": "Mein Studienplaner: http://fokus.so/planer?el=back2school\n(Code: BACK2SCHOOL für 30% extra Rabatt!)\n2 Monate RemNote Pro geschenkt: https://remnote.com/niklas\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nhttps://omarchy.org/\nhttps://www.youtube.com/@remnote\n\n⌚️Timestamps:\n00:00 Intro\n01:12 Keine Panik\n02:15 Keine Hektik\n03:46 Studium vs Berufsa",
@@ -18875,6 +18875,46 @@
       "model": null
     },
     "first_seen": "2026-10-03T07:23:44.132308+00:00",
+    "is_new": false
+  },
+  "uwBFN4ZYT2Y": {
+    "video_id": "uwBFN4ZYT2Y",
+    "title": "PROTESTE bei OpenAI: DAS habe ich vor Ort erlebt | VLOG DevDay 2026",
+    "published": "2026-10-03T08:15:10+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uwBFN4ZYT2Y/hqdefault.jpg",
+    "description": "Ich war beim OpenAI DevDay 2026 in San Francisco und zeige dir die 14 wichtigsten Updates, dazu meine Einordnung vor Ort, welche übergeordneten Trends jetzt wichtig sind.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n----------------------------------------------\n\n⚙️ Meine Tool-Empfehlungen\n\nMit diesem Tool mache ich meine Transkriptionen",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Ich war beim OpenAI DevDay 2026 in San Francisco und zeige dir die 14 wichtigsten Updates, dazu meine Einordnung vor Ort, welche übergeordneten Trends jetzt wichtig sind.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kib…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-03T12:42:20.743089+00:00",
+    "is_new": true
+  },
+  "Pz1JZUsHuzo": {
+    "video_id": "Pz1JZUsHuzo",
+    "title": "Should you train or fire these employees (from a +$100M CEO perspective)",
+    "published": "2026-10-03T11:01:54+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Pz1JZUsHuzo/hqdefault.jpg",
+    "description": "Should you train or fire these employees (from a +$100M CEO perspective)",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you train or fire these employees (from a +$100M CEO perspective)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-03T12:44:32.722792+00:00",
     "is_new": true
   }
 }
