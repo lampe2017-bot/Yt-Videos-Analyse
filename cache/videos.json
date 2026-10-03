@@ -18916,5 +18916,25 @@
     },
     "first_seen": "2026-10-03T12:44:32.722792+00:00",
     "is_new": false
+  },
+  "9MEPephN7T0": {
+    "video_id": "9MEPephN7T0",
+    "title": "You need to be tracking these numbers as a CEO",
+    "published": "2026-10-03T17:01:53+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9MEPephN7T0/hqdefault.jpg",
+    "description": "You need to be tracking these numbers as a CEO",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You need to be tracking these numbers as a CEO",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-03T19:39:39.268616+00:00",
+    "is_new": true
   }
 }
