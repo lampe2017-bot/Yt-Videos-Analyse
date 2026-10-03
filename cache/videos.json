@@ -18935,6 +18935,26 @@
       "model": null
     },
     "first_seen": "2026-10-03T19:39:39.268616+00:00",
+    "is_new": false
+  },
+  "8u7NbUT0XW4": {
+    "video_id": "8u7NbUT0XW4",
+    "title": "3 Skills You Need to Get Rich",
+    "published": "2026-10-03T22:02:18+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8u7NbUT0XW4/hqdefault.jpg",
+    "description": "There are only 3 skills you need to get rich",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "3 Skills You Need to Get Rich",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-03T22:35:45.109007+00:00",
     "is_new": true
   }
 }
