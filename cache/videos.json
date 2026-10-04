@@ -19036,5 +19036,25 @@
     },
     "first_seen": "2026-10-04T17:59:38.091095+00:00",
     "is_new": false
+  },
+  "H-R_FabFqaQ": {
+    "video_id": "H-R_FabFqaQ",
+    "title": "Should you start an AI automation business?",
+    "published": "2026-10-04T22:01:56+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/H-R_FabFqaQ/hqdefault.jpg",
+    "description": "Should you start an AI automation business?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you start an AI automation business?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-04T23:46:16.834712+00:00",
+    "is_new": true
   }
 }
