@@ -18995,7 +18995,7 @@
       "model": null
     },
     "first_seen": "2026-10-04T13:33:10.972109+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nr5s26hYkWg": {
     "video_id": "nr5s26hYkWg",
@@ -19015,6 +19015,26 @@
       "model": null
     },
     "first_seen": "2026-10-04T13:38:42.029939+00:00",
+    "is_new": false
+  },
+  "k7X24x06v4E": {
+    "video_id": "k7X24x06v4E",
+    "title": "How do you build a successful company?",
+    "published": "2026-10-04T17:02:44+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/k7X24x06v4E/hqdefault.jpg",
+    "description": "How do you build a successful company?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you build a successful company?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-04T17:59:38.091095+00:00",
     "is_new": true
   }
 }
