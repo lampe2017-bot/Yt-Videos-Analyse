@@ -19075,6 +19075,46 @@
       "model": null
     },
     "first_seen": "2026-10-05T09:55:00.000154+00:00",
+    "is_new": false
+  },
+  "QpFj5HTB1hA": {
+    "video_id": "QpFj5HTB1hA",
+    "title": "Your language actually matters in business",
+    "published": "2026-10-05T17:03:05+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QpFj5HTB1hA/hqdefault.jpg",
+    "description": "Your language actually matters in business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Your language actually matters in business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-05T19:01:20.834381+00:00",
+    "is_new": true
+  },
+  "iUyFGrJLBFg": {
+    "video_id": "iUyFGrJLBFg",
+    "title": "Don't start a business for the money",
+    "published": "2026-10-05T11:01:54+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iUyFGrJLBFg/hqdefault.jpg",
+    "description": "Don't start a business for the money",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't start a business for the money",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-05T19:01:43.010544+00:00",
     "is_new": true
   }
 }
