@@ -19155,7 +19155,7 @@
       "model": null
     },
     "first_seen": "2026-10-06T13:50:22.482434+00:00",
-    "is_new": true
+    "is_new": false
   },
   "VBsgdBVfyZI": {
     "video_id": "VBsgdBVfyZI",
@@ -19175,6 +19175,46 @@
       "model": null
     },
     "first_seen": "2026-10-06T13:55:47.064552+00:00",
+    "is_new": false
+  },
+  "phcZVAmT8j8": {
+    "video_id": "phcZVAmT8j8",
+    "title": "Diese KI führt einen kompletten Laden allein. DAS ist bisher passiert",
+    "published": "2026-10-06T15:15:29+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/phcZVAmT8j8/hqdefault.jpg",
+    "description": "Eine KI hat zum ersten Mal einen Menschen gefeuert: Ich war in San Francisco im Andon Market, einem Laden, den der KI-Agent Luna komplett allein führt. Ich zeige, was dabei schiefgeht und was das für autonome KI-Unternehmen bedeutet.\n\nLerne alles über Claude mit dem Nr. 1 Claude Kurs: https://claudekurs.de\n\nSichere dir deinen Platz für den nächsten kostenfreien Agentic Marketing Live Workshop: https://agenticmarketing.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unterneh",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Eine KI hat zum ersten Mal einen Menschen gefeuert: Ich war in San Francisco im Andon Market, einem Laden, den der KI-Agent Luna komplett allein führt. Ich zeige, was dabei schiefgeht und was das für autonome KI-Unternehmen bedeutet.\n\nLerne…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-06T19:11:00.103387+00:00",
+    "is_new": true
+  },
+  "Y0yte9zAy6k": {
+    "video_id": "Y0yte9zAy6k",
+    "title": "What's the worst thing you can say on a sales call?",
+    "published": "2026-10-06T17:04:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Y0yte9zAy6k/hqdefault.jpg",
+    "description": "What's the worst thing you can say on a sales call?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What's the worst thing you can say on a sales call?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-06T19:17:00.515543+00:00",
     "is_new": true
   }
 }
