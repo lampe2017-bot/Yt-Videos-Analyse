@@ -19255,7 +19255,7 @@
       "model": null
     },
     "first_seen": "2026-10-07T16:52:21.318937+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZzQzM5O6e5Q": {
     "video_id": "ZzQzM5O6e5Q",
@@ -19275,11 +19275,11 @@
       "model": null
     },
     "first_seen": "2026-10-07T16:52:42.619364+00:00",
-    "is_new": true
+    "is_new": false
   },
   "qlJGOx79BAk": {
     "video_id": "qlJGOx79BAk",
-    "title": "Lerne 98% über Instagram Reels in unter 30 Minuten",
+    "title": "Was dir niemand über Instagram Reels erklärt 😳",
     "published": "2026-10-07T14:00:00+00:00",
     "thumbnail": "https://i2.ytimg.com/vi/qlJGOx79BAk/hqdefault.jpg",
     "description": "✅ Kostenloser Workshop: In 90 Min zum System, das ohne dich verkauft https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=98-prozent-reels\n\n\nErfolgreiche Reels sind keine Glückssache, sondern basieren auf festen Strukturen. Lerne, wie du diese Prinzipien für deine Videos nutzt.\n\nViele Creator glauben, dass virale Inhalte zufällig entstehen. Dieses Video zeigt dir, dass erfolgreiche Reels erstellen auf erlernbaren Methoden beruht. Wenn du die zugrunde liegende Reels Struktur verstehst, kannst du gezielt Aufmerksamkeit erzeugen und deine Reichweite nachhaltig aufbauen. Die",
@@ -19295,6 +19295,26 @@
       "model": null
     },
     "first_seen": "2026-10-07T16:57:41.611331+00:00",
+    "is_new": false
+  },
+  "G6gB-zpiGnM": {
+    "video_id": "G6gB-zpiGnM",
+    "title": "Should you have equality in your business?",
+    "published": "2026-10-07T17:03:27+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/G6gB-zpiGnM/hqdefault.jpg",
+    "description": "Should you have equality in your business?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Should you have equality in your business?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-07T21:47:20.357546+00:00",
     "is_new": true
   }
 }
