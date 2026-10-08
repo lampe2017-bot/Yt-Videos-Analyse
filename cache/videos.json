@@ -19355,6 +19355,26 @@
       "model": null
     },
     "first_seen": "2026-10-08T07:50:03.950362+00:00",
+    "is_new": false
+  },
+  "Fa9HJZqGHDw": {
+    "video_id": "Fa9HJZqGHDw",
+    "title": "Does being passionate make you wealthy?",
+    "published": "2026-10-08T11:02:19+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Fa9HJZqGHDw/hqdefault.jpg",
+    "description": "Does being passionate make you wealthy?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Does being passionate make you wealthy?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-08T15:07:03.890484+00:00",
     "is_new": true
   }
 }
