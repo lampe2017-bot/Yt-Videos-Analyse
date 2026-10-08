@@ -19375,6 +19375,46 @@
       "model": null
     },
     "first_seen": "2026-10-08T15:07:03.890484+00:00",
+    "is_new": false
+  },
+  "tZfE4h2JDFI": {
+    "video_id": "tZfE4h2JDFI",
+    "title": "KI-Börsengänge: DAS übersehen alle! Was du wissen musst - Dr. Andreas Beck & Dr. Gregor Broschinski",
+    "published": "2026-10-08T15:15:22+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tZfE4h2JDFI/hqdefault.jpg",
+    "description": "Platzt die KI-Blase oder geht der Boom erst richtig los? Leonard Schmedding spricht mit Kapitalmarktexperte Dr. Andreas Beck und Banker Dr. Gregor Broschinski über die großen KI-Börsengänge, die Zukunft von Immobilien und wie du dein Vermögen auf die KI-Wirtschaft vorbereitest.\n\nSichere dir den kostenlosen KI DSGVO Report 2026: https://kidsgvoreport.de\n\nWerde KI-Experte mit den Kursen der Everlast KI Academy: https://kilernen.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem ",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Platzt die KI-Blase oder geht der Boom erst richtig los? Leonard Schmedding spricht mit Kapitalmarktexperte Dr. Andreas Beck und Banker Dr. Gregor Broschinski über die großen KI-Börsengänge, die Zukunft von Immobilien und wie du dein Vermög…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-08T20:43:54.574549+00:00",
+    "is_new": true
+  },
+  "e7JOyIdIojg": {
+    "video_id": "e7JOyIdIojg",
+    "title": "What should you focus on to hit each money milestone?",
+    "published": "2026-10-08T17:03:41+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/e7JOyIdIojg/hqdefault.jpg",
+    "description": "What should you focus on to hit each money milestone?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What should you focus on to hit each money milestone?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-08T20:52:33.386238+00:00",
     "is_new": true
   }
 }
