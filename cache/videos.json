@@ -19315,6 +19315,26 @@
       "model": null
     },
     "first_seen": "2026-10-07T21:47:20.357546+00:00",
+    "is_new": false
+  },
+  "IdvRnykiU6M": {
+    "video_id": "IdvRnykiU6M",
+    "title": "What AI user are you? Dumb? Normal? Smart?",
+    "published": "2026-10-07T22:02:59+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IdvRnykiU6M/hqdefault.jpg",
+    "description": "What AI user are you? Dumb? Normal? Smart?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What AI user are you? Dumb? Normal? Smart?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-08T01:24:36.704310+00:00",
     "is_new": true
   }
 }
