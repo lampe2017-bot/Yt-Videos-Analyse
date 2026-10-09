@@ -19455,7 +19455,7 @@
       "model": null
     },
     "first_seen": "2026-10-09T14:03:48.500925+00:00",
-    "is_new": true
+    "is_new": false
   },
   "eIFYqQCV4D4": {
     "video_id": "eIFYqQCV4D4",
@@ -19475,7 +19475,7 @@
       "model": null
     },
     "first_seen": "2026-10-09T14:09:12.813608+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1ENkfX0eLfc": {
     "video_id": "1ENkfX0eLfc",
@@ -19495,7 +19495,7 @@
       "model": null
     },
     "first_seen": "2026-10-09T14:14:21.295875+00:00",
-    "is_new": true
+    "is_new": false
   },
   "eokura24inQ": {
     "video_id": "eokura24inQ",
@@ -19515,6 +19515,26 @@
       "model": null
     },
     "first_seen": "2026-10-09T14:14:42.645932+00:00",
+    "is_new": false
+  },
+  "ev2439aw4UY": {
+    "video_id": "ev2439aw4UY",
+    "title": "How many meetings do you have every week?",
+    "published": "2026-10-09T17:03:57+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ev2439aw4UY/hqdefault.jpg",
+    "description": "How many meetings do you have every week?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How many meetings do you have every week?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-09T19:15:42.029471+00:00",
     "is_new": true
   }
 }
