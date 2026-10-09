@@ -19395,7 +19395,7 @@
       "model": null
     },
     "first_seen": "2026-10-08T20:43:54.574549+00:00",
-    "is_new": true
+    "is_new": false
   },
   "e7JOyIdIojg": {
     "video_id": "e7JOyIdIojg",
@@ -19415,6 +19415,26 @@
       "model": null
     },
     "first_seen": "2026-10-08T20:52:33.386238+00:00",
+    "is_new": false
+  },
+  "nMhL3p-w-9Q": {
+    "video_id": "nMhL3p-w-9Q",
+    "title": "How to decide what you actually say YES to in your life",
+    "published": "2026-10-08T22:03:39+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nMhL3p-w-9Q/hqdefault.jpg",
+    "description": "How to decide what you actually say YES to in your life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to decide what you actually say YES to in your life",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-09T00:54:37.033323+00:00",
     "is_new": true
   }
 }
