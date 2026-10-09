@@ -19535,6 +19535,26 @@
       "model": null
     },
     "first_seen": "2026-10-09T19:15:42.029471+00:00",
+    "is_new": false
+  },
+  "ES_wRcOc_wA": {
+    "video_id": "ES_wRcOc_wA",
+    "title": "Managers are slept on",
+    "published": "2026-10-09T22:03:20+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ES_wRcOc_wA/hqdefault.jpg",
+    "description": "Managers are slept on",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Managers are slept on",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-09T23:28:08.365803+00:00",
     "is_new": true
   }
 }
