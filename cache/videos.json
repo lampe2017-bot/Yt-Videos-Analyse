@@ -19575,7 +19575,7 @@
       "model": null
     },
     "first_seen": "2026-10-10T08:50:15.123517+00:00",
-    "is_new": true
+    "is_new": false
   },
   "z-oaBZSCvaw": {
     "video_id": "z-oaBZSCvaw",
@@ -19595,6 +19595,26 @@
       "model": null
     },
     "first_seen": "2026-10-10T08:58:17.771811+00:00",
+    "is_new": false
+  },
+  "Cghq9up6OGk": {
+    "video_id": "Cghq9up6OGk",
+    "title": "If you want to improve your sales, stop using these words",
+    "published": "2026-10-10T11:01:01+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Cghq9up6OGk/hqdefault.jpg",
+    "description": "If you want to improve your sales, stop using these words",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you want to improve your sales, stop using these words",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-10T14:59:48.864843+00:00",
     "is_new": true
   }
 }
