@@ -19655,7 +19655,7 @@
       "model": null
     },
     "first_seen": "2026-10-11T07:30:57.357064+00:00",
-    "is_new": true
+    "is_new": false
   },
   "L67yYy7RPhs": {
     "video_id": "L67yYy7RPhs",
@@ -19675,6 +19675,66 @@
       "model": null
     },
     "first_seen": "2026-10-11T07:36:12.795159+00:00",
+    "is_new": false
+  },
+  "0tbDxmVy1m8": {
+    "video_id": "0tbDxmVy1m8",
+    "title": "Das ist krank: Der erste Roboter “Death Fight” der Welt! + Claude Haiku 5.5 & weitere KI-News",
+    "published": "2026-10-11T08:15:12+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0tbDxmVy1m8/hqdefault.jpg",
+    "description": "Der weltweit erste \"Death Fight\" zwischen humanoiden Robotern hat stattgefunden, und ich war live vor Ort in San Francisco. Außerdem: OpenAI markiert ab sofort deine Texte mit einem unsichtbaren Wasserzeichen, Anthropic bringt Claude Haiku 5.5, Microsofts KI-Chef Mustafa Suleyman legt sich wegen der Frage nach Claudes Bewusstsein mit Anthropic an.\n\nSichere dir deinen Platz für den nächsten kostenfreien Agentic Marketing Live Workshop: https://agenticmarketing.de\n\nMehr zu humanoiden Robotern auf unserem Kanal Everlast Robotics: https://www.youtube.com/@everlastrobotics\n\nDu hast ein Unternehmen,",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Der weltweit erste \"Death Fight\" zwischen humanoiden Robotern hat stattgefunden, und ich war live vor Ort in San Francisco. Außerdem: OpenAI markiert ab sofort deine Texte mit einem unsichtbaren Wasserzeichen, Anthropic bringt Claude Haiku …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-11T14:14:18.930221+00:00",
+    "is_new": true
+  },
+  "Gp7XkKjwWrA": {
+    "video_id": "Gp7XkKjwWrA",
+    "title": "How do you avoid wasting your time with AI?",
+    "published": "2026-10-11T11:01:39+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Gp7XkKjwWrA/hqdefault.jpg",
+    "description": "How do you avoid wasting your time with AI?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you avoid wasting your time with AI?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-11T14:20:55.035850+00:00",
+    "is_new": true
+  },
+  "O2fUZqbs2vo": {
+    "video_id": "O2fUZqbs2vo",
+    "title": "Instagram Story Views im Keller? DAS steckt wirklich dahinter",
+    "published": "2026-10-11T14:00:19+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/O2fUZqbs2vo/hqdefault.jpg",
+    "description": "Warum sind deine Instagram Stories plötzlich so schwach? Wir analysieren den aktuellen Reichweitenverlust.\n\nViele Creator bemerken aktuell einen drastischen Einbruch bei ihren Story Aufrufe. Selbst große Accounts mit hunderttausenden Followern kämpfen mit diesem Problem, was viele zur Verzweiflung treibt.\n\nIn dieser Analyse kläre ich, was hinter dem plötzlichen Reichweitenverlust steckt und ob es sich um ein generelles Update handelt. Wir schauen uns an, wie der aktuelle Instagram Algorithmus gerade funktioniert und was du tun kannst, um dennoch sichtbar zu bleiben.\n\nAbonniere den Kanal für wö",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Warum sind deine Instagram Stories plötzlich so schwach? Wir analysieren den aktuellen Reichweitenverlust.\n\nViele Creator bemerken aktuell einen drastischen Einbruch bei ihren Story Aufrufe. Selbst große Accounts mit hunderttausenden Follow…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-11T14:26:19.156650+00:00",
     "is_new": true
   }
 }
