@@ -19695,7 +19695,7 @@
       "model": null
     },
     "first_seen": "2026-10-11T14:14:18.930221+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Gp7XkKjwWrA": {
     "video_id": "Gp7XkKjwWrA",
@@ -19715,7 +19715,7 @@
       "model": null
     },
     "first_seen": "2026-10-11T14:20:55.035850+00:00",
-    "is_new": true
+    "is_new": false
   },
   "O2fUZqbs2vo": {
     "video_id": "O2fUZqbs2vo",
@@ -19735,6 +19735,26 @@
       "model": null
     },
     "first_seen": "2026-10-11T14:26:19.156650+00:00",
+    "is_new": false
+  },
+  "f1qqItopGUM": {
+    "video_id": "f1qqItopGUM",
+    "title": "How to live a fulfilling life",
+    "published": "2026-10-11T17:02:29+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/f1qqItopGUM/hqdefault.jpg",
+    "description": "How to live a fulfilling life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to live a fulfilling life",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-11T19:09:18.662083+00:00",
     "is_new": true
   }
 }
