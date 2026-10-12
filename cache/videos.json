@@ -19775,6 +19775,46 @@
       "model": null
     },
     "first_seen": "2026-10-12T09:40:40.360000+00:00",
+    "is_new": false
+  },
+  "BnfhKOiKjfE": {
+    "video_id": "BnfhKOiKjfE",
+    "title": "How do you actually Buy Back Your Time?",
+    "published": "2026-10-12T17:03:03+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BnfhKOiKjfE/hqdefault.jpg",
+    "description": "How do you actually Buy Back Your Time?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you actually Buy Back Your Time?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-12T19:21:42.310110+00:00",
+    "is_new": true
+  },
+  "hSfOVKjomag": {
+    "video_id": "hSfOVKjomag",
+    "title": "If you can't go a day without thinking about it...",
+    "published": "2026-10-12T11:01:59+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hSfOVKjomag/hqdefault.jpg",
+    "description": "If you can't go a day without thinking about it...",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If you can't go a day without thinking about it...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-12T19:22:03.535862+00:00",
     "is_new": true
   }
 }
