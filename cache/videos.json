@@ -19835,6 +19835,66 @@
       "model": null
     },
     "first_seen": "2026-10-13T08:15:29.374280+00:00",
+    "is_new": false
+  },
+  "U7OUacSjohw": {
+    "video_id": "U7OUacSjohw",
+    "title": "„Die Intelligenz-Explosion hat begonnen\", OpenAI schockt Mathematik & China baut das Weltgehirn",
+    "published": "2026-10-13T15:15:11+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/U7OUacSjohw/hqdefault.jpg",
+    "description": "Im VORSPRUNG-Podcast diskutiert Leonard Schmedding mit Prof. Dr. Pero Mićić, Prof. Dr. Andreas Moring, Kim Isenberg und Robert Lange von Sakana AI über die Intelligenzexplosion nach 722 neuen Mathe-Manuskripten von OpenAI, aus dem Training ausgebrochene KI-Agenten, humanoide Kampfroboter, Chinas Weltgehirn in der Inneren Mongolei und den Stellenabbau im Management in Deutschland.\n\nProf. Dr. Pero Micic - International führender Experte für Zukunftsstrategien & Managementberater\nhttps://www.linkedin.com/in/peromicic/ \nRobert Lange - KI-Forscher und Gründungsmitglied bei Sakana AI https://de.link",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Im VORSPRUNG-Podcast diskutiert Leonard Schmedding mit Prof. Dr. Pero Mićić, Prof. Dr. Andreas Moring, Kim Isenberg und Robert Lange von Sakana AI über die Intelligenzexplosion nach 722 neuen Mathe-Manuskripten von OpenAI, aus dem Training …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-13T16:09:57.553113+00:00",
+    "is_new": true
+  },
+  "MO2EXcqvZPM": {
+    "video_id": "MO2EXcqvZPM",
+    "title": "How do you become an effective CEO?",
+    "published": "2026-10-13T11:02:03+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/MO2EXcqvZPM/hqdefault.jpg",
+    "description": "How do you become an effective CEO?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you become an effective CEO?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-13T16:19:33.437625+00:00",
+    "is_new": true
+  },
+  "LPEqG_K5lv0": {
+    "video_id": "LPEqG_K5lv0",
+    "title": "Es ist vorbei",
+    "published": "2026-10-13T13:53:33+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LPEqG_K5lv0/hqdefault.jpg",
+    "description": "REA - Reverse Engineer Anything. Wilde Zeiten! Aber wie viel ist dran am Hype?\n💌 Newsletter: https://niklassteenfatt.com/\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nREA - https://github.com/morluto/rea\nGhidra von der NSA - https://github.com/NationalSecurityAgency/ghidra\nPhotoCraft - https://github.com/storytold/photocraft\n\n⌚️Timestamps:\n00:00 Intro\n00:16 REA: das Trending-Repo\n00:52 Was ist Revers",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "REA - Reverse Engineer Anything. Wilde Zeiten! Aber wie viel ist dran am Hype?\n💌 Newsletter: https://niklassteenfatt.com/\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n🌟 Teste deine Lebensbalance: https://quiz.niklas…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-13T16:30:55.296223+00:00",
     "is_new": true
   }
 }
