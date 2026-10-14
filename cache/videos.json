@@ -19955,7 +19955,7 @@
       "model": null
     },
     "first_seen": "2026-10-14T15:25:26.072840+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Hgd1rxrIYGM": {
     "video_id": "Hgd1rxrIYGM",
@@ -19975,7 +19975,7 @@
       "model": null
     },
     "first_seen": "2026-10-14T15:25:47.544444+00:00",
-    "is_new": true
+    "is_new": false
   },
   "R6HhlRor-3E": {
     "video_id": "R6HhlRor-3E",
@@ -19995,6 +19995,6 @@
       "model": null
     },
     "first_seen": "2026-10-14T15:30:48.763707+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
