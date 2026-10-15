@@ -20015,7 +20015,7 @@
       "model": null
     },
     "first_seen": "2026-10-15T11:05:33.996958+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0RBB6FtzZvQ": {
     "video_id": "0RBB6FtzZvQ",
@@ -20035,6 +20035,46 @@
       "model": null
     },
     "first_seen": "2026-10-15T11:10:49.498312+00:00",
+    "is_new": false
+  },
+  "eUr9ZgrYhts": {
+    "video_id": "eUr9ZgrYhts",
+    "title": "Ex-Generalkonsul packt aus: „Wir haben ALLES verschlafen!“ Die Wahrheit über China (Wolfgang Röhr)",
+    "published": "2026-10-15T15:15:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/eUr9ZgrYhts/hqdefault.jpg",
+    "description": "Der frühere deutsche Generalkonsul in Shanghai, Dr. Wolfgang Röhr, hat Chinas Aufstieg 23 Jahre lang vor Ort miterlebt. Leonard Schmedding spricht mit ihm darüber, warum der Westen China seit Jahrzehnten unterschätzt, wie die deutsche Autoindustrie den Anschluss verschlafen hat und was Deutschland im KI-Zeitalter von China lernen sollte.\n\nSichere dir den Claude Code Komplettkurs: https://claudecodekurs.de\n\nTritt dem kostenlosen Everlast AI WhatsApp-Kanal bei: https://everlastwhatsapp.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerb",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Der frühere deutsche Generalkonsul in Shanghai, Dr. Wolfgang Röhr, hat Chinas Aufstieg 23 Jahre lang vor Ort miterlebt. Leonard Schmedding spricht mit ihm darüber, warum der Westen China seit Jahrzehnten unterschätzt, wie die deutsche Autoi…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-15T15:28:06.548410+00:00",
+    "is_new": true
+  },
+  "It3WDKWqP5w": {
+    "video_id": "It3WDKWqP5w",
+    "title": "Give your AI tool a harness so it stops going rogue",
+    "published": "2026-10-15T15:05:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/It3WDKWqP5w/hqdefault.jpg",
+    "description": "Give your AI tool a harness so it stops going rogue",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Give your AI tool a harness so it stops going rogue",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-15T15:35:19.279663+00:00",
     "is_new": true
   }
 }
