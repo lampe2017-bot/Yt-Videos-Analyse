@@ -19785,7 +19785,7 @@
     "description": "How do you actually Buy Back Your Time?",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:41",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "How do you actually Buy Back Your Time?",
@@ -20076,5 +20076,25 @@
     },
     "first_seen": "2026-10-15T15:35:19.279663+00:00",
     "is_new": false
+  },
+  "6EMZ5GWt0q0": {
+    "video_id": "6EMZ5GWt0q0",
+    "title": "How to delegate like a $100M CEO",
+    "published": "2026-10-15T21:02:20+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6EMZ5GWt0q0/hqdefault.jpg",
+    "description": "How to delegate like a $100M CEO",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to delegate like a $100M CEO",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-15T22:39:17.819943+00:00",
+    "is_new": true
   }
 }
