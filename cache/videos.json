@@ -20096,5 +20096,45 @@
     },
     "first_seen": "2026-10-15T22:39:17.819943+00:00",
     "is_new": false
+  },
+  "WhBhUZ24xw8": {
+    "video_id": "WhBhUZ24xw8",
+    "title": "What's the best hire you could make to get the most time back?",
+    "published": "2026-10-16T15:05:41+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/WhBhUZ24xw8/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-16T18:22:48.498106+00:00",
+    "is_new": true
+  },
+  "W4m_8ovS0RY": {
+    "video_id": "W4m_8ovS0RY",
+    "title": "Vibe Coding hat sich verändert",
+    "published": "2026-10-16T16:52:44+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/W4m_8ovS0RY/hqdefault.jpg",
+    "description": "Es geht gerade rasant zu. Und viele checken noch nicht, was die letzten 2 Monate passiert ist.\nDanke an msg für die Unterstützung! Spannende Firma, gerade im Bereich KI: https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/themen/artificial-intelligence/\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nAnthropic - The new rules of context engi",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Es geht gerade rasant zu. Und viele checken noch nicht, was die letzten 2 Monate passiert ist.\nDanke an msg für die Unterstützung! Spannende Firma, gerade im Bereich KI: https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/themen/artif…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-16T18:33:16.687236+00:00",
+    "is_new": true
   }
 }
