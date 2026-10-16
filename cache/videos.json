@@ -20115,7 +20115,7 @@
       "model": null
     },
     "first_seen": "2026-10-16T18:22:48.498106+00:00",
-    "is_new": true
+    "is_new": false
   },
   "W4m_8ovS0RY": {
     "video_id": "W4m_8ovS0RY",
@@ -20135,6 +20135,26 @@
       "model": null
     },
     "first_seen": "2026-10-16T18:33:16.687236+00:00",
+    "is_new": false
+  },
+  "zQits4B-UxA": {
+    "video_id": "zQits4B-UxA",
+    "title": "\"Tell your mom that you appreciate her\"",
+    "published": "2026-10-16T21:02:55+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/zQits4B-UxA/hqdefault.jpg",
+    "description": "\"Tell your mom that you appreciate her\"",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "\"Tell your mom that you appreciate her\"",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-16T21:33:54.335995+00:00",
     "is_new": true
   }
 }
