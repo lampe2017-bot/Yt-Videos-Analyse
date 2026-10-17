@@ -20196,5 +20196,25 @@
     },
     "first_seen": "2026-10-17T17:30:43.788570+00:00",
     "is_new": false
+  },
+  "6a6l6Zt7enI": {
+    "video_id": "6a6l6Zt7enI",
+    "title": "Entrepreneurs: Do you do these tasks in the mornings or afternoons?",
+    "published": "2026-10-17T21:02:04+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6a6l6Zt7enI/hqdefault.jpg",
+    "description": "Entrepreneurs: Do you do these tasks in the mornings or afternoons?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Entrepreneurs: Do you do these tasks in the mornings or afternoons?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-17T21:58:01.459632+00:00",
+    "is_new": true
   }
 }
