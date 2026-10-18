@@ -20025,7 +20025,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: https://www.blogdichhoch.de/ZHS\n📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n📌 Die 5:2-Methode kostenlos (mehr Reichweite und Leads auf Instagram): https://www.blogdichhoch.de/planbar/\n📌 Deine Roadmap weg von Launch: https://drive.google.com/file/d/1eIe5hO6e1ub0XLPhUmMIY2D_MIvYYl9_/view\n📌 Gratis E-Mail-Coaching: https://mailchi.mp/blogdichhoch.",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "0:39",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -20256,5 +20256,25 @@
     },
     "first_seen": "2026-10-18T12:03:23.720738+00:00",
     "is_new": false
+  },
+  "VYVNjPSjNOo": {
+    "video_id": "VYVNjPSjNOo",
+    "title": "If your team keeps asking you every question...",
+    "published": "2026-10-18T15:03:53+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VYVNjPSjNOo/hqdefault.jpg",
+    "description": "If your team keeps asking you every question",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "If your team keeps asking you every question...",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-18T17:58:48.824811+00:00",
+    "is_new": true
   }
 }
