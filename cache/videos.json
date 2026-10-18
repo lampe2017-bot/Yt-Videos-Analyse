@@ -20276,5 +20276,25 @@
     },
     "first_seen": "2026-10-18T17:58:48.824811+00:00",
     "is_new": false
+  },
+  "7aoj7evQwiw": {
+    "video_id": "7aoj7evQwiw",
+    "title": "John Maxwell told me to dream bigger",
+    "published": "2026-10-18T21:01:26+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7aoj7evQwiw/hqdefault.jpg",
+    "description": "John Maxwell told me to dream bigger",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "John Maxwell told me to dream bigger",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-18T22:08:23.358044+00:00",
+    "is_new": true
   }
 }
