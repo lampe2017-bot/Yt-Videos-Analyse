@@ -20315,6 +20315,26 @@
       "model": null
     },
     "first_seen": "2026-10-19T08:12:38.360516+00:00",
+    "is_new": false
+  },
+  "TBnwOD2oXto": {
+    "video_id": "TBnwOD2oXto",
+    "title": "How do I allocate the capital in my businesses?",
+    "published": "2026-10-19T15:03:34+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TBnwOD2oXto/hqdefault.jpg",
+    "description": "How do I allocate the capital in my businesses?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do I allocate the capital in my businesses?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-19T15:29:28.007583+00:00",
     "is_new": true
   }
 }
