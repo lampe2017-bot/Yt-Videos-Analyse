@@ -20336,5 +20336,25 @@
     },
     "first_seen": "2026-10-19T15:29:28.007583+00:00",
     "is_new": false
+  },
+  "Pj04kdnGdkU": {
+    "video_id": "Pj04kdnGdkU",
+    "title": "6 steps to grow your business",
+    "published": "2026-10-19T21:02:19+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Pj04kdnGdkU/hqdefault.jpg",
+    "description": "6 steps to grow your business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "6 steps to grow your business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-20T00:07:46.629665+00:00",
+    "is_new": true
   }
 }
