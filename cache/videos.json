@@ -20435,6 +20435,26 @@
       "model": null
     },
     "first_seen": "2026-10-20T19:24:23.142880+00:00",
+    "is_new": false
+  },
+  "Yih5vO7PEJM": {
+    "video_id": "Yih5vO7PEJM",
+    "title": "You can't grow a business if you penny pinch",
+    "published": "2026-10-20T21:03:05+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/Yih5vO7PEJM/hqdefault.jpg",
+    "description": "You can't grow a business if you penny pinch",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You can't grow a business if you penny pinch",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-20T22:33:52.634897+00:00",
     "is_new": true
   }
 }
