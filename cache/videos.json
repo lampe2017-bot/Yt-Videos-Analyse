@@ -20375,11 +20375,11 @@
       "model": null
     },
     "first_seen": "2026-10-20T10:25:41.918889+00:00",
-    "is_new": true
+    "is_new": false
   },
   "iYSurcZwHj8": {
     "video_id": "iYSurcZwHj8",
-    "title": "Eine KI, sie alle zu knechten?",
+    "title": "Mit EINEM Prompt in den App Store?!",
     "published": "2026-10-20T06:26:49+00:00",
     "thumbnail": "https://i2.ytimg.com/vi/iYSurcZwHj8/hqdefault.jpg",
     "description": "Endlich eine KI, die mobile Apps in den App Store bringt!\nHier ausprobieren: https://chatllm.abacus.ai/nik \n(Ich hab noch 30% auf den ersten Monat ausgehandelt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nErfolgreiche Play Store Submission: https://play.google.com/store/apps/details?id=com.abacusai.polyglottracker.t1791519063\n\n⌚️Timestamps:\n0",
@@ -20395,6 +20395,26 @@
       "model": null
     },
     "first_seen": "2026-10-20T10:30:41.742165+00:00",
+    "is_new": false
+  },
+  "nAGQuS2-1qQ": {
+    "video_id": "nAGQuS2-1qQ",
+    "title": "Selling by chat used to be easier",
+    "published": "2026-10-20T15:05:19+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/nAGQuS2-1qQ/hqdefault.jpg",
+    "description": "Selling by chat used to be easier",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Selling by chat used to be easier",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-20T15:21:34.143577+00:00",
     "is_new": true
   }
 }
