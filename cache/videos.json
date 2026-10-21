@@ -20475,6 +20475,66 @@
       "model": null
     },
     "first_seen": "2026-10-21T10:39:03.382369+00:00",
+    "is_new": false
+  },
+  "3LtuwSXcAkA": {
+    "video_id": "3LtuwSXcAkA",
+    "title": "These are 16 rules for a successful life",
+    "published": "2026-10-21T15:04:13+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3LtuwSXcAkA/hqdefault.jpg",
+    "description": "These are 16 rules for a successful life",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "These are 16 rules for a successful life",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-21T15:34:59.784185+00:00",
+    "is_new": true
+  },
+  "9Cf416w4JJI": {
+    "video_id": "9Cf416w4JJI",
+    "title": "Copy This Strategy, It'll Blow Up Your Business",
+    "published": "2026-10-21T13:00:30+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/9Cf416w4JJI/hqdefault.jpg",
+    "description": "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/scale-workbook-lf-751\n\n👀 Be the first to know about my big announcement: https://go.danmartell.com/martell-method-lf-751\n\nMost owners try to fix ten things at once, and nothing really changes.\n\nWhat works is putting all your focus on the one problem slowing everything else down, then moving to the next one.\n\nI walk you through how I do this in my own companies, including how my team used AI to cut our editing time almost in half without me in the room.\n\nWatch this before you change anything else, then tell me in the c",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Get your FREE Scale Your Business Workbook here: https://go.danmartell.com/scale-workbook-lf-751\n\n👀 Be the first to know about my big announcement: https://go.danmartell.com/martell-method-lf-751\n\nMost owners try to fix ten things at once…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-21T15:35:21.302369+00:00",
+    "is_new": true
+  },
+  "MhQSr6KyE2k": {
+    "video_id": "MhQSr6KyE2k",
+    "title": "Was gerade mit KI auf Instagram passiert, ändert alles",
+    "published": "2026-10-21T14:00:22+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/MhQSr6KyE2k/hqdefault.jpg",
+    "description": "Verschwinden deine Beiträge aus dem Instagram Explorer? Oder glaubst du einen shadowban zu haben? Wir analysieren, warum der Instagram Algorithmus Accounts mit viel KI Content aktuell abstraft.\n\nViele Creator beobachten derzeit, dass ihre Inhalte nicht mehr an Nicht-Follower ausgespielt werden. In diesem Video untersuchen wir den Zusammenhang zwischen dem massiven Anstieg von automatisierten Inhalten und der reduzierten Sichtbarkeit. Wir klären, ob es sich dabei um eine temporäre Anpassung oder eine dauerhafte Strategie gegen minderwertige Inhalte handelt.\n\nDu erfährst, warum du aktuell an Rei",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Verschwinden deine Beiträge aus dem Instagram Explorer? Oder glaubst du einen shadowban zu haben? Wir analysieren, warum der Instagram Algorithmus Accounts mit viel KI Content aktuell abstraft.\n\nViele Creator beobachten derzeit, dass ihre I…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-21T15:40:02.498186+00:00",
     "is_new": true
   }
 }
