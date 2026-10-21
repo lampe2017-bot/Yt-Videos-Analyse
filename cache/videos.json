@@ -17225,7 +17225,7 @@
     "description": "Jetzt OpenClaw 2.0 mit 1 Klick installieren: https://www.hostg.xyz/SHK33\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:40 Was ist neu in 2.0\n00:01:33 Setup bei Hostinger\n00:03:49 Die neue Oberfläche\n00:06:01 Automations, Dreaming & Skills\n00:07:36 Beispiel: Agentic Mail\n00:09:34 Hostinger MCP\n00:",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "",
+    "duration": "14:35",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -20495,7 +20495,7 @@
       "model": null
     },
     "first_seen": "2026-10-21T15:34:59.784185+00:00",
-    "is_new": true
+    "is_new": false
   },
   "9Cf416w4JJI": {
     "video_id": "9Cf416w4JJI",
@@ -20515,7 +20515,7 @@
       "model": null
     },
     "first_seen": "2026-10-21T15:35:21.302369+00:00",
-    "is_new": true
+    "is_new": false
   },
   "MhQSr6KyE2k": {
     "video_id": "MhQSr6KyE2k",
@@ -20535,6 +20535,6 @@
       "model": null
     },
     "first_seen": "2026-10-21T15:40:02.498186+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
