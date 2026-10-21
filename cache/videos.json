@@ -20245,7 +20245,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: https://www.blogdichhoch.de/ZHS\n📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n📌 Die 5:2-Methode kostenlos (mehr Reichweite und Leads auf Instagram): https://www.blogdichhoch.de/planbar/\n📌 Deine Roadmap weg von Launch: https://drive.google.com/file/d/1eIe5hO6e1ub0XLPhUmMIY2D_MIvYYl9_/view\n📌 Gratis E-Mail-Coaching: https://mailchi.mp/blogdichhoch.",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "0:52",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -20536,5 +20536,25 @@
     },
     "first_seen": "2026-10-21T15:40:02.498186+00:00",
     "is_new": false
+  },
+  "3L5HG-X98ZA": {
+    "video_id": "3L5HG-X98ZA",
+    "title": "You need to build the people, so they can build the business",
+    "published": "2026-10-21T21:01:41+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3L5HG-X98ZA/hqdefault.jpg",
+    "description": "You need to build the people, so they can build the business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You need to build the people, so they can build the business",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-21T22:41:32.969031+00:00",
+    "is_new": true
   }
 }
