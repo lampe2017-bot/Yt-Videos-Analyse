@@ -20616,5 +20616,25 @@
     },
     "first_seen": "2026-10-22T17:31:37.884825+00:00",
     "is_new": false
+  },
+  "8MzK0d1jPNU": {
+    "video_id": "8MzK0d1jPNU",
+    "title": "Building a business vs building a brand, which is more important?",
+    "published": "2026-10-22T21:00:44+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8MzK0d1jPNU/hqdefault.jpg",
+    "description": "Building a business vs building a brand, which is more important?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Building a business vs building a brand, which is more important?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-23T07:53:43.153495+00:00",
+    "is_new": true
   }
 }
