@@ -20636,5 +20636,25 @@
     },
     "first_seen": "2026-10-23T07:53:43.153495+00:00",
     "is_new": false
+  },
+  "tBcdQSRgRAc": {
+    "video_id": "tBcdQSRgRAc",
+    "title": "The most expensive I've learned",
+    "published": "2026-10-23T15:04:47+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tBcdQSRgRAc/hqdefault.jpg",
+    "description": "The most expensive I've learned",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The most expensive I've learned",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-23T17:40:40.082466+00:00",
+    "is_new": true
   }
 }
