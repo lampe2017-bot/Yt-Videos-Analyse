@@ -20695,7 +20695,7 @@
       "model": null
     },
     "first_seen": "2026-10-24T07:30:58.789864+00:00",
-    "is_new": true
+    "is_new": false
   },
   "uJbkHp5kN3c": {
     "video_id": "uJbkHp5kN3c",
@@ -20715,6 +20715,6 @@
       "model": null
     },
     "first_seen": "2026-10-24T07:39:36.623151+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
