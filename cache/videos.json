@@ -20716,5 +20716,25 @@
     },
     "first_seen": "2026-10-24T07:39:36.623151+00:00",
     "is_new": false
+  },
+  "IBTz_Sh8CX8": {
+    "video_id": "IBTz_Sh8CX8",
+    "title": "You don't have a business you have a job",
+    "published": "2026-10-24T15:03:46+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IBTz_Sh8CX8/hqdefault.jpg",
+    "description": "You don't have a business you have a job",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You don't have a business you have a job",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-24T16:14:37.960055+00:00",
+    "is_new": true
   }
 }
