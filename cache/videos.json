@@ -20736,5 +20736,25 @@
     },
     "first_seen": "2026-10-24T16:14:37.960055+00:00",
     "is_new": false
+  },
+  "huFvRouRKkQ": {
+    "video_id": "huFvRouRKkQ",
+    "title": "Most business owners don't have an AI problem. They have a strategy problem.",
+    "published": "2026-10-24T21:00:36+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/huFvRouRKkQ/hqdefault.jpg",
+    "description": "Most business owners don't have an AI problem. They have a strategy problem.\n\nIn 2 days, I'm showing 850 founders at the AI Freedom Summit how to fix it. Let's go. 🚀",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Most business owners don't have an AI problem. They have a strategy problem.\n\nIn 2 days, I'm showing 850 founders at the AI Freedom Summit how to fix it. Let's go. 🚀"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-24T21:25:57.257515+00:00",
+    "is_new": true
   }
 }
