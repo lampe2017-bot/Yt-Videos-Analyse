@@ -17385,7 +17385,7 @@
     "description": "In diesem Video spreche ich mit Enes, einem unserer Lead AI Engineers bei Everlast AI, über die KI Use Cases, die wir gerade im Mittelstand umsetzen. Du erfährst, wovon wir Kunden inzwischen abraten, welche Fehler wir beim KI-Wissensmanagement am häufigsten sehen und wie wir intern mit unserem Hivemind arbeiten.\n\nSichere dir den kostenfreien KI DSGVO Report: https://kidsgvoreport.de \n\nDer Nr. 1 Claude Kurs im DACH-Raum: https://claudekurs.de\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "21:23",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -20735,6 +20735,6 @@
       "model": null
     },
     "first_seen": "2026-10-24T16:14:37.960055+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
