@@ -20796,5 +20796,25 @@
     },
     "first_seen": "2026-10-25T12:04:31.310711+00:00",
     "is_new": false
+  },
+  "3hYSIr_68XE": {
+    "video_id": "3hYSIr_68XE",
+    "title": "Why I created the AI Freedom Summit",
+    "published": "2026-10-25T19:01:55+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3hYSIr_68XE/hqdefault.jpg",
+    "description": "Why I created the AI Freedom Summit",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why I created the AI Freedom Summit",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-25T21:12:41.119386+00:00",
+    "is_new": true
   }
 }
