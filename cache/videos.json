@@ -20766,11 +20766,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "\"Das sind die übelsten 48 Stunden der Cybersecurity-Geschichte\": Charité, BKA und Bundesministerien gehen offline wegen einer Lücke, die GPT-5.6 Sol gefunden hat. Was wirklich dahintersteckt und was die meisten übersehen, zeige ich in den n…"
+        "Das sind die übelsten 48 Stunden der Cyber Security Geschichte. Viele nennen es den schwarzen Oktober. Die Charit, mehrere Bundesministerien, das BKA, die Berliner Feuerwehr, das Klinikum Nürnberg, die Landesregierungen von Hessen, Thüringe…"
       ],
       "model": null
     },
@@ -20835,7 +20835,7 @@
       "model": null
     },
     "first_seen": "2026-10-26T13:49:47.020754+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Co9wGfKL8GA": {
     "video_id": "Co9wGfKL8GA",
@@ -20855,7 +20855,7 @@
       "model": null
     },
     "first_seen": "2026-10-26T13:50:08.069980+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BaiCnMAy1xs": {
     "video_id": "BaiCnMAy1xs",
@@ -20875,7 +20875,7 @@
       "model": null
     },
     "first_seen": "2026-10-26T13:50:29.320421+00:00",
-    "is_new": true
+    "is_new": false
   },
   "io3ccaBrX5A": {
     "video_id": "io3ccaBrX5A",
@@ -20895,6 +20895,26 @@
       "model": null
     },
     "first_seen": "2026-10-26T13:55:04.574367+00:00",
+    "is_new": false
+  },
+  "qLgqXQIL6n8": {
+    "video_id": "qLgqXQIL6n8",
+    "title": "It most definitely can’t replace the people who make this community what it is.",
+    "published": "2026-10-26T17:35:48+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/qLgqXQIL6n8/hqdefault.jpg",
+    "description": "It most definitely can’t replace the people who make this community what it is. \n\n#AIFS",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "It most definitely can’t replace the people who make this community what it is. \n\n#AIFS"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-26T19:46:47.381494+00:00",
     "is_new": true
   }
 }
