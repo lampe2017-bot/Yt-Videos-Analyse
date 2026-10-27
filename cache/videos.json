@@ -18702,7 +18702,7 @@
     "title": "„In 5 Jahren sind ALLE Bürojobs weg!\" DAS passiert danach (Prof. Marcus Hutter)",
     "published": "2026-10-01T15:15:05+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/b8SU4cqAWTk/hqdefault.jpg",
-    "description": "Was passiert, nachdem KI alle Jobs ersetzt hat? KI-Forscher Prof. Dr. Marcus Hutter erklärt im Interview, warum Massenarbeitslosigkeit kein Problem der Produktion, sondern der Verteilung ist, und wie ein bedingungsloses Grundeinkommen finanzierbar wird.\n\nMarcus Hutters Buch „Job-Less Utopia: Macroeconomics in the Age of AGI“: hutter1.net/ai/jobsubi.htm\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere ",
+    "description": "Was passiert, nachdem KI alle Jobs ersetzt hat? KI-Forscher Prof. Dr. Marcus Hutter erklärt im Interview, warum Massenarbeitslosigkeit kein Problem der Produktion, sondern der Verteilung ist, und wie ein bedingungsloses Grundeinkommen finanzierbar wird.\n\nMarcus Hutters Buch „Job-Less Utopia: Macroeconomics in the Age of AGI“: https://hutter1.net/ai/jobsubi.htm\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. ",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
@@ -20766,11 +20766,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Das sind die übelsten 48 Stunden der Cyber Security Geschichte. Viele nennen es den schwarzen Oktober. Die Charit, mehrere Bundesministerien, das BKA, die Berliner Feuerwehr, das Klinikum Nürnberg, die Landesregierungen von Hessen, Thüringe…"
+        "\"Das sind die übelsten 48 Stunden der Cybersecurity-Geschichte\": Charité, BKA und Bundesministerien gehen offline wegen einer Lücke, die GPT-5.6 Sol gefunden hat. Was wirklich dahintersteckt und was die meisten übersehen, zeige ich in den n…"
       ],
       "model": null
     },
@@ -20915,6 +20915,66 @@
       "model": null
     },
     "first_seen": "2026-10-26T19:46:47.381494+00:00",
+    "is_new": false
+  },
+  "cYxbQgepY_s": {
+    "video_id": "cYxbQgepY_s",
+    "title": "POV: your AI event is like Coachella",
+    "published": "2026-10-27T00:02:13+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cYxbQgepY_s/hqdefault.jpg",
+    "description": "POV: your AI event is like Coachella",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "POV: your AI event is like Coachella",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T08:11:01.230660+00:00",
+    "is_new": true
+  },
+  "k-c7N1kZ5E4": {
+    "video_id": "k-c7N1kZ5E4",
+    "title": "What did you takeaway from Day 1 of #AIFS in Kelowna?",
+    "published": "2026-10-26T22:10:12+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/k-c7N1kZ5E4/hqdefault.jpg",
+    "description": "What did you takeaway from Day 1 of #AIFS in Kelowna?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What did you takeaway from Day 1 of #AIFS in Kelowna?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T08:11:21.952291+00:00",
+    "is_new": true
+  },
+  "r7KQQ-gLVQs": {
+    "video_id": "r7KQQ-gLVQs",
+    "title": "Asking CEOs at #AIFS what they want AI to take off their plate?",
+    "published": "2026-10-26T20:12:51+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/r7KQQ-gLVQs/hqdefault.jpg",
+    "description": "Asking CEOs at #AIFS what they want AI to take off their plate?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Asking CEOs at #AIFS what they want AI to take off their plate?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T08:11:43.154008+00:00",
     "is_new": true
   }
 }
