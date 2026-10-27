@@ -20976,5 +20976,45 @@
     },
     "first_seen": "2026-10-27T08:11:43.154008+00:00",
     "is_new": false
+  },
+  "uQWyn-jkah4": {
+    "video_id": "uQWyn-jkah4",
+    "title": "Massiver Durchbruch: Automatisiere ALLES mit KI-Telefonagenten in 2027! MEGA-KURS",
+    "published": "2026-10-27T16:32:52+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uQWyn-jkah4/hqdefault.jpg",
+    "description": "In diesem kostenlosen Mega-Kurs lernst du, warum KI-Telefonagenten dank drei Durchbrüchen bei Intelligenz, Kosten und Anbindung jetzt flächendeckend ausgerollt werden. Ich zeige dir Schritt für Schritt, wie du Voice Agents mit Claude Code und Codex selbst baust, testest und an deine Systeme anbindest, plus meine 10 Prognosen für die nächsten Jahre.\n\nAlle kostenfreien Ressourcen aus dem Video findest du in unserer Community: https://www.kiberatung.de/ki-champions \n\nWir implementieren AI Voice Agents auch in deinem Unternehmen: https://www.kiberatung.de/ki-telefonassistent/?utm_source=kiberatung",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In diesem kostenlosen Mega-Kurs lernst du, warum KI-Telefonagenten dank drei Durchbrüchen bei Intelligenz, Kosten und Anbindung jetzt flächendeckend ausgerollt werden. Ich zeige dir Schritt für Schritt, wie du Voice Agents mit Claude Code u…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T19:43:40.563211+00:00",
+    "is_new": true
+  },
+  "iLbvTcRuipY": {
+    "video_id": "iLbvTcRuipY",
+    "title": "From Prison to Programming: My Journey to AI",
+    "published": "2026-10-27T19:17:29+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/iLbvTcRuipY/hqdefault.jpg",
+    "description": "Why I created #AIFS",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "From Prison to Programming: My Journey to AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T19:50:31.825870+00:00",
+    "is_new": true
   }
 }
