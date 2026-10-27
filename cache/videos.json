@@ -21015,6 +21015,26 @@
       "model": null
     },
     "first_seen": "2026-10-27T19:50:31.825870+00:00",
+    "is_new": false
+  },
+  "QxB85TXE7Oc": {
+    "video_id": "QxB85TXE7Oc",
+    "title": "Simple AI tip to get you better results #AIFS",
+    "published": "2026-10-27T20:03:42+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QxB85TXE7Oc/hqdefault.jpg",
+    "description": "Simple AI tip to get you better results #AIFS",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Simple AI tip to get you better results #AIFS",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-27T23:17:47.560808+00:00",
     "is_new": true
   }
 }
