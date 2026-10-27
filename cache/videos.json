@@ -20935,7 +20935,7 @@
       "model": null
     },
     "first_seen": "2026-10-27T08:11:01.230660+00:00",
-    "is_new": true
+    "is_new": false
   },
   "k-c7N1kZ5E4": {
     "video_id": "k-c7N1kZ5E4",
@@ -20955,7 +20955,7 @@
       "model": null
     },
     "first_seen": "2026-10-27T08:11:21.952291+00:00",
-    "is_new": true
+    "is_new": false
   },
   "r7KQQ-gLVQs": {
     "video_id": "r7KQQ-gLVQs",
@@ -20975,6 +20975,6 @@
       "model": null
     },
     "first_seen": "2026-10-27T08:11:43.154008+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
