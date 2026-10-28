@@ -14765,7 +14765,7 @@
     "description": "In diesem Video zeige ich dir 7 Wege, wie du mit Software Geld verdienen kannst, ohne ein eigenes SaaS zu bauen.  Alle Wege kommen direkt aus der Praxis bei Everlast AI und eignen sich auch für Anfänger, die mit KI-Apps Geld verdienen wollen.\n\nKostenfreier Agentic Coding Live Workshop: https://aicoding.de \n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=Leonar",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "11:59",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -15945,7 +15945,7 @@
     "description": "Agentic Marketing ist der Use-Case, den fast alle wollen und die wenigsten richtig aufsetzen, denn Marketing folgt in Unternehmen völlig anderen Regeln als jede andere KI-Automatisierung. In diesem Video zeige ich dir, warum das so ist und wie du Agentic Marketing stattdessen angehst.\n\nSichere dir deinen kostenfreien Platz für den Live Agentic Marketing Workshop: https://kilernen.de/agentic-marketing-workshop\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: http",
     "channel_handle": "LeonardSchmedding",
     "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
-    "duration": "",
+    "duration": "17:31",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -21075,7 +21075,7 @@
       "model": null
     },
     "first_seen": "2026-10-28T15:41:01.748716+00:00",
-    "is_new": true
+    "is_new": false
   },
   "SJywU4UQryQ": {
     "video_id": "SJywU4UQryQ",
@@ -21095,7 +21095,7 @@
       "model": null
     },
     "first_seen": "2026-10-28T15:41:23.539212+00:00",
-    "is_new": true
+    "is_new": false
   },
   "BGTDIo7yJ40": {
     "video_id": "BGTDIo7yJ40",
@@ -21115,6 +21115,6 @@
       "model": null
     },
     "first_seen": "2026-10-28T15:46:06.146452+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
