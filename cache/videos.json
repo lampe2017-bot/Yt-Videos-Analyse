@@ -18645,7 +18645,7 @@
     "description": "Alle Tools laufen auf diesem VPS: https://www.hostg.xyz/SHJ7j\n(Code: NIKLAS für 10% Rabatt!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00:00 Intro\n00:00:52 Vom Coder zum Manager\n00:02:27 VPS einrichten\n00:03:58 Claude Remote Control\n00:05:56 Dauerbetrieb per systemd\n00:08:38 Antigravity\n00:10:33 Cursor & Codex\n00:11:53 Workaround: OpenClaw\n",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "",
+    "duration": "16:02",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -20925,7 +20925,7 @@
     "description": "POV: your AI event is like Coachella",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:13",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "POV: your AI event is like Coachella",
@@ -20995,7 +20995,7 @@
       "model": null
     },
     "first_seen": "2026-10-27T19:43:40.563211+00:00",
-    "is_new": true
+    "is_new": false
   },
   "iLbvTcRuipY": {
     "video_id": "iLbvTcRuipY",
@@ -21035,6 +21035,26 @@
       "model": null
     },
     "first_seen": "2026-10-27T23:17:47.560808+00:00",
+    "is_new": false
+  },
+  "bN5Fr9s5Rvc": {
+    "video_id": "bN5Fr9s5Rvc",
+    "title": "What would you do if you had 10 extra hours? #AIFS Day 2",
+    "published": "2026-10-28T00:00:42+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/bN5Fr9s5Rvc/hqdefault.jpg",
+    "description": "What would you do if you had 10 extra hours? #AIFS Day 2",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "What would you do if you had 10 extra hours? #AIFS Day 2",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-28T08:53:44.925380+00:00",
     "is_new": true
   }
 }
