@@ -16265,7 +16265,7 @@
     "description": "So hab ich das Video generiert: https://higgsfield.ai/s/niklassteenfatt-YgoIFi\n\nEinblendungen und Animationen:\nhttps://github.com/heygen-com/hyperframes\n\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n0:09 KI-generiertes Video\n1:56 Ein Prompt\n3:18 Higgsfield & Hyperframes\n3:47 Deutsches Audio\n4:21 Kosten\n5:00 GPT-6 überspringt alle Hürde",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "",
+    "duration": "5:44",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -18245,7 +18245,7 @@
     "description": "Cybersecurity lernen: https://tryhackme.com/NiklasSteenfatt\n(kostenlos starten, dann 25% Rabatt jährlich auf Premium mit Code: NIKLAS)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00 Intro & Disclaimer\n00:47 Ein neues OS\n01:27 Demo (Hotkeys, Tiling, Workspaces)\n05:26 Die krassesten Features\n07:12 Apps installieren & verwalten\n09:33 KI veränder",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "",
+    "duration": "17:42",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -21135,6 +21135,46 @@
       "model": null
     },
     "first_seen": "2026-10-29T13:35:46.980694+00:00",
+    "is_new": false
+  },
+  "sR6-DFgA6Cc": {
+    "video_id": "sR6-DFgA6Cc",
+    "title": "IT-Unternehmer: “Die Uhr für SAP TICKT!” KI kopiert jetzt JEDE Software (Emanuel Böminghaus)",
+    "published": "2026-10-29T16:15:27+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sR6-DFgA6Cc/hqdefault.jpg",
+    "description": "Emanuel Böminghaus im Interview mit Leonard Schmedding: Der Wirtschaftsanalyst und CEO von AvenDATA über Deutschlands Niedergang, den Absturz von VW, das Ende der Callcenter, die tickende Uhr für SAP und die Chance, die Unternehmern mit KI jetzt bleibt.\n\nSichere dir jetzt 100 % kostenfrei den KI-DSGVO-Report: https://kidsgvoreport.de\n\nHol dir jeden Tag die wichtigsten KI-News kostenfrei in dein Postfach mit dem KI-Bubble Newsletter: https://kibubble.news\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementie",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Emanuel Böminghaus im Interview mit Leonard Schmedding: Der Wirtschaftsanalyst und CEO von AvenDATA über Deutschlands Niedergang, den Absturz von VW, das Ende der Callcenter, die tickende Uhr für SAP und die Chance, die Unternehmern mit KI …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-29T19:02:58.298749+00:00",
+    "is_new": true
+  },
+  "liyQ9_ZxPG4": {
+    "video_id": "liyQ9_ZxPG4",
+    "title": "You should praise employees in public, and criticize in private",
+    "published": "2026-10-29T15:03:32+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/liyQ9_ZxPG4/hqdefault.jpg",
+    "description": "You should praise employees in public, and criticize in private",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You should praise employees in public, and criticize in private",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-29T19:10:56.790273+00:00",
     "is_new": true
   }
 }
