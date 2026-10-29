@@ -20825,7 +20825,7 @@
     "description": "I LOVE doing stuff like this and I'm PUMPED to see more of you tomorrow!\n\n#aifs",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:13",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "I LOVE doing stuff like this and I'm PUMPED to see more of you tomorrow!",
@@ -21116,5 +21116,25 @@
     },
     "first_seen": "2026-10-28T15:46:06.146452+00:00",
     "is_new": false
+  },
+  "o9yexjk2TAo": {
+    "video_id": "o9yexjk2TAo",
+    "title": "Ich würde heute nicht mehr mit Instagram starten!",
+    "published": "2026-10-29T07:00:02+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/o9yexjk2TAo/hqdefault.jpg",
+    "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n✅ Kostenloser Insta-Business-Check: https://blogdichhoch.de/business-check\n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: https://www.blogdichhoch.de/ZHS\n📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n📌 Die 5:2-Methode kostenlos (mehr Reichweite und Leads auf Instagram): https://www.blogdichhoch.de/planbar/\n📌 Deine Roadmap weg von Launch: https://drive.google.com/file/d/1eIe5hO6e1ub0XLPhUmMIY",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n✅ Kostenloser Insta-Business-Check: https://blogdichhoch.de/business-check\n_______…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-29T13:35:46.980694+00:00",
+    "is_new": true
   }
 }
