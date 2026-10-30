@@ -21195,7 +21195,7 @@
       "model": null
     },
     "first_seen": "2026-10-30T09:17:30.030275+00:00",
-    "is_new": true
+    "is_new": false
   },
   "kyWtSNm9jSY": {
     "video_id": "kyWtSNm9jSY",
@@ -21215,6 +21215,26 @@
       "model": null
     },
     "first_seen": "2026-10-30T09:23:33.243377+00:00",
+    "is_new": false
+  },
+  "l98nXW1TyqY": {
+    "video_id": "l98nXW1TyqY",
+    "title": "Why are CEOs and business owners afraid to let go of control?",
+    "published": "2026-10-30T15:04:17+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/l98nXW1TyqY/hqdefault.jpg",
+    "description": "Why are CEOs and business owners afraid to let go of control?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why are CEOs and business owners afraid to let go of control?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-30T16:11:12.047807+00:00",
     "is_new": true
   }
 }
