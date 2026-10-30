@@ -21155,7 +21155,7 @@
       "model": null
     },
     "first_seen": "2026-10-29T19:02:58.298749+00:00",
-    "is_new": true
+    "is_new": false
   },
   "liyQ9_ZxPG4": {
     "video_id": "liyQ9_ZxPG4",
@@ -21175,6 +21175,46 @@
       "model": null
     },
     "first_seen": "2026-10-29T19:10:56.790273+00:00",
+    "is_new": false
+  },
+  "o7T66r8NqlA": {
+    "video_id": "o7T66r8NqlA",
+    "title": "Meetings are optional in my companies",
+    "published": "2026-10-29T21:01:36+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/o7T66r8NqlA/hqdefault.jpg",
+    "description": "Meetings are optional in my companies",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Meetings are optional in my companies",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-30T09:17:30.030275+00:00",
+    "is_new": true
+  },
+  "kyWtSNm9jSY": {
+    "video_id": "kyWtSNm9jSY",
+    "title": "Fertige Handyspiele mit einem Prompt!",
+    "published": "2026-10-30T03:27:17+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/kyWtSNm9jSY/hqdefault.jpg",
+    "description": "Higgsfield Playable: \nhttps://higgsfield.ai/s/niklassteenfatt-vkprVR\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nHiggsfield Playable: https://higgsfield.ai/s/niklassteenfatt-vkprVR\nRunde 1 – Claude: https://claude.ai/artifact/9HqEwLj3QRGRrXj34Q57uS\nRunde 2 – Higgsfield: https://stellar-quest-971.higgsfield.app\nRunde 3 – Claude × Higgsfield: ht",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Higgsfield Playable: \nhttps://higgsfield.ai/s/niklassteenfatt-vkprVR\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=you…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-30T09:23:33.243377+00:00",
     "is_new": true
   }
 }
