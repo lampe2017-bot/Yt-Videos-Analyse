@@ -21239,7 +21239,7 @@
   },
   "DlixJN5nL4M": {
     "video_id": "DlixJN5nL4M",
-    "title": "Ein ungefilterter Tag in San Francisco als KI-Unternehmer (VLOG)",
+    "title": "Ich bin im ersten Laden, der komplett von einem KI-Agenten geleitet wird! Ein Tag in San Francisco",
     "published": "2026-10-31T09:15:07+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/DlixJN5nL4M/hqdefault.jpg",
     "description": "Ich bin zurück in San Francisco und zeige dir, was sich in einem Jahr KI-Entwicklung verändert hat: vom größten Waymo-Depot der USA bis zum ersten Laden, den eine KI komplett allein führt. Dazu meine Einschätzung, was das für die deutsche Autoindustrie bedeutet und welche Fähigkeit jetzt wirklich zählt.\n\nAgentic Marketing lernen (Live-Workshop): https://kilernen.de/agentic-marketing-workshop?utm_source=agenticmarketing.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&",
@@ -21305,7 +21305,7 @@
     "description": "Barber Talks w/ @al_clipone; Installing GrokBot",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:49",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Barber Talks w/ @al_clipone; Installing GrokBot",
@@ -21315,6 +21315,6 @@
       "model": null
     },
     "first_seen": "2026-10-31T16:34:48.124860+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
