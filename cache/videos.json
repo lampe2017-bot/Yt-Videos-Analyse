@@ -21255,7 +21255,7 @@
       "model": null
     },
     "first_seen": "2026-10-31T11:50:41.460529+00:00",
-    "is_new": true
+    "is_new": false
   },
   "WbzNAjkNkeY": {
     "video_id": "WbzNAjkNkeY",
@@ -21275,7 +21275,7 @@
       "model": null
     },
     "first_seen": "2026-10-31T11:54:09.889322+00:00",
-    "is_new": true
+    "is_new": false
   },
   "dNNQ5pUTzPM": {
     "video_id": "dNNQ5pUTzPM",
@@ -21295,6 +21295,26 @@
       "model": null
     },
     "first_seen": "2026-10-31T11:58:51.844235+00:00",
+    "is_new": false
+  },
+  "1z-sQtgEJdA": {
+    "video_id": "1z-sQtgEJdA",
+    "title": "Barber Talks w/ @al_clipone; Installing GrokBot",
+    "published": "2026-10-31T15:04:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1z-sQtgEJdA/hqdefault.jpg",
+    "description": "Barber Talks w/ @al_clipone; Installing GrokBot",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Barber Talks w/ @al_clipone; Installing GrokBot",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-10-31T16:34:48.124860+00:00",
     "is_new": true
   }
 }
