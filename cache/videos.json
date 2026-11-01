@@ -21335,7 +21335,7 @@
       "model": null
     },
     "first_seen": "2026-11-01T09:28:33.466768+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Ravnyp-ye08": {
     "video_id": "Ravnyp-ye08",
@@ -21345,7 +21345,7 @@
     "description": "The next big AI tool is....",
     "channel_handle": "danmartell",
     "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-    "duration": "",
+    "duration": "0:35",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "The next big AI tool is....",
@@ -21355,6 +21355,26 @@
       "model": null
     },
     "first_seen": "2026-11-01T09:37:06.722141+00:00",
+    "is_new": false
+  },
+  "eR2ekAlWPMI": {
+    "video_id": "eR2ekAlWPMI",
+    "title": "Die NEUE Instagram Strategie für 2027 - musst du was ändern?",
+    "published": "2026-11-01T15:00:29+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/eR2ekAlWPMI/hqdefault.jpg",
+    "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts\n\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste \n\nIst deine Instagram Strategie für 2027 noch aktuell? Wir prüfen, warum bewährte Methoden heute plötzlich nicht mehr greifen.\n\n\nKostenloser Workshop zum The",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts\n\n\n🔑…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-01T16:23:29.754319+00:00",
     "is_new": true
   }
 }
