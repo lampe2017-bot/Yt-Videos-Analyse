@@ -21316,5 +21316,45 @@
     },
     "first_seen": "2026-10-31T16:34:48.124860+00:00",
     "is_new": false
+  },
+  "VOYccAKu7Zg": {
+    "video_id": "VOYccAKu7Zg",
+    "title": "Platzt jetzt die KI-Blase? DAS wird ALLE überraschen! Anthropics Börsengang | KI-NEWS",
+    "published": "2026-11-01T09:15:03+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/VOYccAKu7Zg/hqdefault.jpg",
+    "description": "Anthropic Börsengang: Der Claude-Hersteller strebt mit bis zu 2 Billionen Dollar Bewertung den größten IPO aller Zeiten an und warnt im selben Börsenprospekt auf 94 Seiten vor den Risiken seiner eigenen KI. Dazu alle KI-News der Woche mit GPT-6.1 Terra, Gemini 4 Carbon, den Weltmodellen Genie 4, Echo 3 und Simulon, einem werbefreien Fire TV Stick dank Claude und den neuen Startup-Ideen von Y Combinator.\n\nAlle Prompts, mit dem Claude deinen Fire TV Stick werbefrei macht, kostenfrei im Resource Hub: https://www.kiberatung.de/ki-champions \n\nDer letzte AI-Automations-Manager-Lehrgang des Jahres st",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Anthropic Börsengang: Der Claude-Hersteller strebt mit bis zu 2 Billionen Dollar Bewertung den größten IPO aller Zeiten an und warnt im selben Börsenprospekt auf 94 Seiten vor den Risiken seiner eigenen KI. Dazu alle KI-News der Woche mit G…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-01T09:28:33.466768+00:00",
+    "is_new": true
+  },
+  "Ravnyp-ye08": {
+    "video_id": "Ravnyp-ye08",
+    "title": "The next big AI tool is....",
+    "published": "2026-10-31T21:02:47+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/Ravnyp-ye08/hqdefault.jpg",
+    "description": "The next big AI tool is....",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The next big AI tool is....",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-01T09:37:06.722141+00:00",
+    "is_new": true
   }
 }
