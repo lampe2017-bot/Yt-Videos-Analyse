@@ -18246,11 +18246,11 @@
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
     "duration": "17:42",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Cybersecurity lernen: https://tryhackme.com/NiklasSteenfatt\n(kostenlos starten, dann 25% Rabatt jährlich auf Premium mit Code: NIKLAS)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos…"
+        "Okay, meine Lieben, eigentlich dachte ich, dieses Jahr wird nicht mehr verrückter, aber da haben wir es. Es gibt ein neues Betriebssystem. Das Internet ist in Aufruhr. Massenweise wechseln die Leute gerade von Windows und Mac zu Omiarch. Da…"
       ],
       "model": null
     },
@@ -21199,7 +21199,7 @@
   },
   "kyWtSNm9jSY": {
     "video_id": "kyWtSNm9jSY",
-    "title": "Fertige Handyspiele mit einem Prompt!",
+    "title": "AI Gaming ist zu gut!!",
     "published": "2026-10-30T03:27:17+00:00",
     "thumbnail": "https://i4.ytimg.com/vi/kyWtSNm9jSY/hqdefault.jpg",
     "description": "Higgsfield Playable: \nhttps://higgsfield.ai/s/niklassteenfatt-vkprVR\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nHiggsfield Playable: https://higgsfield.ai/s/niklassteenfatt-vkprVR\nRunde 1 – Claude: https://claude.ai/artifact/9HqEwLj3QRGRrXj34Q57uS\nRunde 2 – Higgsfield: https://stellar-quest-971.higgsfield.app\nRunde 3 – Claude × Higgsfield: ht",
@@ -21375,6 +21375,26 @@
       "model": null
     },
     "first_seen": "2026-11-01T16:23:29.754319+00:00",
+    "is_new": false
+  },
+  "te0jtnhp-Go": {
+    "video_id": "te0jtnhp-Go",
+    "title": "My 3 step hiring process to get great talent",
+    "published": "2026-11-01T18:02:31+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/te0jtnhp-Go/hqdefault.jpg",
+    "description": "If you wanna join my team: https://vist.ly/5qwr5",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "My 3 step hiring process to get great talent",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-01T20:46:13.665169+00:00",
     "is_new": true
   }
 }
