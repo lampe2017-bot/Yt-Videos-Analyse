@@ -18246,11 +18246,11 @@
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
     "duration": "17:42",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Okay, meine Lieben, eigentlich dachte ich, dieses Jahr wird nicht mehr verrückter, aber da haben wir es. Es gibt ein neues Betriebssystem. Das Internet ist in Aufruhr. Massenweise wechseln die Leute gerade von Windows und Mac zu Omiarch. Da…"
+        "Cybersecurity lernen: https://tryhackme.com/NiklasSteenfatt\n(kostenlos starten, dann 25% Rabatt jährlich auf Premium mit Code: NIKLAS)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos…"
       ],
       "model": null
     },
@@ -18985,7 +18985,7 @@
     "description": "Ich bin live auf dem OpenAI DevDay mit über 20 Updates, von GPT-6.1 Sol über Codex in der Cloud bis zu Dots, KI-Agenten, die dauerhaft im Hintergrund für dich weiterarbeiten. Dazu Claude Sonnet 5.5, Gemini 4 und der UBTech-Launch in Deutschland, bei dem wir live vor Ort waren.\n\nSichere dir deinen Platz für den nächsten kostenfreien Agentic Marketing Live Workshop: https://agenticmarketing.de\n\nMehr zu humanoiden Robotern auf unserem Kanal Everlast Robotics: https://www.youtube.com/@everlastrobotics\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
-    "duration": "",
+    "duration": "31:04",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -21395,6 +21395,46 @@
       "model": null
     },
     "first_seen": "2026-11-01T20:46:13.665169+00:00",
+    "is_new": false
+  },
+  "p-NY0B1AthI": {
+    "video_id": "p-NY0B1AthI",
+    "title": "Are you using voice mode on GrokBot?",
+    "published": "2026-11-01T22:02:32+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/p-NY0B1AthI/hqdefault.jpg",
+    "description": "Are you using voice mode on GrokBot?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you using voice mode on GrokBot?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-02T13:02:42.412001+00:00",
+    "is_new": true
+  },
+  "oN6NZcewCVs": {
+    "video_id": "oN6NZcewCVs",
+    "title": "Jahresziele erreichen",
+    "published": "2026-11-02T07:00:00+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oN6NZcewCVs/hqdefault.jpg",
+    "description": "_____________________________________________\n\nFolg mir gerne auch hier:\n📸 Instagram:   / https://www.instagram.com/sebiforce \n🤝 LinkedIn:   / https://www.linkedin.com/in/sebiforce/\n📲 Threads:   / https://www.threads.net/@sebiforce  \n🕺 TikTok:   / https://www.tiktok.com/@sebiforce\n\n_____________________________________________\n\nEigenwerbung: \n📌 gratis Instagram Workshop: https://tinyurl.com/246wk4z8\n📌 gratis Reel Checkliste:  https://www.blogdichhoch.de/boost-checkliste\n📌 alle meine Angebote: https://www.blogdichhoch.de\n📌 Apps & Tools die ich nutze: https://www.blogdichhoch.de/empfehlungen\n___",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "_____________________________________________\n\nFolg mir gerne auch hier:\n📸 Instagram:   / https://www.instagram.com/sebiforce \n🤝 LinkedIn:   / https://www.linkedin.com/in/sebiforce/\n📲 Threads:   / https://www.threads.net/@sebiforce  \n🕺 TikT…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-02T13:07:13.314580+00:00",
     "is_new": true
   }
 }
