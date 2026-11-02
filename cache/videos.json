@@ -21125,7 +21125,7 @@
     "description": "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n✅ Kostenloser Insta-Business-Check: https://blogdichhoch.de/business-check\n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: https://www.blogdichhoch.de/ZHS\n📌 Instagram Business Club: https://www.blogdichhoch.de/IBC\n📌 Die 5:2-Methode kostenlos (mehr Reichweite und Leads auf Instagram): https://www.blogdichhoch.de/planbar/\n📌 Deine Roadmap weg von Launch: https://drive.google.com/file/d/1eIe5hO6e1ub0XLPhUmMIY",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
-    "duration": "",
+    "duration": "1:17",
     "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
@@ -21415,7 +21415,7 @@
       "model": null
     },
     "first_seen": "2026-11-02T13:02:42.412001+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oN6NZcewCVs": {
     "video_id": "oN6NZcewCVs",
@@ -21435,6 +21435,26 @@
       "model": null
     },
     "first_seen": "2026-11-02T13:07:13.314580+00:00",
+    "is_new": false
+  },
+  "rLyTmuBosrw": {
+    "video_id": "rLyTmuBosrw",
+    "title": "The power of FOCUS is how you win",
+    "published": "2026-11-02T16:03:40+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/rLyTmuBosrw/hqdefault.jpg",
+    "description": "The power of FOCUS is how you win",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The power of FOCUS is how you win",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-02T22:07:39.122894+00:00",
     "is_new": true
   }
 }
