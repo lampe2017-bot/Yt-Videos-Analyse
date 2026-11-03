@@ -21475,6 +21475,66 @@
       "model": null
     },
     "first_seen": "2026-11-03T11:15:25.111330+00:00",
+    "is_new": false
+  },
+  "6Q0X-yk52w0": {
+    "video_id": "6Q0X-yk52w0",
+    "title": "Es beginnt: KI denkt jetzt in einer Sprache, die kein Mensch versteht (Neuralese)",
+    "published": "2026-11-03T16:15:13+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6Q0X-yk52w0/hqdefault.jpg",
+    "description": "Neuralese: KI hat vermeintlich eine eigene Sprache aus reinen Zahlen entwickelt, die kein Mensch mehr mitlesen kann. Was hinter GPT-6 Astras unsichtbarem Denken steckt und warum OpenAI, Anthropic und Google DeepMind deshalb um die Sicherheit der KI ringen.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kibera",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Neuralese: KI hat vermeintlich eine eigene Sprache aus reinen Zahlen entwickelt, die kein Mensch mehr mitlesen kann. Was hinter GPT-6 Astras unsichtbarem Denken steckt und warum OpenAI, Anthropic und Google DeepMind deshalb um die Sicherhei…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-03T18:30:36.235567+00:00",
+    "is_new": true
+  },
+  "T_87i1iR9Xk": {
+    "video_id": "T_87i1iR9Xk",
+    "title": "CEO's AI Productivity Set Up",
+    "published": "2026-11-03T16:03:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/T_87i1iR9Xk/hqdefault.jpg",
+    "description": "Comment AI OS if you want to see how I run my companies with AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "CEO's AI Productivity Set Up",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-03T18:38:40.399662+00:00",
+    "is_new": true
+  },
+  "6edBli83IwE": {
+    "video_id": "6edBli83IwE",
+    "title": "Wir verstehen nicht, was auf uns zukommt",
+    "published": "2026-11-03T13:40:47+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6edBli83IwE/hqdefault.jpg",
+    "description": "Zero Knowledge Cloud: https://internxt.com/niklas\n(Black Friday: 87% Rabatt und letzte Chance auf 5TB im Lifetime Ultimate Plan)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00 Intro\n01:07 PHP2Shell\n03:10 Ende des offenen Internets\n04:28 Hugging Face\n07:51 Wenn die Maske fällt\n10:46 Wie du dich schützt\n\nJetzt deine Lebensbalance testen: http:/",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Zero Knowledge Cloud: https://internxt.com/niklas\n(Black Friday: 87% Rabatt und letzte Chance auf 5TB im Lifetime Ultimate Plan)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 M…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-03T18:47:40.399584+00:00",
     "is_new": true
   }
 }
