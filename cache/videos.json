@@ -16205,7 +16205,7 @@
     "description": "",
     "channel_handle": "niklassteenfatt",
     "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
-    "duration": "",
+    "duration": "1:21",
     "transcript_lang": null,
     "summary": {
       "hook": "Kein Auto-Transkript verfügbar.",
@@ -21455,6 +21455,26 @@
       "model": null
     },
     "first_seen": "2026-11-02T22:07:39.122894+00:00",
+    "is_new": false
+  },
+  "6q8nnmDAm60": {
+    "video_id": "6q8nnmDAm60",
+    "title": "The 10-80-10 rule is how you decide what to automate",
+    "published": "2026-11-02T22:03:54+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6q8nnmDAm60/hqdefault.jpg",
+    "description": "The 10-80-10 rule is how you decide what to automate",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The 10-80-10 rule is how you decide what to automate",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-03T11:15:25.111330+00:00",
     "is_new": true
   }
 }
