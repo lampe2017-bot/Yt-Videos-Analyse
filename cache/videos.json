@@ -21479,7 +21479,7 @@
   },
   "6Q0X-yk52w0": {
     "video_id": "6Q0X-yk52w0",
-    "title": "Es beginnt: KI denkt jetzt in einer Sprache, die kein Mensch versteht (Neuralese)",
+    "title": "Es beginnt: KI hat jetzt eine eigene Sprache, die kein Mensch versteht",
     "published": "2026-11-03T16:15:13+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/6Q0X-yk52w0/hqdefault.jpg",
     "description": "Neuralese: KI hat vermeintlich eine eigene Sprache aus reinen Zahlen entwickelt, die kein Mensch mehr mitlesen kann. Was hinter GPT-6 Astras unsichtbarem Denken steckt und warum OpenAI, Anthropic und Google DeepMind deshalb um die Sicherheit der KI ringen.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere dir hier kostenfrei ein persönliches Analysegespräch: https://www.kiberatung.de/?utm_source=kibera",
@@ -21495,7 +21495,7 @@
       "model": null
     },
     "first_seen": "2026-11-03T18:30:36.235567+00:00",
-    "is_new": true
+    "is_new": false
   },
   "T_87i1iR9Xk": {
     "video_id": "T_87i1iR9Xk",
@@ -21515,7 +21515,7 @@
       "model": null
     },
     "first_seen": "2026-11-03T18:38:40.399662+00:00",
-    "is_new": true
+    "is_new": false
   },
   "6edBli83IwE": {
     "video_id": "6edBli83IwE",
@@ -21535,6 +21535,26 @@
       "model": null
     },
     "first_seen": "2026-11-03T18:47:40.399584+00:00",
+    "is_new": false
+  },
+  "38OTLXbT3xs": {
+    "video_id": "38OTLXbT3xs",
+    "title": "AI is gonna take your job, unless you do this",
+    "published": "2026-11-03T22:00:52+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/38OTLXbT3xs/hqdefault.jpg",
+    "description": "AI is gonna take your job, unless you do this",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI is gonna take your job, unless you do this",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-04T11:47:13.757826+00:00",
     "is_new": true
   }
 }
