@@ -21575,7 +21575,7 @@
       "model": null
     },
     "first_seen": "2026-11-04T19:05:10.820855+00:00",
-    "is_new": true
+    "is_new": false
   },
   "UB_ZIWrsnfs": {
     "video_id": "UB_ZIWrsnfs",
@@ -21595,7 +21595,7 @@
       "model": null
     },
     "first_seen": "2026-11-04T19:05:32.712133+00:00",
-    "is_new": true
+    "is_new": false
   },
   "nsFKkeQg-V0": {
     "video_id": "nsFKkeQg-V0",
@@ -21615,7 +21615,7 @@
       "model": null
     },
     "first_seen": "2026-11-04T19:05:54.176815+00:00",
-    "is_new": true
+    "is_new": false
   },
   "u7prmepK5gk": {
     "video_id": "u7prmepK5gk",
@@ -21635,11 +21635,11 @@
       "model": null
     },
     "first_seen": "2026-11-04T19:09:56.160644+00:00",
-    "is_new": true
+    "is_new": false
   },
   "O0fmDvOfhfo": {
     "video_id": "O0fmDvOfhfo",
-    "title": "Ich habe geheiratet!",
+    "title": "Was wirklich zählt",
     "published": "2026-11-04T14:22:05+00:00",
     "thumbnail": "https://i4.ytimg.com/vi/O0fmDvOfhfo/hqdefault.jpg",
     "description": "In aufregenden und turbulenten KI-Zeiten eine Erinnerung an das, was wirklich zählt.\n(Türkische und deutsche Untertitel sind eingestellt)",
@@ -21655,6 +21655,66 @@
       "model": null
     },
     "first_seen": "2026-11-04T19:14:21.358024+00:00",
+    "is_new": false
+  },
+  "oMvaTK163HA": {
+    "video_id": "oMvaTK163HA",
+    "title": "How to prompt AI in 2027",
+    "published": "2026-11-04T22:01:14+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oMvaTK163HA/hqdefault.jpg",
+    "description": "Comment AIFS and I'll send you my list of bots to implement in your business",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to prompt AI in 2027",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-05T15:45:47.301436+00:00",
+    "is_new": true
+  },
+  "P2szbWjM-HY": {
+    "video_id": "P2szbWjM-HY",
+    "title": "VPS: Kompletter Kurs für Einsteiger",
+    "published": "2026-11-05T14:37:30+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/P2szbWjM-HY/hqdefault.jpg",
+    "description": "Hol dir hier deinen VPS: https://www.hostg.xyz/SHJ7j (10% Rabatt mit Code: NIKLAS)\nIn dem Kurs lernst du, eigene Server gut und sicher zu betreiben. Einer der wichtigsten Skills im KI-Zeitalter!\n\n💡Weiterführende Links: \nOpenClaw Playlist: https://youtube.com/playlist?list=PL5SxqZAwIX287AN28hg2bcxWNdp24KGxN&si=JNuJm4fyvW4f587v\nHermes-Kurs: https://youtu.be/wu7gLVRriE8?si=Wa86shZzNEl2hsx2\nn8n-Kurs: https://youtu.be/1q8aq-zdG50?si=ndN_vDkaBlhfwNfd\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: htt",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Hol dir hier deinen VPS: https://www.hostg.xyz/SHJ7j (10% Rabatt mit Code: NIKLAS)\nIn dem Kurs lernst du, eigene Server gut und sicher zu betreiben. Einer der wichtigsten Skills im KI-Zeitalter!\n\n💡Weiterführende Links: \nOpenClaw Playlist: h…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-05T15:55:00.152155+00:00",
+    "is_new": true
+  },
+  "CNRz76FwIss": {
+    "video_id": "CNRz76FwIss",
+    "title": "Was geht eigentlich gerade ab?",
+    "published": "2026-11-05T14:19:38+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/CNRz76FwIss/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-05T15:55:22.099979+00:00",
     "is_new": true
   }
 }
