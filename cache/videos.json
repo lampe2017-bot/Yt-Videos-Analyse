@@ -21675,7 +21675,7 @@
       "model": null
     },
     "first_seen": "2026-11-05T15:45:47.301436+00:00",
-    "is_new": true
+    "is_new": false
   },
   "P2szbWjM-HY": {
     "video_id": "P2szbWjM-HY",
@@ -21695,7 +21695,7 @@
       "model": null
     },
     "first_seen": "2026-11-05T15:55:00.152155+00:00",
-    "is_new": true
+    "is_new": false
   },
   "CNRz76FwIss": {
     "video_id": "CNRz76FwIss",
@@ -21715,6 +21715,46 @@
       "model": null
     },
     "first_seen": "2026-11-05T15:55:22.099979+00:00",
+    "is_new": false
+  },
+  "YajzUoRKSNQ": {
+    "video_id": "YajzUoRKSNQ",
+    "title": "Astronaut: Was bis 2030 kommt, wird keiner glauben! Roboter, Mond-Hotels, Dyson-Sphären & Aliens",
+    "published": "2026-11-05T16:15:04+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/YajzUoRKSNQ/hqdefault.jpg",
+    "description": "In diesem Interview spricht Leonard Schmedding mit Astronaut und Physiker Prof. Dr. Ulrich Walter über unsere Zukunft, Rechenzentren, KI und Megakonstrukte im Weltall.\n\nDu bist Softwareentwickler mit Builder-Mindset und willst AI-native Software bauen, die jeden Tag tausende B2B-Nutzer begeistert? Wir erweitern unser Team an AI-Driven Software Developern, mit modernsten Tools und unlimitiert Tokens. Bewirb dich jetzt: https://everlastkarriere.de/\n\nHole dir jeden Tag zu 100% kostenfrei die wichtigsten Updates aus KI, Robotik, Technologie und Zukunft direkt in dein E-Mail-Postfach, kompakt aufbe",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In diesem Interview spricht Leonard Schmedding mit Astronaut und Physiker Prof. Dr. Ulrich Walter über unsere Zukunft, Rechenzentren, KI und Megakonstrukte im Weltall.\n\nDu bist Softwareentwickler mit Builder-Mindset und willst AI-native Sof…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-05T21:38:31.160910+00:00",
+    "is_new": true
+  },
+  "1I4FkOlAe0k": {
+    "video_id": "1I4FkOlAe0k",
+    "title": "Which CEO are you?",
+    "published": "2026-11-05T16:02:52+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1I4FkOlAe0k/hqdefault.jpg",
+    "description": "Which CEO are you?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Which CEO are you?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-05T21:45:44.371902+00:00",
     "is_new": true
   }
 }
