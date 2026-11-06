@@ -21795,6 +21795,26 @@
       "model": null
     },
     "first_seen": "2026-11-06T16:32:35.141156+00:00",
+    "is_new": false
+  },
+  "ADnwWYB7qOs": {
+    "video_id": "ADnwWYB7qOs",
+    "title": "You're either a dictator or a doormat",
+    "published": "2026-11-06T21:02:29+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/ADnwWYB7qOs/hqdefault.jpg",
+    "description": "You're either a dictator or a doormat",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You're either a dictator or a doormat",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-06T21:48:23.098073+00:00",
     "is_new": true
   }
 }
