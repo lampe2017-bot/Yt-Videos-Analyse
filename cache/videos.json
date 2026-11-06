@@ -21735,7 +21735,7 @@
       "model": null
     },
     "first_seen": "2026-11-05T21:38:31.160910+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1I4FkOlAe0k": {
     "video_id": "1I4FkOlAe0k",
@@ -21755,6 +21755,26 @@
       "model": null
     },
     "first_seen": "2026-11-05T21:45:44.371902+00:00",
+    "is_new": false
+  },
+  "LgTW_tJKpBM": {
+    "video_id": "LgTW_tJKpBM",
+    "title": "Leave things better than you found it",
+    "published": "2026-11-05T22:01:59+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LgTW_tJKpBM/hqdefault.jpg",
+    "description": "Leave things better than you found it",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Leave things better than you found it",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-06T08:46:15.606868+00:00",
     "is_new": true
   }
 }
