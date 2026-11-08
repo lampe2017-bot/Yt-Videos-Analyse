@@ -21855,6 +21855,26 @@
       "model": null
     },
     "first_seen": "2026-11-07T19:02:28.779907+00:00",
+    "is_new": false
+  },
+  "PdD8GSv-N8Y": {
+    "video_id": "PdD8GSv-N8Y",
+    "title": "The way you lead is a trauma response",
+    "published": "2026-11-07T21:02:25+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PdD8GSv-N8Y/hqdefault.jpg",
+    "description": "The way you lead is a trauma response",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "The way you lead is a trauma response",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-08T01:35:55.309519+00:00",
     "is_new": true
   }
 }
