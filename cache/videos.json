@@ -21936,5 +21936,25 @@
     },
     "first_seen": "2026-11-08T15:37:38.746768+00:00",
     "is_new": false
+  },
+  "3ROdL7N8p1A": {
+    "video_id": "3ROdL7N8p1A",
+    "title": "Comfort is the most expensive thing",
+    "published": "2026-11-08T21:02:05+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/3ROdL7N8p1A/hqdefault.jpg",
+    "description": "Comfort is the most expensive thing",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Comfort is the most expensive thing",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-08T23:21:46.005701+00:00",
+    "is_new": true
   }
 }
