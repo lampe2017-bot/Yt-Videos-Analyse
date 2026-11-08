@@ -20306,11 +20306,11 @@
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
     "duration": "",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: …"
+        "Hier ist der simpelste Fix für dich, wie sich dein Angebot im nächsten brachial über Instagram verkaufen wird und Spoiler hat nichts mit deinem Preis zu tun. Wenn jemand nichts verkauft, dann kommen einem immer direkt die gleichen Gedanken.…"
       ],
       "model": null
     },
@@ -21895,7 +21895,7 @@
       "model": null
     },
     "first_seen": "2026-11-08T15:25:13.646793+00:00",
-    "is_new": true
+    "is_new": false
   },
   "GSkoG3FvJ7c": {
     "video_id": "GSkoG3FvJ7c",
@@ -21915,7 +21915,7 @@
       "model": null
     },
     "first_seen": "2026-11-08T15:32:18.440856+00:00",
-    "is_new": true
+    "is_new": false
   },
   "6NpG4nXTUI4": {
     "video_id": "6NpG4nXTUI4",
@@ -21935,6 +21935,6 @@
       "model": null
     },
     "first_seen": "2026-11-08T15:37:38.746768+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
