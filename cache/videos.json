@@ -20306,11 +20306,11 @@
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
     "duration": "",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Hier ist der simpelste Fix für dich, wie sich dein Angebot im nächsten brachial über Instagram verkaufen wird und Spoiler hat nichts mit deinem Preis zu tun. Wenn jemand nichts verkauft, dann kommen einem immer direkt die gleichen Gedanken.…"
+        "✅ Kostenloser Workshop: https://tinyurl.com/4tymc9hn\n✅ Kostenloser Instagram Business Club (7-Tage testen) https://www.skool.com/instagrambusinessclub/about \n_____________________________________________\nMehr von mir:\n📌 Mein Hauptprogramm: …"
       ],
       "model": null
     },
@@ -21919,10 +21919,10 @@
   },
   "6NpG4nXTUI4": {
     "video_id": "6NpG4nXTUI4",
-    "title": "So würde ich 2027 KI und Instagram kombinieren",
+    "title": "Instagram 2027: Was ich mit KI komplett anders machen würde",
     "published": "2026-11-08T15:00:02+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/6NpG4nXTUI4/hqdefault.jpg",
-    "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste\n\n✅ Kostenloser Workshop: https://www.blogdichhoch.de/?utm_campaign=ZHS&source_id=YouTube&utm_content=ki-und-instagram-2027\n\n✅ Kostenloser Instagram Business C",
+    "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm_source=youtube&utm_campaign=prompts&utm_content=ki-und-instagram-2027\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste?utm_source=youtube&utm_campaign=warteliste&utm_content=ki-und-instagram-2027\n\n✅ Kost",
     "channel_handle": "sebiforce",
     "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
     "duration": "",
@@ -21930,7 +21930,7 @@
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts\n\n🔑 …"
+        "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm…"
       ],
       "model": null
     },
@@ -21955,6 +21955,6 @@
       "model": null
     },
     "first_seen": "2026-11-08T23:21:46.005701+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
