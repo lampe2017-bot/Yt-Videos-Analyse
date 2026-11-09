@@ -21956,5 +21956,65 @@
     },
     "first_seen": "2026-11-08T23:21:46.005701+00:00",
     "is_new": false
+  },
+  "RcvjZlq12kU": {
+    "video_id": "RcvjZlq12kU",
+    "title": "Unser gesamtes Firmenwissen! (Stand 2026)",
+    "published": "2026-11-09T16:15:35+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/RcvjZlq12kU/hqdefault.jpg",
+    "description": "Sichere jetzt das Wissen deines Unternehmens: https://kiberatung.de",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Unser gesamtes Firmenwissen! (Stand 2026)",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-09T21:09:45.746122+00:00",
+    "is_new": true
+  },
+  "TasLZOkxh1w": {
+    "video_id": "TasLZOkxh1w",
+    "title": "Use my AI replacement ladder to decide what to automate",
+    "published": "2026-11-09T21:01:34+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TasLZOkxh1w/hqdefault.jpg",
+    "description": "Use my AI replacement ladder to decide what to automate",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Use my AI replacement ladder to decide what to automate",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-09T21:16:14.575042+00:00",
+    "is_new": true
+  },
+  "W0r8Remco_I": {
+    "video_id": "W0r8Remco_I",
+    "title": "Why do people blame their team?",
+    "published": "2026-11-09T15:03:14+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/W0r8Remco_I/hqdefault.jpg",
+    "description": "Why do people blame their team?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why do people blame their team?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-09T21:16:28.830065+00:00",
+    "is_new": true
   }
 }
