@@ -22215,7 +22215,7 @@
       "model": null
     },
     "first_seen": "2026-11-12T16:59:05.995435+00:00",
-    "is_new": true
+    "is_new": false
   },
   "DzRNC73IVLs": {
     "video_id": "DzRNC73IVLs",
@@ -22235,7 +22235,7 @@
       "model": null
     },
     "first_seen": "2026-11-12T17:02:18.815603+00:00",
-    "is_new": true
+    "is_new": false
   },
   "hog-OSN0-V0": {
     "video_id": "hog-OSN0-V0",
@@ -22255,6 +22255,26 @@
       "model": null
     },
     "first_seen": "2026-11-12T17:06:52.472566+00:00",
+    "is_new": false
+  },
+  "m6839RmQvJs": {
+    "video_id": "m6839RmQvJs",
+    "title": "Managers and Leaders are 2 completely different roles",
+    "published": "2026-11-12T22:04:26+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/m6839RmQvJs/hqdefault.jpg",
+    "description": "Managers and Leaders are 2 completely different roles",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Managers and Leaders are 2 completely different roles",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-12T22:37:06.698776+00:00",
     "is_new": true
   }
 }
