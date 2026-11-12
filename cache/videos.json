@@ -22115,7 +22115,7 @@
       "model": null
     },
     "first_seen": "2026-11-11T18:56:32.978931+00:00",
-    "is_new": true
+    "is_new": false
   },
   "00JUEqv2E9Y": {
     "video_id": "00JUEqv2E9Y",
@@ -22135,7 +22135,7 @@
       "model": null
     },
     "first_seen": "2026-11-11T18:59:46.462326+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TSr_qLZ-8YY": {
     "video_id": "TSr_qLZ-8YY",
@@ -22155,7 +22155,7 @@
       "model": null
     },
     "first_seen": "2026-11-11T19:00:00.438705+00:00",
-    "is_new": true
+    "is_new": false
   },
   "bav5DFQObv0": {
     "video_id": "bav5DFQObv0",
@@ -22175,6 +22175,26 @@
       "model": null
     },
     "first_seen": "2026-11-11T19:01:33.802478+00:00",
+    "is_new": false
+  },
+  "n6xoJp-aFjc": {
+    "video_id": "n6xoJp-aFjc",
+    "title": "Signs you are NOT leading your team properly",
+    "published": "2026-11-11T23:04:05+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/n6xoJp-aFjc/hqdefault.jpg",
+    "description": "Signs you are NOT leading your team properly",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Signs you are NOT leading your team properly",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-12T01:15:31.453914+00:00",
     "is_new": true
   }
 }
