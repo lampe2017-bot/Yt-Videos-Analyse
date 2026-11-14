@@ -21886,11 +21886,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "26:57",
-    "transcript_lang": "rss-desc",
+    "transcript_lang": "de",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "KI-Crash an der Börse: Die Nasdaq verliert 5,5 Prozent, weil US-Wähler in 40 von 41 Gemeinden neue Rechenzentren stoppen, und der Börsengang von Anthropic wackelt. Dazu das geheime „Model 4“ von Anthropic, GPT-6-Cyber, kleine lokale KI-Mode…"
+        "Der KI-Crash ist da. Ist dies jetzt das Ende für Open AI und Anthropic? An nur einem einzigen Tag hat die Nasdaq diese Woche über 5 % verloren, so viel wie seit den Trump-Zöllen im April 2025 nicht mehr. Nvidia hat dabei sein komplettes Plu…"
       ],
       "model": null
     },
@@ -22299,7 +22299,7 @@
   },
   "RpEW_LBJmp0": {
     "video_id": "RpEW_LBJmp0",
-    "title": "Warum die deutsche Wirtschaft zugrunde geht (und was du jetzt dagegen tun kannst)",
+    "title": "DAS zerstört gerade den deutschen Mittelstand (und kaum einer spricht darüber)",
     "published": "2026-11-14T09:15:34+00:00",
     "thumbnail": "https://i3.ytimg.com/vi/RpEW_LBJmp0/hqdefault.jpg",
     "description": "Der wahre Grund, warum der deutsche Mittelstand gerade von China überrollt wird, liegt nicht nur in der Politik. In diesem Video erkläre ich dir warum Deutschland trotzdem 100.000 KI-Agenturen braucht und wie du selbst davon profitierst.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n\n----------------------------------------------\n\n⚙️ Mein",
@@ -22315,7 +22315,7 @@
       "model": null
     },
     "first_seen": "2026-11-14T11:04:44.962954+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TJ2GD_w-bAY": {
     "video_id": "TJ2GD_w-bAY",
@@ -22335,6 +22335,26 @@
       "model": null
     },
     "first_seen": "2026-11-14T11:06:25.923971+00:00",
+    "is_new": false
+  },
+  "hyYX3g7pwag": {
+    "video_id": "hyYX3g7pwag",
+    "title": "You can't be rich and not help people",
+    "published": "2026-11-14T15:01:39+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/hyYX3g7pwag/hqdefault.jpg",
+    "description": "You can't be rich and not help people",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "You can't be rich and not help people",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-14T17:18:22.151934+00:00",
     "is_new": true
   }
 }
