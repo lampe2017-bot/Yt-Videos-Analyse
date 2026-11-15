@@ -22375,7 +22375,7 @@
       "model": null
     },
     "first_seen": "2026-11-15T15:20:58.911641+00:00",
-    "is_new": true
+    "is_new": false
   },
   "oIc8fqjCJy8": {
     "video_id": "oIc8fqjCJy8",
@@ -22395,7 +22395,7 @@
       "model": null
     },
     "first_seen": "2026-11-15T15:25:27.861330+00:00",
-    "is_new": true
+    "is_new": false
   },
   "IFT7V5EEJYw": {
     "video_id": "IFT7V5EEJYw",
@@ -22415,11 +22415,11 @@
       "model": null
     },
     "first_seen": "2026-11-15T15:25:48.979368+00:00",
-    "is_new": true
+    "is_new": false
   },
   "0z-iPyrYiJw": {
     "video_id": "0z-iPyrYiJw",
-    "title": "7 Dinge, die ich auf Instagram nicht mehr mache",
+    "title": "Ich mache 7 Dinge auf Instagram NIE WIEDER (und habe trotzdem mehr Reichweite)",
     "published": "2026-11-15T15:00:29+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/0z-iPyrYiJw/hqdefault.jpg",
     "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm_source=youtube&utm_campaign=prompts&utm_content=7-dinge-nicht-mehr\n\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste?utm_source=youtube&utm_campaign=warteliste&utm_content=7-dinge-nicht-mehr \n\n\nInstagram",
@@ -22435,6 +22435,26 @@
       "model": null
     },
     "first_seen": "2026-11-15T15:29:31.680312+00:00",
+    "is_new": false
+  },
+  "JDjO2ud50qw": {
+    "video_id": "JDjO2ud50qw",
+    "title": "97% of people are managing their teams completely wrong",
+    "published": "2026-11-15T19:02:41+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/JDjO2ud50qw/hqdefault.jpg",
+    "description": "97% of people are managing their teams completely wrong",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "97% of people are managing their teams completely wrong",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-15T20:30:55.524381+00:00",
     "is_new": true
   }
 }
