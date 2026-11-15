@@ -21886,11 +21886,11 @@
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "26:57",
-    "transcript_lang": "de",
+    "transcript_lang": "rss-desc",
     "summary": {
       "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
       "bullets": [
-        "Der KI-Crash ist da. Ist dies jetzt das Ende für Open AI und Anthropic? An nur einem einzigen Tag hat die Nasdaq diese Woche über 5 % verloren, so viel wie seit den Trump-Zöllen im April 2025 nicht mehr. Nvidia hat dabei sein komplettes Plu…"
+        "KI-Crash an der Börse: Die Nasdaq verliert 5,5 Prozent, weil US-Wähler in 40 von 41 Gemeinden neue Rechenzentren stoppen, und der Börsengang von Anthropic wackelt. Dazu das geheime „Model 4“ von Anthropic, GPT-6-Cyber, kleine lokale KI-Mode…"
       ],
       "model": null
     },
@@ -22199,7 +22199,7 @@
   },
   "SxiYOCPW8_c": {
     "video_id": "SxiYOCPW8_c",
-    "title": "DAS ist der nächste KI-Durchbruch! Roboter-Selbstverbesserung & Asimovs Gesetze (Markus Wulfmeier)",
+    "title": "DAS ist der nächste Durchbruch! GPT-7, Roboter-RSI & Asimovs Gesetze (Markus Wulfmeier)",
     "published": "2026-11-12T16:15:39+00:00",
     "thumbnail": "https://i4.ytimg.com/vi/SxiYOCPW8_c/hqdefault.jpg",
     "description": "Dr. Markus Wulfmeier, fast acht Jahre bei Google DeepMind und im Kernteam von Gemini Robotics, heute Chief Scientist bei Nomagic, erklärt im Interview, wie nah wir am universellen humanoiden Roboter wirklich sind. \n\nDu willst lernen, humanoide Roboter selbst zu programmieren und eigene Use Cases in den echten Betrieb zu bringen? Trag dich jetzt auf die Warteliste der Agentic Robotics Masterclass ein: https://kilernen.de/warteliste/agentic-robotics-warteliste\n\nDu willst dir die wichtigsten KI-Fähigkeiten der Zukunft aufbauen und echte Karriere machen? Lerne alles auf der Nr. 1 KI-Weiterbildungs",
@@ -22355,6 +22355,86 @@
       "model": null
     },
     "first_seen": "2026-11-14T17:18:22.151934+00:00",
+    "is_new": false
+  },
+  "_l6gzItCF80": {
+    "video_id": "_l6gzItCF80",
+    "title": "Claude Fable 5.2:  DAS kann es wirklich! + Die Folgen des NVIDIA-Dramas | KI-NEWS",
+    "published": "2026-11-15T09:15:18+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/_l6gzItCF80/hqdefault.jpg",
+    "description": "Claude Fable 5.2 ist da: Das musst du wirklich wissen. Dazu die echten Kosten, die neuen Claude-Funktionen und was der Rücktritt von Jensen Huang für Nvidia und Open Source bedeutet. Alles in den KI-News der Woche.\n\nLetzte Chance: Am 01.12. startet der letzte Lehrgang zum zertifizierten AI-Automations-Manager. Hier geht es zur Warteliste: https://www.kiberatung.de/ai-automations-manager\n\nSichere dir hier den neuen kostenfreien KI-Security-Report: https://kisicherheitsreport.de\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil s",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Claude Fable 5.2 ist da: Das musst du wirklich wissen. Dazu die echten Kosten, die neuen Claude-Funktionen und was der Rücktritt von Jensen Huang für Nvidia und Open Source bedeutet. Alles in den KI-News der Woche.\n\nLetzte Chance: Am 01.12.…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-15T15:20:58.911641+00:00",
+    "is_new": true
+  },
+  "oIc8fqjCJy8": {
+    "video_id": "oIc8fqjCJy8",
+    "title": "How do you prioritize the relationships in your life?",
+    "published": "2026-11-15T15:01:18+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/oIc8fqjCJy8/hqdefault.jpg",
+    "description": "How do you prioritize the relationships in your life?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How do you prioritize the relationships in your life?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-15T15:25:27.861330+00:00",
+    "is_new": true
+  },
+  "IFT7V5EEJYw": {
+    "video_id": "IFT7V5EEJYw",
+    "title": "27 years of leadership in less than 60s",
+    "published": "2026-11-14T19:03:19+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/IFT7V5EEJYw/hqdefault.jpg",
+    "description": "27 years of leadership in less than 60s",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "27 years of leadership in less than 60s",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-15T15:25:48.979368+00:00",
+    "is_new": true
+  },
+  "0z-iPyrYiJw": {
+    "video_id": "0z-iPyrYiJw",
+    "title": "7 Dinge, die ich auf Instagram nicht mehr mache",
+    "published": "2026-11-15T15:00:29+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/0z-iPyrYiJw/hqdefault.jpg",
+    "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm_source=youtube&utm_campaign=prompts&utm_content=7-dinge-nicht-mehr\n\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste?utm_source=youtube&utm_campaign=warteliste&utm_content=7-dinge-nicht-mehr \n\n\nInstagram",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-15T15:29:31.680312+00:00",
     "is_new": true
   }
 }
