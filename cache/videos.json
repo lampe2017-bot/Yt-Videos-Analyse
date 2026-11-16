@@ -22455,6 +22455,26 @@
       "model": null
     },
     "first_seen": "2026-11-15T20:30:55.524381+00:00",
+    "is_new": false
+  },
+  "ltnbubBsrQk": {
+    "video_id": "ltnbubBsrQk",
+    "title": "Don't make these 4 AI mistakes",
+    "published": "2026-11-15T21:03:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/ltnbubBsrQk/hqdefault.jpg",
+    "description": "Don't make these 4 AI mistakes",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Don't make these 4 AI mistakes",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-16T00:06:38.168738+00:00",
     "is_new": true
   }
 }
