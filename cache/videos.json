@@ -22419,7 +22419,7 @@
   },
   "0z-iPyrYiJw": {
     "video_id": "0z-iPyrYiJw",
-    "title": "Ich mache 7 Dinge auf Instagram NIE WIEDER (und habe trotzdem mehr Reichweite)",
+    "title": "40 Instagram-Posts in wenigen Minuten. Ich mache DAS nie wieder selbst.",
     "published": "2026-11-15T15:00:29+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/0z-iPyrYiJw/hqdefault.jpg",
     "description": "🎁 Kostenloses KI-Content Prompt-Paket (PDF): Meine 7 Prompts, mit denen ich KI als Content-Partner nutze, nicht als Ghostwriter. Für Themen, Hooks, Briefings und das Finden deiner Gewinner-Beiträge.\n👉 https://www.blogdichhoch.de/prompts?utm_source=youtube&utm_campaign=prompts&utm_content=7-dinge-nicht-mehr\n\n\n🔑 Warteliste KI-Content-Bootcamp (18. bis 24.11.): Blicke hinter die Kulissen, exklusive Prompts und Frühzugang am 17.11. um 18 Uhr, 24 Stunden vor allen anderen.\n👉 https://www.blogdichhoch.de/warteliste?utm_source=youtube&utm_campaign=warteliste&utm_content=7-dinge-nicht-mehr \n\n\nInstagram",
@@ -22475,6 +22475,66 @@
       "model": null
     },
     "first_seen": "2026-11-16T00:06:38.168738+00:00",
+    "is_new": false
+  },
+  "1X4rF_o60mY": {
+    "video_id": "1X4rF_o60mY",
+    "title": "Tatort: Mittelstand (KIBERATUNG.DE)",
+    "published": "2026-11-16T16:15:06+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/1X4rF_o60mY/hqdefault.jpg",
+    "description": "KI jetzt rechtssicher implementieren: https://kiberatung.de\n\nKostenfreier KI-DSVO-Report: https://kidsgvoreport.de",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "KI jetzt rechtssicher implementieren: https://kiberatung.de\n\nKostenfreier KI-DSVO-Report: https://kidsgvoreport.de"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-16T16:33:35.823482+00:00",
+    "is_new": true
+  },
+  "sHjdHVuSlG0": {
+    "video_id": "sHjdHVuSlG0",
+    "title": "Be the problem SOLVER not the SEEKER",
+    "published": "2026-11-16T15:04:42+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sHjdHVuSlG0/hqdefault.jpg",
+    "description": "Be the problem SOLVER not the SEEKER",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Be the problem SOLVER not the SEEKER",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-16T16:37:14.532081+00:00",
+    "is_new": true
+  },
+  "-X-RvFEvFrg": {
+    "video_id": "-X-RvFEvFrg",
+    "title": "Das passiert, wenn du Claude unbegrenztes Budget gibst",
+    "published": "2026-11-16T15:12:50+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/-X-RvFEvFrg/hqdefault.jpg",
+    "description": "Alle Demos generiert mit Fable 5.2 und Higgsfield: https://higgsfield.ai/s/niklassteenfatt-ooawzj\n(65% Rabatt zum Black Friday!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00 Intro\n00:43 Das Bali-Büro in 3D\n01:35 Easter Eggs und Higgsfield\n02:48 Fable OS: der Computer im Computer\n03:44 Gambit Isle: Schach-Abenteuer\n07:37 Hyperlane: Anti-Grav",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Alle Demos generiert mit Fable 5.2 und Higgsfield: https://higgsfield.ai/s/niklassteenfatt-ooawzj\n(65% Rabatt zum Black Friday!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 M…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-16T16:44:22.193953+00:00",
     "is_new": true
   }
 }
