@@ -22479,7 +22479,7 @@
   },
   "1X4rF_o60mY": {
     "video_id": "1X4rF_o60mY",
-    "title": "Tatort: Mittelstand (KIBERATUNG.DE)",
+    "title": "Tatort: ChatGPT",
     "published": "2026-11-16T16:15:06+00:00",
     "thumbnail": "https://i2.ytimg.com/vi/1X4rF_o60mY/hqdefault.jpg",
     "description": "KI jetzt rechtssicher implementieren: https://kiberatung.de\n\nKostenfreier KI-DSVO-Report: https://kidsgvoreport.de",
@@ -22495,7 +22495,7 @@
       "model": null
     },
     "first_seen": "2026-11-16T16:33:35.823482+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sHjdHVuSlG0": {
     "video_id": "sHjdHVuSlG0",
@@ -22515,11 +22515,11 @@
       "model": null
     },
     "first_seen": "2026-11-16T16:37:14.532081+00:00",
-    "is_new": true
+    "is_new": false
   },
   "-X-RvFEvFrg": {
     "video_id": "-X-RvFEvFrg",
-    "title": "Das passiert, wenn du Claude unbegrenztes Budget gibst",
+    "title": "Ein Vorgeschmack von AGI",
     "published": "2026-11-16T15:12:50+00:00",
     "thumbnail": "https://i2.ytimg.com/vi/-X-RvFEvFrg/hqdefault.jpg",
     "description": "Alle Demos generiert mit Fable 5.2 und Higgsfield: https://higgsfield.ai/s/niklassteenfatt-ooawzj\n(65% Rabatt zum Black Friday!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n00:00 Intro\n00:43 Das Bali-Büro in 3D\n01:35 Easter Eggs und Higgsfield\n02:48 Fable OS: der Computer im Computer\n03:44 Gambit Isle: Schach-Abenteuer\n07:37 Hyperlane: Anti-Grav",
@@ -22535,6 +22535,46 @@
       "model": null
     },
     "first_seen": "2026-11-16T16:44:22.193953+00:00",
+    "is_new": false
+  },
+  "ghfz6g-SUDg": {
+    "video_id": "ghfz6g-SUDg",
+    "title": "Ask yourself this before using AI",
+    "published": "2026-11-16T22:04:59+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/ghfz6g-SUDg/hqdefault.jpg",
+    "description": "Ask yourself this before using AI",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Ask yourself this before using AI",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-17T08:41:40.974156+00:00",
+    "is_new": true
+  },
+  "Pted79EG1BM": {
+    "video_id": "Pted79EG1BM",
+    "title": "I have so much fun everyday working with this group of people 😂😂😂",
+    "published": "2026-11-16T19:02:46+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Pted79EG1BM/hqdefault.jpg",
+    "description": "I have so much fun everyday working with this group of people 😂😂😂",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I have so much fun everyday working with this group of people 😂😂😂",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-17T08:41:54.462553+00:00",
     "is_new": true
   }
 }
