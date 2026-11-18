@@ -22715,7 +22715,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T16:50:18.324585+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YD8uRumP8cM": {
     "video_id": "YD8uRumP8cM",
@@ -22735,11 +22735,11 @@
       "model": null
     },
     "first_seen": "2026-11-18T16:50:32.328617+00:00",
-    "is_new": true
+    "is_new": false
   },
   "DL5PC5r2Jqc": {
     "video_id": "DL5PC5r2Jqc",
-    "title": "11 Jahre Instagram: 8 teure Fehler (und was ich heute mit KI anders mache)",
+    "title": "Instagram 2027: Warum Follower unwichtig werden!",
     "published": "2026-11-18T15:00:19+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/DL5PC5r2Jqc/hqdefault.jpg",
     "description": "🔑 KI-Content-Bootcamp (18. bis 24.11.): \n\n👉 https://www.blogdichhoch.de/Ki-Content-Bootcamp2-0/?utm_source=youtube&utm_campaign=ki-content-bootcamp&utm_content=8-teure-fehler\n\n11 Jahre Instagram Erfahrung: Ich teile die 8 kostspieligsten Fehler meiner Laufbahn, damit du sie heute vermeiden kannst.\n\nIch blicke auf meine Zeit als Fitness- und Fashionblogger zurück und analysiere, warum bestimmte Projekte trotz harter Arbeit scheiterten. Oft fehlten mir die richtigen Tools, um meine Visionen effizient umzusetzen. Diese Reflexion hilft dir, deine eigene Instagram Strategie zu schärfen und aus mein",
@@ -22755,7 +22755,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T16:53:50.732984+00:00",
-    "is_new": true
+    "is_new": false
   },
   "uL5f1Gk0Ixk": {
     "video_id": "uL5f1Gk0Ixk",
@@ -22775,6 +22775,46 @@
       "model": null
     },
     "first_seen": "2026-11-18T16:55:32.529580+00:00",
+    "is_new": false
+  },
+  "HxBCyL6AVpE": {
+    "video_id": "HxBCyL6AVpE",
+    "title": "Default to action!",
+    "published": "2026-11-18T22:00:34+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/HxBCyL6AVpE/hqdefault.jpg",
+    "description": "Default to action!",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Default to action!",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-18T23:15:24.125562+00:00",
+    "is_new": true
+  },
+  "XM_Fkw1NT9w": {
+    "video_id": "XM_Fkw1NT9w",
+    "title": "Was für ein Ergebnis!!",
+    "published": "2026-11-18T17:30:05+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/XM_Fkw1NT9w/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-18T23:23:08.755811+00:00",
     "is_new": true
   }
 }
