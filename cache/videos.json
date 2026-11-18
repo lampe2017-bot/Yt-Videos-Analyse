@@ -22595,7 +22595,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T00:23:30.522013+00:00",
-    "is_new": true
+    "is_new": false
   },
   "XdTRtDENf6w": {
     "video_id": "XdTRtDENf6w",
@@ -22615,7 +22615,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T00:27:57.753797+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ty_mkAGcjlA": {
     "video_id": "ty_mkAGcjlA",
@@ -22635,7 +22635,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T00:28:19.651032+00:00",
-    "is_new": true
+    "is_new": false
   },
   "-rs6rzsV_1E": {
     "video_id": "-rs6rzsV_1E",
@@ -22655,7 +22655,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T00:28:42.446675+00:00",
-    "is_new": true
+    "is_new": false
   },
   "aV1qdgYYYis": {
     "video_id": "aV1qdgYYYis",
@@ -22675,6 +22675,26 @@
       "model": null
     },
     "first_seen": "2026-11-18T00:35:47.441158+00:00",
+    "is_new": false
+  },
+  "Kin24ogE94I": {
+    "video_id": "Kin24ogE94I",
+    "title": "Ich habe Claude 100x um Verbesserung gebeten",
+    "published": "2026-11-18T05:03:17+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/Kin24ogE94I/hqdefault.jpg",
+    "description": "Diese Platform nutze ich im Video: https://agent.abacus.ai/nik\n(Empfehlung für Web- und App-Entwicklung! Rabatt über meinen Link!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡AUS DEM VIDEO:\nEchte Website: https://quest.app/\n\n⌚️Timestamps:\n00:00 Intro\n00:29 Die Ausgangs-Website\n01:35 Der Prompt\n02:16 Runde 1\n06:16 Runde 2\n09:04 Runde 3\n10:51 Die Website wird ",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Diese Platform nutze ich im Video: https://agent.abacus.ai/nik\n(Empfehlung für Web- und App-Entwicklung! Rabatt über meinen Link!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-18T07:57:53.554445+00:00",
     "is_new": true
   }
 }
