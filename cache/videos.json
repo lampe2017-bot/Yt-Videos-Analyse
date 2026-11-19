@@ -22795,7 +22795,7 @@
       "model": null
     },
     "first_seen": "2026-11-18T23:15:24.125562+00:00",
-    "is_new": true
+    "is_new": false
   },
   "XM_Fkw1NT9w": {
     "video_id": "XM_Fkw1NT9w",
@@ -22815,6 +22815,6 @@
       "model": null
     },
     "first_seen": "2026-11-18T23:23:08.755811+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
