@@ -22816,5 +22816,65 @@
     },
     "first_seen": "2026-11-18T23:23:08.755811+00:00",
     "is_new": false
+  },
+  "dvcxM2aHKGY": {
+    "video_id": "dvcxM2aHKGY",
+    "title": "Der Vater der KI: Was KI bald kann, wird keiner glauben! DAS passiert nach AGI (Jürgen Schmidhuber)",
+    "published": "2026-11-19T16:15:30+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/dvcxM2aHKGY/hqdefault.jpg",
+    "description": "Prof. Dr. Jürgen Schmidhuber, von der New York Times als Vater der KI bezeichnet, erklärt im Interview, wie nah wir an AGI sind, wieso er einen KI-Crash erwartet und warum KI das Universum erobern wird. Dazu: Agentenschwärme, die sich füreinander opfern, Quantencomputer, die Simulationshypothese und sein ungeschöntes Urteil über Deutschland und China.\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRKLICH Umsatz bringen und ganze Stellen einsparen. Sichere d",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Prof. Dr. Jürgen Schmidhuber, von der New York Times als Vater der KI bezeichnet, erklärt im Interview, wie nah wir an AGI sind, wieso er einen KI-Crash erwartet und warum KI das Universum erobern wird. Dazu: Agentenschwärme, die sich fürei…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-19T21:54:03.358566+00:00",
+    "is_new": true
+  },
+  "p4qIf-wm2CE": {
+    "video_id": "p4qIf-wm2CE",
+    "title": "6 ways to make your team love you as a leader. Which one are you missing?",
+    "published": "2026-11-19T19:05:26+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/p4qIf-wm2CE/hqdefault.jpg",
+    "description": "6 ways to make your team love you as a leader. Which one are you missing?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "6 ways to make your team love you as a leader. Which one are you missing?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-19T21:57:51.541320+00:00",
+    "is_new": true
+  },
+  "tmy12Psf-RU": {
+    "video_id": "tmy12Psf-RU",
+    "title": "Confidence isn't built where you think.",
+    "published": "2026-11-19T15:06:01+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/tmy12Psf-RU/hqdefault.jpg",
+    "description": "Confidence isn't built where you think.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Confidence isn't built where you think.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-19T21:58:06.204954+00:00",
+    "is_new": true
   }
 }
