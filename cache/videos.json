@@ -22835,7 +22835,7 @@
       "model": null
     },
     "first_seen": "2026-11-19T21:54:03.358566+00:00",
-    "is_new": true
+    "is_new": false
   },
   "p4qIf-wm2CE": {
     "video_id": "p4qIf-wm2CE",
@@ -22855,7 +22855,7 @@
       "model": null
     },
     "first_seen": "2026-11-19T21:57:51.541320+00:00",
-    "is_new": true
+    "is_new": false
   },
   "tmy12Psf-RU": {
     "video_id": "tmy12Psf-RU",
@@ -22875,6 +22875,6 @@
       "model": null
     },
     "first_seen": "2026-11-19T21:58:06.204954+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
