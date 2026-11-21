@@ -22955,7 +22955,7 @@
       "model": null
     },
     "first_seen": "2026-11-21T15:30:58.770069+00:00",
-    "is_new": true
+    "is_new": false
   },
   "kS7n6hsQpBg": {
     "video_id": "kS7n6hsQpBg",
@@ -22975,6 +22975,26 @@
       "model": null
     },
     "first_seen": "2026-11-21T15:31:57.748989+00:00",
+    "is_new": false
+  },
+  "8LzHH3XfyW4": {
+    "video_id": "8LzHH3XfyW4",
+    "title": "This isn't just another AI tool.",
+    "published": "2026-11-21T19:04:20+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/8LzHH3XfyW4/hqdefault.jpg",
+    "description": "This isn't just another AI tool.",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "This isn't just another AI tool.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-21T21:01:28.419340+00:00",
     "is_new": true
   }
 }
