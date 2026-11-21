@@ -22935,6 +22935,46 @@
       "model": null
     },
     "first_seen": "2026-11-21T07:32:47.380754+00:00",
+    "is_new": false
+  },
+  "fMdJO1eJ-VU": {
+    "video_id": "fMdJO1eJ-VU",
+    "title": "Das ist die größte Veränderung bei KI-Projekten seit Jahren - Du musst jetzt umdenken",
+    "published": "2026-11-21T09:15:11+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/fMdJO1eJ-VU/hqdefault.jpg",
+    "description": "In den letzten sechs Monaten hat sich durch Agentic Coding verändert, wie groß Unternehmen bei KI-Projekten denken können: statt einzelner Use Cases ganze eigene Software, vom CRM bis zum ERP. Ich zeige dir an echten Kundenprojekten von Everlast AI, wie das in der Praxis aussieht und woran Projekte wirklich scheitern.\n\nMelde dich an zum Agentic Coding Live Workshop: https://kilernen.de/webinare\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.d",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In den letzten sechs Monaten hat sich durch Agentic Coding verändert, wie groß Unternehmen bei KI-Projekten denken können: statt einzelner Use Cases ganze eigene Software, vom CRM bis zum ERP. Ich zeige dir an echten Kundenprojekten von Eve…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-21T15:30:58.770069+00:00",
+    "is_new": true
+  },
+  "kS7n6hsQpBg": {
+    "video_id": "kS7n6hsQpBg",
+    "title": "Boss, manager, or leader. Which are you?",
+    "published": "2026-11-21T15:01:47+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/kS7n6hsQpBg/hqdefault.jpg",
+    "description": "Boss, manager, or leader. Which are you?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Boss, manager, or leader. Which are you?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-21T15:31:57.748989+00:00",
     "is_new": true
   }
 }
