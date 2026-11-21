@@ -22876,5 +22876,45 @@
     },
     "first_seen": "2026-11-19T21:58:06.204954+00:00",
     "is_new": false
+  },
+  "sluENNu90IE": {
+    "video_id": "sluENNu90IE",
+    "title": "GTA 6 is a massive success for this one reason",
+    "published": "2026-11-20T21:47:54+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/sluENNu90IE/hqdefault.jpg",
+    "description": "GTA 6 is a massive success for this one reason",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "GTA 6 is a massive success for this one reason",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-21T00:28:55.546518+00:00",
+    "is_new": true
+  },
+  "LmjbN4Ip8eQ": {
+    "video_id": "LmjbN4Ip8eQ",
+    "title": "How to start AI automation with Grok Bot",
+    "published": "2026-11-20T15:04:11+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/LmjbN4Ip8eQ/hqdefault.jpg",
+    "description": "How to start AI automation with Grok Bot",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How to start AI automation with Grok Bot",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-21T00:29:09.299780+00:00",
+    "is_new": true
   }
 }
