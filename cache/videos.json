@@ -23015,7 +23015,7 @@
       "model": null
     },
     "first_seen": "2026-11-22T15:45:13.843616+00:00",
-    "is_new": true
+    "is_new": false
   },
   "TwVArohaGOs": {
     "video_id": "TwVArohaGOs",
@@ -23035,11 +23035,11 @@
       "model": null
     },
     "first_seen": "2026-11-22T15:47:10.209418+00:00",
-    "is_new": true
+    "is_new": false
   },
   "lwiLEsiwltI": {
     "video_id": "lwiLEsiwltI",
-    "title": "Neustart mit 0 Follower: So würde ich Instagram mit KI in 12 Monaten neu aufbauen",
+    "title": "0 Follower auf Instagram: Wie ich heute mit KI neu starten würde",
     "published": "2026-11-22T15:00:13+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/lwiLEsiwltI/hqdefault.jpg",
     "description": "🔑 KI-Content-Bootcamp (18. bis 24.11.): \n\n👉 https://www.blogdichhoch.de/Ki-Content-Bootcamp2-0/?utm_source=youtube&utm_campaign=ki-content-bootcamp&utm_content=neustart-0-follower\n\nWas passiert bei einem Instagram Account Verlust wirklich? Ich zeige dir, wie du ohne Panik auf eine Sperrung reagierst.\n\nNachdem ich über 11 Jahre lang eine Community mit 125.000 Followern aufgebaut habe, stand ich selbst vor der Herausforderung einer plötzlichen Sperre. In diesem Video analysiere ich, warum eine solche Instagram Sperre kein Weltuntergang sein muss und welche Schritte für den digitalen Neustart ent",
@@ -23055,6 +23055,26 @@
       "model": null
     },
     "first_seen": "2026-11-22T15:48:28.922797+00:00",
+    "is_new": false
+  },
+  "uB2g-f-_too": {
+    "video_id": "uB2g-f-_too",
+    "title": "I will delete your need for perfection in 60 seconds",
+    "published": "2026-11-22T21:02:41+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/uB2g-f-_too/hqdefault.jpg",
+    "description": "I will delete your need for perfection in 60 seconds",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "I will delete your need for perfection in 60 seconds",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-22T21:24:37.974489+00:00",
     "is_new": true
   }
 }
