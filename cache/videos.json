@@ -23095,7 +23095,7 @@
       "model": null
     },
     "first_seen": "2026-11-23T21:49:50.637647+00:00",
-    "is_new": true
+    "is_new": false
   },
   "og7V1jYWQB0": {
     "video_id": "og7V1jYWQB0",
@@ -23115,7 +23115,7 @@
       "model": null
     },
     "first_seen": "2026-11-23T21:51:59.614849+00:00",
-    "is_new": true
+    "is_new": false
   },
   "MgxGUSUMsLM": {
     "video_id": "MgxGUSUMsLM",
@@ -23135,6 +23135,66 @@
       "model": null
     },
     "first_seen": "2026-11-23T21:52:13.798727+00:00",
+    "is_new": false
+  },
+  "lSQpmfuFyVc": {
+    "video_id": "lSQpmfuFyVc",
+    "title": "Das Ende des Transistors: Diese Chips rechnen mit Wellen",
+    "published": "2026-11-24T16:15:19+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/lSQpmfuFyVc/hqdefault.jpg",
+    "description": "Magnonik: Chips, die mit magnetischen Wellen statt mit Strom rechnen, könnten das Energieproblem der KI lösen. Was hinter dem ersten Magnonen-Transistor aus Kaiserslautern steckt und warum KI ihre nächsten Computer bald selbst entwerfen könnte.\n\nSichere dir unsere kostenfreien PDF-Reports, zum Beispiel \"KI-DSGVO-Checkliste\" oder \"Übersicht über das KI-Wettrennen\": https://www.kiberatung.de/kostenlose-reports\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRK",
+    "channel_handle": "everlastai",
+    "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Magnonik: Chips, die mit magnetischen Wellen statt mit Strom rechnen, könnten das Energieproblem der KI lösen. Was hinter dem ersten Magnonen-Transistor aus Kaiserslautern steckt und warum KI ihre nächsten Computer bald selbst entwerfen kön…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-24T16:38:07.617622+00:00",
+    "is_new": true
+  },
+  "7iHdbWEpho8": {
+    "video_id": "7iHdbWEpho8",
+    "title": "Why I let my kids use AI for school.",
+    "published": "2026-11-24T15:07:26+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/7iHdbWEpho8/hqdefault.jpg",
+    "description": "Why I let my kids use AI for school",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Why I let my kids use AI for school.",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-24T16:40:26.824306+00:00",
+    "is_new": true
+  },
+  "QeWKXbyA5jk": {
+    "video_id": "QeWKXbyA5jk",
+    "title": "Was ich auf Instagram noch selbst mache und was die KI macht",
+    "published": "2026-11-24T15:00:01+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/QeWKXbyA5jk/hqdefault.jpg",
+    "description": "🔑 KI-Content-Bootcamp (18. bis 24.11.): \n\n👉 https://www.blogdichhoch.de/Ki-Content-Bootcamp2-0/?utm_source=youtube&utm_campaign=ki-content-bootcamp&utm_content=ki-arbeitswoche\n\n\nNur 15 Stunden pro Woche arbeiten und trotzdem erfolgreich auf Instagram sein?\n\nIch zeige dir meine echte Arbeitswoche als Selbstständiger und wie ich mit ChatGPT, KI-Assistenten und automatisierten Prozessen mein Instagram Business organisiere, ohne jeden Tag stundenlang Content produzieren zu müssen.\n\n\nDie meisten Selbstständigen verbringen unzählige Stunden damit, Instagram Reels zu drehen, Karussells zu erstellen, ",
+    "channel_handle": "sebiforce",
+    "channel_id": "UCvUp5D1X5NgjqIWdH1aHT2g",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "🔑 KI-Content-Bootcamp (18. bis 24.11.): \n\n👉 https://www.blogdichhoch.de/Ki-Content-Bootcamp2-0/?utm_source=youtube&utm_campaign=ki-content-bootcamp&utm_content=ki-arbeitswoche\n\n\nNur 15 Stunden pro Woche arbeiten und trotzdem erfolgreich auf…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-24T16:42:29.850565+00:00",
     "is_new": true
   }
 }
