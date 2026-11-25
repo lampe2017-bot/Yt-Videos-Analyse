@@ -23139,7 +23139,7 @@
   },
   "lSQpmfuFyVc": {
     "video_id": "lSQpmfuFyVc",
-    "title": "Das Ende des Transistors: Diese Chips rechnen mit Wellen",
+    "title": "KI entwirft jetzt ihre eigenen Chips und es ist das Ende der Elektronik",
     "published": "2026-11-24T16:15:19+00:00",
     "thumbnail": "https://i1.ytimg.com/vi/lSQpmfuFyVc/hqdefault.jpg",
     "description": "Magnonik: Chips, die mit magnetischen Wellen statt mit Strom rechnen, könnten das Energieproblem der KI lösen. Was hinter dem ersten Magnonen-Transistor aus Kaiserslautern steckt und warum KI ihre nächsten Computer bald selbst entwerfen könnte.\n\nSichere dir unsere kostenfreien PDF-Reports, zum Beispiel \"KI-DSGVO-Checkliste\" oder \"Übersicht über das KI-Wettrennen\": https://www.kiberatung.de/kostenlose-reports\n\nDu hast ein Unternehmen, willst den Anschluss nicht verpassen und dir durch KI-Integration einen Wettbewerbsvorteil sichern? Wir implementieren KI-Lösungen in deinem Unternehmen, die WIRK",
@@ -23155,7 +23155,7 @@
       "model": null
     },
     "first_seen": "2026-11-24T16:38:07.617622+00:00",
-    "is_new": true
+    "is_new": false
   },
   "7iHdbWEpho8": {
     "video_id": "7iHdbWEpho8",
@@ -23175,7 +23175,7 @@
       "model": null
     },
     "first_seen": "2026-11-24T16:40:26.824306+00:00",
-    "is_new": true
+    "is_new": false
   },
   "QeWKXbyA5jk": {
     "video_id": "QeWKXbyA5jk",
@@ -23195,6 +23195,26 @@
       "model": null
     },
     "first_seen": "2026-11-24T16:42:29.850565+00:00",
+    "is_new": false
+  },
+  "TErVrOmShuY": {
+    "video_id": "TErVrOmShuY",
+    "title": "Are you going to be a broke vs wealthy entrepreneur?",
+    "published": "2026-11-24T21:03:52+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/TErVrOmShuY/hqdefault.jpg",
+    "description": "Are you going to be a broke vs wealthy entrepreneur?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Are you going to be a broke vs wealthy entrepreneur?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-25T01:13:20.534150+00:00",
     "is_new": true
   }
 }
