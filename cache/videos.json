@@ -23255,7 +23255,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:33:35.746878+00:00",
-    "is_new": true
+    "is_new": false
   },
   "MHAMZqHK8H8": {
     "video_id": "MHAMZqHK8H8",
@@ -23275,7 +23275,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:33:50.006569+00:00",
-    "is_new": true
+    "is_new": false
   },
   "ZoklIEHm9K8": {
     "video_id": "ZoklIEHm9K8",
@@ -23295,7 +23295,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:34:04.283790+00:00",
-    "is_new": true
+    "is_new": false
   },
   "1ygiIN8pJEo": {
     "video_id": "1ygiIN8pJEo",
@@ -23315,7 +23315,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:37:31.942916+00:00",
-    "is_new": true
+    "is_new": false
   },
   "Zbi_CVM5_p8": {
     "video_id": "Zbi_CVM5_p8",
@@ -23335,7 +23335,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:37:46.110952+00:00",
-    "is_new": true
+    "is_new": false
   },
   "sO7S7G9Afgc": {
     "video_id": "sO7S7G9Afgc",
@@ -23355,6 +23355,6 @@
       "model": null
     },
     "first_seen": "2026-11-26T02:38:00.279610+00:00",
-    "is_new": true
+    "is_new": false
   }
 }
