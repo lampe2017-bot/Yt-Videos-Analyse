@@ -23362,7 +23362,7 @@
     "title": "KI-Agenten machen jetzt ALLES am Computer! Der Mensch ist der Flaschenhals (Browser Use Interview)",
     "published": "2026-11-26T16:15:24+00:00",
     "thumbnail": "https://i2.ytimg.com/vi/a-IkqL0b17w/hqdefault.jpg",
-    "description": "Magnus Müller, Gründer von Browser Use, einem der am schnellsten wachsenden Open-Source-Projekte der Welt, erklärt, wie KI-Agenten heute selbstständig Webseiten bedienen, interne APIs erschließen und so jede Arbeit am Computer übernehmen. Wir sprechen über GPT Astra, Browser Harness, Agenten mit eigener Kreditkarte und darüber, wie das Internet aussieht, wenn wir Menschen nicht mehr darin unterwegs sind.\n\nLerne, wie du ohne Programmierkenntnisse deine eigene App mit KI baust, in der Agentic Coding Masterclass: https://vibecoding.de\n\nDie wichtigsten Updates zu KI, Robotik und Zukunft jeden Tag ",
+    "description": "Magnus Müller, Gründer von Browser Use, einem der am schnellsten wachsenden Open-Source-Projekte der Welt, erklärt, wie KI-Agenten heute selbstständig Webseiten bedienen, interne APIs erschließen und so jede Arbeit am Computer übernehmen. Wir sprechen über GPT Astra, Browser Harness, Agenten mit eigener Kreditkarte und darüber, wie das Internet aussieht, wenn wir Menschen nicht mehr darin unterwegs sind.\n\nWir arbeiten gerade mit Browser Use an einem tiefgehenden Mega-Kurs zu diesen Themen mit dutzenden Use Cases, die wir täglich nutzen und u.A. hier besprochen haben. Hier geht's zur kostenfrei",
     "channel_handle": "everlastai",
     "channel_id": "UC8T5gQ4U4GbI2h8kYCkEcvg",
     "duration": "",
@@ -23375,7 +23375,7 @@
       "model": null
     },
     "first_seen": "2026-11-26T20:38:55.128162+00:00",
-    "is_new": true
+    "is_new": false
   },
   "YVORO5Jj_ss": {
     "video_id": "YVORO5Jj_ss",
@@ -23395,6 +23395,26 @@
       "model": null
     },
     "first_seen": "2026-11-26T20:41:25.776872+00:00",
+    "is_new": false
+  },
+  "BGL1ojQD8ig": {
+    "video_id": "BGL1ojQD8ig",
+    "title": "How many teenage millionaires is AI gonna create?",
+    "published": "2026-11-26T21:01:43+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/BGL1ojQD8ig/hqdefault.jpg",
+    "description": "How many teenage millionaires is AI gonna create?",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "How many teenage millionaires is AI gonna create?",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-27T03:23:17.226289+00:00",
     "is_new": true
   }
 }
