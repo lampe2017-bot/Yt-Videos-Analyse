@@ -23415,6 +23415,46 @@
       "model": null
     },
     "first_seen": "2026-11-27T03:23:17.226289+00:00",
+    "is_new": false
+  },
+  "Tx4VYPeUIFg": {
+    "video_id": "Tx4VYPeUIFg",
+    "title": "Dunning-Kruger vom Feinsten",
+    "published": "2026-11-27T09:19:04+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/Tx4VYPeUIFg/hqdefault.jpg",
+    "description": "",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": null,
+    "summary": {
+      "hook": "Kein Auto-Transkript verfügbar.",
+      "bullets": [
+        "—"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-27T12:58:08.308998+00:00",
+    "is_new": true
+  },
+  "PXruH17d9VE": {
+    "video_id": "PXruH17d9VE",
+    "title": "n8n bringt KOSTENLOSE Open-Source Version von Grok Bot, ChatGPT Dots & Claude Duet raus!",
+    "published": "2026-11-27T07:11:31+00:00",
+    "thumbnail": "https://i1.ytimg.com/vi/PXruH17d9VE/hqdefault.jpg",
+    "description": "Jetzt Nod installieren: https://www.hostinger.com/niklasnod\n(10% Rabatt auf das Hosting mit Code: NIKLAS!)\n(Black Friday Aktion!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n💡WEITERFÜHREND:\nhttps://www.youtube.com/watch?v=wu7gLVRriE8\nhttps://www.youtube.com/watch?v=wu7gLVRriE8\nhttps://youtu.be/uL5f1Gk0Ixk?si=eSfH9ob8aBu4eK8D\n\n⌚️Timestamps:\n0:00 Intro\n0:50 Was",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Jetzt Nod installieren: https://www.hostinger.com/niklasnod\n(10% Rabatt auf das Hosting mit Code: NIKLAS!)\n(Black Friday Aktion!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 …"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-27T12:58:22.374875+00:00",
     "is_new": true
   }
 }
