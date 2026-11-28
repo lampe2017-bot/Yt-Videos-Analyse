@@ -23435,7 +23435,7 @@
       "model": null
     },
     "first_seen": "2026-11-27T12:58:08.308998+00:00",
-    "is_new": true
+    "is_new": false
   },
   "PXruH17d9VE": {
     "video_id": "PXruH17d9VE",
@@ -23455,6 +23455,86 @@
       "model": null
     },
     "first_seen": "2026-11-27T12:58:22.374875+00:00",
+    "is_new": false
+  },
+  "6t-KRLg1mPM": {
+    "video_id": "6t-KRLg1mPM",
+    "title": "Parents need to hear this",
+    "published": "2026-11-27T21:03:31+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/6t-KRLg1mPM/hqdefault.jpg",
+    "description": "Parents need to hear this",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Parents need to hear this",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-28T03:39:35.260877+00:00",
+    "is_new": true
+  },
+  "5VGwCSZ_NEU": {
+    "video_id": "5VGwCSZ_NEU",
+    "title": "AI just made relationships easier",
+    "published": "2026-11-27T18:59:25+00:00",
+    "thumbnail": "https://i2.ytimg.com/vi/5VGwCSZ_NEU/hqdefault.jpg",
+    "description": "AI just made relationships easier. Follow @renee_warren and ask how she set it up!",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "AI just made relationships easier. Follow @renee_warren and ask how she set it up!"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-28T03:39:49.124184+00:00",
+    "is_new": true
+  },
+  "c1U_E1P5-XM": {
+    "video_id": "c1U_E1P5-XM",
+    "title": "AI is the next industrial revolution",
+    "published": "2026-11-27T15:06:04+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/c1U_E1P5-XM/hqdefault.jpg",
+    "description": "AI is the next industrial revolution",
+    "channel_handle": "danmartell",
+    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "AI is the next industrial revolution",
+      "bullets": [
+        "Auto-Transkript noch nicht verfügbar — wird beim nächsten Lauf erneut versucht."
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-28T03:40:03.201564+00:00",
+    "is_new": true
+  },
+  "vfjQS4HtSkE": {
+    "video_id": "vfjQS4HtSkE",
+    "title": "Ich habe mein eigenes GTA6 gebaut",
+    "published": "2026-11-27T17:39:23+00:00",
+    "thumbnail": "https://i3.ytimg.com/vi/vfjQS4HtSkE/hqdefault.jpg",
+    "description": "Hier kriegst du heute 75% Rabatt auf Higgsfield:\nhttps://higgsfield.ai/s/BDXgni (Black Friday!!!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssystem: https://fokus.so?el=youtube\n\n💌 Newsletter: https://go.niklassteenfatt.com/newsletter\n\n🐦 Socials: https://go.niklassteenfatt.com/links\n\n⌚️Timestamps:\n0:00 Intro\n1:51 KI-Stimmen\n4:03 Eigene Stimme\n5:30 Spiel auf Deutsch\n7:13 Mission\n8:05 Videos vertonen\n8:46 Mission fortsetzen\n10:00 Neue Inhalte\n12:08 Fazit\n\nJetzt deine Lebensbalance testen: http://rebal",
+    "channel_handle": "niklassteenfatt",
+    "channel_id": "UCzsfkUFa1_4F4cZeSLv5dFQ",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "Hier kriegst du heute 75% Rabatt auf Higgsfield:\nhttps://higgsfield.ai/s/BDXgni (Black Friday!!!)\n\n🌟 Teste deine Lebensbalance: https://quiz.niklassteenfatt.com/wheeloflife?el=youtube (komplett kostenlos)\n\n💠 Mein komplettes Produktivitätssy…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-28T03:44:07.595076+00:00",
     "is_new": true
   }
 }
