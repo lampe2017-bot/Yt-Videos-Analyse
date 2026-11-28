@@ -23475,7 +23475,7 @@
       "model": null
     },
     "first_seen": "2026-11-28T03:39:35.260877+00:00",
-    "is_new": true
+    "is_new": false
   },
   "5VGwCSZ_NEU": {
     "video_id": "5VGwCSZ_NEU",
@@ -23495,7 +23495,7 @@
       "model": null
     },
     "first_seen": "2026-11-28T03:39:49.124184+00:00",
-    "is_new": true
+    "is_new": false
   },
   "c1U_E1P5-XM": {
     "video_id": "c1U_E1P5-XM",
@@ -23515,7 +23515,7 @@
       "model": null
     },
     "first_seen": "2026-11-28T03:40:03.201564+00:00",
-    "is_new": true
+    "is_new": false
   },
   "vfjQS4HtSkE": {
     "video_id": "vfjQS4HtSkE",
@@ -23535,6 +23535,26 @@
       "model": null
     },
     "first_seen": "2026-11-28T03:44:07.595076+00:00",
+    "is_new": false
+  },
+  "cWwVGiDNiQk": {
+    "video_id": "cWwVGiDNiQk",
+    "title": "5 Dinge, die KI in Unternehmen radikal verändern wird",
+    "published": "2026-11-28T09:15:36+00:00",
+    "thumbnail": "https://i4.ytimg.com/vi/cWwVGiDNiQk/hqdefault.jpg",
+    "description": "In diesem Video zeige ich dir fünf Dinge, die KI in jedem Unternehmen in 2027 grundlegend verändern wird.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding\n\nBaue deine KI-Agentur auf: https://aiagentur.de/?utm_source=aiagentur.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_content=LeonardSchmedding \n\n----------------------------------------------\n\n⚙️ Meine Tool-Empfehlungen\n\nMit diesem Tool mache ich meine Transkriptionen, sodass ich nicht mehr tippen muss: https://voicely.de \n\nDie bes",
+    "channel_handle": "LeonardSchmedding",
+    "channel_id": "UCiKCgeGNFCoLF086q-Bl-HA",
+    "duration": "",
+    "transcript_lang": "rss-desc",
+    "summary": {
+      "hook": "Zusammenfassung folgt — LLM-Backend nicht erreichbar.",
+      "bullets": [
+        "In diesem Video zeige ich dir fünf Dinge, die KI in jedem Unternehmen in 2027 grundlegend verändern wird.\n\nKostenfreies Erstgespräch: https://www.kiberatung.de/?utm_source=kiberatung.de&utm_medium=YouTube&utm_campaign=Beschreibung&utm_conte…"
+      ],
+      "model": null
+    },
+    "first_seen": "2026-11-28T12:32:27.639257+00:00",
     "is_new": true
   }
 }
